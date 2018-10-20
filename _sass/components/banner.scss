@@ -17,6 +17,11 @@
 		font-weight: 900;
 		font-size: 1.4em;
     font-style: normal;
+    small {
+      display: inline;
+      font-size: 0.65em;
+      color: darken($brand, 65%);
+    }
 	}
 	h4 {
 		margin: 0;
