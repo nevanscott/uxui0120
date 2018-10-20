@@ -13,9 +13,6 @@ article {
 	font-size: 1.2em;
   max-width: 45em;
 	padding: 0.5em*$lh 0.5em*$lh 1em*$lh;
-	$path: polygon(0 0, 100% 0, 100% 99.5%, 72% 99%, 0 99.8%);
-  -webkit-clip-path: $path;
-  clip-path: $path;
   header {
   	h1, h2, h3, h4 {
   		margin: 0;
@@ -42,19 +39,13 @@ article {
 		display: block;
 	}
 	.page {
-		box-shadow: 0 0 5px rgba(0,0,0,0.25);
-		margin: -2em 2em;
-		padding: 0.25em*$lh 1em*$lh 2em*$lh;
+		margin: 0 2em;
+		padding: 0 1em*$lh 2em*$lh;
 		position: relative;
-		z-index: 10;
 	}
   article {
-		box-shadow: 0 0 5px rgba(0,0,0,0.25);
-		margin: -2em 0 -2em 2em;
+		margin: 0 0 0 2em;
 		padding: 1.5em*$lh 2em*$lh;
 		position: relative;
-		z-index: 10;
-		-webkit-clip-path: none;
-		clip-path: none;
   }
 }

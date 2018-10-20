@@ -1,5 +1,6 @@
 #nav {
-	padding: 0 0.75em*$lh 1em*$lh;
+	background: darken($neutral, 3%);
+	padding: 0.25em*$lh 0.75em*$lh 1em*$lh;
   li {
 		margin: .2em*$lh 0;
   }

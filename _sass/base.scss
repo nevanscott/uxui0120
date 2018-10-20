@@ -9,8 +9,6 @@ body {
 	font-size: 87.5%;
 	line-height: $lh;
 	padding: 0;
-	background: darken($neutral, 3%);
-	color: #333;
 }
 
 a {
@@ -31,8 +29,7 @@ h1, h2, h3, h4, dt, #nav {
 
 h1 {
 	font-family: $serif;
-	font-style: italic;
-	font-weight: 900;
+	font-weight: 700;
 	font-size: 1.75em;
 	line-height: 1.3;
 }
