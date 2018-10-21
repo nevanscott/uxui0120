@@ -27,6 +27,14 @@ h1, h2, h3, h4, dt, #nav {
 	font-family: $sans;
 }
 
+h1, h2, h3, h4 {
+	small {
+		display: block;
+		font-weight: 600;
+		color: darken($brand, 65%);
+	}
+}
+
 h1 {
 	font-family: $serif;
 	font-weight: 700;

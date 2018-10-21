@@ -14,6 +14,10 @@ start_date: October 22, 2018
 days: 45
 notes_nav:
   -
+    section: About the Course
+    notes:
+      - syllabus
+  -
     section: Resources
     notes:
       - reading
