@@ -29,5 +29,5 @@ Responsive Design and Media Queries
 
 Ironhack Learning Platform
 ----------
-- [From Sketch to Code](http://learn.ironhack.com/#/learning_unit/5137)
-- [Positioning and Layouts Kata](http://learn.ironhack.com/#/learning_unit/5140)
+- [From Sketch to Code](http://learn.ironhack.com/#/learning_unit/3471)
+- [Positioning and Layouts Kata](http://learn.ironhack.com/#/learning_unit/3474)
