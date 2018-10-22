@@ -29,4 +29,4 @@ Further Reading
 Ironhack Learning Platform
 --------------------------
 
-- [User stories](http://learn.ironhack.com/#/learning_unit/5020)
+- [User stories](http://learn.ironhack.com/#/learning_unit/1328)
