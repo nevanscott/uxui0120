@@ -19,7 +19,7 @@ Learning Objectives
 Ironhack Learning Platform
 --------------------------
 
-- [Animation](http://learn.ironhack.com/#/learning_unit/5105)
-- [Intro to microinteractions](http://learn.ironhack.com/#/learning_unit/5103)
-- [Intro to Flinto](http://learn.ironhack.com/#/learning_unit/5106)
-- [Flinto Advanced Kata](http://learn.ironhack.com/#/learning_unit/5109)
+- [Animation](http://learn.ironhack.com/#/learning_unit/3441)
+- [Intro to microinteractions](http://learn.ironhack.com/#/learning_unit/3439)
+- [Intro to Flinto](http://learn.ironhack.com/#/learning_unit/3442)
+- [Flinto Advanced Kata](http://learn.ironhack.com/#/learning_unit/3445)
