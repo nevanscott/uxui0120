@@ -32,8 +32,6 @@ Tools
 Ironhack Learning Platform
 --------------------------
 
-- [Usability as a design framework](http://learn.ironhack.com/#/learning_unit/5040)
-- [Concept testing](http://learn.ironhack.com/#/learning_unit/5041)
-- [Ideation](http://learn.ironhack.com/#/learning_unit/5016)
-- [Design Studio](http://learn.ironhack.com/#/learning_unit/5017)
-- [Mindmapping / Brainstorming](http://learn.ironhack.com/#/learning_unit/5008)
+- [Concept testing](http://learn.ironhack.com/#/learning_unit/3377)
+- [Ideation exercises](http://learn.ironhack.com/#/learning_unit/1327)
+- [Mindmapping / Brainstorming](http://learn.ironhack.com/#/learning_unit/3347)

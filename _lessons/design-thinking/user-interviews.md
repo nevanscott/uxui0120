@@ -29,7 +29,7 @@ Further Reading
 Ironhack Learning Platform
 ---------------------------
 
-- [User interviews](http://learn.ironhack.com/#/learning_unit/4995)
-- [Creating an interview guide](http://learn.ironhack.com/#/learning_unit/4996)
-- [Affinity diagram](http://learn.ironhack.com/#/learning_unit/5002)
-- [Feature prioritization](http://learn.ironhack.com/#/learning_unit/5019)
+- [User interviews](http://learn.ironhack.com/#/learning_unit/3333)
+- [Creating an interview guide](http://learn.ironhack.com/#/learning_unit/3334)
+- [Affinity diagram](http://learn.ironhack.com/#/learning_unit/3341)
+- [Feature prioritization](http://learn.ironhack.com/#/learning_unit/2706)

@@ -22,5 +22,5 @@ Resources
 Ironhack Learning Platform
 --------------------------
 
-- [Introduction to User Research](http://learn.ironhack.com/#/learning_unit/4992)
-- [Double diamond & Problem Statement](http://learn.ironhack.com/#/learning_unit/5014)
+- [Introduction to User Research](http://learn.ironhack.com/#/learning_unit/3330)
+- [Double diamond & Problem Statement](http://learn.ironhack.com/#/learning_unit/3326)

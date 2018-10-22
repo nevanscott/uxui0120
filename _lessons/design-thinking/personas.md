@@ -17,10 +17,10 @@ Learning Objectives
 Ironhack Learning Platform
 -------------------
 
-- [User persona](http://learn.ironhack.com/#/learning_unit/5005)
-- [Empathy map](http://learn.ironhack.com/#/learning_unit/5004)
-- [Storyboard](http://learn.ironhack.com/#/learning_unit/5010)
-- [User journey](http://learn.ironhack.com/#/learning_unit/5011)
+- [User persona](http://learn.ironhack.com/#/learning_unit/3344)
+- [Empathy map](http://learn.ironhack.com/#/learning_unit/3343)
+- [Storyboard](http://learn.ironhack.com/#/learning_unit/3349)
+- [User journey](http://learn.ironhack.com/#/learning_unit/3350)
 
 
 Further Reading

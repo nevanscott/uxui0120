@@ -42,11 +42,11 @@ Tools
 Ironhack Learning Platform
 ---------------------------
 
-- [Color](http://learn.ironhack.com/#/learning_unit/5068)
-- [User interface design principles](http://learn.ironhack.com/#/learning_unit/5033)
-- [User interface fundamentals](http://learn.ironhack.com/#/learning_unit/5060)
-- [Design systems](http://learn.ironhack.com/#/learning_unit/5079)
-- [Landing pages](http://learn.ironhack.com/#/learning_unit/5098)
-- [Forms & icons](http://learn.ironhack.com/#/learning_unit/5072)
-- [Designing multistate screens](http://learn.ironhack.com/#/learning_unit/5075)
-- [Lighting, shadows and consistency](http://learn.ironhack.com/#/learning_unit/5076)
+- [Color](http://learn.ironhack.com/#/learning_unit/3403)
+- [User interface design principles](http://learn.ironhack.com/#/learning_unit/3367)
+- [User interface fundamentals](http://learn.ironhack.com/#/learning_unit/3396)
+- [Design systems](http://learn.ironhack.com/#/learning_unit/3415)
+- [Landing pages](http://learn.ironhack.com/#/learning_unit/3434)
+- [Forms & icons](http://learn.ironhack.com/#/learning_unit/3407)
+- [Designing multistate screens](http://learn.ironhack.com/#/learning_unit/3410)
+- [Lighting, shadows and consistency](http://learn.ironhack.com/#/learning_unit/3412)

@@ -31,7 +31,7 @@ The HIG is... detailed. You're not going to read through it all in one go. Here'
 
 Ironhack Learning Platform
 ---------------------------
-- [iOs vs Material design](http://learn.ironhack.com/#/learning_unit/5085)
-- [iOs Human interface guidelines](http://learn.ironhack.com/#/learning_unit/5091)
-- [iOs Human interface guidelines advanced](http://learn.ironhack.com/#/learning_unit/5092)
-- [iOs icons and images](http://learn.ironhack.com/#/learning_unit/5093)
+- [iOs vs Material design](http://learn.ironhack.com/#/learning_unit/3422)
+- [iOs Human interface guidelines](http://learn.ironhack.com/#/learning_unit/3428)
+- [iOs Human interface guidelines advanced](http://learn.ironhack.com/#/learning_unit/2950)
+- [iOs icons and images](http://learn.ironhack.com/#/learning_unit/2949)

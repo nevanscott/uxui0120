@@ -45,9 +45,8 @@ Tools
 Ironhack Learning Platform
 ---------------------------
 
-- [Intro to interaction design](http://learn.ironhack.com/#/learning_unit/5031)
-- [UI design elements](http://learn.ironhack.com/#/learning_unit/5034)
-- [Analyzing aesthetics](http://learn.ironhack.com/#/learning_unit/5063)
-- [Moodboard](http://learn.ironhack.com/#/learning_unit/5064)
-- [Typography](http://learn.ironhack.com/#/learning_unit/5069)
-- [Sketch recap](http://learn.ironhack.com/#/learning_unit/5061)
+- [UI design elements](http://learn.ironhack.com/#/learning_unit/3368)
+- [Analyzing aesthetics](http://learn.ironhack.com/#/learning_unit/3393)
+- [Moodboard](http://learn.ironhack.com/#/learning_unit/3394)
+- [Typography](http://learn.ironhack.com/#/learning_unit/3404)
+- [Sketch recap](http://learn.ironhack.com/#/learning_unit/3397)
