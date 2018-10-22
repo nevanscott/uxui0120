@@ -6,10 +6,10 @@ day: 19
 Ironhack Learning Platform
 ----------
 
-- [Intro to information architecture](http://learn.ironhack.com/#/learning_unit/5023)
-- [Site map](http://learn.ironhack.com/#/learning_unit/5024)
-- [Card sorting](http://learn.ironhack.com/#/learning_unit/5026)
-- [Atomic design](http://learn.ironhack.com/#/learning_unit/5080)
+- [Intro to information architecture](http://learn.ironhack.com/#/learning_unit/3353)
+- [Site map](http://learn.ironhack.com/#/learning_unit/2698)
+- [Card sorting](http://learn.ironhack.com/#/learning_unit/1949)
+- [Atomic design](http://learn.ironhack.com/#/learning_unit/3416)
 
 Below you will find the links that were discussed in today's class:
 ----------
