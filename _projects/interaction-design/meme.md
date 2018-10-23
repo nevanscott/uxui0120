@@ -47,3 +47,11 @@ If you have time, string together some of your screens into a working prototype.
 ## *Extra* Extra Mile
 
 Show how this feature might integrate with Google Image Search on the desktop website.
+
+
+Give feedback to your peers!
+---------------------------
+
+- [Presentation feedback](https://drive.google.com/drive/u/1/folders/1CLL3vkdg1VIctGdZjrA5xWFkrYlFMhbF)
+- [Group retrospective](https://drive.google.com/drive/u/1/folders/1a0Si3XhUEghzi0hVdO7j-qsm2w0ajZpQ)
+
