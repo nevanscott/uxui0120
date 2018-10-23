@@ -1,29 +1,14 @@
 ---
-title: Sketch Practice
-assigned: 9
-due: 10
+title: Sketch Practice - Mobile Design
+assigned: 5
+due: 6
 ---
 
 Now that you've reviewed some Sketch basics and gotten practice with tracing, we are going to stretch your skills even further. We'll have some time in class during the afternoon to get a jumpstart on this.
 
  **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/1/folders/1OJWSXlXKHCHchXesu9GJhFflCIS-RvV0) in the "Completed Work" folder.
 
-
-
-1st Deliverable: Desktop App Copy
-------------------------------------------
-
-You will be copying the Slack desktop app for the first exercise. This is to give you some practice with how elements are laid out on a larger screen size.
-
-1. Download the Slack screenshot image from [the Google Drive](https://drive.google.com/drive/u/1/folders/1OJWSXlXKHCHchXesu9GJhFflCIS-RvV0) in the "Images to Copy" folder.
-2. Choose an Artboard (shortcut A) in Sketch that is similar in size and adjust as necessary.
-3. Copy the screen side by side (no tracing this time!).
-4. Use alignment guides to ensure proper spacing.
-5. Keep an eye on the details! Watch out for icon size and weight, typography and font weight, rounded corners, etc.
-6. Upload your Sketch file [to the Google Drive](https://drive.google.com/drive/u/1/folders/1OJWSXlXKHCHchXesu9GJhFflCIS-RvV0) in the "Completed Work" folder.
-
-
-2nd Deliverable: Mobile App Copy
+Deliverable: Mobile App Copy
 -----------------------------------------
 
 For this exercise, you will be getting some practice with nested symbols! Yesterday's homework gave you a brief view into the world of symbols, and nested symbols is the term used for when there is a symbol(s) "nested" within another symbol.
