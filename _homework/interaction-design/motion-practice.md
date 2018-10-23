@@ -1,7 +1,7 @@
 ---
 title: Motion Practice
-assigned: 10
-due: 11
+assigned: 11
+due: 12
 ---
 
 
