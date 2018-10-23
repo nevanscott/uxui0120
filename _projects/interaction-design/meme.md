@@ -1,7 +1,7 @@
 ---
 title: Google Meme
-assigned: 13
-due: 14
+assigned: 14
+due: 15
 ---
 
 Google is leveraging its powerful image search to enter the market for meme generation. Demonstrate how a standalone product might work following Material Design.
