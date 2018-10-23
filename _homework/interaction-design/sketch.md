@@ -1,7 +1,7 @@
 ---
 title: Sketch Basics
-assigned: 8
-due: 9
+assigned: 5
+due: 6
 ---
 
 If you haven't already

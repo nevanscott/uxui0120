@@ -1,12 +1,12 @@
 ---
-title: Responsive Redesign
+title: Responsive E-Commerce Redesign
 assigned: 19
-due: 22
+due: 24
 ---
 
 Over the next few days, you’ll be redesigning a website for a local business. Keep in mind that this is a speculative redesign for practice, so you won’t have access to the client or stakeholders.
 
-Keep in mind that the website you’re redesigning already has content. You’ll want to inventory and audit that content to determine:
+The website you’re redesigning already has content. You’ll want to inventory and audit that content to determine:
 
 - how the content should be organized
 - what content to keep, cut, or edit

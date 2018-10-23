@@ -1,6 +1,6 @@
 ---
 title: Information Architecture & Content Strategy
-day: 19
+day: 20
 ---
 
 Ironhack Learning Platform

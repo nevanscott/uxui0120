@@ -1,7 +1,7 @@
 ---
 title: Travel
-assigned: 11
-due: 12
+assigned: 12
+due: 13
 ---
 
 Apple has decided to launch an app called Travel. Following their Human Interface Guidelines, develop the concept and UI of a few key screens to get buy-in for further work.
