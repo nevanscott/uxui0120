@@ -71,3 +71,9 @@ Prototype
 For this prototype, you'll stick to sketches on paper, but also take photos of your sketches to create a digital prototype using your choice of Invision or Marvel.
 
 **Note:** We'll mostly be using Invision in this class, so this might be a good opportunity to try out Marvel if you're feeling comfy with the basics of Invision already. Whatever you decide, make sure to talk it over as a team.
+
+
+Give feedback to your peers!
+---------------------------
+- [Presentation feedback](https://drive.google.com/drive/u/1/folders/1LajSwnjyMJTzbderjN7IlIqFBiIbBpNO)
+- [Group retrospective](https://drive.google.com/drive/u/1/folders/1a0Si3XhUEghzi0hVdO7j-qsm2w0ajZpQ)
