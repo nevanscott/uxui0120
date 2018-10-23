@@ -86,3 +86,9 @@ For this project, you'll be delivering a presentation as well as submitting a wr
 The report will also serve as the focal point for a 1-on-1 feedback session with one of the TAs.
 
 We'll have time dedicated after the presentations of this project to write up the report. For more information, check out the lesson on [Design Reports]({{ site.baseurl }}{% link _lessons/design-thinking/design-reports.md %}).
+
+
+Give feedback to your peers!
+---------------------------
+
+ - [Presentation feedback](https://drive.google.com/drive/u/1/folders/1PqwzE3nzE0f6TDLHmQ3hUzG0snyZA6tS)
