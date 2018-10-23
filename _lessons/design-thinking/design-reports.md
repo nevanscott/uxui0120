@@ -55,7 +55,7 @@ Suggested structure
 : What would you do differently next time?
 
 6. Appendix
-In order to not overload the report, some elements might be added in the appendix such as
+In order to not overload the report, some elements might be added in the appendix such as:
 : Survey questions
 : Survey answers
 : Interview guide
