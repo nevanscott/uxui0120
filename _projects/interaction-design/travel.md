@@ -42,3 +42,10 @@ Your presentation should answer the following questions:
 ## Extra Mile
 
 If you have time, string together some of your screens into a working prototype. Make it even more realistic by adding some animations!
+
+
+Give feedback to your peers!
+---------------------------
+
+- [Presentation feedback](https://drive.google.com/drive/u/1/folders/1NJX2VAEs_bdsveH-H5bYnjUUBOoFKxYA)
+- [Group retrospective](https://drive.google.com/drive/u/1/folders/1a0Si3XhUEghzi0hVdO7j-qsm2w0ajZpQ)

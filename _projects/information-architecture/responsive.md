@@ -68,4 +68,13 @@ Your presentation should answer the following questions:
 
 Add some animation to your redesign.
 
+
+Give feedback to your peers!
+---------------------------
+
+- [Presentation feedback](https://drive.google.com/drive/u/1/folders/1eV6AdMUa7A8rlgG9JlVPN6rmicG-OriX)
+- [Group retrospective](https://drive.google.com/drive/u/1/folders/1a0Si3XhUEghzi0hVdO7j-qsm2w0ajZpQ)
+
+
 <img src="/assets/images/dwight.jpg" alt="Dwight: Good luck, you've got this.">
+

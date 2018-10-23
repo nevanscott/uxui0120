@@ -81,8 +81,14 @@ For this project, use Sketch and Invision to make a low-fidelity version of your
 Report
 ------
 
-For this project, you'll be delivering a presentation as well as submitting a written report. The report is an opportunity for you to document your process, findings, takeaways, and iterations. It's good practice to document as much as you can while you work, so we're starting that practice early. This will make your life much easier later when you start compiling a portfolio of your work.
+For this project, you'll be delivering a presentation as well as submitting a written report on [Medium](https://medium.com/). The report is an opportunity for you to document your process, findings, takeaways, and iterations. It's good practice to document as much as you can while you work, so we're starting that practice early. This will make your life much easier later when you start compiling a portfolio of your work.
 
 The report will also serve as the focal point for a 1-on-1 feedback session with one of the TAs.
 
 We'll have time dedicated after the presentations of this project to write up the report. For more information, check out the lesson on [Design Reports]({{ site.baseurl }}{% link _lessons/design-thinking/design-reports.md %}).
+
+
+Give feedback to your peers!
+---------------------------
+
+ - [Presentation feedback](https://drive.google.com/drive/u/1/folders/1PqwzE3nzE0f6TDLHmQ3hUzG0snyZA6tS)
