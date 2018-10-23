@@ -1,6 +1,6 @@
 ---
 title: Visual Design
-day: 8
+day: 9
 ---
 
 <img class="illo aside" src="/assets/images/crap.png" alt="Illustration of CRAP design principles: contrast, repetition, alignment, and proximity" />
