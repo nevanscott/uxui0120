@@ -1,6 +1,6 @@
 ---
 title: Motion in user interfaces
-day: 10
+day: 11
 ---
 
 Learning Objectives
