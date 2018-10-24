@@ -1,5 +1,5 @@
 ---
-title: Contextual Inquiry, Observational Research, User journeys, Lean Canvas & 5 whys
+title: Research topics
 day: 25
 ---
 
