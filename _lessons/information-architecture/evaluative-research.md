@@ -1,11 +1,10 @@
 ---
-title: Forms, Heuristics & Competitive Analysis
+title: Evaluative Research
 day: 23
 ---
 
-In this lesson, we will explore 3 different topics that are extra resources to complete your research process. 
+In this lesson, we will explore 2 different topics that are extra resources to complete your research process. 
 
-- Forms
 - Heuristics
 - Competitive Analysis
 
