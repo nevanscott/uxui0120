@@ -1,6 +1,6 @@
 ---
 title: Responsive Design
-day: 20
+day: 21
 ---
 
 In this lesson, we will explore 3 different topics that are focused on your UI development
