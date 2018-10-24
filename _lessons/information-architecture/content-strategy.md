@@ -1,5 +1,5 @@
 ---
-title: Information Architecture & Content Strategy
+title: Content Strategy
 day: 20
 ---
 
