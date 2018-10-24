@@ -21,6 +21,7 @@ Learning Objectives
 - Understand how to conduct a Competitive Analysis
 - Learn why it is important to know your competitors
 
+
 Ironhack Learning Platform
 -----------
 
