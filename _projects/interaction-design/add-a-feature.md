@@ -75,7 +75,7 @@ Your will have 6 minutes to summarize your work. We should get a strong sense of
 Report <small>due {{ page.assigned | plus:3 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 6pm</small>
 ------
 
-Your report will gather all of your work from this project into a single PDF. You should also include a self-assessment based on how you think this project went.
+Your report will gather all of your work from this project into a [Medium](https://medium.com/) article. You should also include a self-assessment based on how you think this project went.
 
 
 Design Thinking
@@ -95,3 +95,9 @@ Tips
 - Document your work and add it to your individual folder on the Google Drive
 - Build out your presentation deck and your report as you go
 - Work fast; have fun
+
+
+Give feedback to your peers!
+---------------------------
+
+- [Presentation feedback](https://drive.google.com/drive/u/1/folders/1qONcPV_qCpinLKH5ocPQ2bUPcMGSB77E)

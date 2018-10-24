@@ -40,7 +40,7 @@ Because you are launching this product, you need to ensure that this is a servic
 - Roadmap for next 3-6 months (additional features beyond the MVP that will be rolled out in the future)
 - Landing page that explains what your product is (optional)
 - Presentation of research and final proposal
-- Report
+- Report as [Medium](https://medium.com/) article
 
 
 ## Research
