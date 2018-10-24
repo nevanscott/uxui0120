@@ -28,6 +28,7 @@ Suggested structure
 -------------------
 
 #### 1. Agenda of your report 
+The result of the agenda should be an outline of all the parts you are going to develop in your report. It is very useful for the reader to be able to quickly refer to the part(s) that interests him/her the most.
 
 #### 2. Overview
   - Introduce the scope of the project (How many days? Instructions? group/individual?) 
