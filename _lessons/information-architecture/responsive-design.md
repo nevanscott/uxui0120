@@ -1,11 +1,11 @@
 ---
-title: Responsive Layouts, Style Tiles & UI inspiration
+title: Responsive Design
 day: 20
 ---
 
 In this lesson, we will explore 3 different topics that are focused on your UI development
 
-- Layouts
+- Responsive Layouts
 - Style Tiles
 - UI Inspiration
 
