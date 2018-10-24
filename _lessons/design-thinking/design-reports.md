@@ -27,15 +27,15 @@ Keep in mind
 Suggested structure
 -------------------
 
-### 1. Agenda of your report 
+#### 1. Agenda of your report 
 
-### 2. Overview
+#### 2. Overview
   - Introduce the scope of the project (How many days? Instructions? group/individual?) 
   - Explain the origin of the project (Why this topic? What were the instructions? Constraints?)
   - Give a company overview (in case the project is about a specific company)
   - Sum up your process and explain the main idea behind the project
 
-### 3. Part 1: UX
+#### 3. Part 1: UX
   - Introduce your initial steps / assumptions
   - Explain how you organised your research (Tools?) 
   - For each step, explain the goal and the process you went through and mainly the why you went through this step
@@ -43,18 +43,18 @@ Suggested structure
   - Affinity diagram, problem statement, user persona, features, sum it up in the project scope
   - Show some iterations based on low-fi, mid-fi and high-fi (explain the changes made through testing)
 
-### 4. Part 2: UI
+#### 4. Part 2: UI
   - Show your Style Tile and explain your choices (why these colors and typography, what feeling did you wanted to convey...)
   - Explain any extra testing done on your high-fi and changes
   - Add the link to your Invision prototype (and Principle?)
 
-### 5. Part 3: Learnings & Next Steps
+#### 5. Part 3: Learnings & Next Steps
   - Explain next steps: what features you would add / change
   - Learnings: what did you learn? what were you biggest challenges?
   - Try to focus on a personal point of view
   - What would you do differently next time?
 
-### 6. Appendix
+#### 6. Appendix
 In order to not overload the report, some elements might be added in the appendix such as:
   - Survey questions
   - Survey answers
