@@ -1,7 +1,12 @@
 ---
-title: Task Analysis, Use Cases, and Scenarios
+title: IA Methods
 day: 26
 ---
+
+In this class, we will go through three main topics:
+- Task Analysis
+- Uses Cases
+- Scenarios
 
 Learning Objectives
 -------------------
