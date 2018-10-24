@@ -13,6 +13,7 @@ In this lesson, we will explore 3 different topics that are extra resources to c
 Ironhack Learning Platform
 -----------
 
+- [Forms and Icons](http://learn.ironhack.com/#/learning_unit/3407)
 - [Business and Competitive Analysis](http://learn.ironhack.com/#/learning_unit/3327)
 
 
