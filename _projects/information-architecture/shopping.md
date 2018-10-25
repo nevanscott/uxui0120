@@ -1,7 +1,5 @@
 ---
 title: E-commerce
-assigned: 22
-due: 25
 ---
 
 
