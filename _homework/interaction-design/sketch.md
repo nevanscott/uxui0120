@@ -18,30 +18,29 @@ Video tutorials to watch
 - [Top 10 Key Commands in Sketch](https://www.youtube.com/watch?v=w_-oB3CoyBk)
 - [5 Essential Sketch App Tricks](https://www.youtube.com/watch?v=ZCypZWzCr84)
 
-
-Exercise to hand in
+Deliverable
 -------------------
 
 In order to continue leveling up your Sketch skills, we are going to kick off with a simple tracing exercise.
 
 1. Watch the above video tutorials.
-2. Download the images located [in the Google Drive](https://drive.google.com/drive/u/1/folders/1zqIDUMYJ9Om5BRzHFvFFZ_BPeCiEFpOV) in the "Images to Trace" folder.
-3. Create a new artboard the size of the image.
+2. Download the image screens and icons located [in the Google Drive](https://drive.google.com/drive/u/1/folders/1uQk7s7nKjoelAu2p1GpD5c2WfPJzYZpl).
+3. In Sketch, create a new artboard the size of the image.
 4. Decrease the opacity of the image
 5. Lock the image layer (hold down the <kbd>Option</kbd> key and hover over the layer and a padlock icon will appear instead of the hide icon)
 6. Use the background image as your guide to recreate the screen.
-7. Find a font that is as similar as possible and adjust the size and spacing as needed. (You likely won't find the exact font, so don't worry!)
-8. Keep an eye on the details! Watch out for gradients, drop shadows, icon size and weight, etc.
+7. Font = SF Pro Display. You can download it [HERE](https://developer.apple.com/fonts/)
+8. Keep an eye on the details! Watch out for shadows, icon size, borders, etc.
 9. Have fun!
-10. **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/1/folders/1zqIDUMYJ9Om5BRzHFvFFZ_BPeCiEFpOV) in the "Completed Work" folder.
+10. **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/1/folders/1uQk7s7nKjoelAu2p1GpD5c2WfPJzYZpl) in the "Completed Work" folder.
 
 
 Suggested Resources
 -------------------
 
-In order to be ready before we start using Sketch more frequently, we strongly encourage you to start getting familiar with the [Sketch docs](https://www.sketchapp.com/docs/).
+In order to be ready before we start using Sketch more frequently, we **STRONGLY** encourage you to start getting familiar with the [Sketch docs](https://www.sketchapp.com/docs/).
 
-Start with these:
+**Start with these:**
 
 - [Pages & Artboards](https://www.sketchapp.com/docs/the-interface/layer-list/)
 - [Grids & Layout](https://www.sketchapp.com/docs/canvas/rulers-guides-grids/)
