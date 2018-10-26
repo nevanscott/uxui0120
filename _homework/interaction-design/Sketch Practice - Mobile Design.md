@@ -1,28 +1,45 @@
 ---
 title: Sketch Practice - Mobile Design
 assigned: 5
-due: 6
+due: 7
 ---
 
-Now that you've reviewed some Sketch basics and gotten practice with tracing, we are going to stretch your skills even further. We'll have some time in class during the afternoon to get a jumpstart on this.
+**Disclaimer: Please do this homework after completing the [Sketch Basics](https://uxui1018.nevan.org/homework/sketch/) homework assignment first.**
 
- **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/1/folders/1OJWSXlXKHCHchXesu9GJhFflCIS-RvV0) in the "Completed Work" folder.
+Now that you've reviewed some Sketch basics and gotten practice with tracing, we are going to stretch your skills even further. 
+
+ **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/1/folders/1WMbUW-54Q5pTAPmw5Ip-iPI1AULVYRx6) in the "Completed Work" folder.
+
 
 Deliverable: Mobile App Copy
 -----------------------------------------
 
-For this exercise, you will be getting some practice with nested symbols! Yesterday's homework gave you a brief view into the world of symbols, and nested symbols is the term used for when there is a symbol(s) "nested" within another symbol.
+For this exercise, you will be getting some practice with nested symbols! The Sketch Basics homework gave you a brief view into the world of symbols, and nested symbols is the term used when a symbol(s) is "nested" within another symbol.
 
-Like text styles, symbols are a total game changer if used correctly, because they are resuable components. Once you start incorporating symbols into your Sketch screens, you will see how much more effient your workflow is and how much easier it is to make sweeping edits across your document.
+Like text styles, symbols are a total game changer if used correctly, because they are resuable components. Once you start incorporating symbols into your Sketch screens, you will see how much more effient your workflow is and how much easier it is to make sweeping edits across your document. 
 
+It is **HIGHLY** recommended that you use symbols for this exercise, so that you don't spend infinite amount of time on it. 
+
+**Warm-Up Instructions**
 1. Watch this 27 min. [Video Tutorial](https://www.youtube.com/watch?v=hKGDtwDJaV8) about how to create nested symbols with a Wunderlist To Do App demonstration.
 2. For added practice, download the "Lesson File" provided in the video description and follow along or complete on your own after watching the tutorial.
-3. Deliverable: download the Recipe screenshot image from [the Google Drive](https://drive.google.com/drive/u/1/folders/1OJWSXlXKHCHchXesu9GJhFflCIS-RvV0) in the "Images to Copy" folder.
-4. Copy the screen side by side (no tracing this time!).
-5. Use symbols to build the cards and overrides to change the recipe title, cuisine, price, and star rating. Get creative with the text.
-6. You will make use of masks to update the photos. Check out [this brief tutorial video](https://www.youtube.com/watch?v=3T02VqGf_d8) for a quick refresher.
-7. Keep an eye on the details! Watch out for shadows, rounded corners, spacing and alignment, etc.
-8. Upload your Sketch file [to the Google Drive](https://drive.google.com/drive/u/1/folders/1OJWSXlXKHCHchXesu9GJhFflCIS-RvV0) in the "Completed Work" folder.
+
+**Deliverable Instructions**
+1. Download the images and icons from [the Google Drive](https://drive.google.com/drive/u/1/folders/1WMbUW-54Q5pTAPmw5Ip-iPI1AULVYRx6).
+2. Replicate the screens side by side (no tracing this time!).
+3. Use symbols to build the cards and overrides to change the copy, photos, star ratings and avatars. You can be creative with the text and photos. 
+4. You will make use of masks to update the photos and avatars. Check out [this brief tutorial video](https://www.youtube.com/watch?v=3T02VqGf_d8) for a quick refresher.
+5. Keep an eye on the details! Watch out for shadows, gradients, rounded corners, spacing, alignment, etc.
+6. Upload your Sketch file [to the Google Drive](https://drive.google.com/drive/u/1/folders/1WMbUW-54Q5pTAPmw5Ip-iPI1AULVYRx6) in the "Completed Work" folder.
+
+
+Pro Tips
+----------
+
+- Font = SF Pro Display. You can download it [HERE](https://developer.apple.com/fonts/)
+- Use the "Stock" and "Data" functions of the Craft plugin to update photos, names and headlines quickly. Check out tutorial videos [HERE](https://www.invisionapp.com/craft)
+- Image Stock: [Unsplash](https://unsplash.com/)
+- Avatar Photo Stock: [UI Faces](https://uifaces.co/)
 
 
 Suggested Resources
@@ -34,8 +51,6 @@ Suggested Resources
 - Video Tutorial: [Sketch Masks: A Quick Refresher](https://www.youtube.com/watch?v=3T02VqGf_d8) - 3:48
 - Video Tutorial: [How to Make the Perfect Drop Shadow in Sketch](https://www.youtube.com/watch?v=E59YxyBD41k) - 5:22
 - Video Tutorial: [Organizing Symbols in Sketch](https://www.youtube.com/watch?v=bz46QG-yUQE) - 11:48
-- Icons: [Noun Project](https://thenounproject.com/)
-- Images: [Unsplash](https://unsplash.com/)
 
 
 Suggested Plugins
