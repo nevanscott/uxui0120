@@ -1,7 +1,7 @@
 ---
 title: Human Interface Guidelines Readings
-assigned: 10
-due: 11
+assigned: 11
+due: 12
 ---
 
 Brief
