@@ -1,7 +1,6 @@
 ---
 title: Personal Branding Workshop
-assigned: 22
-due: 2
+day: 22
 ---
 
 
