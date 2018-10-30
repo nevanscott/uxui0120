@@ -1,5 +1,5 @@
 ---
-title: Student Card Deadline
+title: CS - Student Card Deadline
 assigned: 40
 due: 40
 ---
