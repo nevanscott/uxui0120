@@ -1,5 +1,5 @@
 ---
-title: Personal Branding Workshop
+title: CS - Personal Branding Workshop
 day: 22
 ---
 
