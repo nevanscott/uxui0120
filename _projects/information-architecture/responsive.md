@@ -1,6 +1,6 @@
 ---
 title: Responsive E-Commerce Redesign
-assigned: 19
+assigned: 20
 due: 24
 ---
 
