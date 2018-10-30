@@ -1,7 +1,6 @@
 ---
 title: Mandatory LinkedIn & CV Talk
-assigned: 12
-due: 12
+day: 12
 ---
 
 
