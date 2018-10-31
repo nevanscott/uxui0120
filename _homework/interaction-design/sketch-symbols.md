@@ -27,10 +27,10 @@ Now that you have built some cards and changed photos, descriptions and titles u
 - At least 2 different sizes (i.e. large, medium, or small)
 
 
-2nd Deliverable: Design a Bottom Nav Bar
+2nd Deliverable: Design a Bottom Tab Bar
 -------------------------------------------------
 
-For this exercise, you will create a bottom nav bar for a mobile app similar to one of these:
+For this exercise, you will create a bottom tab bar for a mobile app similar to one of these:
 
 <img src="/assets/images/bottom-nav-bar-small-grey.png" alt="Sample bottom nav bars on mobile apps" />
 
