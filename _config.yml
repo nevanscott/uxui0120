@@ -64,6 +64,11 @@ defaults:
       path: "*/review"
     values:
       unit: 5
+  -
+    scope:
+      path: "*/careers"
+    values:
+      unit: 6
 relative_permalinks: false
 future: false
 include: ["_redirects"]
