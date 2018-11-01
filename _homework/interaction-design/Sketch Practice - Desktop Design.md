@@ -4,21 +4,34 @@ assigned: 9
 due: 10
 ---
 
-Now that you've reviewed some Sketch basics and gotten practice with tracing, we are going to stretch your skills even further. We'll have some time in class during the afternoon to get a jumpstart on this.
+Now that you've reviewed some Sketch basics, practiced tracing and copying mobile screens, and incorporated symbols, we are going to stretch your skills even further. Today's homework is designed to give you some practice with how elements are laid out on a larger screen size.
 
- **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/1/folders/1OJWSXlXKHCHchXesu9GJhFflCIS-RvV0) in the "Completed Work" folder.
+ **Be sure to upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/1/folders/1Q_xcpybsWwP2aff7VhwcEOttq24FuDVu) in the "Completed Work" folder.
 
-Deliverable: Desktop App Copy
-------------------------------------------
 
-You will be copying the Slack desktop app for this exercise. This is to give you some practice with how elements are laid out on a larger screen size.
+Deliverable: Desktop Landing Page and/or Desktop App Copy
+---------------------------------------------------------
 
-1. Download the Slack screenshot image from [the Google Drive](https://drive.google.com/drive/u/1/folders/1OJWSXlXKHCHchXesu9GJhFflCIS-RvV0) in the "Images to Copy" folder.
-2. Choose an Artboard (shortcut A) in Sketch that is similar in size and adjust as necessary.
-3. Copy the screen side by side (no tracing this time!).
+For this exercise, you will have a choice of which screens you'd like to copy. The desktop app is a more advanced design than the landing page. We suggest you start with a more basic screen and work your way up to a more advanced screen, but the choice is yours. Regardless, please copy **at least TWO** of the four screens.  
+
+1. Download the images from [the Google Drive](https://drive.google.com/drive/u/1/folders/1Q_xcpybsWwP2aff7VhwcEOttq24FuDVu) in the "Beginner" or "Advanced" folders.
+2. Create an Artboard (shortcut A) in Sketch that is the size of the image.
+3. Copy the screen side by side (no tracing!).
 4. Use alignment guides to ensure proper spacing.
-5. Keep an eye on the details! Watch out for icon size and weight, typography and font weight, rounded corners, etc.
-6. Upload your Sketch file [to the Google Drive](https://drive.google.com/drive/u/1/folders/1OJWSXlXKHCHchXesu9GJhFflCIS-RvV0) in the "Completed Work" folder.
+5. Keep an eye on the details! Watch out for icon size and weight, typography and font weight, rounded corners, masks, overlays, shadows, glows, etc.
+6. Upload your Sketch file [to the Google Drive](https://drive.google.com/drive/u/1/folders/1Q_xcpybsWwP2aff7VhwcEOttq24FuDVu) in the "Completed Work" folder.
+
+
+Tips
+----------
+
+- The font for the Landing Page is Lato. You can download it from [Google Fonts](https://fonts.google.com/specimen/Lato).
+- Select a similar sans-serif font for the Desktop App. It is OK that it isn't the same. 
+- Don't worry about finding the same images. You can use images of your choice for the location and album covers.
+- Look to [The Noun Project](https://thenounproject.com/), [Icons8](https://icons8.com/) or [Flat Icon](https://www.flaticon.com/) for icons. 
+- Use nested symbols and overrides to speed up your workflow!
+- Download the [Paddy Plugin](https://github.com/DWilliames/paddy-sketch-plugin) for the tags and buttons. Medium tutorial about Layer Padding [HERE](https://medium.com/sketch-app-sources/paddy-buttons-a-really-simple-solution-to-a-problem-we-all-have-with-those-little-rascals-ca0eceee1766). 
+- Ask the TAs if you need help. 
 
 
 Suggested Resources
@@ -30,13 +43,14 @@ Suggested Resources
 - Video Tutorial: [Sketch Masks: A Quick Refresher](https://www.youtube.com/watch?v=3T02VqGf_d8) - 3:48
 - Video Tutorial: [How to Make the Perfect Drop Shadow in Sketch](https://www.youtube.com/watch?v=E59YxyBD41k) - 5:22
 - Video Tutorial: [Organizing Symbols in Sketch](https://www.youtube.com/watch?v=bz46QG-yUQE) - 11:48
-- Icons: [Noun Project](https://thenounproject.com/)
 - Images: [Unsplash](https://unsplash.com/)
 
 
 Suggested Plugins
 ------------------
 
+- [Paddy](https://github.com/DWilliames/paddy-sketch-plugin)
+: Automated padding, spacing and alignment for your Sketch layers.
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols)
 : This plugin is used to merge symbols with the same name. Choose the one you want to keep and press OK. The other symbols will be removed, and all of their instances will be replaced by the one you chose to keep.
 - [Symbol Organizer](https://github.com/sonburn/symbol-organizer)
