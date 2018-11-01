@@ -1,6 +1,6 @@
 ---
 title: 1x1s with the Nevan
-day: 38
+day: 39
 ---
 
 To Prepare:
