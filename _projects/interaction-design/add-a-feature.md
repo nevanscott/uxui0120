@@ -56,7 +56,6 @@ Timeline
 --------
 
 - Submit Project Plan <small>by {{ page.assigned | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 4pm</small>
-- Deliver 3-minute mid-point presentation <small>{{ page.assigned | plus:1 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 4pm</small>
 - End-Of-Project Presentations will start <small>{{ page.assigned | plus:3 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 10am</small>
 - Submit a final report of your project <small>by {{ page.assigned | plus:3 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 6pm</small>
 
