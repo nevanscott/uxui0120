@@ -27,10 +27,14 @@ Apple has decided to launch an app called Travel. Following their Human Interfac
 
 ## Suggestions
 
-- You’ll have to make some quick assumptions in order to get started on this project. Acknowledge the assumptions by creating a proto-persona.
+- 3 Proto-persona's with different pain points and goals have been created for this project. Select one of them and base your project around their needs & goals. Check the section below to access your personas. 
 - Make several variations on your design before deciding on a direction. Ask for feedback and input from your colleagues!
 - Be careful not to rely too much on symbols while exploring design concepts. When you get closer to a confident final design, start cleaning up your document with a system of symbols and well-named layer groups.
 
+## Personas
+- [Personas Folder](https://drive.google.com/open?id=16ZA5gIpvhW-EGw9Rqo_ZN6WjkuAJl1KX)
+
+- 
 ## Presentation (6 minutes)
 
 Your presentation should answer the following questions:
