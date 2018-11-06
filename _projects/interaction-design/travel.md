@@ -34,7 +34,6 @@ Apple has decided to launch an app called Travel. Following their Human Interfac
 ## Personas
 - [Personas Folder](https://drive.google.com/open?id=16ZA5gIpvhW-EGw9Rqo_ZN6WjkuAJl1KX)
 
-- 
 ## Presentation (6 minutes)
 
 Your presentation should answer the following questions:
