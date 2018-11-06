@@ -29,6 +29,11 @@ The HIG is... detailed. You're not going to read through it all in one go. Here'
 [Toolbars]: https://developer.apple.com/design/human-interface-guidelines/ios/bars/toolbars/
 
 
+Resources
+--------------
+- [Iterative UI Design - WWDC 2016](https://developer.apple.com/videos/play/wwdc2016/805/) by Apple
+
+
 Ironhack Learning Platform
 ---------------------------
 - [iOs vs Material design](http://learn.ironhack.com/#/learning_unit/3422)
