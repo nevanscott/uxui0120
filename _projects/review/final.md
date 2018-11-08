@@ -69,5 +69,5 @@ Everyone in the audience will be able to vote for their favorite project and the
 Resources
 --------
 
-You can find the [final project brief](http://learn.ironhack.com/#/learning_unit/5162) on the Ironhack Platform
+You can find the [final project brief](http://learn.ironhack.com/#/learning_unit/3498) on the Ironhack Platform
 
