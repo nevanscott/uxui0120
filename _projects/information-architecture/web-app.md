@@ -1,6 +1,6 @@
 ---
 title: Web App
-assigned: 25
+assigned: 20
 due: 30
 ---
 
