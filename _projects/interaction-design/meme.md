@@ -29,6 +29,11 @@ Google is leveraging its powerful image search to enter the market for meme gene
 - Presentation of iterations and final proposal.
 
 
+## Personas
+
+- [Personas folder](https://drive.google.com/drive/folders/1OFjDaEHAE2Im5Spq9kV--FlnrwpnfSjF)
+
+
 ## Suggestions
 
 - You’ll have to make some quick assumptions in order to get started on this project. Acknowledge the assumptions by creating a a proto-persona.
