@@ -1,6 +1,6 @@
 ---
 title: Content Strategy
-day: 20
+day: 21
 ---
 
 Ironhack Learning Platform
