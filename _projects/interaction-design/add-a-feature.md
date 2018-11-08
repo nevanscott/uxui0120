@@ -1,7 +1,7 @@
 ---
 title: Add a Feature
 assigned: 16
-due: 19
+due: 20
 ---
 
 You will be developing a new feature for an existing app based on an area of functionality to explore. Your work will culminate in a high-fidelity prototype that reflects your best path forward based on research, iteration, and testing. For apps that have both Android and iOS implementations, you may choose either platform.
