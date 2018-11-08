@@ -1,6 +1,6 @@
 ---
 title: Evaluative Research
-day: 24
+day: 16
 ---
 
 In this lesson, we will explore 2 different topics that are extra resources to complete your research process. 
