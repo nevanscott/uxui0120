@@ -1,6 +1,6 @@
 ---
 title: User Stories
-day: 28
+day: 27
 ---
 
 Learning Objectives
