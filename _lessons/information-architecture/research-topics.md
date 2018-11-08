@@ -7,7 +7,7 @@ In this lesson, we will explore 5 different topics that are extra resources to c
 
 - Contextual Inquiry
 - Observational Research
-- User Research
+- User Journeys
 - Lean Canvas
 - 5 whys
 
