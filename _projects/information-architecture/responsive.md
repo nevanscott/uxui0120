@@ -1,7 +1,7 @@
 ---
 title: Responsive E-Commerce Redesign
-assigned: 20
-due: 24
+assigned: 21
+due: 25
 ---
 
 Over the next few days, you’ll be redesigning a website for a local business. Keep in mind that this is a speculative redesign for practice, so you won’t have access to the client or stakeholders.
