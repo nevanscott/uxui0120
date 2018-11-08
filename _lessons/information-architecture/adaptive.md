@@ -1,6 +1,6 @@
 ---
 title: Adaptive Interfaces
-day: 29
+day: 28
 ---
 
 Learning Objectives
