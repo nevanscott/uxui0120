@@ -1,6 +1,6 @@
 ---
 title: IA Methods
-day: 27
+day: 26
 ---
 
 In this class, we will go through three main topics:
