@@ -1,6 +1,6 @@
 ---
 title: Research topics
-day: 25
+day: 26
 ---
 
 In this lesson, we will explore 5 different topics that are extra resources to complete your research process. 
