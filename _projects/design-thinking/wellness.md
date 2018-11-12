@@ -39,7 +39,7 @@ Deliverables
 The Brief
 ---------
 
-You will be proposing a new mobile app designed to support wellness. Based on user research, you'll identify an opportunity for an app to improve people's day-to-day lives.
+You will be proposing a new mobile app designed to support wellness. Based on user research, you'll identify an opportunity for an app to improve people's day-to-day lives. Get inspiration by choosing one area of wellness as listed [HERE](https://www.mindbodygreen.com/0-6795/Are-You-Balanced-Here-are-the-7-Kinds-of-Wellness-You-Need.html). 
 
 
 Suggestions
