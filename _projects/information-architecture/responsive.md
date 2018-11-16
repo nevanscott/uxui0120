@@ -17,7 +17,7 @@ The website you’re redesigning already has content. You’ll want to inventory
 ## Setup
 
 - Teams of 2–3
-- 3 class days <small>(plus the weekend!)</small>
+- 5 class days
 
 
 ## Materials
