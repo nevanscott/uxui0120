@@ -1,5 +1,5 @@
 ---
-title: Web App
+title: HR Web App
 assigned: 20
 due: 30
 ---
@@ -7,6 +7,7 @@ due: 30
 You are working for a new startup that is looking to launch a software as a service (SaaS) desktop web app for companies to use internally. You will be researching the market and meeting with employees to determine the needs of the business and then developing an MVP based upon your findings.
 
 Thus far, we have been designing for customers as the end user, but now you have to consider multiple kinds of users:
+
 - Businesses that make the purchasing decisions, so you will need to convince them that this is a valuable service
 - Employees at the company who will actually be using the service
 
@@ -16,8 +17,8 @@ A good example of a SaaS is [Gusto](https://gusto.com/)
 ## Setup
 
 - Individual
-- 6 class days <small>(plus the weekend!)</small>
-- Standups every morning in the week leading up to the official start date of the project
+- 2 weeks <small>(1 week of prep, 1 dedicated week)</small>
+- Standups every morning in the prep week
 
 
 ## Materials
@@ -36,9 +37,9 @@ Because you are launching this product, you need to ensure that this is a servic
 
 ## Deliverables
 
-- Prototype of the MVP for a desktop (hi-fidelity)
-- Roadmap for next 3-6 months (additional features beyond the MVP that will be rolled out in the future)
-- Landing page that explains what your product is (optional)
+- Prototype of the MVP for a desktop <small>(high-fidelity)</small>
+- Roadmap for next 3-6 months <small>(additional features beyond the MVP that will be rolled out in the future)</small>
+- Landing page that explains what your product is <small>(optional)</small>
 - Presentation of research and final proposal
 - Report as [Medium](https://medium.com/) article
 
@@ -60,24 +61,31 @@ You are required to find people inside companies to talk to. You should focus on
 - Professional Development
 
 Considerations to assist in determining where to focus:
-- Is this area functional? = Is the system already in place and working well? If it is, rule out and move on
-- Is this area dysfunctional? = The system is in place but lots of complaints, not well executed, working poorly. How can we make this better and compete in the space? It is a good area to explore
-- Is this area ad Hoc (thrown together) or non-existent? = Not yet a complete system or process, nothing concrete in place. There is a lot of room for innovation and ideation and it is a good area to explore.
+
+- **Is this area functional?** Is the system already in place and working well? If it is, rule out and move on.
+- **Is this area dysfunctional?** The system is in place but lots of complaints, not well executed, working poorly. How can we make this better and compete in the space? It is a good area to explore.
+- **Is this area ad-hoc (thrown together) or non-existent?** Not yet a complete system or process, nothing concrete in place. There is a lot of room for innovation and ideation and it is a good area to explore.
 
 
 ## Suggestions
 
 - Find someone you want to talk to and in your initial conversation investigate the above and narrow down the pain points to determine in which area to focus on. This is generative research.
-- Expand your research to other companies based on the area you have decided to focus on
+- Expand your research to other companies based on the area you have decided to focus on.
 - Find someone who works in HR to get their perspective, as well as employees (preferably low-level).
-- Look to LinkedIn, Slack or leverage your existing networks to find potential contacts and interviewees
-- Run usability tests with real users in coworking spaces (WeWork, Spaces)
-- Early in the week try to visit companies and shadow employees to observe their current process, behaviors and pain points
+- Look to LinkedIn, Slack or leverage your existing networks to find potential contacts and interviewees.
+- Run usability tests with real users in coworking spaces (e.g. WeWork, Spaces).
+- Early in the week try to visit companies and shadow employees to observe their current process, behaviors and pain points.
 
 
 ## Roadmap
 
-Monday:
+### Prep week
+
+- Preliminary research
+- Network and schedule interviews and site visits
+
+### Monday
+
 - Interviews and observation
 - Choose the category to focus on
 - Competitive Analysis
@@ -86,7 +94,8 @@ Monday:
 - User Persona
 - Problem Statement
 
-Tuesday:
+### Tuesday
+
 - User Stories / Task Analysis / Scenarios / Use cases
 - Design Studio / Ideation
 - Feature prioritization (MoSCoW)
@@ -96,7 +105,8 @@ Tuesday:
 - Test
 - Iterate
 
-Wednesday:
+### Wednesday
+
 - Digital Wireframes
 - Test
 - Iterate
@@ -104,12 +114,13 @@ Wednesday:
 - Start with high-fi screens
 - Desirability Testing
 
-Thursday:
+### Thursday
+
 - Finish High-fi
 - Test
 - Build presentation
 
-Friday:
+### Friday
 - Practice presentation
 - Be fabulous in front of the jury!
 
@@ -132,4 +143,4 @@ Your presentation should answer the following questions:
 ## Bonus
 
 - Add some animation to your redesign
-- Responsiveness
+- Make the layout responsive
