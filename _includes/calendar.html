@@ -1,3 +1,4 @@
+<div id="weekview"></div>
 <h1>Calendar</h1>
 <table class="calendar">
   <thead>
@@ -105,6 +106,47 @@
 </table>
 <script type="text/javascript">
   var today = new Date();
+
+  // Render this week or next week
+  var cells = document.querySelectorAll('.calendar-date');
+  var first = cells[0];
+  var last = cells[cells.length - 1];
+  var start_date = new Date(first.dataset.date);
+  var end_date = new Date(last.dataset.date);
+  end_date.setDate(end_date.getDate() + 1);
+
+  if (today >= start_date && today < end_date) {
+    var weekview = document.getElementById('weekview');
+    var weekheader = document.createElement('h1');
+    var calendar = document.querySelector('.calendar');
+    var weekcal = calendar.cloneNode(true);
+    var weekcalweeks = weekcal.querySelectorAll('tbody tr');
+    weekview.appendChild(weekheader);
+    weekview.appendChild(weekcal);
+    if (today.getDay() > 0 && today.getDay() < 7) {
+      weekheader.textContent = 'This week';
+    } else {
+      weekheader.textContent = 'Next week';
+    }
+    for (var i = 0; i < weekcalweeks.length; i++) {
+      var w = weekcalweeks[i];
+      var w_cells = w.querySelectorAll('.calendar-date');
+      var w_first = w_cells[0];
+      var w_last = w_cells[w_cells.length - 1];
+      var w_start = new Date(w_first.dataset.date);
+      w_start.setDate(w_start.getDate() - 2);
+      var w_end = new Date(w_last.dataset.date);
+      w_end.setDate(w_end.getDate() + 1);
+      console.log(w_start, w_end);
+      if (today >= w_start && today < w_end) {
+        // Keep this week
+      } else {
+        w.remove();
+      }
+    }
+  }
+
+  // Highlight today cells
   var cells = document.querySelectorAll('.calendar-date');
   for (var i = 0; i < cells.length; i++) {
     var cell = cells[i];
