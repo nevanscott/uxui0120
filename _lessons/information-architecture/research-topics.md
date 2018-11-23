@@ -12,6 +12,14 @@ In this lesson, we will explore 5 different topics that are extra resources to c
 - 5 whys
 
 
+Resources
+----------
+- [Methods for research](https://www.wickedproblems.com/4_methods_for_research.php)
+- [Contextual Inquiry](https://www.wickedproblems.com/4_insight_through_contextual_inquiry.php)
+- [Participatory Design](https://www.wickedproblems.com/4_participatory_design.php)
+- [Cultural Probes](https://www.wickedproblems.com/4_cultural_probes.php)
+
+
 Ironhack Learning Platform
 -----------
 
