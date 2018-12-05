@@ -1,0 +1,9 @@
+---
+layout: page
+title: Projects
+nav_title: Projects
+permalink: /projects/
+---
+
+{% assign projects = site.projects | sort: 'due' %}
+{% include posts/by_unit.html posts=projects %}
