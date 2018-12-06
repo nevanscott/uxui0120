@@ -3,13 +3,26 @@ title: Research topics
 day: 25
 ---
 
-In this lesson, we will explore 5 different topics that are extra resources to complete your research process. 
+Topics
+------
 
 - Contextual Inquiry
 - Observational Research
 - User Journeys
 - Lean Canvas
 - 5 whys
+
+
+Learning Objectives
+-------------------
+
+- Understand the pros and cons of contextual inquiry
+- Learn how and when to conduct a contextual interview
+- Understand the benefits of observational research
+- Understand what a User Journey Map is and its use
+- Learn how to create a User Journey Map
+- Understand the importance of taking into account the business objectives
+- Understand the objective of the 5 whys and how to apply it
 
 
 Resources

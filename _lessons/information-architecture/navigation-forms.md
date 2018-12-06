@@ -16,6 +16,10 @@ Learning Objectives
 - Understand Form Controls
 - Learn which are the most common form elements
 - Learn what are control states
+- Explain the purpose of Card Sorting as a user interview technique
+- Conduct different types of card sorts with users
+- Build a clear and intuitive navigation
+
 
 Ironhack Learning Platform
 ----------
