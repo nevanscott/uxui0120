@@ -1,39 +1,6 @@
 ---
-layout: default
+layout: sidebar
+sidebar: homework
 ---
 
-<article>
-	<h1>
-		{{ page.title | markdownify | strip_html | strip }}
-		{% if page.due %}
-			<small>due&nbsp;{{ page.due | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
-		{% endif %}
-	</h1>
-	{{ content }}
-</article>
-
-<aside id="nav">
-	{% assign units = site.units | sort:'order' %}
-	{% for unit in units %}
-		<h4>
-			<small>Unit {{ unit.order }}</small>
-			{{ unit.title }}
-		</h4>
-		<ul>
-			{% assign homework = site.homework | sort:'due' %}
-			{% for post in homework %}
-	      {% if post.url == page.url %}
-	        {% assign c = "current" %}
-	      {% else %}
-	        {% assign c = "" %}
-	      {% endif %}
-				{% if post.unit == unit.order %}
-					<li class="{{ c }}">
-						<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | markdownify | strip_html | strip }}</a>
-						<small>due&nbsp;{{ post.due | class_date: site.data.course.start_date | date: "%b.&nbsp;%-d,&nbsp;%Y" }}</small>
-					</li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-	{% endfor %}
-</aside>
+{{ content }}

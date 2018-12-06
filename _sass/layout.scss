@@ -33,7 +33,14 @@ article {
 	#main {
 		display: grid;
 		grid-template-columns: 7fr 3fr;
+		grid-template-areas: "main sidebar";
 		margin: 0;
+		& > article {
+			grid-area: main;
+		}
+		#nav {
+			grid-area: sidebar;
+		}
 	}
 	#main.wide {
 		display: block;

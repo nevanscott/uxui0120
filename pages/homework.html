@@ -1,16 +1,9 @@
 ---
-layout: homework
+layout: page
 title: Homework Assignments
 nav_title: Homework
 permalink: /homework/
 ---
 
-<ol>
-{% assign homework = site.homework | sort:'due' %}
-{% for post in homework %}
-	<li>
-		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | markdownify | strip_html | strip }}</a>
-		<small>due {{ post.due | class_date: site.data.course.start_date | date: "%b. %-d, %Y" }}</small>
-	</li>
-{% endfor %}
-</ol>
+{% assign homeworks = site.homework | sort:'due' %}
+{% include posts/by_unit.html posts=homeworks %}
