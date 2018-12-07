@@ -1,0 +1,29 @@
+.tags {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: $display;
+  font-size: .875em;
+  font-weight: 500;
+}
+
+.tags li {
+  display: inline;
+  margin-right: 0.75em;
+  white-space: nowrap;
+  &::before {
+    display: inline;
+    content: "# ";
+    color: darken($brand, 45%);
+  }
+}
+
+.hashtag {
+  &::before {
+    display: block;
+    float: left;
+    margin-left: -0.75em;
+    content: "#";
+    color: darken($brand, 40%);
+  }
+}

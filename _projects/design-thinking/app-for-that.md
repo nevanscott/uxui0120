@@ -2,6 +2,12 @@
 title: There's an app for that!
 assigned: 3
 due: 4
+topics:
+  - prototyping
+  - double-diamond
+  - interview
+  - testing
+  - usability
 ---
 
 <img class="illo aside" src="/assets/images/phone-home.png" alt="A thumb about to tap an app" />

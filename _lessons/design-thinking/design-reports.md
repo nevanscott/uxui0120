@@ -1,6 +1,9 @@
 ---
 title: Design Reports
 day: 7
+topics:
+  - writing
+  - portfolio
 ---
 
 Learning Objectives
@@ -27,18 +30,18 @@ Keep in mind
 Suggested structure
 -------------------
 
-#### 1. Agenda of your report 
+#### 1. Agenda of your report
 The result of the agenda should be an outline of all the parts you are going to develop in your report. It is very useful for the reader to be able to quickly refer to the part(s) that interests him/her the most.
 
 #### 2. Overview
-  - Introduce the scope of the project (How many days? Instructions? group/individual?) 
+  - Introduce the scope of the project (How many days? Instructions? group/individual?)
   - Explain the origin of the project (Why this topic? What were the instructions? Constraints?)
   - Give a company overview (in case the project is about a specific company)
   - Sum up your process and explain the main idea behind the project
 
 #### 3. Part 1: UX
   - Introduce your initial steps / assumptions
-  - Explain how you organised your research (Tools?) 
+  - Explain how you organised your research (Tools?)
   - For each step, explain the goal and the process you went through and mainly the why you went through this step
   - Analyze the results, give some data and explain your findings
   - Affinity diagram, problem statement, user persona, features, sum it up in the project scope

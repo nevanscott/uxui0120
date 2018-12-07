@@ -1,6 +1,12 @@
 ---
 title: User Stories
 day: 27
+topics:
+  - agile
+  - prioritization
+  - problem-definition
+  - user-story
+  - jobs-to-be-done
 ---
 
 Learning Objectives

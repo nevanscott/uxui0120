@@ -1,6 +1,9 @@
 ---
 title: Responsive Design
 day: 22
+topics:
+  - composition
+  - responsive
 ---
 
 In this lesson, we will explore 3 different topics that are focused on your UI development

@@ -1,6 +1,9 @@
 ---
 title: Personas
 day: 6
+topics:
+  - persona
+  - user-research
 ---
 
 Learning Objectives

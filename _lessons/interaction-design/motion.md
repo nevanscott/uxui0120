@@ -1,6 +1,9 @@
 ---
 title: Motion in user interfaces
 day: 11
+topics:
+  - motion
+  - ui-state
 ---
 
 Learning Objectives

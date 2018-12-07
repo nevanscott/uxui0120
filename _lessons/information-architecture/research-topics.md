@@ -1,6 +1,12 @@
 ---
 title: Research topics
 day: 25
+topics:
+  - user-research
+  - user-journey
+  - lean
+  - observation
+  - problem-definition
 ---
 
 Topics

@@ -1,6 +1,13 @@
 ---
 title: Content Strategy
 day: 21
+topics:
+  - ia
+  - content
+  - content-strategy
+  - navigation
+  - sitemap
+  - content-audit
 ---
 
 Learning Objectives

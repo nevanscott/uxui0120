@@ -2,6 +2,10 @@
 title: Travel
 assigned: 12
 due: 13
+topics:
+  - native
+  - ui
+  - navigation
 ---
 
 Apple has decided to launch an app called Travel. Following their Human Interface Guidelines, develop the concept and UI of a few key screens to get buy-in for further work.
@@ -27,7 +31,7 @@ Apple has decided to launch an app called Travel. Following their Human Interfac
 
 ## Suggestions
 
-- 3 Proto-persona's with different pain points and goals have been created for this project. Select one of them and base your project around their needs & goals. Check the section below to access your personas. 
+- 3 Proto-persona's with different pain points and goals have been created for this project. Select one of them and base your project around their needs & goals. Check the section below to access your personas.
 - Make several variations on your design before deciding on a direction. Ask for feedback and input from your colleagues!
 - Be careful not to rely too much on symbols while exploring design concepts. When you get closer to a confident final design, start cleaning up your document with a system of symbols and well-named layer groups.
 

@@ -1,11 +1,17 @@
 ---
 title: Navigation & Forms
 day: 23
+topics:
+  - ia
+  - navigation
+  - forms
+  - card-sorting
+  - ui-state
 ---
 
 In this lesson we will approach three topics:
 
-- Navigation 
+- Navigation
 - Card sorting
 - Forms
 

@@ -2,6 +2,12 @@
 title: Google Meme
 assigned: 14
 due: 15
+topics:
+  - native
+  - ui
+  - design-systems
+  - motion
+  - navigation
 ---
 
 Google is leveraging its powerful image search to enter the market for meme generation. Demonstrate how a standalone product might work following Material Design.
@@ -66,4 +72,3 @@ Give feedback to your peers!
 
 - [Presentation feedback](https://drive.google.com/drive/u/1/folders/1CLL3vkdg1VIctGdZjrA5xWFkrYlFMhbF)
 - [Group retrospective](https://drive.google.com/drive/u/1/folders/1a0Si3XhUEghzi0hVdO7j-qsm2w0ajZpQ)
-

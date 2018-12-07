@@ -1,6 +1,8 @@
 ---
 title: HTML and the DOM
 day: 31
+topics:
+  - html
 ---
 
 

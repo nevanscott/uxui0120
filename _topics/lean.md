@@ -1,0 +1,4 @@
+---
+title: Lean
+see: agile
+---

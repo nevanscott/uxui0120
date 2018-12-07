@@ -12,6 +12,19 @@ layout: default
 			<small>{{ page.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
 		{% endif %}
 	</h1>
+	{% if page.topics %}
+	<ul class="tags">
+		{% assign topics = page.topics | sort %}
+		{% for topic in topics %}
+			{% assign post = site.topics | where: "slug", topic | first %}
+			{% if post %}
+				<li><a href="{{ post.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+			{% else %}
+				<li>{{ topic }}</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+	{% endif %}
 	{{ content }}
 </article>
 
