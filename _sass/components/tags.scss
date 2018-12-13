@@ -20,10 +20,13 @@
 
 .hashtag {
   &::before {
-    display: block;
-    float: left;
-    margin-left: -0.75em;
-    content: "#";
     color: darken($brand, 40%);
+    content: "# ";
+    @media screen and (min-width: 55em) {
+      display: block;
+      float: left;
+      margin-left: -0.75em;
+      content: "#";
+    }
   }
 }
