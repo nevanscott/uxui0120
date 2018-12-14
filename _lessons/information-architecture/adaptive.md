@@ -1,6 +1,11 @@
 ---
 title: Adaptive Interfaces
 day: 28
+topics:
+  - progressive-disclosure
+  - staged-disclosure
+  - customization
+  - personalization
 ---
 
 Learning Objectives

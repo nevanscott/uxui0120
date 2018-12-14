@@ -1,6 +1,10 @@
 ---
 title: CSS Basics and Flexbox
 day: 32
+topics:
+  - css
+  - flexbox
+  - composition
 ---
 
 Schedule of the day

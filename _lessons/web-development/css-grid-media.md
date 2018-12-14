@@ -1,6 +1,11 @@
 ---
 title: CSS Grid and Media Queries
 day: 33
+topics:
+  - css
+  - css-grid
+  - responsive
+  - composition
 ---
 
 Schedule of the day

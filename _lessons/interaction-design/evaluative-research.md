@@ -1,6 +1,10 @@
 ---
 title: Evaluative Research
 day: 16
+topics:
+  - heuristics
+  - competitive
+  - benchmarking
 ---
 
 Topics

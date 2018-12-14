@@ -1,6 +1,9 @@
 ---
 title: Surveys
 day: 5
+topics:
+  - survey
+  - user-research
 ---
 
 Learning Objectives

@@ -2,6 +2,15 @@
 title: Responsive E-Commerce Redesign
 assigned: 21
 due: 25
+topics:
+  - content-audit
+  - responsive
+  - ia
+  - heuristics
+  - inspiration
+  - card-sorting
+  - navigation
+  - sitemap
 ---
 
 Over the next few days, you’ll be creating an e-commerce website for a local business. Keep in mind that this is a speculative redesign for practice, so you won’t have access to the client or stakeholders.
@@ -77,4 +86,3 @@ Give feedback to your peers!
 
 
 <img src="/assets/images/dwight.jpg" alt="Dwight: Good luck, you've got this.">
-

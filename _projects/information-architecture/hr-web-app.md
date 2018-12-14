@@ -2,6 +2,13 @@
 title: HR Web App
 assigned: 20
 due: 30
+topics:
+  - writing
+  - prioritization
+  - observation
+  - task-analysis
+  - user-story
+  - ia
 ---
 
 You are working for a new startup that is looking to launch a software as a service (SaaS) desktop web app for companies to use internally. You will be researching the market and meeting with employees to determine the needs of the business and then developing an MVP based upon your findings.

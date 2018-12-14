@@ -1,6 +1,8 @@
 ---
 title: Paper Prototyping
 day: 4
+topics:
+  - prototyping
 ---
 
 Learning Objectives

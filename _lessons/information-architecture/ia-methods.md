@@ -1,6 +1,12 @@
 ---
 title: IA Methods
 day: 26
+topics:
+  - ia
+  - task-analysis
+  - use-case
+  - scenario
+  - user-research
 ---
 
 In this class, we will go through three main topics:

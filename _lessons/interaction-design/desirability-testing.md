@@ -1,6 +1,8 @@
 ---
 title: Desirability Testing
 day: 18
+topics:
+  - testing
 ---
 
 Ironhack Learning Platform

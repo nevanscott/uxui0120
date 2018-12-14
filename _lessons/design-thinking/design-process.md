@@ -1,6 +1,10 @@
 ---
 title: Design Process
 day: 1
+topics:
+  - design-thinking
+  - design-process
+  - double-diamond
 ---
 
 Learning Objectives

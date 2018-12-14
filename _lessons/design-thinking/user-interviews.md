@@ -1,6 +1,9 @@
 ---
 title: User Interviews
 day: 3
+topics:
+  - interview
+  - user-research
 ---
 
 Learning Objectives

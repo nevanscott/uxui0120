@@ -1,6 +1,9 @@
 ---
 title: CSS Animations
 day: 34
+topics:
+  - css
+  - motion
 ---
 
 Schedule of the day

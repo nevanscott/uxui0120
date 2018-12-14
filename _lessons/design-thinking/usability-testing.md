@@ -1,6 +1,9 @@
 ---
 title: Usability Testing
 day: 2
+topics:
+  - testing
+  - usability
 ---
 
 Learning Objectives

@@ -1,6 +1,9 @@
 ---
 title: Visual Design
 day: 9
+topics:
+  - typography
+  - composition
 ---
 
 <img class="illo aside" src="/assets/images/crap.png" alt="Illustration of CRAP design principles: contrast, repetition, alignment, and proximity" />

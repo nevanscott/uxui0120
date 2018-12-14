@@ -1,6 +1,10 @@
 ---
 title: Human Interface Guidelines
 day: 12
+topics:
+  - native
+  - navigation
+  - ui
 ---
 
 
