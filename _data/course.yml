@@ -1,6 +1,6 @@
 title: User Experience and User Interface Design
 abbreviation: UX/UI
-iteration: 10/18
+iteration: 01/19
 city: Barcelona
 school:
   name: Ironhack
@@ -11,8 +11,8 @@ nav:
   - projects
   - topics
   - notes
-start_date: October 22, 2018
-days: 60
+start_date: January 7, 2019
+days: 45
 notes_nav:
   -
     section: About the Course
