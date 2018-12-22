@@ -2,7 +2,6 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  font-family: $display;
   font-size: .875em;
   font-weight: 500;
 }
@@ -14,13 +13,13 @@
   &::before {
     display: inline;
     content: "# ";
-    color: darken($brand, 45%);
+    color: $brand-500;
   }
 }
 
 .hashtag {
   &::before {
-    color: darken($brand, 40%);
+    color: $brand-500;
     content: "# ";
     @media screen and (min-width: 55em) {
       display: block;

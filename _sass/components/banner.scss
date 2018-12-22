@@ -1,5 +1,5 @@
 .page-header {
-  background: darken($brand, 40%);
+  background: $brand-500;
   color: white;
   padding: 1em 0.75em*$lh;
 	display: grid;
@@ -13,14 +13,14 @@
 	h1 {
 		border: none;
 		margin: 0;
-    font-family: $display;
 		font-weight: 900;
 		font-size: 1.4em;
     font-style: normal;
     small {
       display: inline;
       font-size: 0.65em;
-      color: darken($brand, 65%);
+      font-weight: 700;
+      color: $brand-800;
     }
 	}
 	h4 {
@@ -31,7 +31,7 @@
 		display: flex;
 		a {
 			display: block;
-			color: darken($brand, 3%);
+			color: $brand-200;
 			margin-right: 1em;
       transition: color 200ms ease-in-out;
       &:hover {
@@ -39,7 +39,7 @@
       }
 			&.current {
 				color: white;
-        border-bottom: 3px solid $secondary;
+        border-bottom: 3px solid $secondary-700;
 				font-weight: inherit;
 			}
 			&:last-of-type {
@@ -53,13 +53,13 @@
 	box-sizing: border-box;
 	width: 100%;
 	padding: .5em 1em;
-	background: darken($brand, 4%);
-	border: solid 1px darken($brand, 55%);
+	background: $brand-100;
+	border: solid 1px $brand-700;
   border-radius: 0;
 	box-shadow: inset 0 0 0 1px rgba(255,255,255,0.75);
 	&:focus {
 		background: white;
-		border-color: darken($brand, 60%);
+		border-color: $brand-500;
     box-shadow: 0 0 0 0.25em rgba(0,0,0,0.15);
     outline: none;
 	}
@@ -83,7 +83,7 @@ $placeholder-color: rgba(0, 0, 0, 0.6);
 	position: absolute;
   z-index: 20;
 	background: white;
-	border: 1px solid darken($brand, 35%);
+	border: 1px solid $brand-400;
 	box-shadow: 0 1px 1px rgba(0,0,0,0.25);
 	list-style: none;
 	margin: 0;
@@ -97,7 +97,7 @@ $placeholder-color: rgba(0, 0, 0, 0.6);
 		line-height: 1.3;
 		padding: 0.5em 1em;
 		&:hover {
-			background: lighten($brand, 1%);
+			background: $brand-100;
 		}
 		small {
 			display: block;

@@ -3,6 +3,36 @@ $display:     'IBM Plex Sans Condensed', system-ui, sans-serif;
 $serif:       'Source Serif Variable', 'Source Serif Pro', Charter, Georgia, serif;
 $lh:          1.7;
 
-$brand:       hsl(200, 45%, 95%);
-$secondary:   hsl(255, 100%, 30%);
-$neutral:     hsl(230, 20%, 98%);
+$brand:       hsl(350, 60%, 95%);
+$secondary:   hsl(260, 100%, 30%);
+$neutral:     hsl(200, 20%, 98%);
+
+$brand-100:   change-color($brand, $lightness: 90%);
+$brand-200:   change-color($brand, $lightness: 80%);
+$brand-300:   change-color($brand, $lightness: 70%);
+$brand-400:   change-color($brand, $lightness: 60%);
+$brand-500:   change-color($brand, $lightness: 50%);
+$brand-600:   change-color($brand, $lightness: 40%);
+$brand-700:   change-color($brand, $lightness: 30%);
+$brand-800:   change-color($brand, $lightness: 20%);
+$brand-900:   change-color($brand, $lightness: 10%);
+
+$secondary-100:   change-color($secondary, $lightness: 90%);
+$secondary-200:   change-color($secondary, $lightness: 80%);
+$secondary-300:   change-color($secondary, $lightness: 70%);
+$secondary-400:   change-color($secondary, $lightness: 60%);
+$secondary-500:   change-color($secondary, $lightness: 50%);
+$secondary-600:   change-color($secondary, $lightness: 40%);
+$secondary-700:   change-color($secondary, $lightness: 30%);
+$secondary-800:   change-color($secondary, $lightness: 20%);
+$secondary-900:   change-color($secondary, $lightness: 10%);
+
+$neutral-100:   change-color($neutral, $lightness: 90%);
+$neutral-200:   change-color($neutral, $lightness: 80%);
+$neutral-300:   change-color($neutral, $lightness: 70%);
+$neutral-400:   change-color($neutral, $lightness: 60%);
+$neutral-500:   change-color($neutral, $lightness: 50%);
+$neutral-600:   change-color($neutral, $lightness: 40%);
+$neutral-700:   change-color($neutral, $lightness: 30%);
+$neutral-800:   change-color($neutral, $lightness: 20%);
+$neutral-900:   change-color($neutral, $lightness: 10%);

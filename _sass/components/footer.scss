@@ -1,6 +1,6 @@
 .page-footer {
-  background: darken($secondary, 10%);
-  color: white;
+  border-top: solid 1px $neutral-100;
+  color: $neutral-700;
   padding: 1em 0.75em*$lh;
   p {
     margin: 0.25em*$lh 0;

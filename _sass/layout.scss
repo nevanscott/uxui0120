@@ -3,13 +3,10 @@
 }
 
 .page {
-	background: white;
 	padding: 1em*$lh 0.75em*$lh 2em*$lh;
 }
 
 article {
-	background: white;
-	font-family: $serif;
 	font-size: 1.2em;
   max-width: 45em;
 	padding: 0.5em*$lh 0.5em*$lh 1em*$lh;
@@ -20,7 +17,7 @@ article {
   	h4 {
 			font-weight: normal;
 			font-size: .8em;
-			color: darken($brand, 40%);
+			color: $brand-500;
 			a {
 				color: inherit;
 			}

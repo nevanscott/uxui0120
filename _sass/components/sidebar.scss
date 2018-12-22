@@ -1,12 +1,22 @@
 #nav {
-	background: darken($neutral, 3%);
+	border-left: solid 1px $neutral-100;
 	padding: 0.25em*$lh 0.75em*$lh 1em*$lh;
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
   li {
 		margin: .2em*$lh 0;
   }
+	a {
+		text-decoration: none;
+		&:hover {
+			text-decoration: underline;
+		}
+	}
 	h4 {
-		color: darken($brand, 55%);
-		font-family: $serif;
+		color: $brand-600;
 		font-weight: 600;
 		font-size: 1.25em;
 		letter-spacing: normal;
@@ -17,13 +27,12 @@
 			display: block;
 			width: 1.5em;
 			height: 3px;
-			background: $secondary;
+			background: $secondary-700;
 			margin-bottom: 0.25em;
 		}
 		small {
-			font-family: $display;
 			font-size: 0.7em;
-			color: darken($brand, 40%);
+			color: $brand-500;
 			display: block;
 			font-weight: 600;
 			text-transform: uppercase;
