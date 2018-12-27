@@ -4,19 +4,19 @@ day: 9
 topics:
   - typography
   - composition
+description: |
+  Visual design makes our work, aesthetic, clear, and usable. We'll start exploring some principles of typography and layout in this class. Keep in mind that theory will only take your design work so far. You have to produce work, look at it, and try again in order to actually improve.
+objectives:
+  - |
+    analyze a design according to principles: contrast, repetition, alignment, and proximity (CRAP)
+  - differentiate between display typefaces and text typefaces
+  - identify features of fonts appropriate for interfaces
+  - establish basic typographic hierarchy
+  - use spacing to make text readable
+  - use proximity to make relationships clear
 ---
 
-<img class="illo aside" src="/assets/images/crap.png" alt="Illustration of CRAP design principles: contrast, repetition, alignment, and proximity" />
-
-Learning Objectives
--------------------
-
-- Analyze a design according to principles: contrast, repetition, alignment, and proximity (CRAP)
-- Differentiate between display typefaces and text typefaces
-- Identify features of fonts appropriate for interfaces
-- Establish basic typographic hierarchy
-- Use spacing to make text readable
-- Use proximity to make relationships clear
+<!-- <img class="illo aside" src="/assets/images/crap.png" alt="Illustration of CRAP design principles: contrast, repetition, alignment, and proximity" /> -->
 
 
 Starter Files

@@ -6,8 +6,9 @@ topics:
   - native
   - navigation
   - ui
+description: |
+  We'll focus on how Google's Material Design system works on Android devices (primarily phones) and explore the primary navigation model.
 ---
-
 
 Learning Objectives
 -------------------

@@ -5,20 +5,17 @@ topics:
   - color
   - ui
   - microcopy
+description: |
+  Exploration is key to creating beautiful user interfaces. We don't see design in our mind, we perceive it with our eyes, and interact with it with our hands. Until a possibility is down on paper or screen, it's not a possibility you've considered. Give yourself as many possibilities to choose from as you can.
+objectives:
+  - establish a basic color palette with a primary color and a bank of neutral colors
+  - check for appropriate contrast between text and background colors
+  - design user interface elements using a layered approach
+  - use symbols in Sketch to make reusable UI components
+  - translate a low-fidelity sketch/wireframe into a high-fidelity UI mockup
+  - identify appropriate user interface elements for given user tasks
+  - describe what microcopy is and its role in interface design
 ---
-
-
-Learning Objectives
--------------------
-
-- Establish a basic color palette with a primary color and a bank of neutral colors
-- Check for appropriate contrast between text and background colors
-- Design user interface elements using a layered approach
-- Use symbols in Sketch to make reusable UI components
-- Translate a low-fidelity sketch/wireframe into a high-fidelity UI mockup
-- Identify appropriate user interface elements for given user tasks
-- Describe what microcopy is and its role in interface design
-
 
 Resources
 ---------

@@ -7,9 +7,9 @@ topics:
   - ui-state
   - style-tile
   - moodboard
+description: |
+  In this lesson, we will explore a few different topics in order to stretch your UI skills.
 ---
-
-In this lesson, we will explore a few different topics in order to stretch your UI skills.
 
 As a new designer, it is not expected that you recreate the wheel, but rather pull inspiration from existing sources - both to train your designer's eye and to speed up your workflow.
 
@@ -17,11 +17,6 @@ It is also critical that you know how to encapsulate and communicate the visual 
 
 In addition, we will discuss why it is important to stretch your design in order to consider the users' whole experience rather than just the ideal states and explore how to design for these different scenarios.
 
-**Today's topics:**
-- UI Inspiration
-- Style Tiles
-- Moodboards
-- Multistate Screens
 
 Resources
 ---------

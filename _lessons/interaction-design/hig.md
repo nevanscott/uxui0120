@@ -5,17 +5,14 @@ topics:
   - native
   - navigation
   - ui
+description: |
+  We'll focus on Apple's Human Interface Guidelines for iOS (phones and tablets) for now, with an emphasis on the navigation models in iOS.
+objectives:
+  - describe the purpose of Apple's Human Interface Guidelines
+  - identify hierarchical vs. flat navigational patterns in iOS apps
+  - identify when to use [Navigation Bars][], [Tab Bars][], and [Toolbars][]
+  - identify features of an app which follow and violate guidelines.
 ---
-
-
-Learning Objectives
--------------------
-
-- Describe the purpose of Apple's Human Interface Guidelines
-- Identify hierarchical vs. flat navigational patterns in iOS apps
-- Identify when to use [Navigation Bars][], [Tab Bars][], and [Toolbars][]
-- Identify features of an app which follow and violate guidelines.
-
 
 Where to start
 --------------
@@ -34,12 +31,12 @@ The HIG is... detailed. You're not going to read through it all in one go. Here'
 
 
 Resources
---------------
+---------
 - [Iterative UI Design - WWDC 2016](https://developer.apple.com/videos/play/wwdc2016/805/) by Apple
 
 
 Ironhack Learning Platform
----------------------------
+--------------------------
 - [iOs vs Material design](http://learn.ironhack.com/#/learning_unit/3422)
 - [iOs Human interface guidelines](http://learn.ironhack.com/#/learning_unit/3428)
 - [iOs Human interface guidelines advanced](http://learn.ironhack.com/#/learning_unit/2950)
