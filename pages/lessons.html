@@ -5,5 +5,25 @@ nav_title: Lessons
 permalink: /lessons/
 ---
 
-{% assign lessons = site.lessons | sort:'day' %}
-{% include posts/by_unit.html posts=lessons %}
+{% assign groups = site.lessons | sort:'day' | group_by:'unit' | sort:'name' %}
+{% for group in groups %}
+  {% assign unit = site.units | where:'order',group.name | first %}
+  <h4>
+    <small>Unit {{ unit.order }}</small>
+    {{ unit.title }}
+  </h4>
+  <ul>
+		{% for post in group.items %}
+			<li>
+				<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | markdownify | strip_html | strip }}</a>
+				{% if post.due %}
+					<small>due&nbsp;{{ post.due | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
+				{% endif %}
+				{% if post.day %}
+					<small>{{ post.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
+				{% endif %}
+        {{ post.description | markdownify }}
+			</li>
+		{% endfor %}
+	</ul>
+{% endfor %}
