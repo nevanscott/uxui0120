@@ -4,16 +4,14 @@ day: 5
 topics:
   - survey
   - user-research
+description: |
+  Surveys can also help us form a better picture of our users, their behaviors, and preferences.
+objectives:
+- identify qualitative vs. quantitative data
+- use a goal-driven approach to developing survey questions
+- identify when using a survey may be appropriate for a project
+- identify some limitations of survey data
 ---
-
-Learning Objectives
--------------------
-
-- Identify qualitative vs. quantitative data
-- Use a goal-driven approach to developing survey questions
-- Identify when using a survey may be appropriate for a project
-- Identify some limitations of survey data
-
 
 Resources
 ----------

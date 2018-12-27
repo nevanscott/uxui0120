@@ -4,16 +4,16 @@ day: 2
 topics:
   - testing
   - usability
+description: |
+  In order to build better products, it's useful to test prototypes with potential users to identify opportunities to improve our designs before investing in full production.
+objectives:
+  - identify the elements of a usability test
+  - describe the difference between an in-person and remote usability test
+  - describe the difference between a moderated and unmoderated usability test
+  - prepare a moderated usability test
+  - run a moderated usability test based on scenarios
 ---
 
-Learning Objectives
--------------------
-
-- Identify the elements of a usability test
-- Describe the difference between an in-person and remote usability test
-- Describe the difference between a moderated and unmoderated usability test
-- Prepare a moderated usability test
-- Run a moderated usability test based on scenarios
 
 
 Resources

@@ -4,18 +4,16 @@ day: 6
 topics:
   - persona
   - user-research
+description: |
+  Personas are a deliverable which helps us summarize and communicate findings from user research, embodying those findings in a representative user which other stakeholders can empathize with as well.
+objectives:
+- identify key elements of a user persona
+- differentiate a persona from a stereotype
+- differentiate a persona from a demographic group
+- draw a connection between research insights and persona development
+- describe how a persona might be used in practice
+- develop a persona based on findings from user interviews
 ---
-
-Learning Objectives
--------------------
-
-- Identify key elements of a user persona
-- Differentiate a persona from a stereotype
-- Differentiate a persona from a demographic group
-- Draw a connection between research insights and persona development
-- Describe how a persona might be used in practice
-- Develop a persona based on findings from user interviews
-
 
 Ironhack Learning Platform
 -------------------

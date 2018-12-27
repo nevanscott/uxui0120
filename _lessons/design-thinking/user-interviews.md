@@ -4,18 +4,16 @@ day: 3
 topics:
   - interview
   - user-research
+description: |
+  When planning new design work, interviewing potential users helps us understand behaviors and contexts to narrow down the problem(s) we should address.
+objectives:
+  - identify open-ended vs. closed questions
+  - identify probing questions
+  - describe how much your subject should be talking during an interview
+  - differentiate between questions you want answered and prompts for your interview
+  - describe ways to put an interview subject at ease
+  - plan and conduct a brief user interview
 ---
-
-Learning Objectives
--------------------
-
-- Identify open-ended vs. closed questions
-- Identify probing questions
-- Describe how much your subject should be talking during an interview
-- Differentiate between questions you want answered and prompts for your interview
-- Describe ways to put an interview subject at ease
-- Plan and conduct a brief user interview
-
 
 Resources
 ---------

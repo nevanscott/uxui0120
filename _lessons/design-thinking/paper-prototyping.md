@@ -3,13 +3,12 @@ title: Paper Prototyping
 day: 4
 topics:
   - prototyping
+description: |
+  Prototyping is often best done in cheap and fast ways, so that we can work out the kinks in design concepts quickly and deliver a better final product.
+objectives:
+  - make prototypes out of paper!
+  - explain why cheap prototyping methods are valuable
 ---
-
-Learning Objectives
--------------------
-
-- Make prototypes out of paper!
-- Explain why cheap prototyping methods are valuable
 
 
 Materials

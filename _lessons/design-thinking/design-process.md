@@ -5,14 +5,13 @@ topics:
   - design-thinking
   - design-process
   - double-diamond
+description: |
+  In this course, we'll take an iterative approach to design. No one "process" fits all projects. However,  we'll find it useful to alternate between *divergent* (exploratory) and *convergent* (decisive) thinking, and to find ways to test ideas efficiently to gain confidence in our decisions.
+objectives:
+  - outline the 5 parts of the d.school design thinking process
+  - describe the double diamond process model
+  - explain why it's important to identify problems before devising solutions
 ---
-
-Learning Objectives
--------------------
-
-- Outline the 5 parts of the d.school design thinking process
-- Describe the double diamond process model
-- Identify reasons for identifying problems before devising solutions
 
 
 Resources
