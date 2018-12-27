@@ -25,6 +25,15 @@ layout: default
 		{% endfor %}
 	</ul>
 	{% endif %}
+	{{ page.description | markdownify }}
+	{% if page.objectives %}
+		<h2>Learning Objectives</h2>
+		<ul>
+		  {% for objective in page.objectives %}
+		    <li>{{ objective | smartify }}</li>
+		  {% endfor %}
+		</ul>
+	{% endif %}
 	{{ content }}
 </article>
 
