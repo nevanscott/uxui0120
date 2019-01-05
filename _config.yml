@@ -48,36 +48,100 @@ defaults:
       type: "topics"
     values:
       layout: "topic"
+
   -
     scope:
-      path: "*/design-thinking"
+      path: "lessons/design-thinking"
     values:
       unit: 1
   -
     scope:
-      path: "*/interaction-design"
+      path: "lessons/interaction-design"
     values:
       unit: 2
   -
     scope:
-      path: "*/information-architecture"
+      path: "lessons/information-architecture"
     values:
       unit: 3
   -
     scope:
-      path: "*/web-development"
+      path: "lessons/web-development"
     values:
       unit: 4
   -
     scope:
-      path: "*/review"
+      path: "lessons/review"
     values:
       unit: 5
   -
     scope:
-      path: "*/careers"
+      path: "lessons/careers"
     values:
       unit: 6
+
+  -
+    scope:
+      path: "projects/design-thinking"
+    values:
+      unit: 1
+  -
+    scope:
+      path: "projects/interaction-design"
+    values:
+      unit: 2
+  -
+    scope:
+      path: "projects/information-architecture"
+    values:
+      unit: 3
+  -
+    scope:
+      path: "projects/web-development"
+    values:
+      unit: 4
+  -
+    scope:
+      path: "projects/review"
+    values:
+      unit: 5
+  -
+    scope:
+      path: "projects/careers"
+    values:
+      unit: 6
+
+  -
+    scope:
+      path: "homework/design-thinking"
+    values:
+      unit: 1
+  -
+    scope:
+      path: "homework/interaction-design"
+    values:
+      unit: 2
+  -
+    scope:
+      path: "homework/information-architecture"
+    values:
+      unit: 3
+  -
+    scope:
+      path: "homework/web-development"
+    values:
+      unit: 4
+  -
+    scope:
+      path: "homework/review"
+    values:
+      unit: 5
+  -
+    scope:
+      path: "homework/careers"
+    values:
+      unit: 6
+
 relative_permalinks: false
 future: false
 include: ["_redirects"]
