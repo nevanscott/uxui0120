@@ -31,6 +31,6 @@ You can find wireframe kits in the following articles :
 Ironhack Learning Platform
 --------------------------
 
-- [Style Tiles](http://learn.ironhack.com/#/learning_unit/3408)
-- [Moodboards](http://learn.ironhack.com/#/learning_unit/3394)
-- [Designing Multistate Screens](http://learn.ironhack.com/#/learning_unit/3410)
+- [Style Tiles](http://learn.ironhack.com/#/learning_unit/7092)
+- [Moodboards](http://learn.ironhack.com/#/learning_unit/7086)
+- [Designing Multistate Screens](http://learn.ironhack.com/#/learning_unit/7077)
