@@ -42,4 +42,4 @@ Resources
 Ironhack Learning Platform
 -----------
 
-- [User Journeys](http://learn.ironhack.com/#/learning_unit/3350)
+- [User Journeys](http://learn.ironhack.com/#/learning_unit/7021)
