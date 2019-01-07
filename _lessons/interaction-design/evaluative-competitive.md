@@ -23,4 +23,4 @@ objectives:
 Ironhack Learning Platform
 --------------------------
 
-- [Business and Competitive Analysis](http://learn.ironhack.com/#/learning_unit/3327)
+- [Business and Competitive Analysis](http://learn.ironhack.com/#/learning_unit/7032)
