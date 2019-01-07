@@ -35,6 +35,6 @@ Tools
 Ironhack Learning Platform
 --------------------------
 
-- [Concept testing](http://learn.ironhack.com/#/learning_unit/3377)
-- [Ideation exercises](http://learn.ironhack.com/#/learning_unit/1327)
-- [Mindmapping / Brainstorming](http://learn.ironhack.com/#/learning_unit/3347)
+- [Concept testing](http://learn.ironhack.com/#/learning_unit/7024)
+- [Ideation exercises](http://learn.ironhack.com/#/learning_unit/7023)
+- [Mindmapping / Brainstorming](http://learn.ironhack.com/#/learning_unit/7020)

@@ -24,6 +24,6 @@ Materials
 Ironhack Learning Platform
 ---------
 
-- [Wireframes](http://learn.ironhack.com/#/learning_unit/3400)
-- [Concept sketching for UX](http://learn.ironhack.com/#/learning_unit/3371)
-- [User flows](http://learn.ironhack.com/#/learning_unit/2703)
+- [Wireframes](http://learn.ironhack.com/#/learning_unit/7049)
+- [Concept sketching for UX](http://learn.ironhack.com/#/learning_unit/7044)
+- [User flows](http://learn.ironhack.com/#/learning_unit/7039)

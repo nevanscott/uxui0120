@@ -82,5 +82,5 @@ Resources
 Ironhack Learning Platform
 --------------------------
 
-- [Material design](http://learn.ironhack.com/#/learning_unit/3423)
-- [Material design patterns](http://learn.ironhack.com/#/learning_unit/3425)
+- [Material design](http://learn.ironhack.com/#/learning_unit/7074)
+

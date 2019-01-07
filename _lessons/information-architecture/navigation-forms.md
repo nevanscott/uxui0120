@@ -30,5 +30,5 @@ Learning Objectives
 Ironhack Learning Platform
 ----------
 
-- [Forms and Icons](http://learn.ironhack.com/#/learning_unit/3407)
-- [Card Sorting](http://learn.ironhack.com/#/learning_unit/1949)
+- [Forms and Icons](http://learn.ironhack.com/#/learning_unit/7089)
+- [Card Sorting](http://learn.ironhack.com/#/learning_unit/7037)
