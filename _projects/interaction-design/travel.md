@@ -54,5 +54,5 @@ If you have time, string together some of your screens into a working prototype.
 Give feedback to your peers!
 ---------------------------
 
-- [Presentation feedback](https://drive.google.com/drive/u/1/folders/1NJX2VAEs_bdsveH-H5bYnjUUBOoFKxYA)
-- [Group retrospective](https://drive.google.com/drive/u/1/folders/1a0Si3XhUEghzi0hVdO7j-qsm2w0ajZpQ)
+- [Presentation feedback](https://drive.google.com/drive/folders/1osXE9wGA66v-hgVIRmEPSXyIyDWbf8Gi)
+- [Group retrospective](https://drive.google.com/drive/folders/1QsM0w7gAPTm8StCJUyxrlvUCTglD4P8O)
