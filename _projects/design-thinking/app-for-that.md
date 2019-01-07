@@ -82,5 +82,5 @@ For this prototype, you'll stick to sketches on paper, but also take photos of y
 Give feedback to your peers!
 ---------------------------
 
-- [Presentation feedback](https://drive.google.com/drive/u/1/folders/1LajSwnjyMJTzbderjN7IlIqFBiIbBpNO)
-- [Group retrospective](https://drive.google.com/drive/u/1/folders/1a0Si3XhUEghzi0hVdO7j-qsm2w0ajZpQ)
+- [Presentation feedback](https://drive.google.com/drive/folders/1Rr3pGaOqGf-hexTIRN_0Fd2aZfts5CJf)
+- [Group retrospective](https://drive.google.com/drive/folders/1QsM0w7gAPTm8StCJUyxrlvUCTglD4P8O)
