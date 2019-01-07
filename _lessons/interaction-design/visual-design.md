@@ -48,8 +48,6 @@ Tools
 Ironhack Learning Platform
 ---------------------------
 
-- [UI design elements](http://learn.ironhack.com/#/learning_unit/3368)
-- [Analyzing aesthetics](http://learn.ironhack.com/#/learning_unit/3393)
-- [Moodboard](http://learn.ironhack.com/#/learning_unit/3394)
-- [Typography](http://learn.ironhack.com/#/learning_unit/3404)
-- [Sketch recap](http://learn.ironhack.com/#/learning_unit/3397)
+- [Analyzing aesthetics](http://learn.ironhack.com/#/learning_unit/7069)
+- [Moodboard](http://learn.ironhack.com/#/learning_unit/7086)
+- [Typography](http://learn.ironhack.com/#/learning_unit/7090)
