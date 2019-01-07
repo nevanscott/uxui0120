@@ -37,7 +37,6 @@ Resources
 
 Ironhack Learning Platform
 --------------------------
-- [iOs vs Material design](http://learn.ironhack.com/#/learning_unit/3422)
-- [iOs Human interface guidelines](http://learn.ironhack.com/#/learning_unit/3428)
-- [iOs Human interface guidelines advanced](http://learn.ironhack.com/#/learning_unit/2950)
-- [iOs icons and images](http://learn.ironhack.com/#/learning_unit/2949)
+- [iOs vs Material design](http://learn.ironhack.com/#/learning_unit/7072)
+- [iOs Human interface guidelines](http://learn.ironhack.com/#/learning_unit/7073)
+
