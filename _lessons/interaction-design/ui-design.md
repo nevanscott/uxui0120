@@ -47,7 +47,7 @@ Ironhack Learning Platform
 - [User interface design principles](http://learn.ironhack.com/#/learning_unit/7047)
 - [User interface fundamentals](http://learn.ironhack.com/#/learning_unit/7048)
 - [Design systems](http://learn.ironhack.com/#/learning_unit/7096)
-- [Landing pages](http://learn.ironhack.com/#/learning_unit/7048)
+- [Landing pages](http://learn.ironhack.com/#/learning_unit/7146)
 - [Forms & icons](http://learn.ironhack.com/#/learning_unit/7089)
 - [Designing multistate screens](http://learn.ironhack.com/#/learning_unit/7077)
 - [Lighting, shadows and consistency](http://learn.ironhack.com/#/learning_unit/7079)
