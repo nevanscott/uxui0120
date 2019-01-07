@@ -40,9 +40,5 @@ Boilerplate
 Ironhack Learning Platform
 ----------
 
-- [Text editors](http://learn.ironhack.com/#/learning_unit/3462)
-- [Intro to HTML](http://learn.ironhack.com/#/learning_unit/3463)
-- [Welcome to HTML](http://learn.ironhack.com/#/learning_unit/3464)
-- [Styling to HTML](http://learn.ironhack.com/#/learning_unit/3467)
-- [HTML: Block - Inline Elements](http://learn.ironhack.com/#/learning_unit/3469)
-- [HTML: Structure of a website](http://learn.ironhack.com/#/learning_unit/3470)
+- [Intro to HTML](http://learn.ironhack.com/#/learning_unit/7121)
+- [HTML: Block - Inline Elements](http://learn.ironhack.com/#/learning_unit/7122)
