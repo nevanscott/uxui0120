@@ -70,5 +70,5 @@ Show how this feature might integrate with Google Image Search on the desktop we
 Give feedback to your peers!
 ---------------------------
 
-- [Presentation feedback](https://drive.google.com/drive/u/1/folders/1CLL3vkdg1VIctGdZjrA5xWFkrYlFMhbF)
-- [Group retrospective](https://drive.google.com/drive/u/1/folders/1a0Si3XhUEghzi0hVdO7j-qsm2w0ajZpQ)
+- [Presentation feedback](https://drive.google.com/drive/folders/1WA23elDV-GtInYS9V96UoYbXQDkdkyOI)
+- [Group retrospective](https://drive.google.com/drive/folders/1QsM0w7gAPTm8StCJUyxrlvUCTglD4P8O)
