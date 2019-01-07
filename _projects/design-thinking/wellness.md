@@ -100,4 +100,4 @@ We'll have time dedicated after the presentations of this project to write up th
 Give feedback to your peers!
 ---------------------------
 
- - [Presentation feedback](https://drive.google.com/drive/u/1/folders/1PqwzE3nzE0f6TDLHmQ3hUzG0snyZA6tS)
+ - [Presentation feedback](https://drive.google.com/drive/folders/1Rr3pGaOqGf-hexTIRN_0Fd2aZfts5CJf)
