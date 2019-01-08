@@ -42,3 +42,4 @@ Ironhack Learning Platform
 
 - [Intro to HTML](http://learn.ironhack.com/#/learning_unit/7121)
 - [HTML: Block - Inline Elements](http://learn.ironhack.com/#/learning_unit/7122)
+- [Development Handoff - Zeplin](http://learn.ironhack.com/#/learning_unit/7104)
