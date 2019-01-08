@@ -36,3 +36,4 @@ Ironhack Learning Platform
 --------------------------
 
 - [User stories](http://learn.ironhack.com/#/learning_unit/7083)
+- [Jobs-to-be-Done](http://learn.ironhack.com/#/learning_unit/7067)
