@@ -1,7 +1,7 @@
 ---
 title: Hackathon
-assigned: 36
-due: 36
+assigned: 35
+due: 35
 topics:
   - content
   - html
