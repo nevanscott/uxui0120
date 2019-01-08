@@ -4,11 +4,11 @@ assigned: 5
 due: 7
 ---
 
-**Disclaimer: Please do this homework after completing the [Sketch Basics](https://uxui1018.nevan.org/homework/sketch/) homework assignment first.**
+**Disclaimer: Please do this homework after completing the [Sketch Basics](https://uxui0119.nevan.org/homework/sketch-basics/) homework assignment first.**
 
 Now that you've reviewed some Sketch basics and gotten practice with tracing, we are going to stretch your skills even further. 
 
- **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/1/folders/1WMbUW-54Q5pTAPmw5Ip-iPI1AULVYRx6) in the "Completed Work" folder.
+ **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/0/folders/1AAOHAsmPxz_lARLoxXnLuQ3dicahSV55) in the "Completed Work" folder.
 
 
 Deliverable: Mobile App Copy
@@ -25,12 +25,12 @@ It is **HIGHLY** recommended that you use symbols for this exercise, so that you
 2. For added practice, download the "Lesson File" provided in the video description and follow along or complete on your own after watching the tutorial.
 
 **Deliverable Instructions**
-1. Download the images and icons from [the Google Drive](https://drive.google.com/drive/u/1/folders/1WMbUW-54Q5pTAPmw5Ip-iPI1AULVYRx6).
+1. Download the images and icons from [the Google Drive](https://drive.google.com/drive/u/0/folders/1AAOHAsmPxz_lARLoxXnLuQ3dicahSV55).
 2. Replicate the screens side by side (no tracing this time!).
 3. Use symbols to build the cards and overrides to change the copy, photos, star ratings and avatars. You can be creative with the text and photos. 
 4. You will make use of masks to update the photos and avatars. Check out [this brief tutorial video](https://www.youtube.com/watch?v=3T02VqGf_d8) for a quick refresher.
 5. Keep an eye on the details! Watch out for shadows, gradients, rounded corners, spacing, alignment, etc.
-6. Upload your Sketch file [to the Google Drive](https://drive.google.com/drive/u/1/folders/1WMbUW-54Q5pTAPmw5Ip-iPI1AULVYRx6) in the "Completed Work" folder.
+6. Upload your Sketch file [to the Google Drive](https://drive.google.com/drive/u/0/folders/1AAOHAsmPxz_lARLoxXnLuQ3dicahSV55) in the "Completed Work" folder.
 
 
 Pro Tips
