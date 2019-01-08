@@ -1,7 +1,6 @@
 ---
 title: CS - Mandatory LinkedIn & CV Talk
 day: 12
-due: 12
 ---
 
 
