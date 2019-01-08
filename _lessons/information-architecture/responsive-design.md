@@ -14,3 +14,4 @@ In this lesson, we will explore 3 different topics that are focused on your UI d
 Ironhack Learning Platform
 -------------
 - [Responsive Design](http://learn.ironhack.com/#/learning_unit/7087)
+- [Grids](http://learn.ironhack.com/#/learning_unit/7071)

@@ -24,3 +24,4 @@ Ironhack Learning Platform
 - [Intro to microinteractions](http://learn.ironhack.com/#/learning_unit/7100)
 - [Intro to Flinto](http://learn.ironhack.com/#/learning_unit/7101)
 - [Flinto Advanced Kata](http://learn.ironhack.com/#/learning_unit/7106)
+- [Advanced Interaction Design - Microinteractions](http://learn.ironhack.com/#/learning_unit/7100)

@@ -42,3 +42,8 @@ Ironhack Learning Platform
 
 - [Intro to HTML](http://learn.ironhack.com/#/learning_unit/7121)
 - [HTML: Block - Inline Elements](http://learn.ironhack.com/#/learning_unit/7122)
+- [Development Handoff - Zeplin](http://learn.ironhack.com/#/learning_unit/7104)
+- [External Resources - Web Design Week](http://learn.ironhack.com/#/learning_unit/7119)
+- [Introduction to Git/Github](http://learn.ironhack.com/#/learning_unit/1495)
+- [Cheatsheet - HTML](http://learn.ironhack.com/#/learning_unit/7124)
+- [Cheatsheet - Structure a website:](http://learn.ironhack.com/#/learning_unit/7125)
