@@ -51,94 +51,94 @@ defaults:
 
   -
     scope:
-      path: "lessons/design-thinking"
+      path: "_lessons/design-thinking"
     values:
       unit: 1
   -
     scope:
-      path: "lessons/interaction-design"
+      path: "_lessons/interaction-design"
     values:
       unit: 2
   -
     scope:
-      path: "lessons/information-architecture"
+      path: "_lessons/information-architecture"
     values:
       unit: 3
   -
     scope:
-      path: "lessons/web-development"
+      path: "_lessons/web-development"
     values:
       unit: 4
   -
     scope:
-      path: "lessons/review"
+      path: "_lessons/review"
     values:
       unit: 5
   -
     scope:
-      path: "lessons/careers"
+      path: "_lessons/careers"
     values:
       unit: 6
 
   -
     scope:
-      path: "projects/design-thinking"
+      path: "_projects/design-thinking"
     values:
       unit: 1
   -
     scope:
-      path: "projects/interaction-design"
+      path: "_projects/interaction-design"
     values:
       unit: 2
   -
     scope:
-      path: "projects/information-architecture"
+      path: "_projects/information-architecture"
     values:
       unit: 3
   -
     scope:
-      path: "projects/web-development"
+      path: "_projects/web-development"
     values:
       unit: 4
   -
     scope:
-      path: "projects/review"
+      path: "_projects/review"
     values:
       unit: 5
   -
     scope:
-      path: "projects/careers"
+      path: "_projects/careers"
     values:
       unit: 6
 
   -
     scope:
-      path: "homework/design-thinking"
+      path: "_homework/design-thinking"
     values:
       unit: 1
   -
     scope:
-      path: "homework/interaction-design"
+      path: "_homework/interaction-design"
     values:
       unit: 2
   -
     scope:
-      path: "homework/information-architecture"
+      path: "_homework/information-architecture"
     values:
       unit: 3
   -
     scope:
-      path: "homework/web-development"
+      path: "_homework/web-development"
     values:
       unit: 4
   -
     scope:
-      path: "homework/review"
+      path: "_homework/review"
     values:
       unit: 5
   -
     scope:
-      path: "homework/careers"
+      path: "_homework/careers"
     values:
       unit: 6
 
