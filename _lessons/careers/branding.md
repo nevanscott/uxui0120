@@ -1,7 +1,7 @@
 ---
 title: CS - Personal Branding Workshop
-day: 27
-due: 27
+day: 43
+due: 43
 ---
 
 
