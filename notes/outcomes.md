@@ -8,4 +8,4 @@ Here you have the links where you can find all the resources that Gemma from Out
 
 - [Ironhack Campus Events](https://calendar.google.com/calendar/embed?src=ironhack.com_d65thkoj4bqvmeqod1gsiqp4f8@group.calendar.google.com&ctz=Europe/Madrid&pli=1)
 - [Ironhack Meetup Events](https://www.meetup.com/ironhackbcn/)
-- [Link to the Drive](https://drive.google.com/open?id=1TX3Iz8MENd3OlL1HuzEL3XLtxT4I-sg6) with all career services resources
+- [Link to the Drive](https://drive.google.com/drive/folders/1kyVC8LNrAHjmDjJdYkhxv079nlXszbhD) with all career services resources
