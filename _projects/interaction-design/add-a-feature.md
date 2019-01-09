@@ -78,6 +78,33 @@ Your will have 6 minutes to summarize your work. We should get a strong sense of
 - Next steps
 
 
+Suggested Roadmap
+----------------
+
+### Day 1
+
+- Heuristics & CRAP
+- Define user methods (surveys, interviews...) and execute
+- Define problem and user
+
+### Day 2
+
+- Define new user flow with added feature
+- Paper prototype
+- Test & iterate
+- Start on Sketch
+
+### Day 3
+- Sketch high-fi 
+- Test & iterate
+- InVision
+- Rehearse presentation
+
+### Day 4
+
+- Presentation in the morning
+
+
 Report <small>due {{ page.assigned | plus:4 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 6pm</small>
 ------
 

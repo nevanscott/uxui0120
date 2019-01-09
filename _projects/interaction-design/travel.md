@@ -1,5 +1,5 @@
 ---
-title: Travel
+title: Translate
 assigned: 12
 due: 13
 topics:
@@ -8,7 +8,7 @@ topics:
   - navigation
 ---
 
-Apple has decided to launch an app called Travel. Following their Human Interface Guidelines, develop the concept and UI of a few key screens to get buy-in for further work.
+Apple has decided to launch an app called Translate. Following their Human Interface Guidelines, develop the concept and UI of a few key screens to get buy-in for further work.
 
 ## Setup
 
