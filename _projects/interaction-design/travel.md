@@ -36,7 +36,7 @@ Apple has decided to launch an app called Travel. Following their Human Interfac
 - Be careful not to rely too much on symbols while exploring design concepts. When you get closer to a confident final design, start cleaning up your document with a system of symbols and well-named layer groups.
 
 ## Personas
-- [Personas Folder](https://drive.google.com/open?id=16ZA5gIpvhW-EGw9Rqo_ZN6WjkuAJl1KX)
+- [Personas Folder](https://drive.google.com/drive/u/0/folders/1EOUHRyb67E2QaOhPo93Op0_huT8oRiDy)
 
 ## Presentation (6 minutes)
 
