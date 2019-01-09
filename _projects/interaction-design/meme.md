@@ -37,7 +37,7 @@ Google is leveraging its powerful image search to enter the market for meme gene
 
 ## Personas
 
-- [Personas folder](https://drive.google.com/drive/folders/1OFjDaEHAE2Im5Spq9kV--FlnrwpnfSjF)
+- [Personas folder](https://drive.google.com/drive/u/0/folders/1R10EHBEqinrf5Xp4O2S5ihoH-V3HXqfe)
 
 
 ## Suggestions
