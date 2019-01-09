@@ -87,6 +87,39 @@ For this project, use Sketch and Invision to make a low-fidelity version of your
 **Tip:** If you haven't set it up already, use the [Craft plugin](https://www.invisionapp.com/craft) for Sketch to make it easier to sync your Sketch artboards to Invision.
 
 
+Suggested Roadmap
+-----------------
+
+### Friday
+
+- Choose a topic / type of wellness to focus on 
+- Plan the following days
+- Prepare and send your survey
+
+### Week-end
+
+- Prepare and conduct your interviews
+- Finish your research
+- Gather the results
+
+### Monday
+
+- "Translate" your research results in features
+- Paper prototype
+- Test & iterate
+
+### Tuesday
+
+- Sketch low-fidelity prototype
+- Test & iterate
+- InVision
+- Rehearse your presentation
+
+### Wednesday
+
+- Presentation in the morning
+
+
 Report
 ------
 
