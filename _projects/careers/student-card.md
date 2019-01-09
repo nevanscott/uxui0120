@@ -5,4 +5,4 @@ due: 40
 ---
 
 If your Student Card is not ready, you cannot participate in the Hiring Week.
-You have to fill you Student Card [HERE](https://drive.google.com/open?id=1kyVC8LNrAHjmDjJdYkhxv079nlXszbhD)
+You have to fill you Student Card [HERE](https://docs.google.com/presentation/d/1jGWxOc4Wz1ukBlx2by4qT-4nEmzmY5Mwi961UJv7ssY/edit)
