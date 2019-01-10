@@ -1,7 +1,7 @@
 ---
 title: Translate
-assigned: 12
-due: 13
+assigned: 14
+due: 16
 topics:
   - native
   - ui
@@ -13,7 +13,7 @@ Apple has decided to launch an app called Translate. Following their Human Inter
 ## Setup
 
 - Work in a pair
-- 2 days
+- 3 days <small>(plus the weekend!)</small>
 
 ## Materials
 
