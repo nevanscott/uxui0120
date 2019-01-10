@@ -18,7 +18,7 @@ Setup
 -----
 
 - Individual Project
-- 5 class days
+- 4 class days
 
 
 Materials
