@@ -1,7 +1,7 @@
 ---
 title: Translate
-assigned: 12
-due: 13
+assigned: 14
+due: 16
 topics:
   - native
   - ui
