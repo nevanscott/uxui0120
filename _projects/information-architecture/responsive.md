@@ -1,6 +1,6 @@
 ---
 title: Responsive E-Commerce Redesign
-assigned: 21
+assigned: 22
 due: 25
 topics:
   - content-audit
@@ -26,7 +26,7 @@ The website you’re redesigning already has content. You’ll want to inventory
 ## Setup
 
 - Teams of 2–3
-- 5 class days
+- 4 class days
 
 
 ## Materials
