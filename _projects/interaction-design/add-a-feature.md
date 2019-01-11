@@ -62,9 +62,9 @@ Requirements
 Timeline
 --------
 
-- Submit Project Plan <small>by {{ page.assigned | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 4pm</small>
+- Submit Project Plan <small>by {{ page.assigned | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 5pm</small>
 - End-Of-Project Presentations will start <small>{{ page.assigned | plus:3 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 2:30am</small>
-- Submit a final report of your project <small>by {{ page.assigned | plus:5 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 6pm</small>
+- Submit a final report of your project <small>by {{ page.assigned | plus:5 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 9am</small>
 
 
 End-of-Project Presentation <small>(6 minutes)</small>
