@@ -1,0 +1,15 @@
+---
+title: Add a Feature Design Report
+assigned: 19
+due: 21
+---
+
+Write a report about your [Add a Feature]({{ site.baseurl }}{% link _projects/interaction-design/add-a-feature.md %}). This may be similar to a written version of your presentation, but you'll have the opportunity to go into more detail.
+
+Next week, bring this with you to your 1-on-1 with one of the TAs, to review the project with them.
+
+Resources
+---------
+
+- [Designing Case Studies: Showcasing A Human-Centered Design Process](https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/) by Senongo Akpem
+- [Questions I ask when reviewing a design](https://signalvnoise.com/posts/3024-questions-i-ask-when-reviewing-a-design) by Jason Fried
