@@ -1,6 +1,6 @@
 ---
 title: Material Design
-day: 14
+day: 12
 topics:
   - design-systems
   - native
