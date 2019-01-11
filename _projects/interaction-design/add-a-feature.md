@@ -1,7 +1,7 @@
 ---
 title: Add a Feature
 assigned: 16
-due: 20
+due: 19
 topics:
   - native
   - ui
@@ -18,7 +18,7 @@ Setup
 -----
 
 - Individual Project
-- 5 class days
+- 4 class days
 
 
 Materials
