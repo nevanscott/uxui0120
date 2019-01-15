@@ -4,7 +4,7 @@ assigned: 20
 due: 21
 ---
 
-In order to understand Contextual Inquiry and other research topics in more depth, please watch the below two videos. The first one is more theoretical and the second one is a practical example. Then read the four short readings to learn more about research methods.  
+In order to prepare for Desirability Testing class, please watch the below video and read the two articles. 
 
 Videos
 --------
