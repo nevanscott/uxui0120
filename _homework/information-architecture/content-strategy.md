@@ -1,5 +1,5 @@
 ---
-title: Content Strategy
+title: Content Strategy readings
 assigned: 20
 due: 21
 ---
