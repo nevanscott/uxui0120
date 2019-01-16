@@ -1,5 +1,5 @@
 ---
-title: Content Strategy
+title: Content Strategy & IA 
 day: 21
 topics:
   - ia
