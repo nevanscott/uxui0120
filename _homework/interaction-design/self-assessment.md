@@ -15,4 +15,13 @@ In order to start reflecting on your evolution through this Bootcamp, please
 
 This will be the first self-assessment that you do. The purpose is to establish a baseline understanding of where you are and set some goals for the rest of the class, with an eye toward your career development.
 
-The main purpose of this exercise is your personal growth as a designer, not on project-level but towards a more general skill set base.
+The main purpose of this exercise is your personal growth as a designer, not on project-level but towards a more general skill set base. Remember that by reading your post, we should be able to understand the justification of your self-assessment as if we were in a meeting (be clear but still concise!)
+
+
+Deliverables
+------------
+
+Please send an email to ta-ux-bcn@ironhack.com with: 
+
+- A clear photo of the completed grid
+- The document where you wrote down your self-assessment about the previously mentionned points (career goals, areas of development, ares of improvement)
