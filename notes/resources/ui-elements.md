@@ -29,6 +29,7 @@ permalink: /notes/ui-elements/
 - [Color Farm](http://color.farm/newsletter)
 - [Picular](https://picular.co/)
 - [Brand Colors](https://brandcolors.net/)
+- [Color Suply](https://colorsupplyyy.com/)
 
 
 ## Photos
