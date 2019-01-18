@@ -1,6 +1,6 @@
 ---
 title: CS - Mandatory LinkedIn & CV Talk
-day: 12
+day: 18
 ---
 
 
