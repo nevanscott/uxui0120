@@ -63,7 +63,7 @@ Timeline
 --------
 
 - Submit Project Plan <small>by {{ page.assigned | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 5pm</small>
-- End-Of-Project Presentations will start <small>{{ page.assigned | plus:3 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 2:30am</small>
+- End-Of-Project Presentations will start <small>{{ page.assigned | plus:4 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 09:30am</small>
 - Submit a final report of your project <small>by {{ page.assigned | plus:5 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 9am</small>
 
 
@@ -105,7 +105,7 @@ Suggested Roadmap
 - Presentation in the morning
 
 
-Report <small>due {{ page.assigned | plus:4 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 6pm</small>
+Report <small>due {{ page.assigned | plus:5 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 9am</small>
 ------
 
 Your report will gather all of your work from this project into a [Medium](https://medium.com/) article. You should also include a self-assessment based on how you think this project went.
