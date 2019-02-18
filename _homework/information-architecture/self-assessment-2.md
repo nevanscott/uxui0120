@@ -1,7 +1,7 @@
 ---
 title: Competencies Self-assessment
 assigned: 29
-due: 30
+due: 32
 ---
 
 In order to start reflecting on your evolution through this Bootcamp, please
