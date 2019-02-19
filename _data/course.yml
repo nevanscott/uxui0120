@@ -14,6 +14,9 @@ nav:
   - notes
 start_date: January 7, 2019
 days: 50
+repo:
+  host: Github
+  url: https://github.com/nevanscott/uxui0119
 notes_nav:
   -
     section: About the Course
