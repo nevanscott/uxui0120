@@ -1,4 +1,4 @@
 ---
-title: Group crits with Nevan
-day: 39
+title: Group crits
+day: 40
 ---
