@@ -37,7 +37,15 @@ To run a local version of the website:
 Starting a new class
 --------------------
 
-Make appropriate updates in the following files:
-
-- `_data/course.yml`
-- `README.md`
+1. Clone the repo for the class you want to base the new class on.
+2. Make appropriate updates in the following files:
+    - `_data/course.yml`
+    - `README.md`
+3. Run `bundle install` then `bundle exec jekyll serve --livereload` to confirm everything is working as expected.
+4. Commit the changes with a message like `April 2019 cohort`.
+5. Create a repository on github for the new class.
+6. Remove the exisiting remote `git remote remove origin`.
+7. Add the new remote and push to it. (May take a minute.)
+8. Create a new site on Netlify, building from the Github repo you just created. (Keep the basic settings.)
+9. Change the `Site name` to something more appropriate, like `uxui0419`.
+10. Add a custom domain as desired.
