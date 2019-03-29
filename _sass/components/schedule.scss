@@ -12,7 +12,7 @@
       display: contents;
     }
     .today > * {
-      background: $neutral-100;
+      background: $neutral-800;
     }
   }
   .today {
@@ -29,7 +29,7 @@
     overflow: hidden;
     .month {
       float: left;
-      color: $neutral-300;
+      color: $neutral-400;
       display: none;
     }
     &.monday, &.day-1 {
@@ -53,15 +53,15 @@
     text-decoration: none;
     .label {
       font-size: 0.7em;
-      color: $brand-600;
+      color: $brand-500;
       display: block;
       font-weight: 900;
       text-transform: uppercase;
       letter-spacing: 0.1em;
     }
     &:hover {
-      background-color: white;
-      box-shadow: 0 0 1em change-color($neutral-700, $alpha: 0.25);
+      background-color: $neutral-700;
+      box-shadow: 0 0 1em change-color($neutral-900, $alpha: 0.5, $lightness: 5%);
     }
   }
   .project-due a {
@@ -71,7 +71,7 @@
       color: inherit;
     }
     &:hover {
-      background: $brand-600;
+      background: $brand-400;
     }
   }
 

@@ -14,15 +14,16 @@ body {
   font-weight: 450;
 	line-height: $lh;
 	padding: 0;
-	background: change-color($neutral, $lightness: 97%);
-	color: $neutral-900;
+	background: change-color($neutral, $lightness: 5%);
+  background: $neutral-900;
+  color: $neutral-100;
 }
 
 a {
-	color: black;
+	color: white;
 }
 a:hover, a:focus, a:active {
-	color: #009;
+	color: $secondary-300;
 }
 
 .current a {
