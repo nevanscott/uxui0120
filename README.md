@@ -1,7 +1,7 @@
 UX/UI Bootcamp
 ==============
 
-This is the source code for https://uxui0119.nevan.org, the course website of the UX/UI bootcamp at Ironhack in Barcelona, January–March 2019. [Nevan Scott](http://nevanscott.com/) teaches this 9-week bootcamp at [Ironhack Barcelona](http://www.ironhack.com/en/locations/barcelona).
+This is the source code for https://uxui0419.nevan.org, the course website of the UX/UI bootcamp at Ironhack in Barcelona, April–May 2019. [Nevan Scott](http://nevanscott.com/) teaches this 9-week bootcamp at [Ironhack Barcelona](http://www.ironhack.com/en/locations/barcelona).
 
 
 License
@@ -27,8 +27,17 @@ Installation
 To run a local version of the website:
 
 1. Make sure you have [bundler](https://bundler.io) installed.
-2. Run `git clone git@github.com:nevanscott/uxui1018.git`
-3. Run `cd uxui1018`
+2. Run `git clone git@github.com:nevanscott/uxui0419.git`
+3. Run `cd uxui0419`
 4. Run `bundle install`
 5. Run `bundle exec jekyll serve --livereload`
 6. Visit http://localhost:4000
+
+
+Starting a new class
+--------------------
+
+Make appropriate updates in the following files:
+
+- `_data/course.yml`
+- `README.md`
