@@ -3,10 +3,8 @@
   class="calendar-date {{ date_xml | date:"%B" | downcase }}"
 >
   <div class="date {{ dow | downcase }} day-{{ dom }}">
-    <span class="month">
-      {{ date_xml | date:"%B" }}
-    </span>
     <span class="day">{{ dom }}</span>
+    <span class="month">{{ date_xml | date:"%B" }}</span>
   </div>
   {% include schedule/due.html %}
   {% include schedule/agenda.html %}

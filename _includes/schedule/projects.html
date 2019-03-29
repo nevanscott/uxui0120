@@ -1,4 +1,5 @@
 <div class="projects">
+  <div class="label">Workshop</div>
   {%- for post in site.projects -%}
     {%- assign post_date_xml = post.assigned | class_date: site.data.course.start_date | date_to_string | date_to_xmlschema -%}
     {%- if post.due -%}
