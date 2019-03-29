@@ -50,6 +50,7 @@
 
 #search-input {
 	box-sizing: border-box;
+  color: inherit;
 	width: 100%;
 	padding: .5em 1em;
 	background: $neutral-800;
@@ -86,7 +87,7 @@ $placeholder-font-weight: 700;
 #results-container {
 	position: absolute;
   z-index: 20;
-	background: white;
+	background: $neutral-850;
 	border: 1px solid $neutral-200;
 	box-shadow: 0 1px 1px rgba(0,0,0,0.25);
 	list-style: none;
