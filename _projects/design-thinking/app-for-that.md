@@ -10,8 +10,6 @@ topics:
   - usability
 ---
 
-<img class="illo aside" src="/assets/images/phone-home.png" alt="A thumb about to tap an app" />
-
 Setup
 -----
 

@@ -11,8 +11,6 @@ topics:
   - testing
 ---
 
-<img class="illo aside" src="/assets/images/kiosk.png" alt="Woman about to touch a kiosk screen." />
-
 Setup
 -----
 

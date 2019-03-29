@@ -15,8 +15,6 @@ topics:
   - usability
 ---
 
-<img class="illo aside" src="/assets/images/zen.png" alt="Screen flow for an example app called Moment of Zen" />
-
 
 Setup
 -----
@@ -92,7 +90,7 @@ Suggested Roadmap
 
 ### Friday
 
-- Choose a topic / type of wellness to focus on 
+- Choose a topic / type of wellness to focus on
 - Plan the following days
 - Prepare and send your survey
 
