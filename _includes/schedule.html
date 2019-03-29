@@ -1,6 +1,7 @@
 <div class="schedule">
   <nav id="weeknav">
     <button disabled id="prev-week">Previous</button>
+    <button disabled id="this-week">This Week</button>
     <button disabled id="next-week">Next</button>
   </nav>
 {%- assign w = 0 -%}
@@ -33,16 +34,11 @@
   // Buttons to navigate through the weeks
   var $schedule = document.querySelector('.schedule');
   var $weeks = document.querySelectorAll('.week');
-  var $next = document.getElementById('next-week');
   var $prev = document.getElementById('prev-week');
+  var $thisWeek = document.getElementById('this-week');
+  var $next = document.getElementById('next-week');
 
   var currentWeek = 0;
-
-  $schedule.classList.add('js-interactive');
-  setCurrentWeek(currentWeek)
-
-  $next.addEventListener('click', nextWeek);
-  $prev.addEventListener('click', prevWeek);
 
   function setCurrentWeek(week) {
     currentWeek = week;
@@ -60,6 +56,11 @@
     } else {
       $prev.disabled = true;
     }
+    if (getWeekOf(today) === currentWeek) {
+      $thisWeek.disabled = true;
+    } else {
+      $thisWeek.disabled = false;
+    }
   }
 
   function nextWeek() {
@@ -74,31 +75,55 @@
     }
   }
 
-  // Set the week based on today's date
-  for (var i = 0; i < $weeks.length; i++) {
-    var start = new Date($weeks[i].dataset.start); // Monday
-    var end = new Date($weeks[i].dataset.start); // Monday
-    start.setDate(start.getDate() - 2); // Saturday before
-    end.setDate(end.getDate() + 4); // Friday after
-    if (today >= start && today < end) {
-      setCurrentWeek(i);
-    }
+  function thisWeek() {
+    navigateToDay(today);
   }
 
-  // Highlight today
-  var cells = document.querySelectorAll('.calendar-date');
-  for (var i = 0; i < cells.length; i++) {
-    var cell = cells[i];
-    var date = new Date(cell.dataset.date);
-    if (date.getYear() === today.getYear()) {
-      cell.classList.add('this-year');
-      if (date.getMonth() === today.getMonth()) {
-        cell.classList.add('this-month');
-        if (date.getDate() === today.getDate()) {
-          cell.classList.add('today');
-          // TODO: Show the month on the today cell
+  // Set the week based on day's date
+  function navigateToDay(day) {
+    setCurrentWeek(getWeekOf(day));
+  }
+
+  function getWeekOf(day) {
+    for (var i = 0; i < $weeks.length; i++) {
+      var start = new Date($weeks[i].dataset.start); // Monday
+      var end = new Date($weeks[i].dataset.start); // Monday
+      start.setDate(start.getDate() - 2); // Saturday before
+      end.setDate(end.getDate() + 4); // Friday after
+      if (day >= start && day < end) {
+        return i;
+      }
+    }
+    return 0;
+  }
+
+  function setToday(today) {
+    // Highlight today
+    var cells = document.querySelectorAll('.calendar-date');
+    for (var i = 0; i < cells.length; i++) {
+      var cell = cells[i];
+      var date = new Date(cell.dataset.date);
+      if (date.getYear() === today.getYear()) {
+        cell.classList.add('this-year');
+        if (date.getMonth() === today.getMonth()) {
+          cell.classList.add('this-month');
+          if (date.getDate() === today.getDate()) {
+            cell.classList.add('today');
+            // TODO: Show the month on the today cell
+          }
         }
       }
     }
   }
+
+  setCurrentWeek(currentWeek);
+  setToday(today);
+  navigateToDay(today);
+
+  $prev.addEventListener('click', prevWeek);
+  $thisWeek.addEventListener('click', thisWeek);
+  $next.addEventListener('click', nextWeek);
+
+  $schedule.classList.add('js-interactive');
+
 </script>
