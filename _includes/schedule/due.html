@@ -1,0 +1,9 @@
+{%- assign homework_due = site.homework | where: "due" , day -%}
+<div class="homework">
+  {% if homework_due.size > 0 %}<div class="label">Due</div>{% endif %}
+  {%- for post in homework_due -%}
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      {{ post.title | markdownify | strip_html | strip }}
+    </a>
+  {%- endfor -%}
+</div>

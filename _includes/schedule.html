@@ -1,0 +1,104 @@
+<div class="schedule">
+  <nav id="weeknav">
+    <button disabled id="prev-week">Previous</button>
+    <button disabled id="next-week">Next</button>
+  </nav>
+{%- assign w = 0 -%}
+{%- for day in (1..site.data.course.days) -%}
+  {%- assign date_xml = day | class_date: site.data.course.start_date | date_to_xmlschema -%}
+  {%- capture dow -%}{{ date_xml | date:"%A" }}{%- endcapture -%}
+  {%- capture dom -%}{{ date_xml | date:"%-d" }}{%- endcapture -%}
+  {%- unless dow == "Saturday" or dow == "Sunday" -%}
+    {%- if dow == "Monday" -%}
+      {% assign w = w | plus:1 %}
+      <section
+        data-week="{{ w }}"
+        data-start="{{ date_xml }}"
+        class="week week-{{ w }} {% cycle 'odd', 'even' %}"
+      >
+        <h2 class="weekheader">Week {{ w }}</h2>
+        <div class="days">
+          {%- endif -%}
+            {% include schedule/_single.html %}
+          {%- if dow == "Friday" -%}
+        </div>
+      </section>
+    {%- endif -%}
+  {%- endunless -%}
+{%- endfor -%}
+</div>
+<script type="text/javascript">
+  var today = new Date('May 2, 2019');
+
+  // Buttons to navigate through the weeks
+  var $schedule = document.querySelector('.schedule');
+  var $weeks = document.querySelectorAll('.week');
+  var $next = document.getElementById('next-week');
+  var $prev = document.getElementById('prev-week');
+
+  var currentWeek = 0;
+
+  $schedule.classList.add('js-interactive');
+  setCurrentWeek(currentWeek)
+
+  $next.addEventListener('click', nextWeek);
+  $prev.addEventListener('click', prevWeek);
+
+  function setCurrentWeek(week) {
+    currentWeek = week;
+    for (var i = 0; i < $weeks.length; i++) {
+      $weeks[i].classList.remove('current');
+    }
+    $weeks[currentWeek].classList.add('current');
+    if (currentWeek + 1 < $weeks.length) {
+      $next.disabled = false;
+    } else {
+      $next.disabled = true;
+    }
+    if (currentWeek > 0) {
+      $prev.disabled = false;
+    } else {
+      $prev.disabled = true;
+    }
+  }
+
+  function nextWeek() {
+    if (currentWeek + 1 < $weeks.length) {
+      setCurrentWeek(currentWeek + 1)
+    }
+  }
+
+  function prevWeek() {
+    if (currentWeek > 0) {
+      setCurrentWeek(currentWeek - 1)
+    }
+  }
+
+  // Set the week based on today's date
+  for (var i = 0; i < $weeks.length; i++) {
+    var start = new Date($weeks[i].dataset.start); // Monday
+    var end = new Date($weeks[i].dataset.start); // Monday
+    start.setDate(start.getDate() - 2); // Saturday before
+    end.setDate(end.getDate() + 4); // Friday after
+    if (today >= start && today < end) {
+      setCurrentWeek(i);
+    }
+  }
+
+  // Highlight today
+  var cells = document.querySelectorAll('.calendar-date');
+  for (var i = 0; i < cells.length; i++) {
+    var cell = cells[i];
+    var date = new Date(cell.dataset.date);
+    if (date.getYear() === today.getYear()) {
+      cell.classList.add('this-year');
+      if (date.getMonth() === today.getMonth()) {
+        cell.classList.add('this-month');
+        if (date.getDate() === today.getDate()) {
+          cell.classList.add('today');
+          // TODO: Show the month on the today cell
+        }
+      }
+    }
+  }
+</script>

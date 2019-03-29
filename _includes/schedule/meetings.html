@@ -1,0 +1,9 @@
+{%- assign meetings = site.meetings | where: "day" , day -%}
+<div class="meetings">
+  {% if meetings.size > 0 %}<div class="label">Meetings</div>{% endif %}
+  {%- for post in meetings -%}
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      {{ post.title | markdownify | strip_html | strip }}
+    </a>
+  {%- endfor -%}
+</div>
