@@ -1,6 +1,6 @@
 ---
 title: Research topics
-day: 25
+day: 26
 topics:
   - user-research
   - user-journey

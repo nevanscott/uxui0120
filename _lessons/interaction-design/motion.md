@@ -1,6 +1,6 @@
 ---
 title: Motion in user interfaces
-day: 11
+day: 13
 topics:
   - motion
   - ui-state
