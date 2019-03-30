@@ -1,6 +1,6 @@
 ---
-title: HR Web App
-assigned: 20
+title: E-learning Web App
+assigned: 24
 due: 30
 topics:
   - writing
@@ -10,6 +10,8 @@ topics:
   - user-story
   - ia
 ---
+
+**Updates pending**
 
 You are working for a new startup that is looking to launch a software as a service (SaaS) desktop web app for companies to use internally. You will be researching the market and meeting with employees to determine the needs of the business and then developing an MVP based upon your findings.
 

@@ -1,7 +1,7 @@
 ---
 title: Add a Feature
-assigned: 16
-due: 20
+assigned: 13
+due: 17
 topics:
   - native
   - ui
@@ -95,7 +95,7 @@ Suggested Roadmap
 - Start on Sketch
 
 ### Day 3
-- Sketch high-fi 
+- Sketch high-fi
 - Test & iterate
 - InVision
 - Rehearse presentation

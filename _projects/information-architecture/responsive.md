@@ -1,7 +1,7 @@
 ---
-title: Responsive E-Commerce Redesign
-assigned: 22
-due: 25
+title: Responsive Editorial
+assigned: 31
+due: 35
 topics:
   - content-audit
   - responsive
@@ -12,6 +12,8 @@ topics:
   - navigation
   - sitemap
 ---
+
+**Updates pending**
 
 Over the next few days, you’ll be creating an e-commerce website for a local business. Keep in mind that this is a speculative redesign for practice, so you won’t have access to the client or stakeholders.
 

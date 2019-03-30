@@ -1,7 +1,7 @@
 ---
 title: Wellness App
-assigned: 5
-due: 8
+assigned: 6
+due: 9
 summary: |
   Interview potential customers to identify an opportunity to improve their well-being with a thoughtful mobile app. Remember: you are not your user.
 topics:
