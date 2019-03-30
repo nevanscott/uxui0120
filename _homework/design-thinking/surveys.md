@@ -1,7 +1,7 @@
 ---
 title: Read "The Lean Survey Canvas"
-assigned: 4
-due: 5
+assigned: 5
+due: 6
 ---
 
 Readings

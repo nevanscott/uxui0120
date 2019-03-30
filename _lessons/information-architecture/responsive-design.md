@@ -1,6 +1,6 @@
 ---
 title: Responsive Design
-day: 22
+day: 31
 topics:
   - composition
   - responsive

@@ -1,6 +1,6 @@
 ---
 title: Evaluative Research
-day: 16
+day: 18
 topics:
   - heuristics
 description: |
@@ -10,4 +10,3 @@ objectives:
   - understand the different heuristics
   - learn how to analyze a platform base on heuristics
 ---
-

@@ -1,6 +1,6 @@
 ---
 title: User Stories
-day: 27
+day: 30
 topics:
   - agile
   - prioritization

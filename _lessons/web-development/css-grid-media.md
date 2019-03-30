@@ -1,6 +1,6 @@
 ---
 title: CSS Grid and Media Queries
-day: 33
+day: 15
 topics:
   - css
   - css-grid

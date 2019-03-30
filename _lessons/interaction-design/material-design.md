@@ -1,6 +1,6 @@
 ---
 title: Material Design
-day: 12
+day: 14
 topics:
   - design-systems
   - native
@@ -84,4 +84,3 @@ Ironhack Learning Platform
 
 - [Material design](http://learn.ironhack.com/#/learning_unit/7074)
 - [Design Systems & Design Ops](http://learn.ironhack.com/#/learning_unit/7096)
-

@@ -1,7 +1,7 @@
 ---
 title: Add a Feature Design Report
-assigned: 19
-due: 21
+assigned: 17
+due: 22
 ---
 
 Write a report about your [Add a Feature]({{ site.baseurl }}{% link _projects/interaction-design/add-a-feature.md %}). This may be similar to a written version of your presentation, but you'll have the opportunity to go into more detail.

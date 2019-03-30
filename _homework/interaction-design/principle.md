@@ -1,7 +1,7 @@
 ---
 title: Get ready for Principle
-assigned: 10
-due: 11
+assigned: 12
+due: 13
 ---
 
 1. Download and install [Principle](http://principleformac.com)

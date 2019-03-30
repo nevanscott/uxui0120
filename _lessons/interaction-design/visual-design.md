@@ -1,6 +1,6 @@
 ---
 title: Visual Design
-day: 9
+day: 11
 topics:
   - typography
   - composition

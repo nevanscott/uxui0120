@@ -1,12 +1,12 @@
 ---
-title: Add CSS to your webpage
-assigned: 33
-due: 34
+title: Portfolio
+assigned: 22
+due: 24
 ---
 
+Getting started
+---------------
 
-Tasks
---------
 - Sketch how you want to organize the content of your webpage
 - Create a css file and link it on index.html
 - Choose a layout system (Flexbox or Grid)
@@ -16,6 +16,13 @@ Tasks
 **Remember:** We'll review the work and clear any doubts the following day.
 
 Extra
---------
+-----
 
 - Play with [Grid Garden](https://cssgridgarden.com/)
+
+
+Finalizing
+----------
+
+- Apply all of the HTML and CSS concepts you've learned on your webpage and have it live
+- Try to use at least one animation

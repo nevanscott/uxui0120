@@ -1,6 +1,6 @@
 ---
 title: Human Interface Guidelines
-day: 14
+day: 16
 topics:
   - native
   - navigation
@@ -39,4 +39,3 @@ Ironhack Learning Platform
 --------------------------
 - [iOs vs Material design](http://learn.ironhack.com/#/learning_unit/7072)
 - [iOs Human interface guidelines](http://learn.ironhack.com/#/learning_unit/7073)
-

@@ -1,7 +1,7 @@
 ---
 title: Read "Learning to See"
-assigned: 8
-due: 9
+assigned: 10
+due: 11
 ---
 
 Readings

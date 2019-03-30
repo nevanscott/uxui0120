@@ -1,6 +1,6 @@
 ---
 title: Surveys
-day: 5
+day: 6
 topics:
   - survey
   - user-research

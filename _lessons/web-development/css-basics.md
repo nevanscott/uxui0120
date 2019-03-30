@@ -1,6 +1,6 @@
 ---
 title: CSS Basics and Flexbox
-day: 32
+day: 10
 topics:
   - css
   - flexbox
@@ -48,4 +48,3 @@ Ironhack Learning Platform
 - [Cheatsheet - CSS Basics](http://learn.ironhack.com/#/learning_unit/7132)
 - [Cheatsheet - CSS Best Practices](http://learn.ironhack.com/#/learning_unit/7133)
 - [Responsive Web Design: CSS & Mobile First](http://learn.ironhack.com/#/learning_unit/7130)
-

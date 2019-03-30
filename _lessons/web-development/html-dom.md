@@ -1,6 +1,6 @@
 ---
 title: HTML and the DOM
-day: 31
+day: 5
 topics:
   - html
 ---
@@ -9,7 +9,6 @@ topics:
 Schedule of the day
 ----------
 
-- Week intro
 - The road so far - A brief history of the world wide web
 - Intro to HTML
 - The DOM

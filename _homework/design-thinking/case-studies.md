@@ -1,7 +1,7 @@
 ---
 title: Case Studies Reading
-assigned: 5
-due: 7
+assigned: 7
+due: 9
 ---
 
 

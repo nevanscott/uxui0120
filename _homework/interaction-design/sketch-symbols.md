@@ -1,7 +1,7 @@
 ---
 title: "Nested Symbols in Sketch"
 assigned: 10
-due: 12
+due: 11
 ---
 
 Now that you have built some cards and changed photos, descriptions and titles using nested symbols, we'd like for you to see how else you can implement them in your designs!

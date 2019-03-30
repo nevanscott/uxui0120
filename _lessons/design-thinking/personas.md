@@ -1,6 +1,6 @@
 ---
 title: Personas
-day: 6
+day: 7
 topics:
   - persona
   - user-research

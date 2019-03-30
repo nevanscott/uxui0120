@@ -1,7 +1,7 @@
 ---
 title: Add a Feature
-assigned: 16
-due: 20
+assigned: 13
+due: 16
 topics:
   - native
   - ui
@@ -17,7 +17,7 @@ You will be developing a new feature for an existing app based on an area of fun
 Setup
 -----
 
-- Individual Project
+- Group Project
 - 4 class days
 
 
@@ -95,7 +95,7 @@ Suggested Roadmap
 - Start on Sketch
 
 ### Day 3
-- Sketch high-fi 
+- Sketch high-fi
 - Test & iterate
 - InVision
 - Rehearse presentation
