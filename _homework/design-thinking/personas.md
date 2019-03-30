@@ -1,7 +1,7 @@
 ---
 title: Reading on Personas
-assigned: 5
-due: 6
+assigned: 6
+due: 7
 ---
 
 Readings

@@ -1,6 +1,6 @@
 ---
 title: E-learning Web App
-assigned: 24
+assigned: 23
 due: 30
 topics:
   - writing

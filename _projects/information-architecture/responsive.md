@@ -1,7 +1,7 @@
 ---
 title: Responsive Editorial
 assigned: 31
-due: 35
+due: 34
 topics:
   - content-audit
   - responsive

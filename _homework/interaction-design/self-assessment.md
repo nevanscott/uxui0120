@@ -1,7 +1,7 @@
 ---
 title: Competencies Self-assessment
-assigned: 8
-due: 9
+assigned: 9
+due: 10
 ---
 
 In order to start reflecting on your evolution through this Bootcamp, please
@@ -21,7 +21,7 @@ The main purpose of this exercise is your personal growth as a designer, not on 
 Deliverables
 ------------
 
-Please send an email to ta-ux-bcn@ironhack.com with: 
+Please send an email to ta-ux-bcn@ironhack.com with:
 
 - A clear photo of the completed grid
 - The document where you wrote down your self-assessment about the previously mentionned points (career goals, areas of development, ares of improvement)
