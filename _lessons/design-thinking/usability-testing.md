@@ -12,6 +12,15 @@ objectives:
   - describe the difference between a moderated and unmoderated usability test
   - prepare a moderated usability test
   - run a moderated usability test based on scenarios
+prep:
+  -
+    format: reading
+    title: Planning a Usability Test
+    url: https://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html
+  -
+    format: reading
+    title: Running a Usability Test
+    url: https://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html
 ---
 
 

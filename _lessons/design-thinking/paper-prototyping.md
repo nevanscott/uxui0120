@@ -8,6 +8,12 @@ description: |
 objectives:
   - make prototypes out of paper!
   - explain why cheap prototyping methods are valuable
+prep:
+  -
+    format: Video
+    title: The Design Studio Method
+    url: https://vimeo.com/37861987
+    author: Todd Zaki Warfel
 ---
 
 

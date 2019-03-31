@@ -4,6 +4,11 @@ day: 31
 topics:
   - composition
   - responsive
+prep:
+  -
+    format: Reading
+    title: Using Sketch For Responsive Web Design
+    url: https://www.smashingmagazine.com/2015/04/using-sketch-for-responsive-web-design-case-study/
 ---
 
 In this lesson, we will explore 3 different topics that are focused on your UI development

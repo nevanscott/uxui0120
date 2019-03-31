@@ -1,5 +1,5 @@
 ---
-title: Content Strategy & IA 
+title: Content Strategy & IA
 day: 21
 topics:
   - ia
@@ -8,6 +8,17 @@ topics:
   - navigation
   - sitemap
   - content-audit
+prep:
+  -
+    format: Reading
+    title: How to Conduct A Content Audit
+    url: https://uxmastery.com/how-to-conduct-a-content-audit/
+    author: Donna Spencer
+  -
+    format: Reading
+    title: "Content Modelling: A Master Skill"
+    url: https://alistapart.com/article/content-modelling-a-master-skill
+    author: Rachel Lovinger
 ---
 
 Learning Objectives

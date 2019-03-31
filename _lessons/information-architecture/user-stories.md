@@ -7,6 +7,11 @@ topics:
   - problem-definition
   - user-story
   - jobs-to-be-done
+prep:
+  -
+    format: Reading
+    title: Writing user stories
+    url: https://www.gov.uk/service-manual/agile-delivery/writing-user-stories
 ---
 
 Learning Objectives

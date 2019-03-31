@@ -7,12 +7,18 @@ topics:
 description: |
   Personas are a deliverable which helps us summarize and communicate findings from user research, embodying those findings in a representative user which other stakeholders can empathize with as well.
 objectives:
-- identify key elements of a user persona
-- differentiate a persona from a stereotype
-- differentiate a persona from a demographic group
-- draw a connection between research insights and persona development
-- describe how a persona might be used in practice
-- develop a persona based on findings from user interviews
+  - identify key elements of a user persona
+  - differentiate a persona from a stereotype
+  - differentiate a persona from a demographic group
+  - draw a connection between research insights and persona development
+  - describe how a persona might be used in practice
+  - develop a persona based on findings from user interviews
+prep:
+  -
+    format: Reading
+    title: Five Factors for Successful Persona Projects
+    url: https://articles.uie.com/successful_persona_projects/
+    author: Jared Spool
 ---
 
 Ironhack Learning Platform

@@ -14,6 +14,12 @@ objectives:
   - establish basic typographic hierarchy
   - use spacing to make text readable
   - use proximity to make relationships clear
+prep:
+  -
+    format: Reading
+    title: Learning to See
+    url: https://ia.net/topics/learning-to-see
+    author: Oliver Reichenstein
 ---
 
 <!-- <img class="illo aside" src="/assets/images/crap.png" alt="Illustration of CRAP design principles: contrast, repetition, alignment, and proximity" /> -->

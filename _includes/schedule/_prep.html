@@ -1,0 +1,8 @@
+<a href="{{ prep.url }}">
+  <div class="label">{{ prep.format }}</div>
+  {{ prep.title | markdownify | strip_html | strip }}
+  {% if prep.author -%}
+    <div class="byline">by {{ prep.author }}</div>
+  {%- endif %}
+  <small>{{ prep.url | remove:"http://" | remove:"https://" | remove:"www." | split:"/" | first }}</small>
+</a>

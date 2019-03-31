@@ -1,7 +1,15 @@
-{%- assign homework_assigned = site.homework | where: "assigned" , day -%}
+{%- assign tomorrow = day | plus:1 -%}
+{%- assign lessons = site.lessons | where_exp: "item" , "item.prep.size > 0" | where: "day" , tomorrow -%}
+{%- assign homework = site.homework | where: "assigned" , day -%}
+{%- assign assigned = homework | concat: lessons -%}
 <div class="assignments">
-  {% if homework_assigned.size > 0 %}<div class="label">Assigned</div>{% endif %}
-  {%- for post in homework_assigned -%}
+  {% if assigned.size > 0 %}<div class="label">Assigned</div>{% endif %}
+  {%- for post in lessons -%}
+    {%- for prep in post.prep -%}
+      {% include schedule/_prep.html %}
+    {%- endfor -%}
+  {%- endfor -%}
+  {%- for post in homework -%}
     <div class="homework">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title | markdownify | strip_html | strip }}

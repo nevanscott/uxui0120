@@ -8,6 +8,12 @@ description: |
   Writing about your design work is a good practice in general, to document your process and results. For us, these will serve double duty as early drafts of our eventual portfolios.
 objectives:
   - identify elements of a successful design report
+prep:
+  -
+    format: Reading
+    title: "Designing Case Studies: Showcasing A Human-Centered Design Process"
+    url: https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/
+    author: Senongo Akpem
 ---
 
 The goal today is simply to get you started thinking about what goes into a report. In practice, designers typically only write lengthy prosaic reports as a deliverable to summarize findings from user research (often to handoff to other designers). We'll modify this approach a bit to produce reports about our work throughout the class, especially on solo projects. This will help you to document as you go, giving you plenty of content to help you put together your portfolio once class is over. It will also serve as the record of your work that you'll review with one of the TAs in a 1-on-1.

@@ -13,6 +13,12 @@ objectives:
   - differentiate between questions you want answered and prompts for your interview
   - describe ways to put an interview subject at ease
   - plan and conduct a brief user interview
+prep:
+  -
+    format: Reading
+    title: Interviewing Humans
+    url: https://alistapart.com/article/interviewing-humans
+    author: Erika Hall
 ---
 
 Resources
