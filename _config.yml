@@ -14,6 +14,9 @@ collections:
   meetings:
     output: true
     permalink: /:collection/:title/
+  outcomes:
+    output: true
+    permalink: /:collection/:title/
   topics:
     output: true
     permalink: /:collection/:title/
@@ -42,6 +45,12 @@ defaults:
       type: "meetings"
     values:
       layout: "meeting"
+  -
+    scope:
+      path: ""
+      type: "outcomes"
+    values:
+      layout: "outcomes"
   -
     scope:
       path: ""

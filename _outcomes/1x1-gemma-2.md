@@ -1,7 +1,10 @@
 ---
-title: CS - 1x1 with Gemma
-assigned: 36
-due: 39
+title: 1x1 with Gemma
+days:
+  - 36
+  - 37
+  - 38
+  - 39
 ---
 
 

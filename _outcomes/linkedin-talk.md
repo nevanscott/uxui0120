@@ -1,5 +1,5 @@
 ---
-title: CS - Mandatory LinkedIn & CV Talk
+title: Mandatory LinkedIn & CV Talk
 day: 18
 ---
 

@@ -1,7 +1,16 @@
 ---
-title: CS - 1x1 with Gemma
-assigned: 6
-due: 15
+title: 1x1 with Gemma
+days:
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
 ---
 
 

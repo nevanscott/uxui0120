@@ -1,7 +1,6 @@
 ---
-title: CS - Personal Branding Workshop
+title: Personal Branding Workshop
 day: 43
-due: 43
 ---
 
 
