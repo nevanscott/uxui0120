@@ -1,7 +1,6 @@
 ---
-layout: notes
 title: UI Elements
-permalink: /notes/ui-elements/
+permalink: /resources/ui-elements/
 ---
 
 ## Icons

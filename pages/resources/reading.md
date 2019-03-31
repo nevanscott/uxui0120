@@ -1,7 +1,6 @@
 ---
-layout: notes
 title: Reading
-permalink: /notes/reading/
+permalink: /resources/reading/
 ---
 
 ## UX Competencies

@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article>
+	<h1>
+		{{ page.title | markdownify | strip_html | strip }}
+	</h1>
+	{{ content }}
+</article>
+
+<aside id="nav">
+  {% include nav/about.html %}
+</aside>

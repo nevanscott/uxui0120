@@ -51,6 +51,17 @@ defaults:
 
   -
     scope:
+      path: "pages/about"
+    values:
+      layout: "about"
+  -
+    scope:
+      path: "pages/resources"
+    values:
+      layout: "resources"
+
+  -
+    scope:
       path: "_lessons/design-thinking"
     values:
       unit: 1

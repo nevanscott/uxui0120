@@ -1,7 +1,6 @@
 ---
-layout: notes
 title: Portfolio
-permalink: /notes/portfolio/
+permalink: /resources/portfolio/
 ---
 
 ## Portfolio

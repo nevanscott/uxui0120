@@ -1,7 +1,6 @@
 ---
-layout: notes
 title: Outcomes
-permalink: /notes/outcomes/
+permalink: /about/outcomes/
 ---
 
 Here you have the links where you can find all the resources that Gemma from Outcomes will refer to:

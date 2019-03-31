@@ -1,7 +1,6 @@
 ---
-layout: notes
 title: Sketch App
-permalink: /notes/sketch-app/
+permalink: /resources/sketch-app/
 ---
 
 ## Sketch app

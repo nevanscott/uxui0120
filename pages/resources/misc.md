@@ -1,7 +1,6 @@
 ---
-layout: notes
 title: Miscellany
-permalink: /notes/misc/
+permalink: /resources/misc/
 ---
 
 ## UX Tools
@@ -18,7 +17,7 @@ permalink: /notes/misc/
 [Flow Mapp](https://flowmapp.com)
 : Online tool for creating interactive sitemaps and user flows for web development and planning better UX.
 
-[100 Days of Product Design](https://100days.design/index.php/100-days-product-design/) 
+[100 Days of Product Design](https://100days.design/index.php/100-days-product-design/)
 : 100 daily challenges to explore 100 aspects of Product Design
 
 
