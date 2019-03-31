@@ -1,4 +1,6 @@
-{%- assign meetings = site.meetings | where: "day" , day -%}
+{%- assign singles = site.meetings | where: "day" , day -%}
+{%- assign repeats = site.meetings | where_exp: "item" , "item.days contains day" -%}
+{%- assign meetings = singles | concat: repeats -%}
 <div class="meetings">
   {% if meetings.size > 0 %}<div class="label">Meetings</div>{% endif %}
   {%- for post in meetings -%}

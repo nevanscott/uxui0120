@@ -1,4 +1,6 @@
 ---
 title: Group crits
-day: 40
+days:
+  - 40
+  - 43
 ---

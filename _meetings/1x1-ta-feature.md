@@ -1,6 +1,9 @@
 ---
 title: 1x1s with the TA's
-day: 22
+days:
+  - 21
+  - 22
+  - 23
 ---
 
 To Prepare:
