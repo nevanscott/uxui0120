@@ -83,8 +83,8 @@ Add some animation to your redesign.
 Give feedback to your peers!
 ---------------------------
 
-- [Presentation feedback](https://drive.google.com/open?id=1Q2R43LhV_vqaSlnYSJ823gluMuRhzJQr)
-- [Group retrospective](https://drive.google.com/open?id=1QsM0w7gAPTm8StCJUyxrlvUCTglD4P8O)
+- [Presentation feedback](https://drive.google.com/drive/folders/1IZmJUfvNDw9bYTrX1X9T4bC_GylI3n9q)
+- [Group retrospective](https://drive.google.com/drive/folders/1eiRycXa8aemdAaO5EdoB3dAtm2Ty3auF)
 
 
 <img src="/assets/images/dwight.jpg" alt="Dwight: Good luck, you've got this.">
