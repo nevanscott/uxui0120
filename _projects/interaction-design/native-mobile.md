@@ -20,3 +20,8 @@ Setup
 
 - Individual Project
 - 5 class days
+
+Give feedback to your peers!
+---------------------------
+
+- [Presentation feedback](https://drive.google.com/drive/folders/1Fmje970O0cjqrpAVIh9J0-X-RRiCzNgZ)
