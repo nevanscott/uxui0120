@@ -24,7 +24,7 @@ Deliverable
 In order to continue leveling up your Sketch skills, we are going to kick off with a simple tracing exercise.
 
 1. Watch the above video tutorials.
-2. Download the image screens and icons located [in the Google Drive](https://drive.google.com/drive/u/0/folders/1POsY8OhmIAwi4bCpGQysU96MMrveO5C_).
+2. Download the image screens and icons located [in the Google Drive](https://drive.google.com/drive/folders/1988FFNZCWKmI8EjW8cZvbsiI1-_JRaIO).
 3. In Sketch, create a new artboard the size of the image.
 4. Decrease the opacity of the image
 5. Lock the image layer (hold down the <kbd>Option</kbd> key and hover over the layer and a padlock icon will appear instead of the hide icon)
@@ -32,7 +32,7 @@ In order to continue leveling up your Sketch skills, we are going to kick off wi
 7. Font = SF Pro Display. You can download it [HERE](https://developer.apple.com/fonts/)
 8. Keep an eye on the details! Watch out for shadows, icon size, borders, etc.
 9. Have fun!
-10. **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/0/folders/1POsY8OhmIAwi4bCpGQysU96MMrveO5C_) in the "Completed Work" folder.
+10. **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/folders/1988FFNZCWKmI8EjW8cZvbsiI1-_JRaIO) in the "Completed Work" folder.
 
 
 Suggested Resources
