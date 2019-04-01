@@ -19,7 +19,7 @@ Directions
 
 1. Find a PDF of a restaurant menu online. <small>(Try searching on [Yelp](https://www.yelp.com))</small>
 2. Use the contents of the menu to create a new design.
-3. In this [Google Drive folder](https://drive.google.com/drive/u/0/folders/16BYhWCbB6NPAhADSDUFEJjGqZuoXDAr6), create a new folder with your name where you will upload the original menu and your redesign
+3. In this [Google Drive folder](https://drive.google.com/drive/folders/12DDwHbDWd1hxfDJf3Eao5kNqET1Z5O6M), create a new folder with your name where you will upload the original menu and your redesign
 
 
 Requirements
