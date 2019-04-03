@@ -1,7 +1,7 @@
 ---
 title: There's an app for that!
 assigned: 3
-due: 4
+due: 5
 topics:
   - prototyping
   - double-diamond
