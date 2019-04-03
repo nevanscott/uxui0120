@@ -11,9 +11,9 @@ objectives:
 prep:
   -
     format: Video
-    title: The Design Studio Method
-    url: https://vimeo.com/37861987
-    author: Todd Zaki Warfel
+    title: Crazy 8s – Brainstorming & Sketching
+    url: https://www.youtube.com/watch?v=UXOLJy0E7Pg
+    author: Relab Studios
 ---
 
 
