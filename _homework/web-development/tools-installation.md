@@ -7,7 +7,7 @@ due: 5
 Tasks
 -----
 
-- Install [Vscode](https://code.visualstudio.com/)
-- Create an account at [Codepen](https://codepen.io/)
-- Create an account at [Github](https://github.com/)
-- Go to [Github Pages](https://pages.github.com/), choose "I don't know" on the git client section and follow all the steps till the end
+1. Install [Visual Studio Code](https://code.visualstudio.com/)
+2. Create an account at [Github](https://github.com/)
+3. Create an account at [Netlify](https://www.netlify.com/?gclid=EAIaIQobChMI0Y_768S24QIVkISzCh3fRw3BEAAYASAAEgIKrPD_BwE) with your GitHub account
+4. Create an account at [Codepen](https://codepen.io/) with your GitHub account
