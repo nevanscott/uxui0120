@@ -4,14 +4,25 @@ assigned: 5
 due: 6
 ---
 
-Tasks
------
+As a starting point for your personal website, create an About Me page, including:
 
-- Create a repository on your github page
-- Create and index.html file
-- Create the structure of your own webpage
-- Share the link on slack
+- a photo of you
+- a brief bio and background
+- information about your interests and/or hobbies
+- links to your other profiles on the web (Twitter, Instagram, LinkedIn, etc.)
 
-**Remember:** We'll review the work and clear any doubts the following day.
+We will continue to build on this initial website project throughout the course.
 
-[Extra Reading](https://alistapart.com/article/dao)
+For now, have some fun with it!
+
+
+Deliverable
+-----------
+
+You'll launch your single webpage on Netlify. To turn in this assignment, please upload your files on Google Drive, and add the link to your published site on the spreadsheet for this assignment.
+
+
+Further Reading
+---------------
+
+- [A Dao of Web Design](https://alistapart.com/article/dao) by John Allsopp
