@@ -16,6 +16,16 @@ Schedule
 - Workshop: Get started on your personal website
 
 
+## Starter Files
+
+For most web development classes, we'll have some files to get you started on work we might do together, in groups or pairs, or individually as labs. For today, here are the first installments:
+
+### Ironhack Press Release <small>([download]({{ site.baseurl }}/starters/press_release.zip)) ([preview]({{ site.baseurl }}/projects/press_release/))</small>
+
+### Cookie Recipe <small>([download]({{ site.baseurl }}/starters/cookie_recipe.zip)) ([preview]({{ site.baseurl }}/projects/cookie_recipe/))</small>
+
+
+
 Resources
 ---------
 
