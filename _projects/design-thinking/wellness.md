@@ -20,7 +20,7 @@ Setup
 -----
 
 - Individual Project
-- 3 class days <small>(plus the weekend!)</small>
+- 3 class days
 
 
 Materials
@@ -88,34 +88,32 @@ For this project, use Sketch and Invision to make a low-fidelity version of your
 Suggested Roadmap
 -----------------
 
-### Friday
+### Monday
 
 - Choose a topic / type of wellness to focus on
 - Plan the following days
 - Prepare and send your survey
+- Prepare for interviews
 
-### Week-end
+### Tuesday
 
-- Prepare and conduct your interviews
+- Conduct your interviews
 - Finish your research
 - Gather the results
 
-### Monday
+### Wednesday
 
 - "Translate" your research results in features
 - Paper prototype
 - Test & iterate
-
-### Tuesday
-
 - Sketch low-fidelity prototype
+
+### Thursday
+
 - Test & iterate
 - InVision
-- Rehearse your presentation
-
-### Wednesday
-
-- Presentation in the morning
+- Finish up your slides
+- Presentation
 
 
 Report
