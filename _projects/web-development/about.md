@@ -21,7 +21,7 @@ For now, have some fun with it!
 Deliverable
 -----------
 
-You'll launch your single webpage on Netlify. To turn in this assignment, please upload your files on Google Drive, and add the link to your published site on the spreadsheet for this assignment.
+You'll launch your single webpage on Netlify. To turn in this assignment, please upload your files on [Google Drive](https://drive.google.com/drive/folders/1hcZlNqdySDm4bylcy2Ni4YbnSXifkUeZ), and add the link to your published site on the [spreadsheet](https://docs.google.com/spreadsheets/d/1Ztzs4jheB_HWNSr6AgDMiLag3_GbwDIpQ5g_kuQmGrY/edit#gid=0) for this assignment.
 
 
 Further Reading
