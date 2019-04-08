@@ -68,7 +68,7 @@ Your presentation should answer the following questions:
 2. What variations on your design did you explore?
 3. How were your design decisions connected to your research findings?
 4. How would a user operate your final design?
-5. How did you design change based on testing with users?
+5. How did your design change based on testing with users?
 6. What would you do differently next time?
 
 
