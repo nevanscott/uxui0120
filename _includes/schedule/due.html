@@ -2,7 +2,7 @@
 {%- assign homework = site.homework | where: "due" , day -%}
 {%- assign projects = site.projects | where: "due" , day -%}
 {%- assign due = homework | concat: lessons | concat: projects -%}
-<div class="homework chunk">
+<div class="homework">
   {% if due.size > 0 -%}
     <div class="label">Due</div>
   {%- else -%}
