@@ -1,20 +1,25 @@
 ---
-title: CSS Basics and Flexbox
+title: CSS for Typesetting and Composition
 day: 10
 topics:
+  - html
   - css
   - flexbox
   - composition
+  - typography
+description: |
+  CSS provides us a way to give the web browser hints about how we want the content of our website to render. We'll start working with CSS by using it to style typographic compositions.
 ---
 
-Schedule of the day
-----------
+Agenda
+------
 
-- Exercise Review
-- Whiteboard Session - CSS
 - Intro to CSS
-- Intro to Flexbox
-- Workshop - Clone Slack website (pair programming with Web Devs)
+- Basic CSS selectors
+- CSS for typesetting
+- Composition with flexbox
+
+
 
 Exercises
 ---------
@@ -22,25 +27,31 @@ Exercises
 - [CSS Diner](https://flukeout.github.io/)
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 
+
+
 Resources
 ---------
 
-CSS Basics
+### CSS Basics
 
 - [MDN's documentation ](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Anatomy of a CSS rule](https://ironion.com/blog/2015/06/12/anatomy-of-a-css-rule/)
 - [CSS Reference](https://cssreference.io/)
 
 
-Flexbox
+### Flexbox
+
 - [Complete guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
-Boilerplate
+### Boilerplate
+
 - [CSS Boilerplate](https://github.com/raphamontenegro/uxui-codeweek/blob/master/boiler-plates/main.css)
 
+
+
 Ironhack Learning Platform
----------
+--------------------------
 
 - [CSS: Link to HTML - Intro - Selectors](http://learn.ironhack.com/#/learning_unit/7127)
 - [CSS: Text and Colors Properties](http://learn.ironhack.com/#/learning_unit/7128)
