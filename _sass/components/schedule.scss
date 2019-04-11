@@ -76,6 +76,7 @@ $bp: 50em;
         &:first-child {
           padding-top: 0.5*$gap;
           box-shadow: none;
+          min-height: inherit;
         }
       }
     }
