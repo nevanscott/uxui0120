@@ -16,6 +16,7 @@ Your updated website should:
 - include a single stylesheet which describes the design intent for your site
 - have at least 2 pages, About and Blog <small>(or Journal, or whatever)</small>
 
+
 Suggestions
 -----------
 
@@ -26,3 +27,9 @@ Suggestions
 5. Prize readability and legibility over aesthetics for this project.
 6. If you're having a hard time implementing something you'd like your site to look like, don't fight too hard. Take a step back, and see if there's something simpler for you to build which also captures something about your design intent.
 7. Have fun! You're not stuck with this design forever, that's the beauty of publishing on the web.
+
+
+Deliverables
+------------
+
+You'll launch your website again on Netlify (same place as before). To turn in this assignment, please upload your files on [Google Drive](https://drive.google.com/drive/folders/1hcZlNqdySDm4bylcy2Ni4YbnSXifkUeZ), and add the link to your published site on the [spreadsheet](https://docs.google.com/spreadsheets/d/1Ztzs4jheB_HWNSr6AgDMiLag3_GbwDIpQ5g_kuQmGrY/edit#gid=0) for this assignment.
