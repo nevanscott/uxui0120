@@ -1,5 +1,5 @@
 ---
 title: CSS Diner
-assigned: 9
-due: 10
+assigned: 10
+due: 11
 ---
