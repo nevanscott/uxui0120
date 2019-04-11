@@ -3,7 +3,11 @@
 {%- assign homework = site.homework | where: "assigned" , day -%}
 {%- assign assigned = homework | concat: lessons -%}
 <div class="assignments">
-  {% if assigned.size > 0 %}<div class="label">Assigned</div>{% endif %}
+  {% if assigned.size > 0 -%}
+    <div class="label">Assigned</div>
+  {%- else -%}
+    <div class="label empty">No New Assignments</div>
+  {%- endif %}
   {%- for post in lessons -%}
     {%- for prep in post.prep -%}
       {% include schedule/_prep.html %}

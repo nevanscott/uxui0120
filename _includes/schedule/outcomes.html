@@ -2,7 +2,11 @@
 {%- assign repeats = site.outcomes | where_exp: "item" , "item.days contains day" -%}
 {%- assign outcomes = singles | concat: repeats -%}
 <div class="outcomes">
-  {% if outcomes.size > 0 %}<div class="label">Career Services</div>{% endif %}
+  {% if outcomes.size > 0 -%}
+    <div class="label">Career Services</div>
+  {%- else -%}
+    <div class="label empty">Nothing for Career Services</div>
+  {%- endif %}
   {%- for post in outcomes -%}
     <a href="{{ site.baseurl }}{{ post.url }}">
       {{ post.title | markdownify | strip_html | strip }}
