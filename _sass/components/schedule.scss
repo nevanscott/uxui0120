@@ -71,6 +71,7 @@ $bp: 50em;
       > * {
         padding: 0 0.5*$gap;
         box-shadow: 0 -1px 0 $neutral-850;
+        position: relative;
         &:first-child {
           padding-top: 0.5*$gap;
           box-shadow: none;
@@ -126,6 +127,21 @@ $bp: 50em;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     color: $neutral-700;
+  }
+
+  .empty {
+    border: solid 1px $neutral-850;
+    background-color: rgba(255,255,255,0.01);
+    color: $neutral-750;
+    margin: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
   }
 
   a {
