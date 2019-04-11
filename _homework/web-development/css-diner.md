@@ -4,7 +4,7 @@ assigned: 10
 due: 11
 ---
 
-CSS Diner is a very easy and useful game to learn how to use selector in CSS.
+CSS Diner is a very easy and useful game to learn how to use selectors in CSS.
 Go to [CSS DIner](https://flukeout.github.io/), follow the steps and have fun.
 
 Happy coding :)
