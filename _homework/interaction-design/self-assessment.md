@@ -1,7 +1,7 @@
 ---
 title: Competencies Self-assessment
-assigned: 9
-due: 10
+assigned: 10
+due: 11
 ---
 
 In order to start reflecting on your evolution through this Bootcamp, please
