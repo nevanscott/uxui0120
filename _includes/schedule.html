@@ -157,7 +157,7 @@
       var start = new Date($weeks[i].dataset.start); // Monday
       var end = new Date($weeks[i].dataset.start); // Monday
       start.setDate(start.getDate() - 2); // Saturday before
-      end.setDate(end.getDate() + 4); // Friday after
+      end.setDate(end.getDate() + 5); // Saturday after
       if (date >= start && date < end) {
         return i;
       }
