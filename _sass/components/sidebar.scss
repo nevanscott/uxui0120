@@ -1,6 +1,6 @@
 #nav {
 	border-left: solid 1px $neutral-800;
-	padding: 0.25em*$lh 0.75em*$lh 1em*$lh;
+	padding: $typespace-200 $gutter-s $typespace-600;
 	ul {
 		list-style: none;
 		margin: 0;
@@ -45,6 +45,6 @@
   #nav {
     font-size: .875em;
 		margin: 0;
-		padding: 0 2em*$lh 1em*$lh 1.2em*$lh;
+		padding: 0 $typespace-400 $gutter-m $typespace-700;
   }
 }

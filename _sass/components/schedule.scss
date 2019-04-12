@@ -1,18 +1,27 @@
 $gap: 1rem;
+$gap: $gutter-m;
 $bp: 50em;
 
 .schedule {
-  margin: 0 -0.5*$gap;
 
   nav {
     display: none;
     float: right;
+    margin-right: $gap;
     button {
       color: $neutral-300;
       background-color: inherit;
       border: solid 1px $neutral-800;
+      border-width: 1px 0 1px 1px;
       font-weight: 700;
       padding: 0.5em 2em;
+      &:first-child {
+        border-radius: 3px 0 0 3px;
+      }
+      &:last-child {
+        border-radius: 0 3px 3px 0;
+        border-right-width: 1px;
+      }
       &:hover {
         background-color: $neutral-850;
       }
@@ -63,6 +72,7 @@ $bp: 50em;
     display: none;
     @media screen and (min-width: $bp) {
       display: block;
+      margin-left: $gap;
     }
   }
 
@@ -75,9 +85,14 @@ $bp: 50em;
         min-height: 4em;
         &:first-child {
           padding-top: 0.5*$gap;
-          box-shadow: none;
           min-height: inherit;
         }
+      }
+      &:first-child > * {
+        padding-left: $gap;
+      }
+      &:last-child > * {
+        padding-right: $gap;
       }
     }
     @media screen and (min-width: $bp) {

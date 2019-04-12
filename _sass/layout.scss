@@ -1,15 +1,7 @@
-#main-nav, #secondary {
-	margin: 0 0.75em*$lh;
-}
-
-.page {
-	padding: 1em*$lh 0.75em*$lh 2em*$lh;
-}
-
 article {
 	font-size: 1.2em;
-  max-width: 45em;
-	padding: 0.5em*$lh 0.5em*$lh 1em*$lh;
+  max-width: 42.5em;
+	margin: 0 $gutter-s $gutter-l;
   header {
   	h1, h2, h3, h4 {
   		margin: 0;
@@ -43,13 +35,11 @@ article {
 		display: block;
 	}
 	.page {
-		margin: 0 2em;
-		padding: 0 1em*$lh 2em*$lh;
 		position: relative;
 	}
   article {
-		margin: 0 0 0 2em;
-		padding: 1.5em*$lh 2em*$lh;
+		margin: 0 auto $gutter-l;
+		padding: $gutter-m;
 		position: relative;
   }
 }

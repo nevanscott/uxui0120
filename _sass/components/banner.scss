@@ -1,6 +1,6 @@
 .page-header {
   border-bottom: solid 1px $neutral-800;
-  padding: 1em 0.75em*$lh;
+  padding: $typespace-200 $gutter-s;
 	display: grid;
 	align-items: center;
 	grid-gap: 0.5em 2em;
@@ -50,7 +50,7 @@
 
 @media screen and (min-width: 55em) {
   .page-header {
-		padding: 1em 2em*$lh;
+		padding: $typespace-300 $gutter-m;
 		grid-template-columns: auto 1fr auto;
     margin-bottom: 0;
   }

@@ -55,3 +55,18 @@ $space-600:   32px;
 $space-700:   48px;
 $space-800:   60px;
 $space-900:   100px;
+
+$typespace-100:   0.125rem*$lh;
+$typespace-200:   0.25rem*$lh;
+$typespace-300:   0.325rem*$lh;
+$typespace-400:   0.5rem*$lh;
+$typespace-500:   0.75rem*$lh;
+$typespace-600:   1rem*$lh;
+$typespace-700:   1.25rem*$lh;
+$typespace-800:   1.5rem*$lh;
+$typespace-900:   2rem*$lh;
+
+$gutter-xs:  $typespace-100;
+$gutter-s:   $typespace-300;
+$gutter-m:   $typespace-500;
+$gutter-l:   $typespace-900;
