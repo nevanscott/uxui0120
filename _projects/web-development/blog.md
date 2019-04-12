@@ -32,4 +32,4 @@ Suggestions
 Deliverables
 ------------
 
-You'll launch your website again on Netlify (same place as before). To turn in this assignment, please upload your files on [Google Drive](https://drive.google.com/drive/folders/1hcZlNqdySDm4bylcy2Ni4YbnSXifkUeZ), and add the link to your published site on the [spreadsheet](https://docs.google.com/spreadsheets/d/1Ztzs4jheB_HWNSr6AgDMiLag3_GbwDIpQ5g_kuQmGrY/edit#gid=0) for this assignment.
+You'll launch your website again on Netlify (same place as before). To turn in this assignment, please upload your files on [Google Drive](https://drive.google.com/open?id=1zwOnvlcpq0xl_7PmEojE6ssgZHPnuwzM), and add the link to your published site on the [spreadsheet](https://docs.google.com/spreadsheets/d/1Ztzs4jheB_HWNSr6AgDMiLag3_GbwDIpQ5g_kuQmGrY/edit#gid=0) for this assignment.
