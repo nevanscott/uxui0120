@@ -1,5 +1,5 @@
 ---
-title: 1-on-1s with Nevan
+title: Self-assessment
 format: One-on-One
 days:
   - 12
