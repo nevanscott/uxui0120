@@ -137,6 +137,12 @@
   }
 
   function getDayOf(date) {
+    if (date.getDay() === 6) { // Saturday
+      date.setDate(date.getDate() + 2); // Monday after
+    }
+    if (date.getDay() === 0) { // Sunday
+      date.setDate(date.getDate() + 1); // Monday after
+    }
     for (var i = 0; i < $days.length; i++) {
       var thisDate = new Date($days[i].dataset.date);
       if (
