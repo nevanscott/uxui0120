@@ -24,4 +24,4 @@ Deliverables
 Please send an email to ta-ux-bcn@ironhack.com with:
 
 - A clear photo of the completed grid
-- The document where you wrote down your self-assessment about the previously mentionned points (career goals, areas of development, ares of improvement)
+- The document where you wrote down your self-assessment about the previously mentioned points (career goals, areas of development, ares of improvement)
