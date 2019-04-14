@@ -1,5 +1,6 @@
 ---
 title: Get ready for Principle
+format: Tutorial
 assigned: 12
 due: 13
 ---

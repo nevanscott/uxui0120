@@ -1,5 +1,6 @@
 ---
-title: Read "A shorthand for designing UI flows"
+title: A shorthand for designing UI flows
+format: Reading
 assigned: 5
 due: 6
 ---

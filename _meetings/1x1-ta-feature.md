@@ -1,5 +1,6 @@
 ---
 title: 1x1s with the TA's
+format: One-on-One
 days:
   - 21
   - 22

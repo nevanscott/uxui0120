@@ -1,5 +1,6 @@
 ---
 title: Give feedback to your peers!
+format: Feedback
 assigned: 5
 due: 6
 ---

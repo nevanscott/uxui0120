@@ -1,5 +1,6 @@
 ---
-title: Wellness App Design Report
+title: Wellness App
+format: Design Report
 assigned: 9
 due: 11
 ---

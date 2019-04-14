@@ -1,5 +1,6 @@
 ---
 title: 1-on-1s with Nevan
+format: One-on-One
 days:
   - 12
   - 13

@@ -1,5 +1,6 @@
 ---
-title: Motion Practice
+title: Motion
+format: Practice
 assigned: 13
 due: 14
 ---

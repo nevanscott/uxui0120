@@ -1,5 +1,6 @@
 ---
-title: Sketch Practice - Responsive Website Part 2
+title: Sketch - Responsive Website Part 2
+format: Practice
 assigned: 31
 due: 32
 ---

@@ -1,5 +1,6 @@
 ---
-title: "Nested Symbols in Sketch"
+title: Nested Symbols in Sketch
+format: Tutorial
 assigned: 10
 due: 11
 ---

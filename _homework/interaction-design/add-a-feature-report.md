@@ -1,5 +1,6 @@
 ---
-title: Add a Feature Design Report
+title: Add a Feature
+format: Design Report
 assigned: 17
 due: 22
 ---

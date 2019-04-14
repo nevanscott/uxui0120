@@ -125,6 +125,13 @@ small a {
 	color: $brand-600;
 }
 
+.overtitle {
+  color: $brand-600;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
 pre, code {
 	font-family: monospace;
 }

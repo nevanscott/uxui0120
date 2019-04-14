@@ -1,5 +1,6 @@
 ---
-title: Sketch Practice - Desktop Design
+title: Sketch - Desktop Design
+format: Practice
 assigned: 9
 due: 10
 ---
@@ -26,12 +27,12 @@ Tips
 ----------
 
 - The font for the Landing Page is Lato. You can download it from [Google Fonts](https://fonts.google.com/specimen/Lato).
-- Select a similar sans-serif font for the Desktop App. It is OK that it isn't the same. 
+- Select a similar sans-serif font for the Desktop App. It is OK that it isn't the same.
 - Don't worry about finding the same images. You can use images of your choice for the location and album covers.
-- Look to [The Noun Project](https://thenounproject.com/), [Icons8](https://icons8.com/) or [Flat Icon](https://www.flaticon.com/) for icons. 
+- Look to [The Noun Project](https://thenounproject.com/), [Icons8](https://icons8.com/) or [Flat Icon](https://www.flaticon.com/) for icons.
 - Use nested symbols and overrides to speed up your workflow!
-- Download the [Paddy Plugin](https://github.com/DWilliames/paddy-sketch-plugin) for the tags and buttons. Medium tutorial about Layer Padding [HERE](https://medium.com/sketch-app-sources/paddy-buttons-a-really-simple-solution-to-a-problem-we-all-have-with-those-little-rascals-ca0eceee1766). 
-- Ask the TAs if you need help. 
+- Download the [Paddy Plugin](https://github.com/DWilliames/paddy-sketch-plugin) for the tags and buttons. Medium tutorial about Layer Padding [HERE](https://medium.com/sketch-app-sources/paddy-buttons-a-really-simple-solution-to-a-problem-we-all-have-with-those-little-rascals-ca0eceee1766).
+- Ask the TAs if you need help.
 
 
 Suggested Resources

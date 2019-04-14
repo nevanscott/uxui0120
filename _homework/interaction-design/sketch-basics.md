@@ -1,5 +1,6 @@
 ---
 title: Sketch Basics
+format: Practice
 assigned: 5
 due: 6
 ---
@@ -18,8 +19,9 @@ Video tutorials to watch
 - [Top 10 Key Commands in Sketch](https://www.youtube.com/watch?v=w_-oB3CoyBk)
 - [5 Essential Sketch App Tricks](https://www.youtube.com/watch?v=ZCypZWzCr84)
 
+
 Deliverable
--------------------
+-----------
 
 In order to continue leveling up your Sketch skills, we are going to kick off with a simple tracing exercise.
 

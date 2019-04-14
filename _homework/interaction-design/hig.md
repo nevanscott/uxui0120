@@ -1,5 +1,6 @@
 ---
-title: Human Interface Guidelines Readings
+title: Human Interface Guidelines
+format: Reading
 assigned: 13
 due: 14
 ---

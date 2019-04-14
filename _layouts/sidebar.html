@@ -4,6 +4,9 @@ layout: default
 
 <article>
 	<h1>
+		{% if page.format %}
+			<small class="overtitle">{{ page.format }}</small>
+		{% endif %}
 		{{ page.title | markdownify | strip_html | strip }}
 		{% if page.due %}
 			<small>due&nbsp;{{ page.due | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>

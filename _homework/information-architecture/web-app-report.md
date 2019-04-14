@@ -1,5 +1,6 @@
 ---
-title: Web App Design Report
+title: Web App
+format: Design Report
 assigned: 30
 due: 31
 ---
