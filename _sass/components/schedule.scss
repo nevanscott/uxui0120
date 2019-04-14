@@ -79,12 +79,13 @@ $bp: 50em;
   .days {
     .calendar-date {
       > * {
-        padding: 0 0.5*$gap;
+        padding: 0 0.5*$gap 1.5*$gap;
         box-shadow: 0 -1px 0 $neutral-850;
         position: relative;
         min-height: 4em;
         &:first-child {
           padding-top: 0.5*$gap;
+          padding-bottom: 0.5*$gap;
           min-height: inherit;
         }
       }
