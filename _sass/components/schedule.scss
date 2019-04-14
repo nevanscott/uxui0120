@@ -148,6 +148,7 @@ $bp: 50em;
 
   .empty {
     border: solid 1px $neutral-875;
+    border-radius: 3px;
     background-color: rgba(0,0,0,0.1);
     color: $neutral-750;
     margin: 0.5rem;
