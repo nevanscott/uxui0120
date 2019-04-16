@@ -18,7 +18,7 @@ Setup
 -----
 
 - Group Project
-- 4 class days
+- 3 class days (plus the weekend!)
 
 
 Materials
@@ -27,6 +27,7 @@ Materials
 - Sketch
 - Invision
 - Google Slides
+- Principle
 
 
 Background
@@ -56,6 +57,7 @@ Requirements
 - Show how the feature fits into the app navigation
 - Evaluate your design against heuristics and CRAP principles
 - Digitized screens at high fidelity
+- Create at least one key animation on Principle (you're very welcome to do more!)
 - Provide evidence for key decisions through research and testing
 
 
@@ -63,8 +65,7 @@ Timeline
 --------
 
 - Submit Project Plan <small>by {{ page.assigned | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 5pm</small>
-- End-Of-Project Presentations will start <small>{{ page.assigned | plus:4 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 09:30am</small>
-- Submit a final report of your project <small>by {{ page.assigned | plus:5 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 9am</small>
+- End-Of-Project Presentations will start <small>{{ page.assigned | plus:3 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 09:30am</small>
 
 
 End-of-Project Presentation <small>(6 minutes)</small>
@@ -75,6 +76,7 @@ Your will have 6 minutes to summarize your work. We should get a strong sense of
 - The problem and the user(s)
 - Findings from research and how these informed your design
 - Your design, including a prototype
+- At least one key animation on Principle
 - Next steps
 
 
@@ -85,18 +87,21 @@ Suggested Roadmap
 
 - Heuristics & CRAP
 - Define user methods (surveys, interviews...) and execute
-- Define problem and user
 
 ### Day 2
-
+- Define problem and user
 - Define new user flow with added feature
 - Paper prototype
-- Test & iterate
-- Start on Sketch
 
 ### Day 3
+- Test & iterate
+- Sketch mid-fi
+
+### Weekend
+
 - Sketch high-fi
 - Test & iterate
+- Principle animations
 - InVision
 - Rehearse presentation
 
@@ -105,10 +110,6 @@ Suggested Roadmap
 - Presentation in the morning
 
 
-Report <small>due {{ page.assigned | plus:5 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 9am</small>
-------
-
-Your report will gather all of your work from this project into a [Medium](https://medium.com/) article. You should also include a self-assessment based on how you think this project went.
 
 
 Design Thinking
