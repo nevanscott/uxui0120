@@ -96,6 +96,7 @@ Suggested Roadmap
 ### Day 3
 - Test & iterate
 - Sketch mid-fi
+- Test & iterate
 
 ### Weekend
 
