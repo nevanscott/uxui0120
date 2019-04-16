@@ -18,7 +18,7 @@ Setup
 -----
 
 - Group Project
-- 4 class days
+- 3 class days (plus the weekend!)
 
 
 Materials
@@ -93,13 +93,13 @@ Suggested Roadmap
 - Test & iterate
 - Start on Sketch
 
-### Day 3
+### Day 3 & 4 (weekend)
 - Sketch high-fi
 - Test & iterate
 - InVision
 - Rehearse presentation
 
-### Day 4
+### Day 5
 
 - Presentation in the morning
 
