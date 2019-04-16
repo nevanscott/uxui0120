@@ -92,11 +92,11 @@ Suggested Roadmap
 
 ### Day 3
 - Test & iterate
-- Start on Sketch
-- Sketch high-fi
+- Sketch mid-fi
 
 ### Weekend
 
+- Sketch high-fi
 - Test & iterate
 - InVision
 - Rehearse presentation
