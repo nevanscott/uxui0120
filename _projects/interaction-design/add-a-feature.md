@@ -84,17 +84,19 @@ Suggested Roadmap
 
 - Heuristics & CRAP
 - Define user methods (surveys, interviews...) and execute
-- Define problem and user
 
 ### Day 2
-
+- Define problem and user
 - Define new user flow with added feature
 - Paper prototype
+
+### Day 3
 - Test & iterate
 - Start on Sketch
-
-### Day 3 + weekend
 - Sketch high-fi
+
+### Weekend
+
 - Test & iterate
 - InVision
 - Rehearse presentation
