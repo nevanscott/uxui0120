@@ -27,6 +27,7 @@ Materials
 - Sketch
 - Invision
 - Google Slides
+- Principle
 
 
 Background
@@ -56,6 +57,7 @@ Requirements
 - Show how the feature fits into the app navigation
 - Evaluate your design against heuristics and CRAP principles
 - Digitized screens at high fidelity
+- Create at least one key animation on Principle (you're very welcome to do more!)
 - Provide evidence for key decisions through research and testing
 
 
@@ -74,6 +76,7 @@ Your will have 6 minutes to summarize your work. We should get a strong sense of
 - The problem and the user(s)
 - Findings from research and how these informed your design
 - Your design, including a prototype
+- At least one key animation on Principle
 - Next steps
 
 
@@ -98,6 +101,7 @@ Suggested Roadmap
 
 - Sketch high-fi
 - Test & iterate
+- Principle animations
 - InVision
 - Rehearse presentation
 
