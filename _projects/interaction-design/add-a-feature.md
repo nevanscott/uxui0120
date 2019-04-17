@@ -92,15 +92,15 @@ Suggested Roadmap
 - Define problem and user
 - Define new user flow with added feature
 - Paper prototype
+- Test & iterate
 
 ### Day 3
-- Test & iterate
 - Sketch mid-fi
 - Test & iterate
+- Sketch high-fi
 
 ### Weekend
 
-- Sketch high-fi
 - Test & iterate
 - Principle animations
 - InVision
