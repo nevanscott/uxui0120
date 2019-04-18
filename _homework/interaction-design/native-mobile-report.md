@@ -1,13 +1,13 @@
 ---
 title: Add a Feature
 format: Design Report
-assigned: 17
-due: 22
+assigned: 21
+due: 23
 ---
 
-Write a report about your [Add a Feature]({{ site.baseurl }}{% link _projects/interaction-design/add-a-feature.md %}). This may be similar to a written version of your presentation, but you'll have the opportunity to go into more detail.
+Write a report about your [Native Mobile app]({{ site.baseurl }}{% link _projects/interaction-design/native-mobile.md %}). This may be similar to a written version of your presentation, but you'll have the opportunity to go into more detail.
 
-Next week, bring this with you to your 1-on-1 with one of the TAs, to review the project with them.
+In the next days, bring this with you to your 1-on-1 with one of the TAs, to review the project with them.
 
 Resources
 ---------
