@@ -1,6 +1,6 @@
 ---
 title: Evaluative Research
-day: 18
+day: 16
 topics:
   - heuristics
 description: |

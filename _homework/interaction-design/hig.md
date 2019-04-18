@@ -1,8 +1,8 @@
 ---
 title: Human Interface Guidelines
 format: Reading
-assigned: 13
-due: 14
+assigned: 16
+due: 17
 ---
 
 Brief
