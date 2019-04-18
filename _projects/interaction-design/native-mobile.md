@@ -21,6 +21,38 @@ Setup
 - Individual Project
 - 5 class days
 
+Materials
+---------
+
+- Sketch
+- Invision
+- Google Slides
+
+Suggestions
+------------
+
+- Make several variations on your design before deciding on a direction. Ask for feedback and input from your colleagues!
+- Be careful not to rely too much on symbols while exploring design concepts. When you get closer to a confident final design, start cleaning up your document with a system of symbols and well-named layer groups.
+
+Requirements
+------------
+
+- Evaluate your design against heuristics and CRAP principles
+- Digitized screens at high fidelity
+- Provide evidence for key decisions through research and testing
+- Show user flow
+
+End-of-Project Presentation <small>(6 minutes)</small>
+---------------------------
+
+Your will have 6 minutes to summarize your work. We should get a strong sense of:
+
+- The problem and the user(s)
+- Findings from research and how these informed your design
+- Variations of your design that you explored
+- Your design, including a prototype
+- Next steps
+
 Give feedback to your peers!
 ---------------------------
 
