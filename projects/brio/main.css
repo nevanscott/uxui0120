@@ -306,14 +306,10 @@ input {
     padding: 60px;
   }
 
-  [role=banner] {
-    padding: 20px 10px 20px 20px;
-  }
-
   .show-toggle {
     display: none;
   }
-  
+
   .asided {
     grid-template-columns: 2fr 1fr;
     grid-gap: 16px;
