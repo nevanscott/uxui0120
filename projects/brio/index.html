@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Brio – Control Panel</title>
     <link rel="stylesheet" href="main.css">
   </head>
@@ -9,17 +10,17 @@
     <header role="banner">
       <div class="logo-tag">
         <a id="logo" href=".">Brio</a>
-        <span class="tagline">We &hearts; Anna’s band</span>
+        <span class="tagline hide">We <span>&hearts;</span> Anna’s band</span>
       </div>
       <nav>
-        <form class="search">
+        <form class="search hide">
           <input placeholder="Search people" />
         </form>
-        <a class="profile dropdown" href="#">Héctor’s Admin profile</a>
-        <a hidden class="expander" href="#">Menu</a>
+        <a class="profile dropdown hide" href="#">Héctor’s Admin profile</a>
+        <a class="expander show-toggle" href="#">Menu</a>
       </nav>
     </header>
-    <nav id="primary-nav" class="menu">
+    <nav id="primary-nav" class="menu hide">
       <ul>
         <li>
           <a href="#">Dashboard</a>
@@ -206,7 +207,9 @@
           </a>
         </section>
         <aside>
-          <a class="cta block" href="#">Hire</a>
+          <article class="card hire">
+            <a class="cta block" href="#">Hire</a>
+          </article>
           <article class="card">
             <header>
               <h3>Planning to hire any time soon?</h3>
@@ -217,13 +220,13 @@
               <a class="btn" href="#">Set up documents</a>
             </div>
           </article>
-          <p>
+          <p class="dismiss">
             <a href="#">Dismissed employees & contractors</a>
           </p>
         </aside>
       </div>
     </main>
-    <footer>
+    <footer class="hide">
       <p>Secure Connection</p>
       <nav>
         <a href="#">Terms</a>
