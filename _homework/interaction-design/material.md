@@ -17,7 +17,6 @@ Articles to read
 Here are some reading to get ready for tomorrow's class.
 
 - [Surfaces](https://material.io/design/environment/surfaces.html#)
-- [Understanding layout](https://material.io/design/layout/understanding-layout.html)
 - [Component behavior](https://material.io/design/layout/component-behavior.html)
 - [Understanding navigation](https://material.io/design/navigation/understanding-navigation.html)
 - [bottom-bar](https://material.io/design/components/app-bars-bottom.html)
