@@ -1,7 +1,7 @@
 ---
 title: E-learning Web App
-assigned: 23
-due: 30
+assigned: 22
+due: 29
 topics:
   - writing
   - prioritization
