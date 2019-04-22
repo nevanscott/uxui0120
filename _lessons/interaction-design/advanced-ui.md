@@ -1,6 +1,6 @@
 ---
 title: Advanced UI
-day: 19
+day: 18
 topics:
   - ui
   - inspiration
