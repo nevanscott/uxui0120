@@ -1,6 +1,6 @@
 ---
 title: Content Strategy & IA
-day: 21
+day: 32
 topics:
   - ia
   - content
