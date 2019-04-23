@@ -1,5 +1,5 @@
 ---
-title: Advanced UI
+title: Inspiration and Aspiration
 day: 18
 topics:
   - ui
