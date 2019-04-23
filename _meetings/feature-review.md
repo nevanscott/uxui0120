@@ -2,9 +2,9 @@
 title: Review "Native Mobile App" Report
 format: One-on-One
 days:
-  - 22
   - 23
   - 24
+  - 25
 ---
 
 To Prepare:
