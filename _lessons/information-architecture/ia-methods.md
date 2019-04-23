@@ -1,6 +1,6 @@
 ---
 title: IA Methods
-day: 27
+day: 26
 topics:
   - ia
   - task-analysis
