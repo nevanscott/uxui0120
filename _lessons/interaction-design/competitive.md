@@ -1,6 +1,6 @@
 ---
 title: Competitive Analysis
-day: 16
+day: 18
 topics:
   - competitive
   - benchmarking
