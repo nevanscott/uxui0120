@@ -1,5 +1,5 @@
 ---
 title: "Practice: Responsive marketing page"
-assigned: 17
-due: 18
+assigned: 15
+due: 16
 ---
