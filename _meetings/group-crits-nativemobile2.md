@@ -1,10 +1,10 @@
 ---
-title: Group crits with Nevan
+title: Group crits with TAs
 format: Group crit
-day: 27
+day: 21
 ---
 
-Each group will meet for a group crit session that will last around 45 minutes. The objective of this session is to open ourselves to feedback from another point of view and to practice our own skills giving feedback.
+Each stand-up group will meet for a group crit session that will last around 45 minutes. The objective of this session is to open ourselves to feedback from another point of view and to practice our own skills giving feedback.
 
 
 What to bring

@@ -1,7 +1,7 @@
 ---
 title: Native Mobile app
 assigned: 17
-due: 21
+due: 22
 topics:
   - native
   - ui

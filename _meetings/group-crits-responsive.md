@@ -1,5 +1,5 @@
 ---
 title: Group crits with Nevan
 format: Group crit
-day: 27
+day: 33
 ---

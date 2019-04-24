@@ -1,6 +1,6 @@
 ---
 title: Adaptive Interfaces
-day: 32
+day: 36
 topics:
   - progressive-disclosure
   - staged-disclosure
