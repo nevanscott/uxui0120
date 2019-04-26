@@ -19,24 +19,22 @@ Getting started
 
 **Remember:** We'll review the work and clear any doubts the following day.
 
-Road Map
----------------
-- **Wednesday:** Content deadline. This content will be your design report from your last individual project.
-
-- **Friday:** Design deadline. Upload your wireframes from which you would base your portfolio to the Google Drive folder.
-- **Monday:** Portfolio built in code.
-
 Extra
 -----
 
 - Play with [Grid Garden](https://cssgridgarden.com/)
-
 
 Finalizing
 ----------
 
 - Apply all of the HTML and CSS concepts you've learned on your webpage and have it live
 - Try to use at least one animation
+
+Road Map
+---------------
+- **Wednesday:** Content deadline. This content will be your design report from your last individual project.
+- **Friday:** Design deadline. Upload your wireframes from which you would base your portfolio to [Google Drive](https://drive.google.com/drive/folders/1b_s1XLDVxBsxy-OOkt_Xz6tG2IVQhdQ3).
+- **Monday:** Portfolio built in code.
 
 Deliverables
 ------------
