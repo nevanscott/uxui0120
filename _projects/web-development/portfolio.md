@@ -21,9 +21,10 @@ Getting started
 
 Road Map
 ---------------
-**- Wednesday:** Content deadline. This content will be your design report from your last individual project
-**- Friday:** Design deadline. Upload your wireframes from which you would base your portfolio to the Google Drive folder.
-**- Monday:** Portfolio built in code.
+- **Wednesday:** Content deadline. This content will be your design report from your last individual project.
+
+- **Friday:** Design deadline. Upload your wireframes from which you would base your portfolio to the Google Drive folder.
+- **Monday:** Portfolio built in code.
 
 Extra
 -----
