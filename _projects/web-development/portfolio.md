@@ -6,7 +6,7 @@ due: 26
 
 This project is the culmination of all the work we've been doing in class regarding HTML and CSS. 
 We'be been working on the structure for your portfolio so now is time to bring it to life.
-You'll need to finalize your portfolio with one blog post. The content of this post will be the design report from your last project.
+You'll need to finalize your portfolio with one blog post. The content of this post will be the design report from your last project. Below you can see the deadlines for each part of the project.
 
 Getting started
 ---------------
@@ -30,11 +30,11 @@ Finalizing
 - Apply all of the HTML and CSS concepts you've learned on your webpage and have it live
 - Try to use at least one animation
 
-Road Map
+Milestones
 ---------------
 - **Wednesday:** Content deadline. This content will be your design report from your last individual project.
 - **Friday:** Design deadline. Upload your wireframes from which you would base your portfolio to [Google Drive](https://drive.google.com/drive/folders/1b_s1XLDVxBsxy-OOkt_Xz6tG2IVQhdQ3).
-- **Monday:** Portfolio built in code.
+- **Monday:** Portfolio built in code deadline.
 
 Deliverables
 ------------
