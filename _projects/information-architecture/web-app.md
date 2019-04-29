@@ -11,7 +11,6 @@ topics:
   - ia
 ---
 
-**Updates pending**
 
 You are working for a new startup that is looking to launch a software as a service (SaaS) desktop web app for companies to use internally. You will be researching the market and meeting with employees to determine the needs of the business and then developing an MVP based upon your findings.
 
@@ -27,7 +26,6 @@ A good example of a SaaS is [Gusto](https://gusto.com/)
 
 - Individual
 - 2 weeks <small>(1 week of prep, 1 dedicated week)</small>
-- Standups every morning in the prep week
 
 
 ## Materials
@@ -88,12 +86,12 @@ Considerations to assist in determining where to focus:
 
 ## Roadmap
 
-### Prep week
+### Prep
 
 - Preliminary research
 - Network and schedule interviews and site visits
 
-### Monday
+### Thursday + Friday + Weekend
 
 - Interviews and observation
 - Choose the category to focus on
@@ -102,10 +100,10 @@ Considerations to assist in determining where to focus:
 - Affinity Diagram
 - User Persona
 - Problem Statement
-
-### Tuesday
-
 - User Stories / Task Analysis / Scenarios / Use cases
+
+### Monday
+
 - Design Studio / Ideation
 - Feature prioritization (MoSCoW)
 - Card Sorting
@@ -114,7 +112,7 @@ Considerations to assist in determining where to focus:
 - Test
 - Iterate
 
-### Wednesday
+### Tuesday
 
 - Digital Wireframes
 - Test
@@ -123,13 +121,13 @@ Considerations to assist in determining where to focus:
 - Start with high-fi screens
 - Desirability Testing
 
-### Thursday
+### Wednesday
 
 - Finish High-fi
 - Test
 - Build presentation
 
-### Friday
+### Thursday
 - Practice presentation
 - Be fabulous in front of the jury!
 
