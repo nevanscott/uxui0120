@@ -1,6 +1,6 @@
 ---
 title: LinkedIn & CV Deadline
-format: Meeting
+format: Career Services
 assigned: 22
 due: 35
 ---
