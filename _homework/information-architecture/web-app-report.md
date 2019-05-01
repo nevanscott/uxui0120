@@ -1,11 +1,11 @@
 ---
-title: E-Learning Web App
+title: HR Web App
 format: Design Report
 assigned: 30
 due: 31
 ---
 
-Write a report about your [E-Learning Web App]({{ site.baseurl }}{% link _projects/information-architecture/web-app.md %}). This may be similar to a written version of your presentation, but you'll have the opportunity to go into more detail.
+Write a report about your [HR Web App]({{ site.baseurl }}{% link _projects/information-architecture/web-app.md %}). This may be similar to a written version of your presentation, but you'll have the opportunity to go into more detail.
 
 Next week, bring this with you to your 1-on-1 with one of the TAs, to review the project with them.
 
