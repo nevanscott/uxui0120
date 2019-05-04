@@ -1,5 +1,6 @@
 ---
 title: Final Project
+unit: 5
 assigned: 36
 due: 45
 ---
@@ -70,4 +71,3 @@ Resources
 --------
 
 You can find the [final project brief](http://learn.ironhack.com/#/learning_unit/3498) on the Ironhack Platform
-
