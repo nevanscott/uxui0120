@@ -13,7 +13,7 @@ permalink: /topics/
   <dd>
     {{ post.description | markdownify }}
     {% if post.see %}
-  		{% assign see = site.topics | where: "slug", post.see | first %}
+  		{% assign see = site.topics | where: "title", post.see | first %}
   		{% if see %}
   			<p>See <a href="{{ see.baseurl }}{{ see.url }}">{{ see.title }}</a></p>
   		{% endif %}
