@@ -1,5 +1,6 @@
 ---
 title: Restaurant Menu Redesign
+unit: 2
 format: Practice
 assigned: 11
 due: 12

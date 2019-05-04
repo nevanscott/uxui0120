@@ -1,5 +1,6 @@
 ---
 title: Competencies Self-assessment
+unit: 3
 assigned: 29
 due: 32
 ---
@@ -21,7 +22,7 @@ The main purpose of this exercise is your personal growth as a designer, not on 
 Deliverables
 ------------
 
-Please send an email to ta-ux-bcn@ironhack.com with: 
+Please send an email to ta-ux-bcn@ironhack.com with:
 
 - A clear photo of the completed grid
 - The document where you wrote down your self-assessment about the previously mentionned points (career goals, areas of development, ares of improvement)

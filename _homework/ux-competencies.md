@@ -1,5 +1,6 @@
 ---
 title: UX Competencies
+unit: 1
 format: Reading
 assigned: 1
 due: 2

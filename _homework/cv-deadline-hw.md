@@ -1,5 +1,6 @@
 ---
 title: LinkedIn & CV Deadline
+unit: 2
 format: Career Services
 assigned: 22
 due: 35
