@@ -155,7 +155,7 @@ collections:
     label: Resource
     folder: _resources
     create: true
-    slug: {{slug}}
+    slug: "{{slug}}"
     fields:
       - label: Title
         name: title
