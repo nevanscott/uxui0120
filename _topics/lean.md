@@ -1,4 +1,4 @@
 ---
 title: Lean
-see: agile
+see: Agile
 ---

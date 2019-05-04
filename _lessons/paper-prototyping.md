@@ -3,7 +3,7 @@ title: Paper Prototyping
 unit: 1
 day: 4
 topics:
-  - prototyping
+  - Prototyping
 description: |
   Prototyping is often best done in cheap and fast ways, so that we can work out the kinks in design concepts quickly and deliver a better final product.
 objectives:

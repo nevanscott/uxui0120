@@ -3,8 +3,8 @@ title: Personas
 unit: 1
 day: 7
 topics:
-  - persona
-  - user-research
+  - Persona
+  - User Research
 description: |
   Personas are a deliverable which helps us summarize and communicate findings from user research, embodying those findings in a representative user which other stakeholders can empathize with as well.
 objectives:

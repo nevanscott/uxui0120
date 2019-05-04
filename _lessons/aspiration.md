@@ -3,11 +3,11 @@ title: Inspiration and Aspiration
 unit: 2
 day: 19
 topics:
-  - ui
-  - inspiration
-  - ui-state
-  - style-tile
-  - moodboard
+  - User Interface
+  - Inspiration
+  - User Interface State
+  - Style Tile
+  - Moodboard
 description: |
   In this lesson, we will explore a few different topics in order to stretch your UI skills.
 ---

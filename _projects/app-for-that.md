@@ -4,11 +4,11 @@ unit: 1
 assigned: 3
 due: 5
 topics:
-  - prototyping
-  - double-diamond
-  - interview
-  - testing
-  - usability
+  - Prototyping
+  - Double Diamond
+  - Interview
+  - Testing
+  - Usability
 ---
 
 Setup

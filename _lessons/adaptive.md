@@ -3,10 +3,10 @@ title: Adaptive Interfaces
 unit: 3
 day: 36
 topics:
-  - progressive-disclosure
-  - staged-disclosure
-  - customization
-  - personalization
+  - Progressive Disclosure
+  - Staged Disclosure
+  - Customization
+  - Personalization
 prep:
   -
     format: Reading

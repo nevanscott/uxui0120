@@ -4,12 +4,12 @@ unit: 1
 assigned: 1
 due: 2
 topics:
-  - user-research
-  - design-process
-  - prototyping
-  - double-diamond
-  - observation
-  - testing
+  - User Research
+  - Design Process
+  - Prototyping
+  - Double Diamond
+  - Observation
+  - Testing
 ---
 
 Setup

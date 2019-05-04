@@ -3,8 +3,8 @@ title: Design Reports
 unit: 1
 day: 10
 topics:
-  - writing
-  - portfolio
+  - Writing
+  - Portfolio
 description: |
   Writing about your design work is a good practice in general, to document your process and results. For us, these will serve double duty as early drafts of our eventual portfolios.
 objectives:

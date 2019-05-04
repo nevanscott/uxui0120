@@ -4,10 +4,10 @@ unit: 4
 assigned: 10
 due: 12
 topics:
-  - html
-  - css
-  - typography
-  - composition
+  - HTML
+  - CSS
+  - Typography
+  - Composition
 description: |
   Based on the About page you started last week, start adding styles, and add a Blog page, with at least your first post.
 ---

@@ -3,11 +3,11 @@ title: Google Meme
 assigned: 12
 due: 13
 topics:
-  - native
-  - ui
-  - design-systems
-  - motion
-  - navigation
+  - Native App
+  - User Interface
+  - Design Systems
+  - Motion
+  - Navigation
 ---
 
 Google is leveraging its powerful image search to enter the market for meme generation. Demonstrate how a standalone product might work following Material Design.

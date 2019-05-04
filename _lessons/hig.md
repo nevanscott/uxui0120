@@ -3,9 +3,9 @@ title: Human Interface Guidelines
 unit: 2
 day: 17
 topics:
-  - native
-  - navigation
-  - ui
+  - Native App
+  - Navigation
+  - User Interface
 description: |
   We'll focus on Apple's Human Interface Guidelines for iOS (phones and tablets) for now, with an emphasis on the navigation models in iOS.
 objectives:

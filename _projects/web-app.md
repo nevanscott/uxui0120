@@ -4,12 +4,12 @@ unit: 3
 assigned: 20
 due: 29
 topics:
-  - writing
-  - prioritization
-  - observation
-  - task-analysis
-  - user-story
-  - ia
+  - Writing
+  - Prioritization
+  - Observation
+  - Task Analysis
+  - User Story
+  - Information Architecture
 ---
 
 
@@ -96,7 +96,7 @@ Considerations to assist in determining where to focus:
 
 - Interviews and observation
 - Choose the category to focus on
-- Competitive Analysis
+- Competitive Analysis Analysis
 - Gather information
 - Affinity Diagram
 - User Persona

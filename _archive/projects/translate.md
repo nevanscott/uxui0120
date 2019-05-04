@@ -3,9 +3,9 @@ title: Translate
 assigned: 14
 due: 16
 topics:
-  - native
-  - ui
-  - navigation
+  - Native App
+  - User Interface
+  - Navigation
 ---
 
 Apple has decided to launch an app called Translate. Following their Human Interface Guidelines, develop the concept and UI of a few key screens to get buy-in for further work.

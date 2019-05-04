@@ -3,11 +3,11 @@ title: Research topics
 unit: 3
 day: 23
 topics:
-  - user-research
-  - user-journey
-  - lean
-  - observation
-  - problem-definition
+  - User Research
+  - User Journey
+  - Lean
+  - Observation
+  - Problem Definition
 prep:
   -
     format: Video

@@ -3,11 +3,11 @@ title: IA Methods
 unit: 3
 day: 26
 topics:
-  - ia
-  - task-analysis
-  - use-case
-  - scenario
-  - user-research
+  - Information Architecture
+  - Task Analysis
+  - Use Case
+  - Scenario
+  - User Research
 ---
 
 In this class, we will go through three main topics:

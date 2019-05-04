@@ -5,7 +5,7 @@ day: 5
 description: |
   HTML is the essential building block of web pages. It provides structure to content, and gives browsers meaningful information which supports built-in accessibility and discoverability features.
 topics:
-  - html
+  - HTML
 ---
 
 Schedule

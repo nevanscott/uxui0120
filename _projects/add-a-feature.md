@@ -4,12 +4,12 @@ unit: 2
 assigned: 13
 due: 16
 topics:
-  - native
-  - ui
-  - design-systems
-  - motion
-  - writing
-  - competitive
+  - Native App
+  - User Interface
+  - Design Systems
+  - Motion
+  - Writing
+  - Competitive Analysis
 ---
 
 You will be developing a new feature for an existing app based on an area of functionality to explore. Your work will culminate in a high-fidelity prototype that reflects your best path forward based on research, iteration, and testing. For apps that have both Android and iOS implementations, you may choose either platform.

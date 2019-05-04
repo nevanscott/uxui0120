@@ -8,7 +8,7 @@ layout: default
 	</h1>
 
 	{% if page.see %}
-		{% assign post = site.topics | where: "slug", page.see | first %}
+		{% assign post = site.topics | where: "title", page.see | first %}
 		{% if post %}
 			<p>See <a href="{{ post.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
 		{% endif %}
@@ -16,7 +16,7 @@ layout: default
 
 	{{ page.description | markdownify }}
 
-	{% assign lessons = site.lessons | where_exp:"item","item.topics contains page.slug" | sort:'day' %}
+	{% assign lessons = site.lessons | where_exp:"item","item.topics contains page.title" | sort:'day' %}
 	{% if lessons.size > 0 %}
 		<h4>Lessons</h4>
 		<ul>
@@ -34,7 +34,7 @@ layout: default
 		</ul>
 	{% endif %}
 
-	{% assign projects = site.projects | where_exp:"item","item.topics contains page.slug" | sort:'due' %}
+	{% assign projects = site.projects | where_exp:"item","item.topics contains page.title" | sort:'due' %}
 	{% if projects.size > 0 %}
 		<h4>Projects</h4>
 		<ul>

@@ -3,10 +3,10 @@ title: CSS for Layout
 unit: 4
 day: 15
 topics:
-  - css
-  - css-grid
-  - responsive
-  - composition
+  - CSS
+  - CSS Grid
+  - Responsive
+  - Composition
 ---
 
 Agenda

@@ -3,8 +3,8 @@ title: CSS Animations
 unit: 4
 day: 25
 topics:
-  - css
-  - motion
+  - CSS
+  - Motion
 ---
 
 Schedule of the day

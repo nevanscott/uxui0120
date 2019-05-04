@@ -3,11 +3,11 @@ title: User Stories
 unit: 3
 day: 24
 topics:
-  - agile
-  - prioritization
-  - problem-definition
-  - user-story
-  - jobs-to-be-done
+  - Agile
+  - Prioritization
+  - Problem Definition
+  - User Story
+  - Jobs to be Done
 prep:
   -
     format: Reading

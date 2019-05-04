@@ -3,8 +3,8 @@ title: Visual Design
 unit: 2
 day: 11
 topics:
-  - typography
-  - composition
+  - Typography
+  - Composition
 description: |
   Visual design makes our work, aesthetic, clear, and usable. We'll start exploring some principles of typography and layout in this class. Keep in mind that theory will only take your design work so far. You have to produce work, look at it, and try again in order to actually improve.
 objectives:

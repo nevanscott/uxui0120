@@ -3,12 +3,12 @@ title: Content Strategy & IA
 unit: 3
 day: 32
 topics:
-  - ia
-  - content
-  - content-strategy
-  - navigation
-  - sitemap
-  - content-audit
+  - Information Architecture
+  - Content
+  - Content Strategy
+  - Navigation
+  - Sitemap
+  - Content Audit
 prep:
   -
     format: Reading

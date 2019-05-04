@@ -3,10 +3,10 @@ title: Material Design
 unit: 2
 day: 17
 topics:
-  - design-systems
-  - native
-  - navigation
-  - ui
+  - Design Systems
+  - Native App
+  - Navigation
+  - User Interface
 description: |
   We'll focus on how Google's Material Design system works on Android devices (primarily phones) and explore the primary navigation model.
 ---

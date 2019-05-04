@@ -1,4 +1,4 @@
 ---
 title: Benchmarking
-see: competitive
+see: Competitive Analysis
 ---

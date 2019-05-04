@@ -3,8 +3,8 @@ title: Surveys
 unit: 1
 day: 6
 topics:
-  - survey
-  - user-research
+  - Survey
+  - User Research
 description: |
   Surveys can also help us form a better picture of our users, their behaviors, and preferences.
 objectives:

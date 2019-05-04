@@ -3,7 +3,7 @@ title: Evaluative Research
 unit: 2
 day: 16
 topics:
-  - heuristics
+  - Heuristics
 description: |
   We'll extend our evaluative research toolbox to include heuristic analysis.
 

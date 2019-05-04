@@ -19,7 +19,7 @@ layout: default
 	<ul class="tags">
 		{% assign topics = page.topics | sort %}
 		{% for topic in topics %}
-			{% assign post = site.topics | where: "slug", topic | first %}
+			{% assign post = site.topics | where: "title", topic | first %}
 			{% if post %}
 				<li><a href="{{ post.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 			{% else %}

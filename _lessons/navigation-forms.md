@@ -3,11 +3,11 @@ title: Navigation & Forms
 unit: 3
 day: 33
 topics:
-  - ia
-  - navigation
-  - forms
-  - card-sorting
-  - ui-state
+  - Information Architecture
+  - Navigation
+  - Forms
+  - Card Sorting
+  - User Interface State
 ---
 
 In this lesson we will approach three topics:

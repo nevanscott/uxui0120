@@ -3,9 +3,9 @@ title: User Interface Design
 unit: 2
 day: 12
 topics:
-  - color
-  - ui
-  - microcopy
+  - Color
+  - User Interface
+  - Microcopy
 description: |
   Exploration is key to creating beautiful user interfaces. We don't see design in our mind, we perceive it with our eyes, and interact with it with our hands. Until a possibility is down on paper or screen, it's not a possibility you've considered. Give yourself as many possibilities to choose from as you can.
 objectives:

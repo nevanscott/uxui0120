@@ -3,7 +3,7 @@ title: Desirability Testing
 unit: 2
 day: 20
 topics:
-  - testing
+  - Testing
 description: |
   We'll try out a couple of card sorting techniques to help us more objectively gauge the desirability and aesthetic appeal of our designs.
 prep:

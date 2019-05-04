@@ -4,7 +4,7 @@ unit: 4
 assigned: 5
 due: 6
 topics:
-  - html
+  - HTML
 ---
 
 As a starting point for your personal website, create an About Me page, including:

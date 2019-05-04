@@ -3,8 +3,8 @@ title: Motion in user interfaces
 unit: 2
 day: 14
 topics:
-  - motion
-  - ui-state
+  - Motion
+  - User Interface State
 description: |
   Motion should be used to add clarity to a user interface, and then sparingly and with nuance. A little bit goes a long way.
 objectives:

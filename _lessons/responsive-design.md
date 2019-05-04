@@ -3,8 +3,8 @@ title: Responsive Design
 unit: 3
 day: 31
 topics:
-  - composition
-  - responsive
+  - Composition
+  - Responsive
 prep:
   -
     format: Reading

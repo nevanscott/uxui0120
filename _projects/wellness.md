@@ -6,14 +6,14 @@ due: 9
 summary: |
   Interview potential customers to identify an opportunity to improve their well-being with a thoughtful mobile app. Remember: you are not your user.
 topics:
-  - prototyping
-  - double-diamond
-  - testing
-  - portfolio
-  - writing
-  - interview
-  - survey
-  - usability
+  - Prototyping
+  - Double Diamond
+  - Testing
+  - Portfolio
+  - Writing
+  - Interview
+  - Survey
+  - Usability
 ---
 
 

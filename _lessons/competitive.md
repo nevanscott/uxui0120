@@ -3,8 +3,8 @@ title: Competitive Analysis
 unit: 2
 day: 23
 topics:
-  - competitive
-  - benchmarking
+  - Competitive Analysis
+  - Benchmarking
 description: |
   We'll cover how to conduct competitive research.
 

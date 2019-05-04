@@ -3,8 +3,8 @@ title: User Interviews
 unit: 1
 day: 3
 topics:
-  - interview
-  - user-research
+  - Interview
+  - User Research
 description: |
   When planning new design work, interviewing potential users helps us understand behaviors and contexts to narrow down the problem(s) we should address.
 objectives:

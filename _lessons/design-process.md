@@ -3,9 +3,9 @@ title: Design Process
 unit: 1
 day: 1
 topics:
-  - design-thinking
-  - design-process
-  - double-diamond
+  - Design Thinking
+  - Design Process
+  - Double Diamond
 description: |
   In this course, we'll take an iterative approach to design. No one "process" fits all projects. However,  we'll find it useful to alternate between *divergent* (exploratory) and *convergent* (decisive) thinking, and to find ways to test ideas efficiently to gain confidence in our decisions.
 objectives:

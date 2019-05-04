@@ -4,14 +4,14 @@ unit: 3
 assigned: 31
 due: 35
 topics:
-  - content-audit
-  - responsive
-  - ia
-  - heuristics
-  - inspiration
-  - card-sorting
-  - navigation
-  - sitemap
+  - Content Audit
+  - Responsive
+  - Information Architecture
+  - Heuristics
+  - Inspiration
+  - Card Sorting
+  - Navigation
+  - Sitemap
 ---
 
 **Updates pending**

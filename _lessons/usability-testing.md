@@ -3,8 +3,8 @@ title: Usability Testing
 unit: 1
 day: 2
 topics:
-  - testing
-  - usability
+  - Testing
+  - Usability
 description: |
   In order to build better products, it's useful to test prototypes with potential users to identify opportunities to improve our designs before investing in full production.
 objectives:
