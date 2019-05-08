@@ -1,4 +1,7 @@
 permalink: /:categories/:title/
+
+theme: curso
+
 collections:
   units:
     output: false
