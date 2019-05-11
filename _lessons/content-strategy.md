@@ -1,7 +1,7 @@
 ---
 title: Content Strategy & IA
 unit: 3
-day: 32
+day: 31
 topics:
   - Information Architecture
   - Content
