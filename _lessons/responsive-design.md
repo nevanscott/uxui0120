@@ -1,7 +1,7 @@
 ---
 title: Responsive Design
 unit: 3
-day: 31
+day: 33
 topics:
   - Composition
   - Responsive
