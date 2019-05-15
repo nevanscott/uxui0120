@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/nevanscott/curso
+  revision: 4119e6290c503a2da1665d61ba8aeacbb6cbd502
+  specs:
+    curso (0.1.0)
+      jekyll (~> 3.8)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -57,6 +64,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  curso!
   jekyll (>= 3.8.4)
 
 BUNDLED WITH
