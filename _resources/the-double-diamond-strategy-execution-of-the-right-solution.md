@@ -1,6 +1,6 @@
 ---
 title: 'The Double Diamond: Strategy + Execution of the Right Solution'
-url: 'https://www.thoughtworks.com/insights/blog/double-diamond'
+link: 'https://www.thoughtworks.com/insights/blog/double-diamond'
 topics:
   - Design Thinking
   - Double Diamond

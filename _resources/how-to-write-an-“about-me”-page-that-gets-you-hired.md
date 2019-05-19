@@ -1,6 +1,6 @@
 ---
 title: How to Write an “About Me” Page That Gets You Hired
-url: 'https://99u.adobe.com/articles/51669/how-to-write-about-me-section'
+link: 'https://99u.adobe.com/articles/51669/how-to-write-about-me-section'
 topics:
   - Portfolio
   - Writing

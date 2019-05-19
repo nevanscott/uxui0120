@@ -23,6 +23,8 @@ collections:
   topics:
     output: true
     permalink: /:collection/:title/
+  resources:
+    output: false
 defaults:
   -
     scope:

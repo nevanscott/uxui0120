@@ -1,6 +1,6 @@
 ---
 title: 'Designing Case Studies: Showcasing A Human-Centered Design Process'
-url: >-
+link: >-
   https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/
 topics:
   - Portfolio

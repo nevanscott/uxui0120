@@ -1,6 +1,6 @@
 ---
 title: Chalkmark
-url: 'https://www.optimalworkshop.com/chalkmark'
+link: 'https://www.optimalworkshop.com/chalkmark'
 topics:
   - Usability
   - Testing
