@@ -1,6 +1,6 @@
 ---
 title: Learning to See
-url: 'https://ia.net/topics/learning-to-see'
+link: 'https://ia.net/topics/learning-to-see'
 topics:
   - Composition
   - Typography

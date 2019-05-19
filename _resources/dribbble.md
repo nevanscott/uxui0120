@@ -1,6 +1,6 @@
 ---
 title: Dribbble
-url: 'https://dribbble.com'
+link: 'https://dribbble.com'
 topics:
   - Inspiration
 ---

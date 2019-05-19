@@ -1,6 +1,6 @@
 ---
 title: Dribbble Colors
-url: 'https://dribbble.com/colors'
+link: 'https://dribbble.com/colors'
 topics:
   - Inspiration
   - Moodboard

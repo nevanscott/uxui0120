@@ -1,6 +1,6 @@
 ---
 title: Material Design
-url: 'https://material.io'
+link: 'https://material.io'
 topics:
   - User Interface
   - Design Systems

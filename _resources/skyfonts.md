@@ -1,6 +1,6 @@
 ---
 title: SkyFonts
-url: 'https://skyfonts.com'
+link: 'https://skyfonts.com'
 topics:
   - Typography
 ---

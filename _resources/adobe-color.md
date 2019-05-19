@@ -1,6 +1,6 @@
 ---
 title: Adobe Color
-url: 'https://color.adobe.com/create'
+link: 'https://color.adobe.com/create'
 topics:
   - Color
 source: ''

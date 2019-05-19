@@ -1,6 +1,6 @@
 ---
 title: Color Contrast Checker
-url: 'https://webaim.org/resources/contrastchecker/'
+link: 'https://webaim.org/resources/contrastchecker/'
 topics:
   - Color
   - Accessibility

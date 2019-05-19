@@ -1,6 +1,6 @@
 ---
 title: Contrast Checker
-url: 'https://contrastchecker.com'
+link: 'https://contrastchecker.com'
 topics:
   - Color
   - Accessibility
