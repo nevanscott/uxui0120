@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/nevanscott/curso
-  revision: 9b4cc6355e7cea18a3ccb8f1caf72a6817271bf8
+  revision: b02f589152f8070043bf3e4e134b858c63b42750
   specs:
-    curso (0.1.3)
+    curso (0.1.4)
       jekyll (~> 3.8)
 
 GEM
