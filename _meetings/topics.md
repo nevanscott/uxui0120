@@ -1,7 +1,7 @@
 ---
 title: Lightning presentations
 format: PechaKucha
-day: 41
+day: 42
 ---
 
 ***10 slides and 5 minutes per student!***
