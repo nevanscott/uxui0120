@@ -1,6 +1,6 @@
 ---
 title: Personal Branding Workshop
-day: 43
+day: 
 ---
 
 
