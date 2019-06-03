@@ -1,0 +1,29 @@
+a.card {
+  color: inherit;
+  display: block;
+	font-weight: 500;
+  line-height: 1.3;
+  margin: 0.5rem -0.5rem;
+  padding: 0.5rem;
+	transition: background-color 200ms, border-color 200ms;
+  text-decoration: none;
+  &::before {
+    content: '';
+    display: block;
+    width: 1.5em;
+    height: 3px;
+    background: $secondary;
+    margin-bottom: 0.25em;
+  }
+  .label {
+    font-size: 0.7em;
+    color: $brand-400;
+    display: block;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+}
+a.card:hover {
+  background-color: white;
+}
