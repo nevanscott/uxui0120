@@ -5,7 +5,7 @@ $lh:          1.7;
 
 $brand:       hsl(185, 99%, 100%);
 $secondary:   hsl(260, 88%, 97%);
-$neutral:     hsl(210, 32%, 22%);
+$neutral:     hsl(210, 20%, 22%);
 
 $brand-100:   change-color($brand, $lightness: 90%);
 $brand-200:   change-color($brand, $lightness: 80%);
