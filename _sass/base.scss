@@ -64,7 +64,7 @@ h3 {
 h4 {
 	margin-top: 2em;
 	font-weight: 800;
-	color: $brand-600;
+	color: $brand-text;
 	text-transform: uppercase;
 	letter-spacing: .1em;
 }
@@ -75,7 +75,7 @@ p {
 
 blockquote {
 	color: #666;
-	border-left: 2px solid $brand-200;
+	border-left: 2px solid $brand-stroke;
 	margin: 1em*$lh 1em*$lh 1em*$lh .5em*$lh;
 	padding: 0 0 0 .75em;
 }
@@ -122,11 +122,11 @@ small {
 	font-weight: normal;
 }
 small a {
-	color: $brand-600;
+	color: $brand-text;
 }
 
 .overtitle {
-  color: $brand-600;
+  color: $brand-text;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -156,7 +156,7 @@ pre code {
 }
 
 .highlight {
-	border: 1px solid $brand-200;
+	border: 1px solid $brand-stroke;
 	background: $brand-100;
 	padding: 0 1em;
 	border-radius: 5px;
