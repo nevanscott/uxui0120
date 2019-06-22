@@ -7,7 +7,7 @@ topics:
   - Prioritization
   - Problem Definition
   - User Story
-  - Jobs to be Done
+  - Jobs To Be Done
 prep:
   -
     format: Reading

@@ -1,0 +1,50 @@
+<header>
+  <div class="main">
+    {% if page.day %}
+      {%- assign day = site.pages | where:"category","days" | where:"day",page.day | first -%}
+      <p class="day">
+        <a href="{{ day.url }}">{{ page.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</a>
+      </p>
+    {% endif %}
+    {% if page.format %}
+      <p class="format">{{ page.format }}</p>
+    {% endif %}
+    <h1{% if TODO %} class="hashtag"{% endif %}>
+  		{{ page.title | smartify }}
+    </h1>
+    {% if page.due %}
+      {%- assign due = site.pages | where:"category","days" | where:"day",page.due | first -%}
+      <p class="due">
+        due
+        <a href="{{ due.url }}">{{ page.due | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</a>
+      </p>
+    {% endif %}
+    {% if page.see %}
+  		{% assign post = site.topics | where: "title", page.see | first %}
+  		{% if post %}
+  			<p class="see">See <a href="{{ post.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+  		{% endif %}
+  	{% endif %}
+    {% if page.description %}
+    <div class="description">
+      {{ page.description | markdownify }}
+    </div>
+    {% endif %}
+  </div>
+  <aside>
+    {% if page.topics %}
+    <h2>Related Topics</h2>
+    <ul class="tags">
+      {% assign topics = page.topics | sort %}
+      {% for topic in topics %}
+        {% assign post = site.topics | where: "title", topic | first %}
+        {% if post %}
+          <li><a href="{{ post.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% else %}
+          <li>{{ topic }}</li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </aside>
+</header>

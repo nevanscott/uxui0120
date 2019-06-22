@@ -1,0 +1,6 @@
+body.styleguide main {
+  background-color: var(--pale);
+  > article > header {
+    background-color: var(--white);
+  }
+}

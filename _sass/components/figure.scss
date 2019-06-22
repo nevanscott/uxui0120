@@ -1,0 +1,10 @@
+figcaption {
+  border-top: solid 2px var(--slate);
+  color: var(--slate);
+  font-family: var(--font-caption);
+  font-size: var(--font-size-500);
+  font-weight: 500;
+  &:last-child {
+    margin-top: var(--space-500);
+  }
+}

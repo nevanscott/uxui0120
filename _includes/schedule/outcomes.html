@@ -1,0 +1,9 @@
+{%- assign singles = site.outcomes | where: "day" , day -%}
+{%- assign repeats = site.outcomes | where_exp: "item" , "item.days contains day" -%}
+{%- assign outcomes = singles | concat: repeats -%}
+{% if outcomes.size > 0 -%}
+  <h2 class="label">Career Services</h2>
+{%- endif %}
+{%- for post in outcomes -%}
+  {% include post/preview.html %}
+{%- endfor -%}

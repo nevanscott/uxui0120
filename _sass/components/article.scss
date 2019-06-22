@@ -1,0 +1,36 @@
+main > article {
+  padding: var(--space-600) var(--space-700);
+  > header {
+    background: var(--pale);
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: var(--space-700);
+    align-items: end;
+    margin:
+      calc(-1 * var(--space-600))
+      calc(-1 * var(--space-700))
+      var(--space-700)
+      ;
+    padding: var(--space-700) var(--space-700);
+    .description {
+      font-family: var(--font-heading);
+      font-size: var(--font-size-600);
+      font-weight: 400;
+    }
+  }
+  > * + * {
+    margin-top: var(--space-500);
+  }
+  > * + h2 {
+    margin-top: var(--space-700);
+  }
+  > * + h3 {
+    margin-top: var(--space-600);
+  }
+  > dl > * + * {
+    margin-top: var(--space-400);
+  }
+  > dl > * + dt {
+    margin-top: var(--space-600);
+  }
+}

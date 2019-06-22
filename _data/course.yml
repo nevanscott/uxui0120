@@ -9,7 +9,6 @@ nav:
   - HOME
   - topics
   - resources
-  - about
 start_date: June 24, 2019
 days: 45
 repo:
@@ -18,6 +17,17 @@ repo:
 teacher:
   name: Nevan Scott
   url: https://nevanscott.com
+
+secondary_nav:
+  - syllabus
+  - lessons
+  - projects
+  - homework
+  - outcomes
+
+meta_nav:
+  - about
+  - styleguide
 
 about_nav:
   -

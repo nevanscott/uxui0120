@@ -1,0 +1,14 @@
+.pattern {
+  --padding: var(--space-700);
+  background-color: var(--white);
+  padding: var(--padding);
+}
+
+.pattern > figcaption {
+  background-color: var(--pale);
+  margin-top: var(--padding);
+  margin-left: calc(-1 * var(--padding));
+  margin-right: calc(-1 * var(--padding));
+  margin-bottom: calc(-1 * var(--padding));
+  padding-top: var(--space-300);
+}
