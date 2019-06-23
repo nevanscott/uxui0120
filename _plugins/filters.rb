@@ -17,6 +17,13 @@ module Jekyll
         return day
       end
     end
+    def class_day(date, start)
+      # Assuming start is a Monday, and no holidays are included
+      elapsed = (Date.parse(date) - Date.parse(start)).to_i
+      week = (elapsed / 7).floor
+      day = elapsed % 7
+      return week * 5 + day + 1
+    end
   end
 end
 Liquid::Template.register_filter(Jekyll::DateFilter)

@@ -29,50 +29,14 @@ defaults:
   -
     scope:
       path: ""
-      type: "lessons"
     values:
-      layout: "lesson"
-  -
-    scope:
-      path: ""
-      type: "homework"
-    values:
-      layout: "homework"
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-  -
-    scope:
-      path: ""
-      type: "meetings"
-    values:
-      layout: "meeting"
-  -
-    scope:
-      path: ""
-      type: "outcomes"
-    values:
-      layout: "outcomes"
+      layout: "page"
   -
     scope:
       path: ""
       type: "topics"
     values:
       layout: "topic"
-
-  -
-    scope:
-      path: "pages/about"
-    values:
-      layout: "about"
-  -
-    scope:
-      path: "pages/resources"
-    values:
-      layout: "resources"
 
 relative_permalinks: false
 future: false

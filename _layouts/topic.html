@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<article>
+	{% include page/header.html %}
+
+	{% assign lessons = site.lessons | where_exp:"item","item.topics contains page.title" | sort:'day' %}
+	{% if lessons.size > 0 %}
+		<h2>Lessons</h2>
+		{% for post in lessons %}
+			{% include post/preview.html strong=true %}
+		{% endfor %}
+	{% endif %}
+
+	{% assign projects = site.projects | where_exp:"item","item.topics contains page.title" | sort:'due' %}
+	{% if projects.size > 0 %}
+		<h2>Projects</h2>
+		{% for post in projects %}
+			{% include post/preview.html strong=true %}
+		{% endfor %}
+	{% endif %}
+
+	{% assign resources = site.resources | where_exp:"item","item.topics contains page.title" %}
+	{% if resources.size > 0 %}
+		<h2>Resources</h2>
+		{% for post in resources %}
+			{% include post/preview.html strong=true %}
+		{% endfor %}
+	{% endif %}
+
+</article>

@@ -1,0 +1,124 @@
+[class^='preview'] {
+  color: var(--dark);
+  font-family: var(--font-interface);
+  font-size: var(--font-size-500);
+  & + & {
+    margin-top: var(--space-500);
+  }
+  > * + * {
+    margin-top: var(--space-300);
+  }
+  a {
+    border: none;
+    > * + * {
+      margin-top: var(--space-300);
+    }
+    &[href^="http"] {
+      &::after {
+        display: none;
+      }
+    }
+    &:hover {
+      h3 .title {
+        border-bottom: solid 2px var(--indigo);
+      }
+    }
+    &.strong, &.next, &.back {
+      h3::before {
+        content: '→';
+        color: var(--indigo);
+        float: left;
+        margin-left: calc(-1 * var(--space-600));
+        font-family: var(--font-icon);
+        font-size: var(--font-size-700);
+        font-weight: 800;
+        transform: translateY(-2px);
+      }
+      &[href^="http"] {
+        h3::before {
+          content: "↗";
+          transform: translateY(2px);
+        }
+      }
+    }
+    &.back {
+      h3::before {
+        content: "←";
+      }
+    }
+  }
+  .label {
+    color: var(--indigo);
+    font-family: var(--font-label);
+    font-size: var(--font-size-400);
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+  .label + * {
+    margin-top: 0;
+  }
+  h3 {
+    line-height: 1.35;
+  }
+  header {
+    color: var(--black);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    * + * {
+      margin-left: var(--space-400);
+    }
+    time {
+      font-family: var(--font-caption);
+      font-weight: 600;
+      color: var(--indigo);
+    }
+  }
+  .byline {
+    color: var(--black);
+    font-style: normal;
+    font-weight: 500;
+  }
+  .author {
+    font-weight: 700;
+  }
+  * + .source-url {
+    margin-left: var(--space-300);
+  }
+  .source {
+    color: var(--black);
+    font-style: italic;
+    font-weight: 500;
+  }
+  .source-title {
+    font-style: normal;
+  }
+  .source-url {
+    color: var(--slate);
+    font-weight: 500;
+  }
+}
+
+.preview--compact {
+  h3 {
+    font-size: var(--font-size-600);
+  }
+  & + & {
+    margin-top: var(--space-500);
+  }
+  > * + * {
+    margin-top: var(--space-100);
+  }
+  a {
+    > * + * {
+      margin-top: var(--space-100);
+    }
+  }
+  * + .source-url {
+    margin-left: 0;
+  }
+  .source-url {
+    display: block;
+  }
+}

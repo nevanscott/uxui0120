@@ -1,0 +1,47 @@
+<article class="preview{% if include.compact %}--compact{% endif %}">
+  <a{% if include.strong %} class="strong"{% endif %} href="{{ post.link | default:post.url }}">
+    {% if include.label or post.format -%}
+      <div class="label">{{ include.label | default:post.format }}</div>
+    {%- endif %}
+    <header>
+      <h3>
+        <span class="title">
+          {{- post.title | smartify -}}
+          {%- if post.subtitle -%}
+            <span class="subtitle">: {{ post.subtitle }}</span>
+          {%- endif -%}
+        </span>
+      </h3>
+      {% if post.due %}
+        <time>due&nbsp;{{ post.due | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</time>
+      {% elsif post.day %}
+        <time>{{ post.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</time>
+      {% endif %}
+    </header>
+    <div class="meta">
+      {% if post.author -%}
+        <cite class="byline">by <span class="author">{{ post.author }}</span></cite>
+      {%- endif %}
+      {% if post.source -%}
+        <span class="source">from <span class="source-title">{{ post.source }}</span></span>
+      {%- endif %}
+      {% if post.link -%}
+        <span class="source-url">{{ post.link | remove:"http://" | remove:"https://" | remove:"www." | split:"/" | first }}</span>
+      {%- endif %}
+    </div>
+    {{ post.description | markdownify }}
+  </a>
+  {% if post.topics %}
+    <ul class="tags">
+      {% assign topics = post.topics | sort %}
+      {% for topic in topics %}
+        {% assign topic_post = site.topics | where: "title", topic | first %}
+        {% if topic_post %}
+          <li><a href="{{ topic_post.url }}">{{ topic_post.title }}</a></li>
+        {% else %}
+          <li>{{ topic }}</li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+</article>

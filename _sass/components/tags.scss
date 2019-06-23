@@ -1,25 +1,37 @@
 .tags {
   list-style: none;
-  margin: 0;
-  padding: 0;
-  font-size: .875em;
-  font-weight: 500;
+  font-family: var(--font-interface);
+  font-size: var(--font-size-500);
+  font-weight: 400;
 }
 
 .tags li {
   display: inline;
-  margin-right: 0.75em;
   white-space: nowrap;
+  + li {
+    margin-left: var(--space-300);    
+  }
+  a {
+    border: none;
+    &:hover {
+      border-bottom: solid 2px var(--goldenrod);
+    }
+  }
   &::before {
     display: inline;
     content: "# ";
-    color: $brand-500;
+    color: var(--pumpkin);
+    font-weight: 600;
+    width: auto;
+    height: auto;
+    background: none;
+    position: static;
   }
 }
 
 .hashtag {
   &::before {
-    color: $brand-500;
+    color: var(--pumpkin);
     content: "# ";
     @media screen and (min-width: 55em) {
       display: block;

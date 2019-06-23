@@ -1,8 +1,21 @@
 ---
 layout: default
-title: Calendar
+title: Schedule
 permalink: /
-wide: true
 ---
 
-{% include schedule.html %}
+{%- assign first = 1 | class_date: site.data.course.start_date | date:"%Y-%m-%d" -%}
+{%- assign last = site.data.course.days | class_date: site.data.course.start_date | date:"%Y-%m-%d" -%}
+{%- assign build = site.time | date:"%Y-%m-%d" -%}
+{%- assign build = "now" | date:"%Y-%m-%d" -%}
+{%- if build < first %}
+  {%- assign day = 1 -%}
+{%- elsif build <= last %}
+  {%- assign day = build | class_day: site.data.course.start_date -%}
+{%- else %}
+  {%- assign day = 1 -%}
+{%- endif %}
+
+{%- assign date = day | class_date: site.data.course.start_date -%}
+
+{%- include day.html day=day date=date -%}

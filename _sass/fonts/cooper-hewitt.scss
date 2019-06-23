@@ -1,0 +1,141 @@
+$base: '/assets/fonts/CooperHewitt-WebFonts-public/';
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: normal;
+    font-weight: 100;
+    src: url($base + "CooperHewitt-Thin.eot");
+    src: url($base + "CooperHewitt-Thin.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-Thin.woff") format("woff"),
+         url($base + "CooperHewitt-Thin.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: italic;
+    font-weight: 100;
+    src: url($base + "CooperHewitt-ThinItalic.eot");
+    src: url($base + "CooperHewitt-ThinItalic.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-ThinItalic.woff") format("woff"),
+         url($base + "CooperHewitt-ThinItalic.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: normal;
+    font-weight: 200;
+    src: url($base + "CooperHewitt-Light.eot");
+    src: url($base + "CooperHewitt-Light.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-Light.woff") format("woff"),
+         url($base + "CooperHewitt-Light.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: italic;
+    font-weight: 200;
+    src: url($base + "CooperHewitt-LightItalic.eot");
+    src: url($base + "CooperHewitt-LightItalic.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-LightItalic.woff") format("woff"),
+         url($base + "CooperHewitt-LightItalic.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: normal;
+    font-weight: 300;
+    src: url($base + "CooperHewitt-Book.eot");
+    src: url($base + "CooperHewitt-Book.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-Book.woff") format("woff"),
+         url($base + "CooperHewitt-Book.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: italic;
+    font-weight: 300;
+    src: url($base + "CooperHewitt-BookItalic.eot");
+    src: url($base + "CooperHewitt-BookItalic.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-BookItalic.woff") format("woff"),
+         url($base + "CooperHewitt-BookItalic.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: normal;
+    font-weight: 400;
+    src: url($base + "CooperHewitt-Medium.eot");
+    src: url($base + "CooperHewitt-Medium.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-Medium.woff") format("woff"),
+         url($base + "CooperHewitt-Medium.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: italic;
+    font-weight: 400;
+    src: url($base + "CooperHewitt-MediumItalic.eot");
+    src: url($base + "CooperHewitt-MediumItalic.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-MediumItalic.woff") format("woff"),
+         url($base + "CooperHewitt-MediumItalic.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: normal;
+    font-weight: 500;
+    src: url($base + "CooperHewitt-Semibold.eot");
+    src: url($base + "CooperHewitt-Semibold.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-Semibold.woff") format("woff"),
+         url($base + "CooperHewitt-Semibold.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: italic;
+    font-weight: 500;
+    src: url($base + "CooperHewitt-SemiboldItalic.eot");
+    src: url($base + "CooperHewitt-SemiboldItalic.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-SemiboldItalic.woff") format("woff"),
+         url($base + "CooperHewitt-SemiboldItalic.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: normal;
+    font-weight: 700;
+    src: url($base + "CooperHewitt-Bold.eot");
+    src: url($base + "CooperHewitt-Bold.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-Bold.woff") format("woff"),
+         url($base + "CooperHewitt-Bold.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: italic;
+    font-weight: 700;
+    src: url($base + "CooperHewitt-BoldItalic.eot");
+    src: url($base + "CooperHewitt-BoldItalic.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-BoldItalic.woff") format("woff"),
+         url($base + "CooperHewitt-BoldItalic.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: normal;
+    font-weight: 800;
+    src: url($base + "CooperHewitt-Heavy.eot");
+    src: url($base + "CooperHewitt-Heavy.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-Heavy.woff") format("woff"),
+         url($base + "CooperHewitt-Heavy.svg#webfont") format("svg")
+}
+
+@font-face {
+    font-family: 'CooperHewitt';
+    font-style: italic;
+    font-weight: 800;
+    src: url($base + "CooperHewitt-HeavyItalic.eot");
+    src: url($base + "CooperHewitt-HeavyItalic.eot?#iefix") format("embedded-opentype"),
+         url($base + "CooperHewitt-HeavyItalic.woff") format("woff"),
+         url($base + "CooperHewitt-HeavyItalic.svg#webfont") format("svg")
+}
