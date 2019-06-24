@@ -98,11 +98,13 @@ Your presentation should answer the following questions:
 3. What would you do differently next time?
 
 
+Uploads
+---------
+- [Presentation](https://drive.google.com/drive/folders/1-GL6n8POFAtktCeiuSqvvXl-Mvm7zhtN)
+
+
 Give feedback to your peers!
 ---------------------------
 
-- [Presentation feedback](https://drive.google.com/drive/folders/1IZmJUfvNDw9bYTrX1X9T4bC_GylI3n9q)
-- [Group retrospective](https://drive.google.com/drive/folders/1eiRycXa8aemdAaO5EdoB3dAtm2Ty3auF)
-
-
-<img src="/assets/images/dwight.jpg" alt="Dwight: Good luck, you've got this.">
+- [Presentation feedback](https://drive.google.com/drive/folders/1i1xLyYM5udcRFM1kbynvBJbdRawAWAJ8)
+- [Group retrospective](https://drive.google.com/drive/folders/1Mo73u58lBn6HPBQxwVxn9a9Waxke0FFO)
