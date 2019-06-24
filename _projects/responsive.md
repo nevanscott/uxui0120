@@ -100,7 +100,7 @@ Your presentation should answer the following questions:
 
 Uploads
 ---------
-- [Presentation](https://drive.google.com/drive/folders/1-GL6n8POFAtktCeiuSqvvXl-Mvm7zhtN)
+- [Final presentation](https://drive.google.com/drive/folders/1-GL6n8POFAtktCeiuSqvvXl-Mvm7zhtN)
 
 
 Give feedback to your peers!
