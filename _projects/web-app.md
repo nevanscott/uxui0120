@@ -152,3 +152,7 @@ Your presentation should answer the following questions:
 
 - Add some animation to your redesign
 - Make the layout responsive
+
+Uploads
+----------
+[Final presentation](https://drive.google.com/drive/folders/1yehCpsMEgTmYYkEkNVrHNKdqjWfgBzY-)
