@@ -77,6 +77,10 @@ For this prototype, you'll stick to sketches on paper, but also take photos of y
 
 **Note:** We'll mostly be using Invision in this class, so this might be a good opportunity to try out Marvel if you're feeling comfy with the basics of Invision already. Whatever you decide, make sure to talk it over as a team.
 
+Uploads
+-------
+- [Final Presentation](https://drive.google.com/drive/u/2/folders/1Q3XcbEXj5FgwF-DXTEio8idWLRCdnM-T)
+
 
 Give feedback to your peers!
 ---------------------------
