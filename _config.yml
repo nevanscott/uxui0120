@@ -29,6 +29,31 @@ defaults:
   -
     scope:
       path: ""
+      type: "lessons"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "homework"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "meetings"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "outcomes"
     values:
       layout: "page"
   -
@@ -37,6 +62,11 @@ defaults:
       type: "topics"
     values:
       layout: "topic"
+  -
+    scope:
+      path: "pages"
+    values:
+      layout: "page"
 
 relative_permalinks: false
 future: false
