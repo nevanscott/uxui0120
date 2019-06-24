@@ -93,6 +93,15 @@ collections:
         name: "body"
         required: false
         widget: "markdown"
+      - label: "Resources"
+        name: "resources"
+        required: false
+        widget: "relation"
+        collection: "resource"
+        searchFields: ["title", "author", "source", "link"]
+        valueField: "title"
+        displayFields: ["title"]
+        multiple: true
       - label: "Prep Homework"
         hint: "These links will be assigned the day before the lesson."
         name: "prep"
