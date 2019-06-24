@@ -3,8 +3,6 @@ title: Add a Feature
 unit: 2
 assigned: 13
 due: 16
-description: |
-  You will be developing a new feature for an existing app based on an area of functionality to explore. Your work will culminate in a high-fidelity prototype that reflects your best path forward based on research, iteration, and testing. For apps that have both Android and iOS implementations, you may choose either platform.
 topics:
   - Native App
   - User Interface
@@ -132,9 +130,14 @@ Tips
 - Build out your presentation deck and your report as you go
 - Work fast; have fun
 
+Uploads
+-------
+
+- [Final presentation](https://drive.google.com/drive/u/2/folders/1Kwyg2OznrFg3kWhWFmI6EFlJ4dzKcim1)
+
 
 Give feedback to your peers!
 ---------------------------
 
-- [Presentation feedback](https://drive.google.com/drive/folders/1n_uXdKU06FjF-UBM1FEJvzy703JcT0ku)
-- [Group retrospective](https://drive.google.com/drive/folders/1eiRycXa8aemdAaO5EdoB3dAtm2Ty3auF)
+- [Presentation feedback](https://drive.google.com/drive/u/2/folders/1BGYunKoCSPe2xPnwaUrx52hvTzABYNq0)
+- [Group retrospective](https://drive.google.com/drive/u/2/folders/1Mo73u58lBn6HPBQxwVxn9a9Waxke0FFO)
