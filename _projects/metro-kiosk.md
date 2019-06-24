@@ -70,5 +70,5 @@ When it's time to present, we'll visit each group's station so they can walk us 
 Give feedback to your peers!
 ---------------------------
 
-- [Presentation feedback](https://drive.google.com/drive/folders/1MGMy8FTAAJEgOry0n50dsSMPhtL8-uyZ)
-- [Group retrospective](https://drive.google.com/drive/folders/1eiRycXa8aemdAaO5EdoB3dAtm2Ty3auF)
+- [Presentation feedback](https://drive.google.com/drive/folders/1P3SB0CI5EgETXr3hyyocEe6J_fbSa3jo)
+- [Group retrospective](https://drive.google.com/drive/folders/1Mo73u58lBn6HPBQxwVxn9a9Waxke0FFO)
