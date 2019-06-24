@@ -54,7 +54,12 @@ Your will have 6 minutes to summarize your work. We should get a strong sense of
 - Your design, including a prototype
 - Next steps
 
+Uploads
+-------
+
+- [Final presentation](https://drive.google.com/drive/folders/1pBa7f9KixiYnt8I140yp65T7AYIQssYr)
+
 Give feedback to your peers!
 ---------------------------
 
-- [Presentation feedback](https://drive.google.com/drive/folders/1Fmje970O0cjqrpAVIh9J0-X-RRiCzNgZ)
+- [Presentation feedback](https://drive.google.com/drive/folders/1BGYunKoCSPe2xPnwaUrx52hvTzABYNq0)
