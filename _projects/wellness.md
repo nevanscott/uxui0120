@@ -3,8 +3,6 @@ title: Wellness App
 unit: 1
 assigned: 6
 due: 9
-summary: |
-  Interview potential customers to identify an opportunity to improve their well-being with a thoughtful mobile app. Remember: you are not your user.
 topics:
   - Prototyping
   - Double Diamond
@@ -125,6 +123,11 @@ For this project, you'll be delivering a presentation as well as submitting a wr
 The report will also serve as the focal point for a 1-on-1 feedback session with one of the TAs.
 
 We'll have time dedicated after the presentations of this project to write up the report. For more information, check out the lesson on [Design Reports]({{ site.baseurl }}{% link _lessons/design-reports.md %}).
+
+Uploads
+-------
+
+- [Final Presentations](https://drive.google.com/drive/u/2/folders/13FN20ujPO_JelN2n3lxdDloqTDdnKPTp)
 
 
 Give feedback to your peers!
