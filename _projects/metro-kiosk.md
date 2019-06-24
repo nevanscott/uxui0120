@@ -15,7 +15,7 @@ topics:
 Setup
 -----
 
-- Teams of 2–3
+- Teams of 3–4
 - 2 days
 
 
