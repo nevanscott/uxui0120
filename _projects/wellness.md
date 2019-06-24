@@ -127,7 +127,7 @@ We'll have time dedicated after the presentations of this project to write up th
 Uploads
 -------
 
-- [Final Presentations](https://drive.google.com/drive/u/2/folders/13FN20ujPO_JelN2n3lxdDloqTDdnKPTp)
+- [Final Presentation](https://drive.google.com/drive/u/2/folders/13FN20ujPO_JelN2n3lxdDloqTDdnKPTp)
 
 
 Give feedback to your peers!
