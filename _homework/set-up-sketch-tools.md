@@ -12,12 +12,12 @@ Plugin Recommendations
 - [Anima](https://www.animaapp.com/) <small>You need to press Start for free and add an email address to access the downloadable file.</small>
 - [Craft](https://www.invisionapp.com/craft)
 - [Skyfonts](https://skyfonts.com/)
-- [Iconify] (https://github.com/iconify/iconify-sketch/releases/download/v1.1.3/iconify.sketchplugin.zip)
+- [Iconify](https://github.com/iconify/iconify-sketch/releases/download/v1.1.3/iconify.sketchplugin.zip)
 
 Font Recommendations
 --------------------
 
-There are so so so many fonts to comb through on [Google Fonts][], so in an effort to make your life easier, here are some to get you started. Please install
+There are so so so many fonts to comb through on [Google Fonts][https://fonts.google.com/], so in an effort to make your life easier, here are some to get you started. Please install
 
 ### UI-friendly Sans
 
