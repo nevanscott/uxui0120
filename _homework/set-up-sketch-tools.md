@@ -17,7 +17,7 @@ Plugin Recommendations
 Font Recommendations
 --------------------
 
-There are so so so many fonts to comb through on [Google Fonts][https://fonts.google.com/], so in an effort to make your life easier, here are some to get you started. Please install
+There are so so so many fonts to comb through on [Google Fonts](https://fonts.google.com/), so in an effort to make your life easier, here are some to get you started.
 
 ### UI-friendly Sans
 
