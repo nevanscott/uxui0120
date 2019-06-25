@@ -1,7 +1,7 @@
 ---
 title: Mandatory LinkedIn & CV Talk
-day: 22
+day: 17
 ---
 
-In order to be able to participate to the Hiring week, it is mandatory to attend this presentation.
+In order to be able to participate to the Hiring fair, it is mandatory to attend this presentation.
 
