@@ -224,6 +224,7 @@ collections:
   - name: "unit"
     label: "Unit"
     folder: "_units"
+    create: true
     slug: "{{slug}}"
     fields:
       - label: "Title"
