@@ -1,20 +1,20 @@
 ---
 title: Paper Prototyping
 unit: 1
-day: 4
+day: 2
 topics:
   - Prototyping
-description: |
-  Prototyping is often best done in cheap and fast ways, so that we can work out the kinks in design concepts quickly and deliver a better final product.
+description: >
+  Prototyping is often best done in cheap and fast ways, so that we can work out
+  the kinks in design concepts quickly and deliver a better final product.
 objectives:
   - make prototypes out of paper!
   - explain why cheap prototyping methods are valuable
 prep:
-  -
+  - author: Relab Studios
     format: Video
     title: Crazy 8s – Brainstorming & Sketching
-    url: https://www.youtube.com/watch?v=UXOLJy0E7Pg
-    author: Relab Studios
+    url: 'https://www.youtube.com/watch?v=UXOLJy0E7Pg'
 ---
 
 
