@@ -14,6 +14,6 @@ days:
 ---
 
 
-You have to have your first 1x1 with Gemma before TBD. You can schedule it in her calendar (the link will be sent on Slack).
+You have to have your first 1x1 with Carla. You can schedule it in her calendar.
 
-In order to be able to participate to the Hiring week, you have two mandatory meetings with Gemma. This is the first one.
+In order to be able to participate in the Hiring fair, you have two mandatory meetings with Career Services. This is the first one.
