@@ -1,8 +1,8 @@
 ---
 title: About Me
 unit: 4
-assigned: 5
-due: 6
+assigned: 6
+due: 8
 topics:
   - HTML
 ---
