@@ -1,23 +1,23 @@
 ---
 title: Surveys
 unit: 1
-day: 6
+day: 5
 topics:
   - Survey
   - User Research
-description: |
-  Surveys can also help us form a better picture of our users, their behaviors, and preferences.
+description: >
+  Surveys can also help us form a better picture of our users, their behaviors,
+  and preferences.
 objectives:
   - identify qualitative vs. quantitative data
   - use a goal-driven approach to developing survey questions
   - identify when using a survey may be appropriate for a project
   - identify some limitations of survey data
 prep:
-  -
+  - author: Chris Thelwell
     format: Reading
     title: The Lean Survey Canvas
-    url: http://www.christhelwell.com/live/the-lean-survey-canvas/#.W3TZ3i-B3OQ
-    author: Chris Thelwell
+    url: 'http://www.christhelwell.com/live/the-lean-survey-canvas/#.W3TZ3i-B3OQ'
 ---
 
 Resources
