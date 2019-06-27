@@ -6,7 +6,7 @@ assigned: 5
 due: 7
 ---
 
-**Disclaimer: Please do this homework after completing the [Sketch Basics](https://0619.uxui.cat/homework/sketch-basics/) homework assignment first.**
+**Disclaimer: Please do this homework after completing the [Sketch Basics]({% link _homework/sketch-basics.md %}) homework assignment first.**
 
 Now that you've reviewed some Sketch basics and gotten practice with tracing, we are going to stretch your skills even further.
 
