@@ -87,30 +87,31 @@ For this project, use Sketch and Invision to make a low-fidelity version of your
 Suggested Roadmap
 -----------------
 
-### Monday
+### Friday
 
 - Choose a topic / type of wellness to focus on
 - Plan the following days
 - Prepare and send your survey
-- Prepare for interviews
 
-### Tuesday
+### Weekend
 
-- Conduct your interviews
+- Prepare and conduct your interviews
 - Finish your research
 - Gather the results
 
-### Wednesday
+### Monday
 
 - "Translate" your research results in features
 - Paper prototype
 - Test & iterate
+
+### Tuesday
+
 - Sketch low-fidelity prototype
-
-### Thursday
-
 - Test & iterate
 - InVision
+
+### Wednesday
 - Finish up your slides
 - Presentation
 
