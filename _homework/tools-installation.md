@@ -1,8 +1,8 @@
 ---
 title: Set up development tools
 unit: 4
-assigned: 4
-due: 5
+assigned: 5
+due: 6
 ---
 
 Tasks
