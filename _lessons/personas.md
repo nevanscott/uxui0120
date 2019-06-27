@@ -1,12 +1,14 @@
 ---
 title: Personas
 unit: 1
-day: 7
+day: 6
 topics:
   - Persona
   - User Research
-description: |
-  Personas are a deliverable which helps us summarize and communicate findings from user research, embodying those findings in a representative user which other stakeholders can empathize with as well.
+description: >
+  Personas are a deliverable which helps us summarize and communicate findings
+  from user research, embodying those findings in a representative user which
+  other stakeholders can empathize with as well.
 objectives:
   - identify key elements of a user persona
   - differentiate a persona from a stereotype
@@ -15,11 +17,10 @@ objectives:
   - describe how a persona might be used in practice
   - develop a persona based on findings from user interviews
 prep:
-  -
+  - author: Jared Spool
     format: Reading
     title: Five Factors for Successful Persona Projects
-    url: https://articles.uie.com/successful_persona_projects/
-    author: Jared Spool
+    url: 'https://articles.uie.com/successful_persona_projects/'
 ---
 
 Ironhack Learning Platform
