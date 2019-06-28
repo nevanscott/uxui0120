@@ -19,7 +19,7 @@ Setup
 -----
 
 - Individual Project
-- 3 class days
+- 4 class days
 
 
 Materials
@@ -74,7 +74,7 @@ Your presentation should answer the following questions:
 Prototype
 ---------
 
-For this project, use Sketch and Invision to make a low-fidelity version of your prototype.
+For this project, use Sketch and Invision to make a mid-fidelity version of your prototype.
 
 - Stick to black and white <small>(use 1 shade of grey if needed)</small>
 - Just use 1 font <small>(probably Avenir or Helvetica)</small>
@@ -109,10 +109,16 @@ Suggested Roadmap
 
 - Sketch low-fidelity prototype
 - Test & iterate
-- InVision
+- Group crits
 
 ### Wednesday
+
+- Sketch mid-fidelity prototype
+- InVision
 - Finish up your slides
+
+### Thursday
+
 - Presentation
 
 
