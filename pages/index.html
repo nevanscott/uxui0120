@@ -6,7 +6,6 @@ permalink: /
 
 {%- assign first = 1 | class_date: site.data.course.start_date | date:"%Y-%m-%d" -%}
 {%- assign last = site.data.course.days | class_date: site.data.course.start_date | date:"%Y-%m-%d" -%}
-{%- assign build = site.time | date:"%Y-%m-%d" -%}
 {%- assign build = "now" | date:"%Y-%m-%d" -%}
 {%- if build < first %}
   {%- assign day = 1 -%}

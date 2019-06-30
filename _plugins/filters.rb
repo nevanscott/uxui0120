@@ -19,9 +19,19 @@ module Jekyll
     end
     def class_day(date, start)
       # Assuming start is a Monday, and no holidays are included
+      Jekyll.logger.info "Filter:", "Called with #{date}, #{start}"
       elapsed = (Date.parse(date) - Date.parse(start)).to_i
+      Jekyll.logger.info "Filter:", "Elapsed days at #{elapsed}"
+      if elapsed % 7 == 5
+        elapsed = elapsed + 2
+      elsif elapsed % 7 == 6
+        elapsed = elapsed + 1
+      end
+      Jekyll.logger.info "Filter:", "Elapsed days at #{elapsed} (skipping weekends)"
       week = (elapsed / 7).floor
       day = elapsed % 7
+      Jekyll.logger.info "Filter:", "Week #{week} Day #{day}"
+      Jekyll.logger.info "Filter:", "Day #{week * 5 + day + 1}"
       return week * 5 + day + 1
     end
   end
