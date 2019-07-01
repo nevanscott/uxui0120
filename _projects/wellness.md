@@ -2,7 +2,7 @@
 title: Wellness App
 unit: 1
 assigned: 5
-due: 8
+due: 9
 topics:
   - Prototyping
   - Double Diamond
