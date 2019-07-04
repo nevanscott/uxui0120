@@ -3,7 +3,7 @@ title: Sketch - Desktop Design
 unit: 2
 format: Practice
 assigned: 9
-due: 10
+due: 11
 ---
 
 Now that you've reviewed some Sketch basics, practiced tracing and copying mobile screens, and incorporated symbols, we are going to stretch your skills even further. Today's homework is designed to give you some practice with how elements are laid out on a larger screen size.
