@@ -8,8 +8,6 @@ topics:
   - CSS
   - Typography
   - Composition
-description: |
-  Based on the About page you started last week, start adding styles, and add a Blog page, with at least your first post.
 ---
 
 Your updated website should:
@@ -33,4 +31,4 @@ Suggestions
 Deliverables
 ------------
 
-You'll launch your website again on Netlify (same place as before). To turn in this assignment, please upload your files on [Google Drive](https://drive.google.com/open?id=1zwOnvlcpq0xl_7PmEojE6ssgZHPnuwzM), and add the link to your published site on the [spreadsheet](https://docs.google.com/spreadsheets/d/1Ztzs4jheB_HWNSr6AgDMiLag3_GbwDIpQ5g_kuQmGrY/edit#gid=0) for this assignment.
+You'll launch your website again on Netlify (same place as before). To turn in this assignment, please upload your files on [Google Drive](https://drive.google.com/drive/folders/1AnBfy4yhdyBlOBCM09gBxK-Kh-XZwf2V), and add the link to your published site on the [spreadsheet](https://docs.google.com/spreadsheets/d/1bSWGTwDnjXf8BIglmtBK0JYX1pIgT9W0KEFAM55-hy4/edit#gid=0) for this assignment.
