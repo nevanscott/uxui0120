@@ -1,15 +1,16 @@
 ---
 title: Inspiration and Aspiration
 unit: 2
-day: 19
+day: 10
 topics:
   - User Interface
   - Inspiration
   - User Interface State
   - Style Tile
   - Moodboard
-description: |
-  In this lesson, we will explore a few different topics in order to stretch your UI skills.
+description: >
+  In this lesson, we will explore a few different topics in order to stretch
+  your UI skills.
 ---
 
 As a new designer, it is not expected that you recreate the wheel, but rather pull inspiration from existing sources - both to train your designer's eye and to speed up your workflow.
