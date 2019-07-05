@@ -1,17 +1,18 @@
 ---
 title: Human Interface Guidelines
 unit: 2
-day: 17
+day: 12
 topics:
   - Native App
   - Navigation
   - User Interface
-description: |
-  We'll focus on Apple's Human Interface Guidelines for iOS (phones and tablets) for now, with an emphasis on the navigation models in iOS.
+description: >
+  We'll focus on Apple's Human Interface Guidelines for iOS (phones and tablets)
+  for now, with an emphasis on the navigation models in iOS.
 objectives:
   - describe the purpose of Apple's Human Interface Guidelines
   - identify hierarchical vs. flat navigational patterns in iOS apps
-  - identify when to use [Navigation Bars][], [Tab Bars][], and [Toolbars][]
+  - 'identify when to use [Navigation Bars][], [Tab Bars][], and [Toolbars][]'
   - identify features of an app which follow and violate guidelines.
 ---
 
