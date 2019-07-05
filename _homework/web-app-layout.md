@@ -2,8 +2,8 @@
 title: 'HTML & CSS: Desktop Web App Layout'
 unit: 4
 format: Practice
-assigned: 15
-due: 16
+assigned: 16
+due: 20
 ---
 
 Assignment
