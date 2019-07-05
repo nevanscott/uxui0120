@@ -1,8 +1,8 @@
 ---
 title: Flexbox Froggy
 unit: 4
-assigned: 10
-due: 11
+assigned: 16
+due: 17
 ---
 
 Flexbox Froggy is a game for learning CSS flexbox. You'll be using Flexbox to help the frogs get to their lilypads by writing CSS code.
