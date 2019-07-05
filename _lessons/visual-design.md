@@ -1,26 +1,29 @@
 ---
-title: Visual Design
+title: 'Visual Design - Typography '
 unit: 2
 day: 11
 topics:
   - Typography
   - Composition
-description: |
-  Visual design makes our work, aesthetic, clear, and usable. We'll start exploring some principles of typography and layout in this class. Keep in mind that theory will only take your design work so far. You have to produce work, look at it, and try again in order to actually improve.
+description: >
+  Visual design makes our work, aesthetic, clear, and usable. We'll start
+  exploring some principles of typography and layout in this class. Keep in mind
+  that theory will only take your design work so far. You have to produce work,
+  look at it, and try again in order to actually improve.
 objectives:
-  - |
-    analyze a design according to principles: contrast, repetition, alignment, and proximity (CRAP)
+  - >
+    analyze a design according to principles: contrast, repetition, alignment,
+    and proximity (CRAP)
   - differentiate between display typefaces and text typefaces
   - identify features of fonts appropriate for interfaces
   - establish basic typographic hierarchy
   - use spacing to make text readable
   - use proximity to make relationships clear
 prep:
-  -
+  - author: Oliver Reichenstein
     format: Reading
     title: Learning to See
-    url: https://ia.net/topics/learning-to-see
-    author: Oliver Reichenstein
+    url: 'https://ia.net/topics/learning-to-see'
 ---
 
 <!-- <img class="illo aside" src="/assets/images/crap.png" alt="Illustration of CRAP design principles: contrast, repetition, alignment, and proximity" /> -->
