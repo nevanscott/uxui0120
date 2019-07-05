@@ -1,15 +1,17 @@
 ---
 title: CSS for Typesetting and Composition
 unit: 4
-day: 10
+day: 11
 topics:
   - HTML
   - CSS
   - Flexbox
   - Composition
   - Typography
-description: |
-  CSS provides us a way to give the web browser hints about how we want the content of our website to render. We'll start working with CSS by using it to style typographic compositions.
+description: >
+  CSS provides us a way to give the web browser hints about how we want the
+  content of our website to render. We'll start working with CSS by using it to
+  style typographic compositions.
 ---
 
 Agenda
