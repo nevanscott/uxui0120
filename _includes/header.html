@@ -24,6 +24,8 @@
       {%- elsif item_url == "/" -%}
         {%- if page.calendar_day.size > 0 -%}
           {%- assign c = "current" -%}
+        {%- elsif page.week.size > 0 -%}
+          {%- assign c = "current" -%}
         {%- else -%}
           {%- assign c = "" -%}
         {%- endif -%}

@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<article>
+  <header>
+    <div class="main">
+      <h1>Week {{ page.week }}</h1>
+    </div>
+    <aside>
+      {%- assign next_week = page.week | plus:1 -%}
+      {%- assign previous_week = page.week | minus:1 -%}
+      {%- assign next = site.pages | where:"category","weeks" | where:"week",next_week | first -%}
+      {%- assign previous = site.pages | where:"category","weeks" | where:"week",previous_week | first -%}
+      {% if previous -%}
+        <article class="preview--compact">
+          <a class="back" href="{{ previous.url }}">
+            <div class="label">Previous</div>
+            <header>
+              <h3>
+                <span class="title">Week {{ previous.week }}</span>
+              </h3>
+            </header>
+          </a>
+        </article>
+      {%- endif %}
+      {% if next -%}
+        <article class="preview--compact">
+          <a class="next" href="{{ next.url }}">
+            <div class="label">Next</div>
+            <header>
+              <h3>
+                <span class="title">Week {{ next.week }}</span>
+              </h3>
+            </header>
+          </a>
+        </article>
+      {%- endif %}
+    </aside>
+  </header>
+  <div class="week">
+  {% assign day_pages = site.pages | where:"category","days" | where:"week",page.week %}
+  {% for day_page in day_pages %}
+    {% include calendar/_single.html day=day_page.day %}
+  {% endfor %}
+  </div>
+</article>

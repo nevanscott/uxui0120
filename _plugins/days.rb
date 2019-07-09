@@ -1,6 +1,6 @@
 module Days
   class DayPage < Jekyll::Page
-    def initialize(site, base, dir, date, day, cday)
+    def initialize(site, base, dir, date, day, cday, week)
       @site = site
       @base = base
       @dir = dir
@@ -11,6 +11,7 @@ module Days
       self.data['date'] = date
       self.data['day'] = day
       self.data['calendar_day'] = cday
+      self.data['week'] = week
       self.data['category'] = 'days'
     end
   end
@@ -31,7 +32,8 @@ module Days
         dir = site.config['days_dir'] || ''
         if cday % 7 < 5
           day = (cday / 7).floor * 5 + (cday % 7) + 1
-          site.pages << DayPage.new(site, site.source, dir, date, day, cday)
+          week = (cday / 7).floor + 1
+          site.pages << DayPage.new(site, site.source, dir, date, day, cday, week)
         else
           day = nil
         end

@@ -1,0 +1,16 @@
+{%- assign tomorrow = day | plus:1 -%}
+{%- assign lessons = site.lessons | where_exp: "item" , "item.prep.size > 0" | where: "day" , tomorrow -%}
+{%- assign homework = site.homework | where: "assigned" , day -%}
+{%- assign assigned = homework | concat: lessons -%}
+{% if assigned.size > 0 -%}
+  <h2 class="label">Assigned Today</h2>
+{%- endif %}
+{%- for lesson in lessons -%}
+  {%- for post in lesson.prep -%}
+    {% include post/card.html %}
+  {%- endfor -%}
+{%- endfor -%}
+{%- for post in homework -%}
+  {%- assign label = post.format | default:"Homework" -%}
+  {% include post/card.html label=label %}
+{%- endfor -%}

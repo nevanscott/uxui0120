@@ -1,0 +1,30 @@
+.card {
+  & + & {
+    margin-top: var(--space-400);
+  }
+  a {
+    background-color: var(--pale);
+    display: block;
+    font-family: var(--font-interface);
+    font-size: var(--font-size-500);
+    padding: var(--space-400);
+    &::after {
+      display: none;
+    }
+    .label {
+      color: var(--indigo);
+      font-size: var(--font-size-400);
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+    h3 {
+      font-family: inherit;
+      font-size: inherit;
+    }
+    .description {
+      color: var(--slate);
+      font-size: var(--font-size-400);
+    }
+  }
+}
