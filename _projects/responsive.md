@@ -1,7 +1,7 @@
 ---
 title: Responsive Editorial
 unit: 3
-assigned: 23
+assigned: 24
 due: 28
 topics:
   - Content Audit
