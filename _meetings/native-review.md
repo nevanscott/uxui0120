@@ -4,6 +4,7 @@ format: One-on-One
 days:
   - 26
   - 27
+  - 28
 ---
 
 To Prepare:
