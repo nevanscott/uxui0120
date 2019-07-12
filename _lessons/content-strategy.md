@@ -1,7 +1,7 @@
 ---
 title: Content Strategy & IA
 unit: 3
-day: 31
+day: 24
 topics:
   - Information Architecture
   - Content
@@ -10,16 +10,14 @@ topics:
   - Sitemap
   - Content Audit
 prep:
-  -
+  - author: Donna Spencer
     format: Reading
     title: How to Conduct A Content Audit
-    url: https://uxmastery.com/how-to-conduct-a-content-audit/
-    author: Donna Spencer
-  -
+    url: 'https://uxmastery.com/how-to-conduct-a-content-audit/'
+  - author: Rachel Lovinger
     format: Reading
-    title: "Content Modelling: A Master Skill"
-    url: https://alistapart.com/article/content-modelling-a-master-skill
-    author: Rachel Lovinger
+    title: 'Content Modelling: A Master Skill'
+    url: 'https://alistapart.com/article/content-modelling-a-master-skill'
 ---
 
 Learning Objectives
