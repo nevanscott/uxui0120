@@ -8,22 +8,16 @@ due: 45
 
 Ironhack's Final Project
 --------------
-You will have **two weeks** to build a digital product - either an App or a responsive website - based on your own vision, research, findings and the UX/UI process you’ve learned throughout the program.
+You will have **two weeks** to build a digital product - either an App or a responsive website - based on a briefing from a real company. During this process you'll apply your own vision, research, findings and the UX/UI process you’ve learned throughout the program.
 
-The most important goal of this project is to enjoy making it and presenting it so chose a subject you are interested in/passionate about!
+This project being in groups will mimic a real life scenario. Take this opportunity to apply everything you've learned about teamwork and to have in mind all the feedback we've given to each other. Communication and organization are key to success!
 
-Also, think about your portfolio and the Hiring Fair coming real soon! Your final project is the one that will most effectively communicate your design personality and specialty. You will be showing it to your future employer, so make sure it fits with your placement and sector interests.
-
-
-Your project
-------------
-
-You need to identify a problem that perhaps you or someone you know are facing everyday. Choose something you would love to work on, because you already know the topic or because you are genuinely curious about it.
-
-We really recommend you to work alone on your project. This final project is a really good exercise to review all your bootcamp notions and to practice alone. Moreover, it will be easier to go with your idea :)
+Also, think about your portfolio and the Hiring Fair coming soon! Your final project is the one that you will spend the most time in and where you can apply everything you've learned, so make sure you tackle the processes that you're more interested in.
 
 
-Roadmap
+
+
+Suggested Roadmap
 --------
 
 #### Week 8
