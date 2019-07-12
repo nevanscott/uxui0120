@@ -1,7 +1,7 @@
 ---
 title: Competitive Analysis
 unit: 2
-day: 18
+day: 19
 topics:
   - Competitive Analysis
   - Benchmarking
