@@ -1,7 +1,7 @@
 ---
 title: Responsive Editorial
 unit: 3
-assigned: 24
+assigned: 23
 due: 28
 topics:
   - Content Audit
@@ -39,52 +39,36 @@ In this project you’ll be putting more information architecture, content strat
 
 ## Deliverables Checkpoints
 
-**Monday 4:30pm** (10 min review with TAs, 2 groups together)
-
-20-minute session
+**Thursday** 
 
 - Project plan
 - Content audit
-
-**Tuesday 3pm** (20 min review with Nevan and TA team, 3 groups together)
-
-1-hour session
-
 - Navigation structure, based on card sorting
+
+**Friday**
+
 - Style tile (at least three options)
 - Layout sketches of article page, section page, and homepage
 
-**Wednesday 2pm** (2 group crits, 3 groups together, 30 minutes per group)
-
-90-minute session
+**Monday**
 
 - First visual design mockups of at least three screens, with three options each, at mobile and desktop sizes (18 artboards)
 
-**Thursday at 11am** (submit for feedback from Franci and Héctor)
-
-Feedback notes returned by 1pm
+**Tuesday** 
 
 - HTML structure and content for at least one page
 
-**Thursday at 2pm** (20 minute crit)
+- Final design mockups of three pages at mobile and desktop sizes
 
-1-hour session
 
-- final design mockups of three pages at mobile and desktop sizes
-
-**Friday at 11am** (submit for review by Franci and Héctor)
-
-Feedback notes by 1pm
+**Wednesday**
 
 - CSS for your HTML page, responsive
 
-**Friday at 2pm** (20 minutes with a TA)
+- Rehearsals
 
-2 rehearsal blocks per TA
 
-- rehearsals
-
-**Friday at 4pm** (downstairs, invite other classes)
+**Wednesday afternoon** (downstairs, invite other classes)
 
 - Presentations (6 minutes)
 
