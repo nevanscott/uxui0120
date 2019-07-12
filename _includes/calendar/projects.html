@@ -6,7 +6,12 @@
   {%- else -%}
     {%- assign due_date_xml = post_date_xml -%}
   {%- endif -%}
-  {%- if post_date_xml <= date_xml and date_xml <= due_date_xml -%}
-    {% include post/card.html %}
+  {%- if post_date_xml <= date_xml and date_xml < due_date_xml -%}
+    {%- assign label = post.format | default:"Project" -%}
+    {% include post/card.html label=label %}
+  {%- endif -%}
+  {%- if date_xml == due_date_xml -%}
+    {%- assign label = post.format | default:"Project Due" -%}
+    {% include post/card.html label=label %}
   {%- endif -%}
 {%- endfor -%}

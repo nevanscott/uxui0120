@@ -7,7 +7,11 @@
   <header>
     <div class="main">
       {% if day -%}
-        <p class="label">Week {{ day | minus:1 | divided_by:5 | plus:1 }}</p>
+        <p class="label">
+          {% assign week = day | minus:1 | divided_by:5 | plus:1 %}
+          {% assign week_page = site.pages | where:"category","weeks" | where:"week",week | first %}
+          <a href="{{ week_page.url }}">Week {{ week }}</a>
+        </p>
       {%- endif %}
     	<h1>
     		{{ date | date: "%A" }}

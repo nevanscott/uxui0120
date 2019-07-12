@@ -13,6 +13,7 @@
         </span>
       </h3>
     </header>
+    {% if post.author or post.source or post.link -%}
     <div class="meta">
       {% if post.author -%}
         <cite class="byline">by <span class="author">{{ post.author }}</span></cite>
@@ -24,6 +25,7 @@
         <span class="source-url">{{ post.link | remove:"http://" | remove:"https://" | remove:"www." | split:"/" | first }}</span>
       {%- endif %}
     </div>
+    {%- endif %}
     {% if post.description -%}
       <div class="description">
         {{ post.description | markdownify }}
