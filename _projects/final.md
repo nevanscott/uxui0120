@@ -30,9 +30,7 @@ Suggested Roadmap
 Deliverables
 ----------
 
-You will have 2 deliverables:
-- A Medium post documenting your entire design process
-- A **7 min presentation** : You will have just 7 minutes to make the audience fall in love, so keep it short and sweet.
+- A **8 min presentation** : You will have just 7 minutes to make the audience fall in love, so keep it short and sweet.
 
 
 Internal Hackshow
@@ -40,7 +38,7 @@ Internal Hackshow
 
 The Internal Hackshow is a unique opportunity to show your best self to a group of professionals from the industry (they can be UX Researchers, Information Architects, Visual designers, Developers or Product Owners, among others!)
 
-The jury will listen to you carefully and ask some questions about your product at the end. After everyone has presented, the jury will vote and select 3/4 people that will be speakers during the Hackshow. The class will also chose 1 extra presenter by popular vote.
+The jury will listen to you carefully and ask some questions about your product at the end. After everyone has presented, the jury will vote and select 2 groups that will be speakers during the Hackshow. The class will also chose 1 extra presenter by popular vote.
 
 
 ## How will we evaluate the projects?
@@ -54,14 +52,8 @@ Although the internal hackshow results are evident enough, we will still evaluat
 - Usability - Was the app easy to navigate and provides a delightful experience?
 
 
-## How does it work?
+## Hackshow - How does it work?
 
-The Hackshow will be a public event where you will be able to show your work or take a look at your peers’ projects and even Web projects! Keep in mind this is a huge opportunity to practice your public speaking, network with people from the industry and celebrate your achievements!!! Do not hesitate to invite your friends & family.
+The Hackshow will be a public event where you will be able to show your work or take a look at your peers’ projects and even Web and Data projects! Keep in mind this is a huge opportunity to practice your public speaking, network with people from the industry and celebrate your achievements!!! Do not hesitate to invite your friends & family.
 
-Everyone in the audience will be able to vote for their favorite project and the winner will receive a special prize!!!
-
-
-Resources
---------
-
-You can find the [final project brief](http://learn.ironhack.com/#/learning_unit/3498) on the Ironhack Platform
+At the end, everyone in the audience will be able to vote for their favorite project!
