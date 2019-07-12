@@ -2,7 +2,7 @@
 title: Personal Blog
 unit: 4
 assigned: 16
-due: 22
+due: 21
 topics:
   - HTML
   - CSS
