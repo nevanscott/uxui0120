@@ -1,7 +1,7 @@
 ---
 title: IA Methods
 unit: 3
-day: 26
+day: 29
 topics:
   - Information Architecture
   - Task Analysis
