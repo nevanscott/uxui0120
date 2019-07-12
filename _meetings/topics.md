@@ -2,7 +2,6 @@
 title: Lightning presentations
 format: PechaKucha
 days:
-  - 35
   - 36
 ---
 
