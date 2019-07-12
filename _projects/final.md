@@ -8,7 +8,7 @@ due: 45
 
 Ironhack's Final Project
 --------------
-You will have **two weeks** to build a digital product - either an App or a responsive website - based on a briefing from a real company. During this process you'll apply your own vision, research, findings and the UX/UI process you’ve learned throughout the program.
+You and your team will have **two weeks** to build a digital product - either an App or a responsive website - based on a briefing from a real company. During this process you'll apply your own vision, research, findings and the UX/UI process you’ve learned throughout the program.
 
 This project being in groups will mimic a real life scenario. Take this opportunity to apply everything you've learned about teamwork and to have in mind all the feedback we've given to each other. Communication and organization are key to success!
 
@@ -30,7 +30,7 @@ Suggested Roadmap
 Deliverables
 ----------
 
-- A **8 min presentation** : You will have just 7 minutes to make the audience fall in love, so keep it short and sweet.
+- A **8 min presentation** : You will have just 8 minutes to make the audience fall in love, so keep it short and sweet.
 
 
 Internal Hackshow
