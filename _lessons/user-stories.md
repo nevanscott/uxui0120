@@ -1,7 +1,7 @@
 ---
 title: User Stories
 unit: 3
-day: 24
+day: 29
 topics:
   - Agile
   - Prioritization
@@ -9,10 +9,9 @@ topics:
   - User Story
   - Jobs To Be Done
 prep:
-  -
-    format: Reading
+  - format: Reading
     title: Writing user stories
-    url: https://www.gov.uk/service-manual/agile-delivery/writing-user-stories
+    url: 'https://www.gov.uk/service-manual/agile-delivery/writing-user-stories'
 ---
 
 Learning Objectives
