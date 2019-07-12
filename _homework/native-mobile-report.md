@@ -2,8 +2,8 @@
 title: Native Mobile app
 unit: 2
 format: Design Report
-assigned: 22
-due: 23
+assigned: 23
+due: 26
 ---
 
 Write a report about your [Native Mobile app]({{ site.baseurl }}{% link _projects/native-mobile.md %}). This may be similar to a written version of your presentation, but you'll have the opportunity to go into more detail.
