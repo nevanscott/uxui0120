@@ -1,15 +1,15 @@
 ---
 title: Responsive Design
 unit: 3
-day: 33
+day: 25
 topics:
   - Composition
   - Responsive
 prep:
-  -
-    format: Reading
+  - format: Reading
     title: Using Sketch For Responsive Web Design
-    url: https://www.smashingmagazine.com/2015/04/using-sketch-for-responsive-web-design-case-study/
+    url: >-
+      https://www.smashingmagazine.com/2015/04/using-sketch-for-responsive-web-design-case-study/
 ---
 
 In this lesson, we will explore 3 different topics that are focused on your UI development
