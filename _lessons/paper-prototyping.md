@@ -14,7 +14,7 @@ prep:
   - author: Relab Studios
     format: Video
     title: Crazy 8s – Brainstorming & Sketching
-    url: 'https://www.youtube.com/watch?v=UXOLJy0E7Pg'
+    link: 'https://www.youtube.com/watch?v=UXOLJy0E7Pg'
 ---
 
 

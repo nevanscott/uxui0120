@@ -13,11 +13,11 @@ prep:
   - author: Donna Spencer
     format: Reading
     title: How to Conduct A Content Audit
-    url: 'https://uxmastery.com/how-to-conduct-a-content-audit/'
+    link: 'https://uxmastery.com/how-to-conduct-a-content-audit/'
   - author: Rachel Lovinger
     format: Reading
     title: 'Content Modelling: A Master Skill'
-    url: 'https://alistapart.com/article/content-modelling-a-master-skill'
+    link: 'https://alistapart.com/article/content-modelling-a-master-skill'
 ---
 
 Learning Objectives

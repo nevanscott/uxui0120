@@ -17,11 +17,11 @@ prep:
   -
     format: reading
     title: Planning a Usability Test
-    url: https://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html
+    link: https://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html
   -
     format: reading
     title: Running a Usability Test
-    url: https://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html
+    link: https://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html
 ---
 
 

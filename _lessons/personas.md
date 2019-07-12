@@ -20,7 +20,7 @@ prep:
   - author: Jared Spool
     format: Reading
     title: Five Factors for Successful Persona Projects
-    url: 'https://articles.uie.com/successful_persona_projects/'
+    link: 'https://articles.uie.com/successful_persona_projects/'
 ---
 
 Ironhack Learning Platform

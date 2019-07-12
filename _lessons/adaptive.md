@@ -11,15 +11,15 @@ prep:
   - author: Jakob Nielsen
     format: Reading
     title: Progressive Disclosure
-    url: 'https://www.nngroup.com/articles/progressive-disclosure/'
+    link: 'https://www.nngroup.com/articles/progressive-disclosure/'
   - author: Raluca Budiu
     format: Reading
     title: The Role of Enhancement in Web Design
-    url: 'https://www.nngroup.com/articles/enhancement/'
+    link: 'https://www.nngroup.com/articles/enhancement/'
   - author: Amy Schade
     format: Reading
     title: Customization vs. Personalization in the User Experience
-    url: 'https://www.nngroup.com/articles/customization-personalization/'
+    link: 'https://www.nngroup.com/articles/customization-personalization/'
 ---
 
 Learning Objectives

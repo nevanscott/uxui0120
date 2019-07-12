@@ -12,27 +12,27 @@ prep:
   -
     format: Video
     title: "Contextual Inquiry: Leave Your Office to Find Design Ideas"
-    url: https://www.youtube.com/watch?v=nC47ktX4U2I
+    link: https://www.youtube.com/watch?v=nC47ktX4U2I
   -
     format: Video
     title: "Contextual Inquiry: Workforce Mobility"
-    url: https://www.youtube.com/watch?v=Gd5fA9UQDjE
+    link: https://www.youtube.com/watch?v=Gd5fA9UQDjE
   -
     format: Reading
     title: Methods for research
-    url: https://www.wickedproblems.com/4_methods_for_research.php
+    link: https://www.wickedproblems.com/4_methods_for_research.php
   -
     format: Reading
     title: Contextual Inquiry
-    url: https://www.wickedproblems.com/4_insight_through_contextual_inquiry.php
+    link: https://www.wickedproblems.com/4_insight_through_contextual_inquiry.php
   -
     format: Reading
     title: Participatory Design
-    url: https://www.wickedproblems.com/4_participatory_design.php
+    link: https://www.wickedproblems.com/4_participatory_design.php
   -
     format: Reading
     title: Cultural Probes
-    url: https://www.wickedproblems.com/4_cultural_probes.php
+    link: https://www.wickedproblems.com/4_cultural_probes.php
 ---
 
 Topics

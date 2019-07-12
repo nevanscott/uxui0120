@@ -17,7 +17,7 @@ prep:
   - author: Chris Thelwell
     format: Reading
     title: The Lean Survey Canvas
-    url: 'http://www.christhelwell.com/live/the-lean-survey-canvas/#.W3TZ3i-B3OQ'
+    link: 'http://www.christhelwell.com/live/the-lean-survey-canvas/#.W3TZ3i-B3OQ'
 ---
 
 Resources

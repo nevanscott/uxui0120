@@ -42,21 +42,17 @@
     &::after {
       display: none;
     }
-    &::before {
-      content: '→';
-      color: var(--indigo);
-      line-height: 1;
-      float: right;
-      margin-left: var(--space-400);
-      margin-bottom: var(--space-400);
-      font-family: var(--font-icon);
-      font-size: var(--font-size-500);
-      font-weight: 800;
-      transform: translateX(1px);
-    }
     &[href^="http"] {
       &::before {
         content: "↗";
+        color: var(--indigo);
+        line-height: 1;
+        float: right;
+        margin-left: var(--space-400);
+        margin-bottom: var(--space-400);
+        font-family: var(--font-icon);
+        font-size: var(--font-size-500);
+        font-weight: 700;
         transform: translateX(2px);
       }
     }

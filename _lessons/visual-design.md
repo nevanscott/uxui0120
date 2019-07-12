@@ -23,7 +23,7 @@ prep:
   - author: Oliver Reichenstein
     format: Reading
     title: Learning to See
-    url: 'https://ia.net/topics/learning-to-see'
+    link: 'https://ia.net/topics/learning-to-see'
 ---
 
 <!-- <img class="illo aside" src="/assets/images/crap.png" alt="Illustration of CRAP design principles: contrast, repetition, alignment, and proximity" /> -->
