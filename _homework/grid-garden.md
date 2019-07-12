@@ -2,7 +2,7 @@
 title: Grid Garden
 unit: 4
 assigned: 16
-due: 18
+due: 17
 ---
 
 Grid Garden is a game for learning CSS grid. You'll be using Grid to grow your carrot garden by writing CSS code.
