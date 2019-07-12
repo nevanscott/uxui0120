@@ -91,44 +91,42 @@ Considerations to assist in determining where to focus:
 
 - Preliminary research
 - Network and schedule interviews and site visits
-
-### Thursday + Friday + Weekend
-
 - Interviews and observation
 - Choose the category to focus on
 - Competitive Analysis Analysis
 - Gather information
+
+### Thursday + Friday + Weekend
+
 - Affinity Diagram
 - User Persona
 - Problem Statement
 - User Stories / Task Analysis / Scenarios / Use cases
+- Design Studio / Ideation
+- Feature prioritization (MoSCoW)
 
 ### Monday
 
-- Design Studio / Ideation
-- Feature prioritization (MoSCoW)
 - Card Sorting
 - User Flow
 - Paper Prototype
 - Test
 - Iterate
+- Digital Wireframes
 
 ### Tuesday
 
-- Digital Wireframes
 - Test
 - Iterate
 - Style Tile
 - Start with high-fi screens
 - Desirability Testing
+- Finish High-fi
+- Test
 
 ### Wednesday
 
-- Finish High-fi
-- Test
 - Build presentation
-
-### Thursday
 - Practice presentation
 - Be fabulous in front of the jury!
 
