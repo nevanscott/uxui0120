@@ -2,8 +2,8 @@
 title: Sketch - Responsive Website
 unit: 3
 format: Practice
-assigned: 30
-due: 31
+assigned: 25
+due: 26
 ---
 
 Now that you are experts in Sketch, we want to push it one step further and understand the use of symbols in the context of a responsive website. This exercise is aimed at improving your sense of responsive design and how a design can be adapted to different viewport sizes. We also want to encourage you to understand design systems and style tiles.
