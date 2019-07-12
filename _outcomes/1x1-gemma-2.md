@@ -5,9 +5,10 @@ days:
   - 37
   - 38
   - 39
+  - 40
 ---
 
 
-You have to have your second 1x1 with Gemma before TBD. You can schedule it in her calendar (link sent on Slack).
+You have to have your second 1x1 with Career Services. You can schedule it their calendar.
 
 In order to be able to participate to the Hiring week, you have two mandatory meetings with Gemma. This is the second one.
