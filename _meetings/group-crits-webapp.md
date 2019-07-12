@@ -2,8 +2,8 @@
 title: Group crits with Nevan
 format: Group crit
 days:
-  - 27
-  - 28
+  - 31
+  - 32
 ---
 
 The objective of this session is to open ourselves to feedback from another point of view and to practice our own skills giving feedback.
