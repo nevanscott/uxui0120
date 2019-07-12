@@ -1,4 +1,6 @@
 {%- assign day = include.day -%}
+{% assign week = day | minus:1 | divided_by:5 | plus:1 %}
+{% assign week_page = site.pages | where:"category","weeks" | where:"week",week | first %}
 {%- assign date = include.date -%}
 {%- assign date_xml = day | class_date: site.data.course.start_date | date_to_xmlschema -%}
 {%- capture dow -%}{{ date_xml | date:"%A" }}{%- endcapture -%}
@@ -6,13 +8,9 @@
 <article>
   <header>
     <div class="main">
-      {% if day -%}
-        <p class="label">
-          {% assign week = day | minus:1 | divided_by:5 | plus:1 %}
-          {% assign week_page = site.pages | where:"category","weeks" | where:"week",week | first %}
-          <a href="{{ week_page.url }}">Week {{ week }}</a>
-        </p>
-      {%- endif %}
+      <p class="label">
+        <a href="{{ week_page.url }}">Week {{ week }}</a>
+      </p>
     	<h1>
     		{{ date | date: "%A" }}
         <small>{{ date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
