@@ -1,8 +1,8 @@
 ---
 title: Native Mobile app
 unit: 2
-assigned: 17
-due: 22
+assigned: 18
+due: 23
 topics:
   - Native App
   - User Interface
