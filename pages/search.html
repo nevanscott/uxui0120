@@ -1,0 +1,36 @@
+---
+layout: default
+title: Search
+permalink: /search/
+---
+
+<article>
+  <header>
+    <div class="main">
+    	<h1>Search</h1>
+      <input type="search" inputmode="search" spellcheck="false" id="search-input" placeholder="Start typing to search…" autofocus>
+    </div>
+  </header>
+  <div id="results-container"></div>
+</article>
+
+<script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function(event) {
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '{{ site.baseurl }}/search.json',
+      searchResultTemplate: `
+        <article class="preview">
+          <a class="strong" href="{url}">
+            <div class="label">{label}</div>
+            <header>
+              <h3><span class="title">{title}</span></h3>
+            </header>
+          </a>
+        </article>
+      `
+    })
+  });
+</script>
