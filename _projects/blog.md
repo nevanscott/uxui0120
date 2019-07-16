@@ -9,13 +9,7 @@ topics:
   - Typography
   - Composition
 ---
-Requirements
-------------
 
-Your updated website should:
-
-- include a single stylesheet which describes the design intent for your site
-- have at least 2 pages, About and Blog <small>(or Journal, or whatever)</small>
 
 
 # Blog page setup instructions
@@ -23,6 +17,14 @@ Your updated website should:
 Hi folks!
 
 Since we haven’t managed to cover a couple of these steps in class, I’m providing some instructions for you here instead, to help you get started and manage your time with this side project.
+
+Requirements
+------------
+
+Your updated website should:
+
+- include a single stylesheet which describes the design intent for your site
+- have at least 2 pages, About and Blog <small>(or Journal, or whatever)</small>
 
 ## Some things to keep in mind as you work
 
