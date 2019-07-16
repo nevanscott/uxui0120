@@ -6,6 +6,15 @@ days:
   - 13
   - 14
   - 15
+  - 26
+  - 27
+  - 28
+  - 29
+  - 36
+  - 37
+  - 38
+  - 39
+  - 40
 ---
 
 The goal of our 1-on-1 will be to discuss how you're developing as a designer, and to chart your path through the course and into your career.
