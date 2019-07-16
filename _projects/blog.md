@@ -25,8 +25,11 @@ Since we haven’t managed to cover a couple of these steps in class, I’m prov
 ## Some things to keep in mind as you work
 
 1. **Content** is more important than anything else. Write and collect images you want to show in your first blog post before worrying about anything else. _Keep your post to under 800 words._
+
 2. Once you have your content, _before worrying about anything else_, write HTML that makes sense with your content. Don’t forget about semantic elements like `<article>`, `<section>`, `<figure>`, `<header>`, etc. For reference, use the [MDN HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+
 3. At this point, work with your content in Sketch to try out some simple designs. **Please don’t worry about complex layouts right now. They will simply be too difficult to implement right now and it isn’t the point.** Focus instead on typographic styles like font, font size, line spacing, font weight, case (e.g. upper and lower case, or all caps), font style (italic or not), and adding signifiers to links (such as underlines). All your text should flow in a single column—don’t try to lay out pieces of text side by side yet!
+
 4. **Now, finally, jump into writing your CSS.** Remember that this is not your final design, so give yourself room to have some fun, and also bow to the limitations of what you are able to get working based on what you know about CSS. Stay open to making changes to your design instead of getting stuck and frustrated trying to make something work that is giving you a hard time.
 
 ## Setting up your files
@@ -34,6 +37,7 @@ Since we haven’t managed to cover a couple of these steps in class, I’m prov
 When you’re ready to start writing your HTML and CSS for this project, follow the steps below to get started.
 
 1. In a project folder on your computer, make sure you have three separate files: `index.html`, `blog.html`, and `style.css`. The `index.html` file will be for your home/about page, and the `blog.html` file will be for your, well, blog. (Keep in mind that the name of `index.html` is important, as this will be treated as the page that will load at the root of a URL, such as `example.netlify.com`.)
+
 2. In both `index.html` and `blog.html`, add a scaffolding to start working in. This one should work well:
 
 		<!DOCTYPE html>
@@ -49,7 +53,9 @@ When you’re ready to start writing your HTML and CSS for this project, follow 
 		</html>
 
 	Change the title as needed.
+
 3. In both `index.html` and `blog.html`, add a link to the stylesheet in the `<head>` of the document like so: `<link rel="stylesheet" href="style.css">`. To confirm this is working, try adding a little CSS, then check both HTML files locally in your web browser. _The same stylesheet should now be used by both pages._
+
 4. Finally, add the following code in the `<body>` of both pages:
 
 		<nav>
@@ -58,7 +64,9 @@ When you’re ready to start writing your HTML and CSS for this project, follow 
 		</nav>
 
 	This should give you a starting point for your navigation that will allow users to switch between the two pages on your site.
+
 5. Now you should be set to start adding your own content and styles for your project!
+
 6. When you’re ready, deploy your website to Netlify by dragging your entire project folder into the upload zone on the Netlify website. If you don’t remember how we did this in class, see [Netlify Tutorial – Deploy a new site just by Drag and Dropping](https://www.youtube.com/watch?v=vywDFg2uIxY).
 
 
