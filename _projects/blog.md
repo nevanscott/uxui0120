@@ -35,7 +35,7 @@ When you’re ready to start writing your HTML and CSS for this project, follow 
 
 1. In a project folder on your computer, make sure you have three separate files: `index.html`, `blog.html`, and `style.css`. The `index.html` file will be for your home/about page, and the `blog.html` file will be for your, well, blog. (Keep in mind that the name of `index.html` is important, as this will be treated as the page that will load at the root of a URL, such as `example.netlify.com`.)
 2. In both `index.html` and `blog.html`, add a scaffolding to start working in. This one should work well:
-		``<!DOCTYPE html>
+		```<!DOCTYPE html>
 		<html>
 			<head>
 				<meta charset="UTF-8">
@@ -45,7 +45,7 @@ When you’re ready to start writing your HTML and CSS for this project, follow 
 			<body>
 				
 			</body>
-		</html>``
+		</html>```
 	Change the title as needed.
 3. In both `index.html` and `blog.html`, add a link to the stylesheet in the `<head>` of the document like so: `<link rel="stylesheet" href="style.css">`. To confirm this is working, try adding a little CSS, then check both HTML files locally in your web browser. _The same stylesheet should now be used by both pages._
 4. Finally, add the following code in the `<body>` of both pages:
