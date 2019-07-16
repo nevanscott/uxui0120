@@ -26,9 +26,12 @@ Since we haven’t managed to cover a couple of these steps in class, I’m prov
 
 1. **Content** is more important than anything else. Write and collect images you want to show in your first blog post before worrying about anything else. _Keep your post to under 800 words._
 
+
 2. Once you have your content, _before worrying about anything else_, write HTML that makes sense with your content. Don’t forget about semantic elements like `<article>`, `<section>`, `<figure>`, `<header>`, etc. For reference, use the [MDN HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
+
 3. At this point, work with your content in Sketch to try out some simple designs. **Please don’t worry about complex layouts right now. They will simply be too difficult to implement right now and it isn’t the point.** Focus instead on typographic styles like font, font size, line spacing, font weight, case (e.g. upper and lower case, or all caps), font style (italic or not), and adding signifiers to links (such as underlines). All your text should flow in a single column—don’t try to lay out pieces of text side by side yet!
+
 
 4. **Now, finally, jump into writing your CSS.** Remember that this is not your final design, so give yourself room to have some fun, and also bow to the limitations of what you are able to get working based on what you know about CSS. Stay open to making changes to your design instead of getting stuck and frustrated trying to make something work that is giving you a hard time.
 
