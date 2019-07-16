@@ -35,24 +35,28 @@ When you’re ready to start writing your HTML and CSS for this project, follow 
 
 1. In a project folder on your computer, make sure you have three separate files: `index.html`, `blog.html`, and `style.css`. The `index.html` file will be for your home/about page, and the `blog.html` file will be for your, well, blog. (Keep in mind that the name of `index.html` is important, as this will be treated as the page that will load at the root of a URL, such as `example.netlify.com`.)
 2. In both `index.html` and `blog.html`, add a scaffolding to start working in. This one should work well:
-		> <!DOCTYPE html>
-		> <html>
-			> <head>
-				> <meta charset="UTF-8">
-				> <meta name="viewport" content="width=device-width,initial-scale=1">
-				> <title>title</title>
-			> </head>
-			> <body>
+
+		<!DOCTYPE html>
+		<html>
+			<head>
+				<meta charset="UTF-8">
+				<meta name="viewport" content="width=device-width,initial-scale=1">
+				<title>title</title>
+			</head>
+			<body>
 				
-			> </body>
-		> </html>
+			</body>
+		</html>
+
 	Change the title as needed.
 3. In both `index.html` and `blog.html`, add a link to the stylesheet in the `<head>` of the document like so: `<link rel="stylesheet" href="style.css">`. To confirm this is working, try adding a little CSS, then check both HTML files locally in your web browser. _The same stylesheet should now be used by both pages._
 4. Finally, add the following code in the `<body>` of both pages:
-		> <nav>
-			> <a href="index.html">About</a>
-			> <a href="blog.html">Blog</a>
-		> </nav>``
+
+		<nav>
+			<a href="index.html">About</a>
+			<a href="blog.html">Blog</a>
+		</nav>
+
 	This should give you a starting point for your navigation that will allow users to switch between the two pages on your site.
 5. Now you should be set to start adding your own content and styles for your project!
 6. When you’re ready, deploy your website to Netlify by dragging your entire project folder into the upload zone on the Netlify website. If you don’t remember how we did this in class, see [Netlify Tutorial – Deploy a new site just by Drag and Dropping](https://www.youtube.com/watch?v=vywDFg2uIxY).
