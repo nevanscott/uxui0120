@@ -62,17 +62,6 @@ When you’re ready to start writing your HTML and CSS for this project, follow 
 6. When you’re ready, deploy your website to Netlify by dragging your entire project folder into the upload zone on the Netlify website. If you don’t remember how we did this in class, see [Netlify Tutorial – Deploy a new site just by Drag and Dropping](https://www.youtube.com/watch?v=vywDFg2uIxY).
 
 
-Suggestions
------------
-
-1. Start with content before anything else.
-2. When you're happy with your content, mark it up with semantic HTML elements to give your content appropriate structure.
-3. Use Sketch to mock up the visual style of your page a bit, but keep in mind that *you'll need to build this out yourself*. It will probably be best to move back and forth between the browser and your code to see what each tool is good at.
-4. **Don't get frustrated with the browser.** It lays out content in a flexible way intentionally. Until you get more used to this, you may feel like you're giving up control as a designer, but remember that part of that control you might want shifts to our users, *which is a good thing*.
-5. Prize readability and legibility over aesthetics for this project.
-6. If you're having a hard time implementing something you'd like your site to look like, don't fight too hard. Take a step back, and see if there's something simpler for you to build which also captures something about your design intent.
-7. Have fun! You're not stuck with this design forever, that's the beauty of publishing on the web.
-
 
 Deliverables
 ------------
