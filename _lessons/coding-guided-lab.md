@@ -1,5 +1,5 @@
 ---
-title: Coding guided lab
+title: Coding Guided Lab
 unit: 4
 day: 23
 topics: []
