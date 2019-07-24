@@ -1,5 +1,5 @@
 ---
-title: Web App
+title: Web! App!
 unit: 3
 assigned: 23
 due: 33
