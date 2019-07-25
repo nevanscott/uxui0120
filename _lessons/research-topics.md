@@ -1,7 +1,7 @@
 ---
-title: Research topics
+title: Contextual Inquiry
 unit: 3
-day: 23
+day: 32
 topics:
   - User Research
   - User Journey
@@ -9,30 +9,15 @@ topics:
   - Observation
   - Problem Definition
 prep:
-  -
-    format: Video
-    title: "Contextual Inquiry: Leave Your Office to Find Design Ideas"
-    link: https://www.youtube.com/watch?v=nC47ktX4U2I
-  -
-    format: Video
-    title: "Contextual Inquiry: Workforce Mobility"
-    link: https://www.youtube.com/watch?v=Gd5fA9UQDjE
-  -
-    format: Reading
-    title: Methods for research
-    link: https://www.wickedproblems.com/4_methods_for_research.php
-  -
-    format: Reading
+  - format: Video
+    link: 'https://www.youtube.com/watch?v=nC47ktX4U2I'
+    title: 'Contextual Inquiry: Leave Your Office to Find Design Ideas'
+  - format: Video
+    link: 'https://www.youtube.com/watch?v=Gd5fA9UQDjE'
+    title: 'Contextual Inquiry: Workforce Mobility'
+  - format: Reading
+    link: 'https://www.wickedproblems.com/4_methods_for_research.php'
     title: Contextual Inquiry
-    link: https://www.wickedproblems.com/4_insight_through_contextual_inquiry.php
-  -
-    format: Reading
-    title: Participatory Design
-    link: https://www.wickedproblems.com/4_participatory_design.php
-  -
-    format: Reading
-    title: Cultural Probes
-    link: https://www.wickedproblems.com/4_cultural_probes.php
 ---
 
 Topics
