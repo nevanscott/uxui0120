@@ -37,7 +37,7 @@ In this project you’ll be putting more information architecture, content strat
 3. Do some card sorting to figure out a sensible navigation for the content. Prepare cards with a subset of articles across a variety of sections of the publication. Each card should have a title and perhaps the first sentence or two of the article so that your test subjects will know what that content is about. You’ll want about 50 cards to perform a good set of open and closed card sorts.
 4. Once you’ve got a good handle on how the site will be organized, start sketching screens. I recommend working on mobile layouts first, as it will be easier to scale these designs up than to scale desktop designs down. Start with core parts of the site first, like an individual article or the subscription sign-up form.
 
-## Deliverables Checkpoints
+## Suggested road map
 
 **Thursday** 
 
@@ -61,7 +61,7 @@ In this project you’ll be putting more information architecture, content strat
 - Final design mockups of three pages at mobile and desktop sizes
 
 
-**Wednesday**
+**Wednesday morning**
 
 - CSS for your HTML page, responsive
 
