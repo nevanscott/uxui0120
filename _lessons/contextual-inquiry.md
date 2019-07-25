@@ -1,7 +1,7 @@
 ---
 title: Contextual Inquiry
 unit: 3
-day: 32
+day: 27
 topics:
   - User Research
   - User Journey
