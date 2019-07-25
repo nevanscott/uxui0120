@@ -25,10 +25,10 @@ Finalizing
 - Try to use at least one animation
 
 
-[comment]: <> (Milestones
-- **Wednesday:** Content deadline. This content will be your design report from your last individual project.
-- **Friday:** Design deadline. Upload your wireframes from which you would base your portfolio to [Google Drive](https://drive.google.com/drive/folders/1b_s1XLDVxBsxy-OOkt_Xz6tG2IVQhdQ3).
-- **Monday:** Portfolio built in code deadline.)
+[comment]: <> (Milestones)
+[comment]: <> (- **Wednesday:** Content deadline. This content will be your design report from your last individual project.)
+[comment]: <> (- **Friday:** Design deadline. Upload your wireframes from which you would base your portfolio to [Google Drive](https://drive.google.com/drive/folders/1b_s1XLDVxBsxy-OOkt_Xz6tG2IVQhdQ3).)
+[comment]: <> (- **Monday:** Portfolio built in code deadline.)
 
 
 Deliverables
