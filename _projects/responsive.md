@@ -53,6 +53,7 @@ In this project you’ll be putting more information architecture, content strat
 **Monday**
 
 - First visual design mockups of at least three screens, with three options each, at mobile and desktop sizes (18 artboards)
+- Group Crits
 
 **Tuesday** 
 
