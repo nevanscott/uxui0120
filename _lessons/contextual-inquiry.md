@@ -8,6 +8,8 @@ topics:
   - Lean
   - Observation
   - Problem Definition
+description: |
+  The best way to gather information about users' behaviors is to actually observe them doing things in their natural context.
 prep:
   - format: Video
     link: 'https://www.youtube.com/watch?v=nC47ktX4U2I'

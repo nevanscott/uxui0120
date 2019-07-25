@@ -1,8 +1,8 @@
 ---
 title: Competencies Self-assessment
 unit: 3
-assigned: 35
-due: 36
+assigned: 24
+due: 25
 ---
 
 In order to start reflecting on your evolution through this Bootcamp, please

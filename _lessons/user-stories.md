@@ -8,6 +8,8 @@ topics:
   - Problem Definition
   - User Story
   - Jobs To Be Done
+description: |
+  User Stories will help us define smaller chunks of features, which we can then prioritize for our products.
 prep:
   - format: Reading
     title: Writing user stories

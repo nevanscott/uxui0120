@@ -2,8 +2,8 @@
 title: HR Web App
 unit: 3
 format: Design Report
-assigned: 33
-due: 35
+assigned: 34
+due: 36
 ---
 
 Write a report about your [HR Web App]({{ site.baseurl }}{% link _projects/web-app.md %}). This may be similar to a written version of your presentation, but you'll have the opportunity to go into more detail.

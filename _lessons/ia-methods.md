@@ -2,6 +2,8 @@
 title: IA Methods
 unit: 3
 day: 29
+description: |
+  We'll briefly discuss task analysis and scenarios as optional information architecture topics which may be helpful for your projects.
 topics:
   - Information Architecture
   - Task Analysis
@@ -10,9 +12,9 @@ topics:
   - User Research
 ---
 
-In this class, we will go through three main topics:
+In this class, we will go through two main topics:
+
 - Task Analysis
-- Uses Cases
 - Scenarios
 
 Learning Objectives
@@ -22,9 +24,6 @@ Learning Objectives
 - Describe the purpose of task analysis
 - Decompose larger tasks into smaller tasks
 - Identify tasks to observe for a given project
-- Identify what belongs in a use case and what doesn’t
-- Write a simple use case for a task
-- Differentiate a use case from a user flow
 - Define a scenario
 - Explain how a scenario is helpful for conducting usability testing
 
