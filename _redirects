@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://uxui1018.netlify.com/* https://uxui1018.nevan.org/:splat 301!
