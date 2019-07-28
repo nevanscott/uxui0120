@@ -65,7 +65,6 @@ PLATFORMS
 
 DEPENDENCIES
   curso!
-  jekyll (>= 3.8.4)
 
 BUNDLED WITH
    2.0.1
