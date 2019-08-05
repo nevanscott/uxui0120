@@ -133,7 +133,7 @@ Considerations to assist in determining where to focus:
 
 ## Presentation for the Jury (6 minutes)
 
-You will present in front of a jury panel composed of 1 UX and 1 UI expert. Think of this as an opportunity to get an outside opinion from someone who is actively and currently working in the field. Working in a high pressure situation in a safe environment is going to be great practice for you ahead of job interviews.
+You will present in front of a jury panel composed of 2 UX/UI Designers. Think of this as an opportunity to get an outside opinion from someone who is actively and currently working in the field. Working in a high pressure situation in a safe environment is going to be great practice for you ahead of job interviews.
 
 Your presentation should answer the following questions:
 
