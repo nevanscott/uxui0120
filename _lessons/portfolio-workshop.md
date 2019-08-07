@@ -1,7 +1,7 @@
 ---
 title: Portfolio Workshop
 unit: 5
-day: 37
+day: 
 ---
 
 "Should I have a portfolio?", "Where do I start?"
