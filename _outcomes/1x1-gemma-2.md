@@ -1,5 +1,5 @@
 ---
-title: 1x1 with Gemma
+title: 1x1 with Career Services
 days:
   - 36
   - 37
