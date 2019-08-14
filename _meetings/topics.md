@@ -16,4 +16,4 @@ Choose one of the topics left, put your name in the second column and don't over
 ## Deliverables
 
 - Google Slides <small>10 slides, 5 minutes</small>
-- Add the public link to your slide deck [to the topic spreadsheet](https://docs.google.com/spreadsheets/d/19Hy58fIZEpQyrJTAVXoEhXXjTlBYYK0Rp2kR0d3bya8/edit#gid=0)
+- Add the public link to your slide deck [to the topic spreadsheet](https://docs.google.com/spreadsheets/d/19rN32sSpDIitB_XFC0M7o7JzjwOn7b4Ldv09ddbxxHo/edit#gid=0)
