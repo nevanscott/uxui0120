@@ -52,3 +52,9 @@ Starting a new class
 8. Create a new site on Netlify, building from the Github repo you just created. (Keep the basic settings.)
 9. Change the `Site name` to something more appropriate, like `uxui0419`.
 10. Add a custom domain as desired.
+
+
+Quick Start
+-----------
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nevanscott/uxui0619)
