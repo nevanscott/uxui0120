@@ -53,6 +53,10 @@ Starting a new class
 8. Create a new site on Netlify, building from the Github repo you just created. (Keep the basic settings.)
 9. Change the `Site name` to something more appropriate, like `uxui1019`.
 10. Add a custom domain as desired.
+11. Enable Netlify Identity in order to use the CMS.
+12. Add Github as an external Identity provider on Netlify.
+13. Enable the Git Gateway in Netlify.
+14. Add users who need access to the Github project as collaborators.
 
 
 Quick Start
