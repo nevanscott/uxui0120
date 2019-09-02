@@ -8,7 +8,7 @@ due: 11
 
 Now that you have built some cards and changed photos, descriptions and titles using nested symbols, we'd like for you to see how else you can implement them in your designs!
 
-**Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/folders/1nEYV8aJ3pdCLh3wy6kGXisj9GnSNsFXS) in the "Completed Work" folder.
+**Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/0/folders/1QTAVbnkvkTlnPZmypVCnrFZ4eV2k5_I_) in the "Completed Work" folder.
 
 
 1st Deliverable: Design a Button System
