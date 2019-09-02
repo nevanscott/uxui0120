@@ -12,7 +12,7 @@ due: 6
 
 ## Video tutorials to watch
 
-Here are some video tutorials that you need to watch before starting. You'll notice that the version of Sketch used in the videos looks a little different, this is because the Sketch team constantly updates its software but don't worry, the functions are the same, the only difference being that sometimes you have to make an extra click.
+Here are some videos you need to watch before starting the exercise. You'll notice that the version of Sketch used in the videos looks a little different, this is because the Sketch team is constantly updating its software but don't worry, the functions are the same.
 
 * [Intro to Sketch Basics](https://www.youtube.com/watch?v=qywB0JHQeC4)
 * [Top 10 Key Commands in Sketch](https://www.youtube.com/watch?v=w_-oB3CoyBk)
@@ -48,7 +48,7 @@ In order to be ready before we start using Sketch more frequently, we **STRONGLY
 ## Suggested Additional Plugins
 
 [Anima Toolkit](https://animaapp.github.io/)
-: a Plugin that integrates seamlessly into Sketch with various powerful features: [Layout](https://docs.animaapp.com/v3/layout/), a way to build responsive designs inside Sketch. Prototype, a feature that let's you create links, breakpoints and smart layers to preview in a website. And [Export](https://docs.animaapp.com/v3/export/) a paid feature that enables you to export both HTML & CSS files directly out of Sketch.
+: a Plugin that integrates seamlessly into Sketch with various powerful features: [Layout](https://docs.animaapp.com/v3/layout/), a way to build responsive designs inside Sketch. [Prototype], a feature that let's you create links, breakpoints and smart layers to preview in a website. And [Export](https://docs.animaapp.com/v3/export/) a paid feature that enables you to export both HTML & CSS files directly out of Sketch.
 
 [Sketch Runner](https://sketchrunner.com/)
 : Sketch Runner helps you to get around Sketch quicker by giving you an intuitive interface to supercharge your daily workflow. Stop searching through your menu & start running commands directly from your keyboard.
