@@ -7,7 +7,7 @@ due: 6
 ---
 ## If you haven't already
 
-1. Download and install [Sketch](https://www.sketchapp.com)
+1. Download and install [Sketch](https://www.sketch.com/)
 2. Set up the [Craft plugin](https://www.invisionapp.com/craft)
 
 ## Video tutorials to watch
