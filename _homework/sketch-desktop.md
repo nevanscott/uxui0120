@@ -27,7 +27,7 @@ For this exercise, you will have a choice of which screens you'd like to copy. T
 Tips
 ----------
 
-- The font for the Landing Page is Lato. You can download it from [Google Fonts](https://fonts.google.com/specimen/Lato).
+- The font for the Landing Page is Lato. You can download it from [Google Fonts](https://fonts.google.com/specimen/Lato). Click [here](https://support.apple.com/en-us/HT201749) for more information about how to add fonts to your Mac.
 - Select a similar sans-serif font for the Desktop App. It is OK that it isn't the same.
 - Don't worry about finding the same images. You can use images of your choice for the location and album covers.
 - Look to [The Noun Project](https://thenounproject.com/), [Icons8](https://icons8.com/) or [Flat Icon](https://www.flaticon.com/) for icons.
