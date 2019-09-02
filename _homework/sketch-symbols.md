@@ -14,7 +14,7 @@ Now that you have built some cards and changed photos, descriptions and titles u
 1st Deliverable: Design a Button System
 -------------------------------------------------
 
-1. Watch [Creating a Button System with Nested Symbols on Sketch App](https://www.youtube.com/watch?v=_bjqVF7Fvg4) from Sketch Together <small>Duration: 30:39</small>
+1. Watch [video](#)  <small>Duration: 30:39</small>
 2. Create your own button system using nested symbols, masks, and overrides.
 3. Get creative! Use colors, icons and text of your choice.
 
@@ -50,5 +50,6 @@ For this exercise, you will create a bottom tab bar for a mobile app similar to 
 Resources
 ---------
 
-- [More Flexibility with Buttons in Sketch](https://medium.com/sketch-app-sources/more-flexibility-with-buttons-in-sketch-cc496b125017) by Wolfram Thurm
-- [Deep Nesting with Symbols in Sketch](https://medium.com/ux-power-tools/this-is-without-a-doubt-the-coolest-sketch-technique-youll-see-all-day-ddefa65ea959) by Jon Moore
+- [Better Icons with Sketch Layer Styles](https://www.youtube.com/watch?v=67ralD6gJTs) Jesse Showalter explains the Layer styles feature in the context of icons.
+- [Layer Styles and Text Styles](https://madeintandem.com/blog/make-sketch-work-layer-styles-text-styles/) More in detail article about layer styles and text styles with images and clear explanations of pros and cons.
+- [Organizing Layer Styles](https://www.youtube.com/watch?v=Bxr_Kb09ito) Video about how to create and manage layer styles
