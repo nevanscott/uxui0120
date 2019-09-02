@@ -48,7 +48,7 @@ In order to be ready before we start using Sketch more frequently, we **STRONGLY
 ## Suggested Additional Plugins
 
 [Anima Toolkit](https://animaapp.github.io/)
-: a Plugin that integrates seamlessly into Sketch with various powerful features: [Layout](https://docs.animaapp.com/v3/layout/), a way to build responsive designs inside Sketch. [Prototype], a feature that let's you create links, breakpoints and smart layers to preview in a website. And [Export](https://docs.animaapp.com/v3/export/) a paid feature that enables you to export both HTML & CSS files directly out of Sketch.
+: a Plugin that integrates seamlessly into Sketch with various powerful features: [Layout](https://docs.animaapp.com/v3/layout/), a way to build responsive designs inside Sketch. [Prototype](https://docs.animaapp.com/v3/prototype/), a feature that let's you create links, breakpoints and smart layers to preview in a website. And [Export](https://docs.animaapp.com/v3/export/) a paid feature that enables you to export both HTML & CSS files directly out of Sketch.
 
 [Sketch Runner](https://sketchrunner.com/)
 : Sketch Runner helps you to get around Sketch quicker by giving you an intuitive interface to supercharge your daily workflow. Stop searching through your menu & start running commands directly from your keyboard.
