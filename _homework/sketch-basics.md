@@ -5,29 +5,25 @@ format: Practice
 assigned: 5
 due: 6
 ---
-
-If you haven't already
-----------------------
+## If you haven't already
 
 1. Download and install [Sketch](https://www.sketchapp.com)
 2. Set up the [Craft plugin](https://www.invisionapp.com/craft)
 
+## Video tutorials to watch
 
-Video tutorials to watch
-------------------------
+Here are some video tutorials that you need to watch before starting. You'll notice that the version of Sketch used in the videos looks a little different, this is because the Sketch team constantly updates its software but don't worry, the functions are the same, the only difference being that sometimes you have to make an extra click.
 
-- [Intro to Sketch Basics](https://www.youtube.com/watch?v=qywB0JHQeC4)
-- [Top 10 Key Commands in Sketch](https://www.youtube.com/watch?v=w_-oB3CoyBk)
-- [5 Essential Sketch App Tricks](https://www.youtube.com/watch?v=ZCypZWzCr84)
+* [Intro to Sketch Basics](https://www.youtube.com/watch?v=qywB0JHQeC4)
+* [Top 10 Key Commands in Sketch](https://www.youtube.com/watch?v=w_-oB3CoyBk)
+* [5 Essential Sketch App Tricks](https://www.youtube.com/watch?v=ZCypZWzCr84)
 
-
-Deliverable
------------
+## Deliverable
 
 In order to continue leveling up your Sketch skills, we are going to kick off with a simple tracing exercise.
 
 1. Watch the above video tutorials.
-2. Download the image screens and icons located [in the Google Drive](https://drive.google.com/drive/folders/1mhfpXC9-pBjkBopjA0LalIdwAiEoIeSm).
+2. Download the image screens and icons located [in the Google Drive](https://drive.google.com/drive/u/0/folders/18Fr4U0KfZGOP_fzCQ_0qO4_3BkflYaBn).
 3. In Sketch, create a new artboard the size of the image.
 4. Decrease the opacity of the image
 5. Lock the image layer (hold down the <kbd>Option</kbd> key and hover over the layer and a padlock icon will appear instead of the hide icon)
@@ -35,33 +31,27 @@ In order to continue leveling up your Sketch skills, we are going to kick off wi
 7. Font = SF Pro Display. You can download it [HERE](https://developer.apple.com/fonts/)
 8. Keep an eye on the details! Watch out for shadows, icon size, borders, etc.
 9. Have fun!
-10. **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/folders/1mhfpXC9-pBjkBopjA0LalIdwAiEoIeSm) in the "Completed Work" folder.
+10. **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/0/folders/18Fr4U0KfZGOP_fzCQ_0qO4_3BkflYaBn) in the "Completed Work" folder.
 
-
-Suggested Resources
--------------------
+## Suggested Resources
 
 In order to be ready before we start using Sketch more frequently, we **STRONGLY** encourage you to start getting familiar with the [Sketch docs](https://www.sketchapp.com/docs/).
 
 **Start with these:**
 
-- [Pages & Artboards](https://www.sketchapp.com/docs/the-interface/layer-list/)
-- [Grids & Layout](https://www.sketchapp.com/docs/canvas/rulers-guides-grids/)
-- [Text Styles](https://www.sketchapp.com/docs/text/text-styles/)
-- [Symbols](https://www.sketchapp.com/docs/symbols)
+* [Pages & Artboards](https://www.sketch.com/docs/the-interface/layer-list/)
+* [Rulers, Guides, & Grids](https://www.sketch.com/docs/canvas/rulers-guides-grids/)
+* [Text Styles](https://www.sketch.com/docs/text/text-styles/)
+* [Layer Styles](https://www.sketch.com/docs/styling/shared-styles/)
+* [Symbols](https://www.sketch.com/docs/symbols/)
 
+## Suggested Additional Plugins
 
-Suggested Additional Plugins
-----------------------------
+[Anima Toolkit](https://animaapp.github.io/)
+: a Plugin that integrates seamlessly into Sketch with various powerful features: [Layout](https://docs.animaapp.com/v3/layout/), a way to build responsive designs inside Sketch. Prototype, a feature that let's you create links, breakpoints and smart layers to preview in a website. And [Export](https://docs.animaapp.com/v3/export/) a paid feature that enables you to export both HTML & CSS files directly out of Sketch.
 
 [Sketch Runner](https://sketchrunner.com/)
 : Sketch Runner helps you to get around Sketch quicker by giving you an intuitive interface to supercharge your daily workflow. Stop searching through your menu & start running commands directly from your keyboard.
-
-[Anima Toolkit - Sketch to HTML](https://launchpad.animaapp.com/)
-: This plugin enables you to export both HTML & CSS files directly out of Sketch. It is a valuable paid plugin that can help you stay one step ahead and, you can study your designs in depth from an engineering perspective.
-
-[Launchpad For Sketch](https://animaapp.github.io/)
-: Launchpad; a Sketch Plugin that integrates seamlessly into Sketch and enables defining and viewing different iPhone/iPad sizes including Portrait/Landscape.
 
 [Sort Me](https://github.com/romashamin/sort-me-sketch)
 : Sort me will help you get organized. As you create new layers in rapid successions by using Make Grid or other duplication techniques, your Sketch document will become messy. Remember to hit "download Zip" from github not clone :)
