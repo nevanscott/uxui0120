@@ -35,7 +35,7 @@ In order to continue leveling up your Sketch skills, we are going to kick off wi
 
 ## Suggested Resources
 
-In order to be ready before we start using Sketch more frequently, we **STRONGLY** encourage you to start getting familiar with the [Sketch docs](https://www.sketchapp.com/docs/).
+In order to be ready before we start using Sketch more frequently, we **STRONGLY** encourage you to start getting familiar with the [Sketch docs](https://www.sketch.com/docs/).
 
 **Start with these:**
 
