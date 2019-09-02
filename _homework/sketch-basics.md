@@ -12,7 +12,7 @@ due: 6
 
 ## Video tutorials to watch
 
-Here are some videos you need to watch before starting the exercise. You'll notice that the version of Sketch used in the videos looks a little different, this is because the Sketch team is constantly updating its software but don't worry, the functions are the same.
+Here are some videos you need to watch before starting the exercise. You'll notice that the version of Sketch used in the videos looks a little different, this is because the Sketch team is constantly updating its software but don't worry, the functions are the same, just make sure you practice and explore anything that looks different (in this case mainly the resizing options panel).
 
 * [Intro to Sketch Basics](https://www.youtube.com/watch?v=qywB0JHQeC4)
 * [Top 10 Key Commands in Sketch](https://www.youtube.com/watch?v=w_-oB3CoyBk)
