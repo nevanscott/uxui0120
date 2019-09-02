@@ -14,7 +14,7 @@ Now that you have built some cards and changed photos, descriptions and titles u
 1st Deliverable: Design a Button System
 -------------------------------------------------
 
-1. Watch [video](#)  <small>Duration: 30:39</small>
+1. Watch [video](#)  <small>Duration: x</small>
 2. Create your own button system using nested symbols, masks, and overrides.
 3. Get creative! Use colors, icons and text of your choice.
 
@@ -39,7 +39,7 @@ For this exercise, you will create a bottom tab bar for a mobile app similar to 
 ### Requirements
 
 - 5 tabs with icons and text
-- Use of nested symbols so that various icons and colors can be swapped in and out
+- Use of nested symbols and layer styles so that various icons and colors can be swapped in and out
 - Show what the pressed state looks like for each of the 5 tabs
 
 ### Nice to Have
