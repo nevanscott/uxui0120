@@ -28,7 +28,7 @@ In order to continue leveling up your Sketch skills, we are going to kick off wi
 4. Decrease the opacity of the image
 5. Lock the image layer (hold down the <kbd>Option</kbd> key and hover over the layer and a padlock icon will appear instead of the hide icon)
 6. Use the background image as your guide to recreate the screen.
-7. Font = SF Pro Display. You can download it [HERE](https://developer.apple.com/fonts/)
+7. Font = SF Pro Display. You can download it [HERE](https://developer.apple.com/fonts/). To add the font to your computer just double-click and install.
 8. Keep an eye on the details! Watch out for shadows, icon size, borders, etc.
 9. Have fun!
 10. **Upload your final Sketch files** [to the Google Drive](https://drive.google.com/drive/u/0/folders/18Fr4U0KfZGOP_fzCQ_0qO4_3BkflYaBn) in the "Completed Work" folder.
