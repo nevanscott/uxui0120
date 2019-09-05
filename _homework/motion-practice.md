@@ -18,7 +18,7 @@ Requirements
 - Create at least one component to make a "Buy button" transition to the "Download icon" icon.
 - Create at least one component to make the "play on hover" layer appear in front of it when you hover and disappear when you hover out.
 - Lastly, create a transition between the Ed Sheeran feature song image and the next screen. Be careful with crazy layers flying around.
-- Upload the final video showing the animations in a folder with your name inside the Deliverables folder [HERE](https://drive.google.com/drive/folders/15MLy7o5rbB5r0ywceUscN53rqmnuTKUG)
+- Upload the final video showing the animations in a folder with your name inside Completed Work folder [HERE](https://drive.google.com/drive/folders/15MLy7o5rbB5r0ywceUscN53rqmnuTKUG)
 
 Resources
 --------
