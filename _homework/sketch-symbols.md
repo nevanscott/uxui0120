@@ -38,6 +38,7 @@ For this exercise, you will create a bottom tab bar for a mobile app similar to 
 Resources
 ---------
 
+- [Video Tutorial](https://www.youtube.com/watch?v=hKGDtwDJaV8) about how to create nested symbols with a Wunderlist App demonstration.
 - [Organizing Layer Styles](https://www.youtube.com/watch?v=Bxr_Kb09ito) Video about how to create and manage layer styles
 - [Better Icons with Sketch Layer Styles](https://www.youtube.com/watch?v=67ralD6gJTs) Jesse Showalter explains the Layer styles feature in the context of icons.
 - [Layer Styles and Text Styles](https://madeintandem.com/blog/make-sketch-work-layer-styles-text-styles/) More in detail article about layer styles and text styles with images and clear explanations of pros and cons.
