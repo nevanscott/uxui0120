@@ -25,6 +25,7 @@ It is **HIGHLY** recommended that you use symbols for this exercise, so that you
 **Warm-Up Instructions**
 1. Watch this 27 min. [Video Tutorial](https://www.youtube.com/watch?v=hKGDtwDJaV8) about how to create nested symbols with a Wunderlist To Do App demonstration.
 2. For added practice, download the "Lesson File" [here](https://drive.google.com/open?id=1orm6aIQQrt2C0V9H2IhobMH9tDcjw5fM) and follow along or complete on your own after watching the tutorial.
+3. Learn about Smart Distribute features in Sketch [here](https://www.youtube.com/watch?v=mZQR0fTD-pc)
 
 **Deliverable Instructions**
 1. Download the images and icons from [the Google Drive](https://drive.google.com/drive/u/0/folders/1YyEffELX97tCV2YLs8eYo2EXTjCgO0d3).
