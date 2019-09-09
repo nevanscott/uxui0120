@@ -52,7 +52,7 @@ Suggested Plugins
 ------------------
 
 [Anima Toolkit](https://animaapp.github.io/)
-: a Plugin that integrates seamlessly into Sketch with various powerful features: [Layout](https://docs.animaapp.com/v3/layout/), a way to build responsive designs inside Sketch. [Prototype], a feature that let's you create links, breakpoints and smart layers to preview in a website. And [Export](https://docs.animaapp.com/v3/export/) a paid feature that enables you to export both HTML & CSS files directly out of Sketch.
+: a Plugin that integrates seamlessly into Sketch with various powerful features: [Layout](https://docs.animaapp.com/v3/layout/), a way to build responsive designs inside Sketch. [Prototype](https://docs.animaapp.com/v3/prototype/), a feature that let's you create links, breakpoints and smart layers to preview in a website. And [Export](https://docs.animaapp.com/v3/export/) a paid feature that enables you to export both HTML & CSS files directly out of Sketch.
 
 - [Merge Duplicate Symbols](https://github.com/oodesign/merge-duplicate-symbols)
 : This plugin is used to merge symbols with the same name. Choose the one you want to keep and press OK. The other symbols will be removed, and all of their instances will be replaced by the one you chose to keep (downloadable through the link where you can make a donation or through the Sketchpacks plugin).
