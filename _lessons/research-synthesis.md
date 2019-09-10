@@ -1,7 +1,7 @@
 ---
 title: Research Synthesis
 unit: 1
-day: 4
+day: 6
 topics:
   - Design Thinking
   - Double Diamond
