@@ -2,6 +2,7 @@
 title: Self-assessment
 format: One-on-One
 days:
+  - 11
   - 12
   - 13
   - 14
