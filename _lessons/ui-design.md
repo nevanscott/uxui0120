@@ -1,7 +1,7 @@
 ---
 title: User Interface Design
 unit: 2
-day: 15
+day: 20
 topics:
   - Color
   - User Interface
