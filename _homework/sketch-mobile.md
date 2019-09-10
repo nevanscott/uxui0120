@@ -29,9 +29,10 @@ It is **HIGHLY** recommended that you use symbols for this exercise, so that you
 
 **Deliverable Instructions**
 1. Download the images and icons from [the Google Drive](https://drive.google.com/drive/u/0/folders/1YyEffELX97tCV2YLs8eYo2EXTjCgO0d3).
-2. Replicate the screens side by side (no tracing this time!).
-3. Use symbols to build the cards and overrides to change the copy, photos, star ratings and avatars. You can be creative with the text and photos.
-4. You will make use of masks to update the photos and avatars. Check out [this brief tutorial video](https://www.youtube.com/watch?v=3T02VqGf_d8) for a quick refresher.
+2. Import the image to Sketch and change its width to 360 px
+3. Replicate the screens in new artboards side by side (no tracing this time!).
+4. Use symbols to build the cards and overrides to change the copy, photos and star ratings. You can be creative with the text and photos.
+5. You will make use of masks to update the photos. Check out [this brief tutorial video](https://www.youtube.com/watch?v=3T02VqGf_d8) for a quick refresher.
 5. Keep an eye on the details! Watch out for shadows, gradients, rounded corners, spacing, alignment, etc.
 6. Upload your Sketch file [to the Google Drive](https://drive.google.com/drive/u/0/folders/1YyEffELX97tCV2YLs8eYo2EXTjCgO0d3) in the "Completed Work" folder.
 
