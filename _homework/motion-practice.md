@@ -2,8 +2,8 @@
 title: Motion
 unit: 2
 format: Practice
-assigned: 14
-due: 16
+assigned: 12
+due: 13
 ---
 After learning some of the main features available in Principle, it's time to put all of it in practice. Download the Sketch file in this [Google Drive folder](https://drive.google.com/drive/folders/15MLy7o5rbB5r0ywceUscN53rqmnuTKUG) and make it move!
 
