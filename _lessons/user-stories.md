@@ -1,19 +1,20 @@
 ---
 title: User Stories
 unit: 3
-day: 29
+day: 30
 topics:
   - Agile
   - Prioritization
   - Problem Definition
   - User Story
   - Jobs To Be Done
-description: |
-  User Stories will help us define smaller chunks of features, which we can then prioritize for our products.
+description: >
+  User Stories will help us define smaller chunks of features, which we can then
+  prioritize for our products.
 prep:
   - format: Reading
-    title: Writing user stories
     link: 'https://www.gov.uk/service-manual/agile-delivery/writing-user-stories'
+    title: Writing user stories
 ---
 
 Learning Objectives
