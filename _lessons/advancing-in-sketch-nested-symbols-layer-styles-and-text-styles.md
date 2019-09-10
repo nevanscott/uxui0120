@@ -6,8 +6,8 @@ topics:
   - User Interface
   - Sketch
 description: >-
-  Mastering this features will help you make your work more efficient and
-  consistent.
+  Mastering this features will help you make your work more efficient and your
+  design more consistent.
 resources: []
 prep:
   - author: Drew Vosburg
