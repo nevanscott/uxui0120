@@ -1,7 +1,7 @@
 ---
 title: Evaluative Research
 unit: 2
-day: 13
+day: 11
 topics:
   - Heuristics
 description: |
