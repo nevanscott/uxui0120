@@ -1,7 +1,7 @@
 ---
 title: 'Visual Design - Typography '
 unit: 2
-day: 11
+day: 17
 topics:
   - Typography
   - Composition
@@ -22,8 +22,8 @@ objectives:
 prep:
   - author: Oliver Reichenstein
     format: Reading
-    title: Learning to See
     link: 'https://ia.net/topics/learning-to-see'
+    title: Learning to See
 ---
 
 <!-- <img class="illo aside" src="/assets/images/crap.png" alt="Illustration of CRAP design principles: contrast, repetition, alignment, and proximity" /> -->
