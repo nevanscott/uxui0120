@@ -1,7 +1,7 @@
 ---
 title: Adaptive Interfaces
 unit: 3
-day: 39
+day: 25
 topics:
   - Progressive Disclosure
   - Staged Disclosure
@@ -10,16 +10,16 @@ topics:
 prep:
   - author: Jakob Nielsen
     format: Reading
-    title: Progressive Disclosure
     link: 'https://www.nngroup.com/articles/progressive-disclosure/'
+    title: Progressive Disclosure
   - author: Raluca Budiu
     format: Reading
-    title: The Role of Enhancement in Web Design
     link: 'https://www.nngroup.com/articles/enhancement/'
+    title: The Role of Enhancement in Web Design
   - author: Amy Schade
     format: Reading
-    title: Customization vs. Personalization in the User Experience
     link: 'https://www.nngroup.com/articles/customization-personalization/'
+    title: Customization vs. Personalization in the User Experience
 ---
 
 Learning Objectives
