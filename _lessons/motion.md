@@ -1,7 +1,7 @@
 ---
 title: Motion in user interfaces
 unit: 2
-day: 14
+day: 12
 topics:
   - Motion
   - User Interface State
