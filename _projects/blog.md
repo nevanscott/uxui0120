@@ -1,8 +1,8 @@
 ---
 title: Personal Blog
 unit: 4
-assigned: 16
-due: 21
+assigned: 13
+due: 16
 topics:
   - HTML
   - CSS
