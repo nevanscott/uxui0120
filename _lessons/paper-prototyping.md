@@ -1,7 +1,7 @@
 ---
 title: Paper Prototyping
 unit: 1
-day: 2
+day: 4
 topics:
   - Prototyping
 description: >
@@ -13,8 +13,8 @@ objectives:
 prep:
   - author: Relab Studios
     format: Video
-    title: Crazy 8s – Brainstorming & Sketching
     link: 'https://www.youtube.com/watch?v=UXOLJy0E7Pg'
+    title: Crazy 8s – Brainstorming & Sketching
 ---
 
 
