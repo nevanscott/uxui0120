@@ -1,15 +1,16 @@
 ---
 title: IA Methods
 unit: 3
-day: 29
-description: |
-  We'll briefly discuss task analysis and scenarios as optional information architecture topics which may be helpful for your projects.
+day: 30
 topics:
   - Information Architecture
   - Task Analysis
   - Use Case
   - Scenario
   - User Research
+description: >
+  We'll briefly discuss task analysis and scenarios as optional information
+  architecture topics which may be helpful for your projects.
 ---
 
 In this class, we will go through two main topics:
