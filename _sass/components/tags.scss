@@ -8,8 +8,9 @@
 .tags li {
   display: inline;
   white-space: nowrap;
-  + li {
-    margin-left: var(--space-300);
+  margin-right: var(--space-300);
+  :last-child {
+    margin-right: 0;
   }
   a {
     border: none;
