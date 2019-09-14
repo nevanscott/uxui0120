@@ -1,0 +1,52 @@
+main > article {
+  padding: var(--space-600) var(--space-700) var(--space-800);
+  > *:not(header, .sidebar-layout, .week) {
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  > header {
+    --color-stroke: var(--white);
+    --color-stroke-muted: var(--white);
+    --color-stroke--hover: var(--white);
+    --color-text: var(--white);
+    --color-text-muted: var(--white);
+    --color-text-label: var(--white);
+    --color-indicator: var(--white);
+    --color-decoration: var(--white);
+    background: var(--color-surface-loud);
+    color: var(--color-text);
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: var(--space-700);
+    align-items: end;
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%);
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 80%, 0% 100%);
+    margin:
+      calc(-1 * var(--space-600))
+      calc(-1 * var(--space-700))
+      var(--space-700)
+      ;
+    padding: var(--space-700) var(--space-700) var(--space-800);
+    .description {
+      font-family: var(--font-heading);
+      font-size: var(--font-size-600);
+      font-weight: 400;
+    }
+  }
+  > * + * {
+    margin-top: var(--space-500);
+  }
+  > * + h2 {
+    margin-top: var(--space-700);
+  }
+  > * + h3 {
+    margin-top: var(--space-600);
+  }
+  > dl > * + * {
+    margin-top: var(--space-400);
+  }
+  > dl > * + dt {
+    margin-top: var(--space-600);
+  }
+}

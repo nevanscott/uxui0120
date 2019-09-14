@@ -1,0 +1,25 @@
+.week {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(7, auto);
+  grid-auto-flow: column;
+  grid-gap: var(--space-600) var(--space-500);
+  margin-left: calc(-1 * (var(--space-600) + var(--space-500)));
+  margin-right: calc(-1 * (var(--space-600) + var(--space-500)));
+  .calendar-date {
+    display: contents;
+  }
+  .today > * {
+    background: transparent;
+  }
+  h2 {
+    color: var(--color-text-muted);
+    font-size: var(--font-size-400);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-top: var(--space-200);
+  }
+  > :not(:first-child) .month {
+    display: none;
+  }
+}

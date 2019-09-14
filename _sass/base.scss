@@ -1,0 +1,135 @@
+body {
+  background-color: var(--color-canvas);
+  color: var(--color-text);
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-body);
+  font-size: var(--font-size-600);
+  line-height: 1.45;
+}
+
+a {
+  color: inherit;
+  border-bottom: 2px solid var(--color-stroke);
+  text-decoration: none;
+  &:hover {
+    border-color: var(--color-stroke--hover);
+  }
+}
+
+a[href^="http"] {
+  &::after {
+    content: "↗";
+    color: var(--color-indicator);
+    font-family: var(--font-interface);
+    font-size: var(--font-size-500);
+    font-weight: 600;
+    margin-left: var(--space-300);
+  }
+}
+
+img {
+  max-width: 100%;
+}
+
+small {
+  color: var(--color-text-muted);
+  font-family: var(--font-interface);
+  font-size: 0.7em;
+  font-weight: 500;
+}
+
+h1 {
+  font-family: var(--font-display);
+  font-size: var(--font-size-1000);
+  font-weight: 900;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.1;
+  small {
+    display: block;
+  }
+}
+
+h2 {
+  color: var(--color-text-muted);
+  font-family: var(--font-heading);
+  font-size: var(--font-size-700);
+  font-weight: 700;
+}
+
+h3 {
+  font-family: var(--font-display);
+  font-size: var(--font-size-700);
+  font-weight: 700;
+}
+
+ul {
+  list-style: none;
+  li {
+    position: relative;
+    & + li {
+      margin-top: var(--space-400);
+    }
+    &::before {
+      content: '';
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      background-color: var(--color-indicator);
+      position: absolute;
+      left: calc(-1 * var(--space-500));
+      top: 0.55em;
+    }
+  }
+}
+
+dl {
+  dt {
+    font-weight: 700;
+  }
+}
+
+/**
+ * 1. Correct the odd appearance in Chrome and Safari.
+ * 2. Correct the outline style in Safari.
+ */
+[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  outline-offset: -2px;
+  /* 2 */
+}
+
+/**
+ * Remove the inner padding in Chrome and Safari on macOS.
+ */
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+input {
+  display: block;
+  width: 100%;
+  border: solid 1px var(--slate);
+  padding: var(--space-400) var(--space-500);
+  font-family: var(--font-interface);
+  font-size: var(--font-size-600);
+  &:focus {
+    outline: none;
+    box-shadow:
+      0 0 0 var(--space-100) var(--pale),
+      0 0 0 var(--space-300) var(--goldenrod);
+  }
+}
+
+.vh {
+  clip-path: inset(100%) !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  position: absolute !important;
+  white-space: nowrap !important;
+  width: 1px !important
+}

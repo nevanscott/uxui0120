@@ -1,0 +1,156 @@
+$base: '/assets/fonts/public-sans/';
+$base-woff: $base + 'webfonts/';
+$base-var: $base + 'variable/';
+
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  normal;
+  font-weight: 100;
+  src: url($base-var + "Public-Sans-Roman-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-Thin.woff2") format("woff2"),
+       url($base-woff + "PublicSans-Thin.woff") format("woff");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  italic;
+  font-weight: 100;
+  src: url($base-var + "Public-Sans-Italic-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-ThinItalic.woff2") format("woff2"),
+       url($base-woff + "PublicSans-ThinItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  normal;
+  font-weight: 200;
+  src: url($base-var + "Public-Sans-Roman-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-ExtraLight.woff2") format("woff2"),
+       url($base-woff + "PublicSans-ExtraLight.woff") format("woff");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  italic;
+  font-weight: 200;
+  src: url($base-var + "Public-Sans-Italic-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-ExtraLightItalic.woff2") format("woff2"),
+       url($base-woff + "PublicSans-ExtraLightItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  normal;
+  font-weight: 300;
+  src: url($base-var + "Public-Sans-Roman-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-Light.woff2") format("woff2"),
+       url($base-woff + "PublicSans-Light.woff") format("woff");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  italic;
+  font-weight: 300;
+  src: url($base-var + "Public-Sans-Italic-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-LightItalic.woff2") format("woff2"),
+       url($base-woff + "PublicSans-LightItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  normal;
+  font-weight: 400;
+  src: url($base-var + "Public-Sans-Roman-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-Regular.woff2") format("woff2"),
+       url($base-woff + "PublicSans-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  italic;
+  font-weight: 400;
+  src: url($base-var + "Public-Sans-Italic-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-Italic.woff2") format("woff2"),
+       url($base-woff + "PublicSans-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  normal;
+  font-weight: 500;
+  src: url($base-var + "Public-Sans-Roman-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-Medium.woff2") format("woff2"),
+       url($base-woff + "PublicSans-Medium.woff") format("woff");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  italic;
+  font-weight: 500;
+  src: url($base-var + "Public-Sans-Italic-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-MediumItalic.woff2") format("woff2"),
+       url($base-woff + "PublicSans-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  normal;
+  font-weight: 600;
+  src: url($base-var + "Public-Sans-Roman-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-SemiBold.woff2") format("woff2"),
+       url($base-woff + "PublicSans-SemiBold.woff") format("woff");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  italic;
+  font-weight: 600;
+  src: url($base-var + "Public-Sans-Italic-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-SemiBoldItalic.woff2") format("woff2"),
+       url($base-woff + "PublicSans-SemiBoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  normal;
+  font-weight: 700;
+  src: url($base-var + "Public-Sans-Roman-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-Bold.woff2") format("woff2"),
+       url($base-woff + "PublicSans-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  italic;
+  font-weight: 700;
+  src: url($base-var + "Public-Sans-Italic-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-BoldItalic.woff2") format("woff2"),
+       url($base-woff + "PublicSans-BoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  normal;
+  font-weight: 800;
+  src: url($base-var + "Public-Sans-Roman-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-ExtraBold.woff2") format("woff2"),
+       url($base-woff + "PublicSans-ExtraBold.woff") format("woff");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  italic;
+  font-weight: 800;
+  src: url($base-var + "Public-Sans-Italic-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-ExtraBoldItalic.woff2") format("woff2"),
+       url($base-woff + "PublicSans-ExtraBoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  normal;
+  font-weight: 900;
+  src: url($base-var + "Public-Sans-Roman-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-Black.woff2") format("woff2"),
+       url($base-woff + "PublicSans-Black.woff") format("woff");
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style:  italic;
+  font-weight: 900;
+  src: url($base-var + "Public-Sans-Italic-VF.woff2") format("woff2-variations"),
+       url($base-woff + "PublicSans-BlackItalic.woff2") format("woff2"),
+       url($base-woff + "PublicSans-BlackItalic.woff") format("woff");
+}
