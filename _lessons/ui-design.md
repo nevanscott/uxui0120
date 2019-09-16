@@ -1,5 +1,7 @@
 ---
-title: User Interface Design
+title: >-
+  How to use colors, and exploration and iteration to create high fidelity
+  prototypes
 unit: 2
 day: 20
 topics:
