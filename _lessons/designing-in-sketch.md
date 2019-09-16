@@ -1,5 +1,5 @@
 ---
-title: Designing in Sketch
+title: How to start designing interfaces on Sketch
 unit: 7
 day: 5
 topics:
@@ -18,6 +18,7 @@ objectives:
   - Use a few important keyboard shortcuts to speed up your work
   - Create an interface mockup at medium fidelity
   - Use duplicate liberally to keep track of your work as you go
+prep: []
 ---
 Today we'll aim to take a light ramp into getting started working with Sketch to make medium-fidelity prototypes. Familiarity with Sketch on its own will not make you a better visual designer, but facility with Sketch should allow you to more quickly mock up designs and iterate faster so that you can consider more options before landing on a final design.
 
