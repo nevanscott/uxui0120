@@ -7,6 +7,10 @@ topics:
   - Staged Disclosure
   - Customization
   - Personalization
+resources:
+  - Progressive Disclosure
+  - The Role of Enhancement in Web Design
+  - Customization vs. Personalization in the User Experience
 prep:
   - author: Jakob Nielsen
     format: Reading
