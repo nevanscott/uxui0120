@@ -1,7 +1,7 @@
 ---
-title: Contextual Inquiry
+title: How to conduct observational research
 unit: 3
-day: 29
+day: 24
 topics:
   - User Research
   - User Journey
@@ -11,6 +11,7 @@ topics:
 description: >
   The best way to gather information about users' behaviors is to actually
   observe them doing things in their natural context.
+resources: []
 prep:
   - format: Video
     link: 'https://www.youtube.com/watch?v=nC47ktX4U2I'
