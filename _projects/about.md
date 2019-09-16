@@ -1,7 +1,7 @@
 ---
 title: About Me
 unit: 4
-assigned: 10
+assigned: 9
 due: 13
 topics:
   - HTML
