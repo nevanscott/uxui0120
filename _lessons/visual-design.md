@@ -1,5 +1,5 @@
 ---
-title: 'Visual Design - Typography '
+title: 'How to use typography improve readability and to establish visual hierarchy '
 unit: 2
 day: 17
 topics:
@@ -19,6 +19,8 @@ objectives:
   - establish basic typographic hierarchy
   - use spacing to make text readable
   - use proximity to make relationships clear
+resources:
+  - A CRAP way to improve usability
 prep:
   - author: Oliver Reichenstein
     format: Reading
