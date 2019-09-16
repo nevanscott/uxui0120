@@ -11,7 +11,7 @@ Instructions
 ------------
 
 - In order for your peers to improve their skills in working in group, we would like you to give some feedback for your team members based on their behavior as a group member.
-- To do so, go to the Google Drive file `"Student's Work" > "Group retrospective"`. In this file, look for your groupmate file and on one of the empty table, complete at least one aspect to start doing, stop doing and continue doing for their next group work
+- To do so, go to the Google Drive file `"Projects" > "Group retrospective"`. In this file, look for your groupmate file and on one of the empty table, complete at least one aspect to start doing, stop doing and continue doing for their next group work
 - Remember the golden rules of feedback that you can read below
 
 
