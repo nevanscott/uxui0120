@@ -1,5 +1,7 @@
 ---
-title: 'Advancing in Sketch: Nested Symbols, Layer Styles and Text Styles'
+title: >-
+  How to create reusable components in Sketch to make your workflow more
+  efficient
 unit: 2
 day: 10
 topics:
