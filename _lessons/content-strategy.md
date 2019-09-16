@@ -1,7 +1,9 @@
 ---
-title: Content Strategy & IA
+title: >-
+  How to assess and visualize the Information Architecture of a website or
+  application
 unit: 3
-day: 24
+day: 25
 topics:
   - Information Architecture
   - Content
@@ -12,12 +14,12 @@ topics:
 prep:
   - author: Donna Spencer
     format: Reading
-    title: How to Conduct A Content Audit
     link: 'https://uxmastery.com/how-to-conduct-a-content-audit/'
+    title: How to Conduct A Content Audit
   - author: Rachel Lovinger
     format: Reading
-    title: 'Content Modelling: A Master Skill'
     link: 'https://alistapart.com/article/content-modelling-a-master-skill'
+    title: 'Content Modelling: A Master Skill'
 ---
 
 Learning Objectives
@@ -40,8 +42,8 @@ Ironhack Learning Platform
 - [Atomic design](http://learn.ironhack.com/#/learning_unit/7068)
 
 
-Below you will find the links that were discussed in today's class:
-----------
+Further reading:
+----------------
 
 - [Content Modelling, a master skill](https://alistapart.com/article/content-modelling-a-master-skill)
 - [The Core Model: Designing Inside Out for Better Results](https://alistapart.com/article/the-core-model-designing-inside-out-for-better-results)
