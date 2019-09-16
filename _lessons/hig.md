@@ -1,5 +1,5 @@
 ---
-title: How to adapt a design to the Human Interface Guidelines
+title: How to incorporate the Human Interface Guidelines to your design
 unit: 2
 day: 18
 topics:
