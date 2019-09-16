@@ -1,5 +1,5 @@
 ---
-title: How to distribute the layout of a website using Grid
+title: How to create a responsive layout using Grid
 unit: 4
 day: 16
 topics:
