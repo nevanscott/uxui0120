@@ -1,5 +1,5 @@
 ---
-title: CSS for Typesetting and Composition
+title: How to style web content using CSS
 unit: 4
 day: 13
 topics:
