@@ -1,5 +1,5 @@
 ---
-title: Research Synthesis
+title: How to turn research findings into insights
 unit: 1
 day: 6
 topics:
