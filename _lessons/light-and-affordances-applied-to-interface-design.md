@@ -1,6 +1,8 @@
 ---
-title: Light and affordances applied to interface design
-unit: 2
+title: >-
+  How to use real world properties to make the interaction of your design more
+  effective
+unit: 7
 day: 10
 topics:
   - UI State
