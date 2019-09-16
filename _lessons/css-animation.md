@@ -4,8 +4,14 @@ unit: 4
 day: 26
 topics:
   - CSS Animation
+  - CSS
+  - Motion
 resources:
+  - MDN Using CSS Transition
+  - CSS Transition Property
+  - MDN Keyframe
   - Keyframe syntax
+  - CSS Transition Tutorial
 ---
 
 Schedule of the day
@@ -16,15 +22,6 @@ Schedule of the day
 - Intro to keyframes
 - Wrap up
 - Workshop - Finish your website
-
-Resources
----------
-
-- [MDN Using CSS Transition](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions#Defining_transitions)
-- [Transition Property](https://css-tricks.com/almanac/properties/t/transition/)
-- [MDN Keyframe](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
-- [Keyframe syntax](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
-- [Transition Tutorial](http://css3.bradshawenterprises.com/transitions/)
 
 
 Examples
