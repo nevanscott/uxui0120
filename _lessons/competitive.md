@@ -1,5 +1,5 @@
 ---
-title: Competitive Analysis
+title: How to identify opportunities and threats analysing our competitors
 unit: 2
 day: 19
 topics:
