@@ -4,7 +4,7 @@ format: Group crit
 day: 14
 ---
 
-We'll gather in groups for a crit session that will last around 45 minutes. The objective of this session is to open ourselves to feedback from another point of view and to practice our own skills giving feedback.
+We'll gather in groups for a crit session. The objective of this session is to open ourselves to feedback from another point of view and to practice our own skills giving feedback.
 
 
 What to bring
