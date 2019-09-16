@@ -1,13 +1,15 @@
 ---
-title: HTML
+title: How to read and create HTML files following good practices
 unit: 4
-day: 10
+day: 9
 topics:
   - HTML
 description: >
   HTML is the essential building block of web pages. It provides structure to
   content, and gives browsers meaningful information which supports built-in
   accessibility and discoverability features.
+resources: []
+prep: []
 ---
 
 Schedule
