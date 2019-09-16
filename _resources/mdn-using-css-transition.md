@@ -5,5 +5,6 @@ link: >-
 topics:
   - CSS
   - Motion
+  - CSS Animation
 ---
 
