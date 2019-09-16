@@ -1,5 +1,5 @@
 ---
-title: 'How to use typography improve readability and to establish visual hierarchy '
+title: How to establish visual hierarchy using typography and the CRAP principles
 unit: 2
 day: 17
 topics:
