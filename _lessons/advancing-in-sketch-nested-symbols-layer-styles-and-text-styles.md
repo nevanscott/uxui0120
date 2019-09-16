@@ -3,7 +3,7 @@ title: >-
   How to create reusable components in Sketch to make your workflow more
   efficient
 unit: 2
-day: 10
+day: 9
 topics:
   - User Interface
   - Sketch
