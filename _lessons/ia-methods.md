@@ -35,14 +35,6 @@ Learning Objectives
 - Explain how a scenario is helpful for conducting usability testing
 
 
-Resources
----------
-
-- [Task Analysis](https://www.usability.gov/how-to-and-tools/methods/task-analysis.html) on Usability.gov
-- [Use Cases](https://www.usability.gov/how-to-and-tools/methods/use-cases.html) on Usability.gov
-- [Scenarios](https://www.usability.gov/how-to-and-tools/methods/scenarios.html) on Usability.gov
-
-
 Further Reading
 ---------------
 
