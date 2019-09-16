@@ -1,4 +1,0 @@
----
-title: Sketch App Resources
----
-
