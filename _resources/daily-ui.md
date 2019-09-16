@@ -4,5 +4,6 @@ link: 'https://www.dailyui.co/'
 topics:
   - Sketch App Resources
   - Sketch
+  - Inspiration
 ---
 
