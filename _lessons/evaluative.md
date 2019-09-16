@@ -1,5 +1,5 @@
 ---
-title: Evaluative Research
+title: How to evaluate a design following design principles
 unit: 2
 day: 11
 topics:
