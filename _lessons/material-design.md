@@ -1,5 +1,5 @@
 ---
-title: How to adapt a design to the Material Design system
+title: How to incorporate the Material Design system to your design
 unit: 2
 day: 18
 topics:
