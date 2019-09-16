@@ -1,7 +1,7 @@
 ---
-title: User Stories
+title: How to write User Stories
 unit: 3
-day: 31
+day: 37
 topics:
   - Agile
   - Prioritization
@@ -11,6 +11,7 @@ topics:
 description: >
   User Stories will help us define smaller chunks of features, which we can then
   prioritize for our products.
+resources: []
 prep:
   - format: Reading
     link: 'https://www.gov.uk/service-manual/agile-delivery/writing-user-stories'
