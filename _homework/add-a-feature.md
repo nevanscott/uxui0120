@@ -1,7 +1,7 @@
 ---
 title: Ideas for "Add a Feature"
 unit: 2
-assigned: 9
+assigned: 8
 due: 10
 ---
 
