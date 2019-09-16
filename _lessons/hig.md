@@ -1,5 +1,5 @@
 ---
-title: Human Interface Guidelines
+title: How to adapt a design to the Human Interface Guidelines
 unit: 2
 day: 18
 topics:
@@ -14,6 +14,9 @@ objectives:
   - identify hierarchical vs. flat navigational patterns in iOS apps
   - 'identify when to use [Navigation Bars][], [Tab Bars][], and [Toolbars][]'
   - identify features of an app which follow and violate guidelines.
+resources:
+  - Iterative UI Design
+  - Human Interface Guidelines
 ---
 
 Where to start
@@ -30,11 +33,6 @@ The HIG is... detailed. You're not going to read through it all in one go. Here'
 [Navigation Bars]: https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/
 [Tab Bars]: https://developer.apple.com/design/human-interface-guidelines/ios/bars/tab-bars/
 [Toolbars]: https://developer.apple.com/design/human-interface-guidelines/ios/bars/toolbars/
-
-
-Resources
----------
-- [Iterative UI Design - WWDC 2016](https://developer.apple.com/videos/play/wwdc2016/805/) by Apple
 
 
 Ironhack Learning Platform
