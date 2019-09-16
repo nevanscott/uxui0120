@@ -1,5 +1,5 @@
 ---
-title: Paper Prototyping
+title: How to do fast prototyping on paper
 unit: 1
 day: 4
 topics:
