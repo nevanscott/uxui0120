@@ -10,6 +10,9 @@ topics:
 description: >-
   Mastering this features will help you make your work more efficient and your
   design more consistent.
+objectives:
+  - use nested symbols in Sketch to make reusable UI components
+  - use styles in sketch to make your design consistent and up to date
 resources: []
 prep:
   - author: Drew Vosburg
