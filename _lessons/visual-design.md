@@ -19,8 +19,7 @@ objectives:
   - establish basic typographic hierarchy
   - use spacing to make text readable
   - use proximity to make relationships clear
-resources:
-  - A CRAP way to improve usability
+resources: []
 prep:
   - author: Oliver Reichenstein
     format: Reading
