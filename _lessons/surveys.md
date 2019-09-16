@@ -1,5 +1,5 @@
 ---
-title: Surveys
+title: How to create goal driven surveys
 unit: 1
 day: 5
 topics:
@@ -13,19 +13,14 @@ objectives:
   - use a goal-driven approach to developing survey questions
   - identify when using a survey may be appropriate for a project
   - identify some limitations of survey data
+resources:
+  - The Lean Survey Canvas
 prep:
   - author: Chris Thelwell
     format: Reading
-    title: The Lean Survey Canvas
     link: 'http://www.christhelwell.com/live/the-lean-survey-canvas/#.W3TZ3i-B3OQ'
+    title: The Lean Survey Canvas
 ---
-
-Resources
-----------
-
-- [The Lean Survey Canvas](http://www.christhelwell.com/live/the-lean-survey-canvas/#.W3TZ3i-B3OQ) by Chris Thelwell
-
-
 Tools
 -----
 
