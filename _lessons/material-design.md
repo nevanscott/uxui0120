@@ -1,5 +1,5 @@
 ---
-title: Material Design
+title: How to adapt a design to the Material Design system
 unit: 2
 day: 18
 topics:
@@ -10,6 +10,8 @@ topics:
 description: >
   We'll focus on how Google's Material Design system works on Android devices
   (primarily phones) and explore the primary navigation model.
+resources:
+  - Getting started with Material Theme Editor
 ---
 
 Learning Objectives
@@ -73,12 +75,6 @@ Tools
 -----
 
 - [Material Theme Editor](https://material.io/tools/theme-editor/)
-
-
-Resources
----------
-
-- [Getting started with Material Theme Editor](https://www.youtube.com/watch?v=BLrgDgd_1c0) video from Google Design
 
 
 Ironhack Learning Platform
