@@ -1,7 +1,7 @@
 ---
 title: Native Mobile app
 unit: 2
-assigned: 18
+assigned: 17
 due: 23
 topics:
   - Native App
