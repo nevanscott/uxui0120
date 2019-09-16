@@ -1,7 +1,9 @@
 ---
-title: IA Methods
+title: >-
+  How to assess the way users execute tasks and how to understand the context
+  behind it
 unit: 3
-day: 30
+day: 31
 topics:
   - Information Architecture
   - Task Analysis
@@ -11,6 +13,10 @@ topics:
 description: >
   We'll briefly discuss task analysis and scenarios as optional information
   architecture topics which may be helpful for your projects.
+resources:
+  - Task Analysis
+  - Use Cases
+  - Scenarios
 ---
 
 In this class, we will go through two main topics:
