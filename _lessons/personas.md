@@ -1,5 +1,5 @@
 ---
-title: Personas
+title: How to create User Personas based on research
 unit: 1
 day: 6
 topics:
@@ -19,8 +19,8 @@ objectives:
 prep:
   - author: Jared Spool
     format: Reading
-    title: Five Factors for Successful Persona Projects
     link: 'https://articles.uie.com/successful_persona_projects/'
+    title: Five Factors for Successful Persona Projects
 ---
 
 Ironhack Learning Platform
