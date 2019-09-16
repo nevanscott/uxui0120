@@ -1,7 +1,7 @@
 ---
-title: Adaptive Interfaces
+title: How to design interfaces that are adaptable to the user needs
 unit: 3
-day: 25
+day: 26
 topics:
   - Progressive Disclosure
   - Staged Disclosure
