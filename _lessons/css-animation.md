@@ -3,9 +3,9 @@ title: How to create animations on the web using CSS
 unit: 4
 day: 26
 topics:
-  - CSS
-  - Motion
   - CSS Animation
+resources:
+  - Keyframe syntax
 ---
 
 Schedule of the day
