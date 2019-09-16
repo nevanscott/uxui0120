@@ -1,5 +1,5 @@
 ---
-title: Motion in user interfaces
+title: How to animate user interfaces
 unit: 2
 day: 12
 topics:
