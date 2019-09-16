@@ -11,30 +11,20 @@ topics:
 description: >
   User Stories will help us define smaller chunks of features, which we can then
   prioritize for our products.
-resources: []
+objectives:
+  - Identify the elements of a user story
+  - Differentiate between defining the problem and providing a solution
+  - Describe acceptance criteria for a story
+  - Write a user story for a given product
+  - Prioritize features using the MoSCoW categories
+  - Prioritize features on a effort/value quadrant
+resources:
+  - Writing user stories
 prep:
   - format: Reading
     link: 'https://www.gov.uk/service-manual/agile-delivery/writing-user-stories'
     title: Writing user stories
 ---
-
-Learning Objectives
--------------------
-
-- Identify the elements of a user story
-- Differentiate between defining the problem and providing a solution
-- Describe acceptance criteria for a story
-- Write a user story for a given product
-- Prioritize features using the MoSCoW categories
-- Prioritize features on a effort/value quadrant
-
-
-Resources
----------
-
-- [Writing user stories](https://www.gov.uk/service-manual/agile-delivery/writing-user-stories) from the [Gov.uk Service Manual](https://www.gov.uk/service-manual)
-
-
 Further Reading
 ---------------
 
