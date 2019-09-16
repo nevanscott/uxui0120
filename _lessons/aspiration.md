@@ -1,5 +1,5 @@
 ---
-title: Inspiration and Aspiration
+title: How to use Inspiration and Aspiration to your advantage
 unit: 2
 day: 20
 topics:
