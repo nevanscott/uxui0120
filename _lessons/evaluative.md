@@ -1,5 +1,5 @@
 ---
-title: How to evaluate a design following design principles
+title: How to evaluate designs using heuristics
 unit: 2
 day: 11
 topics:
