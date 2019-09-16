@@ -1,5 +1,5 @@
 ---
-title: Dashboards
+title: How to approach the design of dashboards
 unit: 7
 day: 32
 topics: []
