@@ -11,7 +11,10 @@ topics:
 description: >
   The best way to gather information about users' behaviors is to actually
   observe them doing things in their natural context.
-resources: []
+resources:
+  - 'Methods for research: Contextual Inquiry'
+  - Participatory Design
+  - Cultural Probes
 prep:
   - format: Video
     link: 'https://www.youtube.com/watch?v=nC47ktX4U2I'
@@ -44,14 +47,6 @@ Learning Objectives
 - Learn how to create a User Journey Map
 - Understand the importance of taking into account the business objectives
 - Understand the objective of the 5 whys and how to apply it
-
-
-Resources
-----------
-- [Methods for research](https://www.wickedproblems.com/4_methods_for_research.php)
-- [Contextual Inquiry](https://www.wickedproblems.com/4_insight_through_contextual_inquiry.php)
-- [Participatory Design](https://www.wickedproblems.com/4_participatory_design.php)
-- [Cultural Probes](https://www.wickedproblems.com/4_cultural_probes.php)
 
 
 Ironhack Learning Platform
