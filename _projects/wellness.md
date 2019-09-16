@@ -2,7 +2,7 @@
 title: Wellness App
 unit: 1
 assigned: 5
-due: 9
+due: 8
 topics:
   - Prototyping
   - Double Diamond
@@ -28,7 +28,6 @@ Materials
 - Index cards
 - Pens
 - Sketch
-- Invision
 - Google Docs
 - Google Slides
 
@@ -74,14 +73,14 @@ Your presentation should answer the following questions:
 Prototype
 ---------
 
-For this project, use Sketch and Invision to make a mid-fidelity version of your prototype.
+For this project, use Sketch to make a mid-fidelity version of your prototype.
 
 - Stick to black and white <small>(use 1 shade of grey if needed)</small>
 - Just use 1 font <small>(probably Avenir or Helvetica)</small>
 - Use representative text content <small>(no lorem ipsum)</small>
 - Use boxes with Xs in place of images
 
-**Tip:** If you haven't set it up already, use the [Craft plugin](https://www.invisionapp.com/craft) for Sketch to make it easier to sync your Sketch artboards to Invision.
+**Tip:** If you decide to use InVision, use the [Craft plugin](https://www.invisionapp.com/craft) for Sketch to make it easier to sync your Sketch artboards to Invision.
 
 
 Suggested Roadmap
@@ -114,12 +113,8 @@ Suggested Roadmap
 ### Wednesday
 
 - Sketch mid-fidelity prototype
-- InVision
 - Finish up your slides
-
-### Thursday
-
-- Presentation
+- Presentation in the afternoon
 
 
 Report
@@ -133,6 +128,7 @@ We'll have time dedicated after the presentations of this project to write up th
 
 Uploads
 -------
+Before presentations start all slides should be uploaded here:
 
 - [Final Presentation](https://drive.google.com/drive/u/2/folders/13FN20ujPO_JelN2n3lxdDloqTDdnKPTp)
 
