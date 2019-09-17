@@ -19,7 +19,6 @@ topics:
 ## Materials
 
 * Sketch
-* Invision
 * Google Slides
 * Principle
 
@@ -86,7 +85,7 @@ Your will have 6 minutes to summarize your work. We should get a strong sense of
 
 * Test & iterate
 * Principle animations
-* InVision
+* Interactive prototype
 * Rehearse presentation
 
 ### Day 4
