@@ -2,7 +2,7 @@
 title: Wellness App
 unit: 1
 format: Design Report
-assigned: 9
+assigned: 8
 due: 11
 ---
 
