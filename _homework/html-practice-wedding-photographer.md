@@ -11,10 +11,15 @@ Robert is a San Francisco based wedding photographer that has asked you to build
 
 ## Steps
 
-1. Create a folder in your computer called _wedding practice___
+1. Create a folder in your computer called _wedding practice_
+
+   ____
 2. Drag and drop that folder to your code editor so it opens there
-3. Add a new file in the left panel and name it _index.html___
-4. Inside that file, create the main structure of any html file. Start letting the browser know what type of file this is with the declaration `<!DOCTYPE html>```
+
+3. Add a new file in the left panel and name it _index.html_ 
+
+4. Inside that file, create the main structure of any html file. Start letting the browser know what type of file this is with the declaration `<!DOCTYPE html>`
+
 5. Now create the main structure of any HTML. Let's open the HTML tag with `<html>` and close it in another line with `</html>`. **Is a good practice to open and close a tag from the beginning** and then write the code inside so you never forget to close it.
 6. **Don't forget about indentation!** Every step inside the hierarchy of the code should be visibly noticeable with a tab or space in the code. This way you and the people you work with will have an easier time understanding and reviewing your code.
 7. HTML files are like humans in the sense that they almost always have a head and a body. **The head gives information to the browser** about the page that is not visible in the page itself, and **the body contains the information that will be visible** in the website. For now let's just open the `<head>` tag (remember that we are inside `<html>`) and give the page a title using the `<title>` tag, for example _Robert Parker - Photographer_. Now close the head.
