@@ -13,7 +13,7 @@ During this exercise you may need to refer to MDN's documentation. Their [CSS ba
 ## Steps
 
 1. In order to style our HTML, we need to create a CSS file. Open the wedding practice folder in your code editor and in the left panel create a new file with the name main.css
-2. We need to tell our HTML file where to look for the styling changes that we'll make. To do that we have to link this file in the `<head>` of the HTML. There, use this line: `<link rel="stylesheet" href="./main.css">`. The ./  used in href means that the file is inside the same folder. If your CSS file were inside a folder next to the HTML file we would have written `href="./folder/main.css"`.
+2. We need to tell our HTML file where to look for the styling changes that we'll make. To do that we have to link the CSS file in the `<head>` of the HTML. There, use this line: `<link rel="stylesheet" href="./main.css">`. The ./  used in href means that the file is inside the same folder.
 3. Now that we have the two files linked we can start making changes! Let's try changing the background color. Select the body in the css writing `body`and inside the brackets write `background-color: aliceblue;`. Don't forget to finish every declaration with ";".
 To see the changes save both the HTML and CSS files and refresh your browser.
 4. We've decided to use the font Roboto throughout the body of our website. Since the font is hosted in google we need to connect our file to the font. This is also made in the head of the HTML. Go to [Google Fonts](https://fonts.google.com/), look for Roboto and press the + button. Below you'll see that a tab has appeared that says "1 Family Selected". Click there and copy the code with the tag `<link>` to the head of your HTML.
