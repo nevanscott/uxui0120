@@ -10,54 +10,41 @@ topics:
   - Testing
   - Usability
 ---
+## Setup
 
-Setup
------
+* Teams of 2–3
+* 2 days
 
-- Teams of 2–3
-- 2 days
+## Materials
 
+* Index cards
+* Pens
+* Google Slides
 
-Materials
----------
+## Deliverables
 
-- Index cards
-- Pens
-- Invision / Marvel
-- Google Slides
+* Digital paper prototype
+* Slide deck
+* Presentation
 
-
-Deliverables
-------------
-
-- Digital paper prototype
-- Slide deck
-- Presentation
-
-
-The Brief
----------
+## The Brief
 
 Your team will be designing a single-function "utility" app. Choose from one of the examples below of pick your own!
 
-- Weather
-- Currency converter
-- Reminders
-- Activity tracker
+* Weather
+* Currency converter
+* Reminders
+* Activity tracker
 
 <img class="illo" src="/assets/images/utility-apps.png" alt="Example utility apps: weather, currency converter, reminders, activity tracker" />
 
+## Suggestions
 
-Suggestions
------------
+* Don't jump straight to a solution! Explore the problem space in a few user interviews first, paying special attention to _contexts of use_.
+* Don't be afraid to go where your research leads you. You might be surprised!
+* Keep your design ruthlessly focused on a single basic piece of functionality.
 
-- Don't jump straight to a solution! Explore the problem space in a few user interviews first, paying special attention to *contexts of use*.
-- Don't be afraid to go where your research leads you. You might be surprised!
-- Keep your design ruthlessly focused on a single basic piece of functionality.
-
-
-Presentation <small>(8 minutes)</small>
-------------
+## Presentation <small>(8 minutes)</small>
 
 Your presentation should answer the following questions:
 
@@ -69,21 +56,17 @@ Your presentation should answer the following questions:
 
 Make sure to share the presentation equally amongst your teammates! (And watch out for smooth handoffs between speakers.)
 
-
-Prototype
----------
+## Prototype
 
 For this prototype, you'll stick to sketches on paper, but also take photos of your sketches to create a digital prototype using your choice of Invision or Marvel.
 
-**Note:** We'll mostly be using Invision in this class, so this might be a good opportunity to try out Marvel if you're feeling comfy with the basics of Invision already. Whatever you decide, make sure to talk it over as a team.
+**Note:** We'll mostly be using the prototyping tools of Sketch in this class, so this might be a good opportunity to try out Marvel or InVision. Whatever you decide, make sure to talk it over as a team.
 
-Uploads
--------
-- [Final Presentation](https://drive.google.com/drive/u/2/folders/1Q3XcbEXj5FgwF-DXTEio8idWLRCdnM-T)
+## Uploads
 
+* [Final Presentation](https://drive.google.com/drive/u/2/folders/1Q3XcbEXj5FgwF-DXTEio8idWLRCdnM-T)
 
-Give feedback to your peers!
----------------------------
+## Give feedback to your peers!
 
-- [Presentation feedback](https://drive.google.com/drive/folders/1T7uDqff1TGHQk2C8pqNoDYnIxmJgPneW)
-- [Group retrospective](https://drive.google.com/drive/folders/1Mo73u58lBn6HPBQxwVxn9a9Waxke0FFO)
+* [Presentation feedback](https://drive.google.com/drive/folders/1T7uDqff1TGHQk2C8pqNoDYnIxmJgPneW)
+* [Group retrospective](https://drive.google.com/drive/folders/1Mo73u58lBn6HPBQxwVxn9a9Waxke0FFO)
