@@ -7,7 +7,7 @@ due: 29
 ---
 Our photographer friend is happy with what we have, but he wants you to experiment a little more so why don't we apply animations to the website?
 
-Check the documentation from MDN and CSS Tricks and create some fun animations for the website. Let's create the first one together:
+Check the documentation from [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions#Defining_transitions) and [CSS Tricks](https://css-tricks.com/almanac/properties/t/transition/) and create some fun animations for the website. Let's create the first one together:
 
 ## Steps
 
