@@ -2,8 +2,8 @@
 title: CSS animation practice
 unit: 4
 format: Practice
-assigned: 31
-due: 32
+assigned: 28
+due: 29
 ---
 Our photographer friend is happy with what we have, but he wants you to experiment a little more so why don't we apply animations to the website?
 
