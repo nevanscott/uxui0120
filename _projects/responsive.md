@@ -13,22 +13,19 @@ topics:
   - Navigation
   - Sitemap
 ---
-
 With your team you’ll have a week to (re-)design an editorial website, for a magazine or newspaper of your choosing.
 
 In this project you’ll be putting more information architecture, content strategy, and responsive layouts into practice. You’ll also be responsible for coding at least one of the templates using HTML and CSS so that you can properly demonstrate how the layout will change on different size screens.
 
 ## Setup
 
-- Teams of 2–3
-- 4 class days
-
+* Teams of 2–3
+* 4 class days
 
 ## Materials
 
-- Sketch
-- Invision
-- Principle
+* Sketch
+* Principle
 
 ## Getting Started
 
@@ -41,38 +38,33 @@ In this project you’ll be putting more information architecture, content strat
 
 **Thursday** 
 
-- Project plan
-- Content audit
-- Navigation structure, based on card sorting
+* Project plan
+* Content audit
+* Navigation structure, based on card sorting
 
 **Friday**
 
-- Style tile (at least three options)
-- Layout sketches of article page, section page, and homepage
+* Style tile (at least three options)
+* Layout sketches of article page, section page, and homepage
 
 **Monday**
 
-- First visual design mockups of at least three screens, with three options each, at mobile and desktop sizes (18 artboards)
-- Group Crits
+* First visual design mockups of at least three screens, with three options each, at mobile and desktop sizes (18 artboards)
+* Group Crits
 
 **Tuesday** 
 
-- HTML structure and content for at least one page
-
-- Final design mockups of three pages at mobile and desktop sizes
-
+* HTML structure and content for at least one page
+* Final design mockups of three pages at mobile and desktop sizes
 
 **Wednesday morning**
 
-- CSS for your HTML page, responsive
-
-- Rehearsals
-
+* CSS for your HTML page, responsive
+* Rehearsals
 
 **Wednesday afternoon** (downstairs, invite other classes)
 
-- Presentations (6 minutes)
-
+* Presentations (6 minutes)
 
 ## Presentation (6 minutes)
 
@@ -82,14 +74,11 @@ Your presentation should answer the following questions:
 2. How does your design is improving the existing site being re-designed?
 3. What would you do differently next time?
 
+## Uploads
 
-Uploads
----------
-- [Final presentation](https://drive.google.com/drive/folders/1-GL6n8POFAtktCeiuSqvvXl-Mvm7zhtN)
+* [Final presentation](https://drive.google.com/drive/folders/1-GL6n8POFAtktCeiuSqvvXl-Mvm7zhtN)
 
+## Give feedback to your peers!
 
-Give feedback to your peers!
----------------------------
-
-- [Presentation feedback](https://drive.google.com/drive/folders/1i1xLyYM5udcRFM1kbynvBJbdRawAWAJ8)
-- [Group retrospective](https://drive.google.com/drive/folders/1Mo73u58lBn6HPBQxwVxn9a9Waxke0FFO)
+* [Presentation feedback](https://drive.google.com/drive/folders/1i1xLyYM5udcRFM1kbynvBJbdRawAWAJ8)
+* [Group retrospective](https://drive.google.com/drive/folders/1Mo73u58lBn6HPBQxwVxn9a9Waxke0FFO)
