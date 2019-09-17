@@ -12,7 +12,7 @@ Check the documentation from MDN and CSS Tricks and create some fun animations f
 ## Steps
 
 1. Open with your code editor the wedding practice folder
-2. We'll be animating the first picture, the one that is actually a link. In order to do that let's create a class for the img tag using class="main-picture"
+2. We'll be animating the first picture, the one that is actually a link. In order to do that let's create a class for the img tag using `class="main-picture"`
 3. We want that when we hover over the picture it gets bigger and its opacity changes a bit. To do that we need to state our initial width, that is 650px.
 4. Now let's create another selector that refers to that class but only when hovering.
 5. Write inside that you want the width to be 700px when on hover. Check if it works!
