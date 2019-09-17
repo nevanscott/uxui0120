@@ -5,9 +5,10 @@ format: Practice
 assigned: 13
 due: 14
 ---
-During this exercise you may need to refer to MDN's documentation. Their [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) page can be particularly useful.
-
 Our friend Robert is happy with the HTML we showed him, but he has asked us now to style it a little bit. Locate the files we worked with in the HTML exercise.
+
+### To have in mind
+During this exercise you may need to refer to MDN's documentation. Their [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) page can be particularly useful.
 
 ## Steps
 
