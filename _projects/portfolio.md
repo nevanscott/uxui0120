@@ -1,6 +1,8 @@
 ---
 title: Portfolio
 unit: 4
+assigned: 16
+due: 21
 ---
 
 This project is the culmination of all the work we've been doing in class regarding HTML and CSS. We've been working on the structure for your portfolio so now is time to bring it to life. You'll need to finalize your portfolio with one case study post. The content of this post will be the design report from your last project. Below you can see the deadlines for each part of the project.
