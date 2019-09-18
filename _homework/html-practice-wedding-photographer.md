@@ -5,7 +5,7 @@ format: Practice
 assigned: 9
 due: 10
 ---
-Robert is a San Francisco based wedding photographer that has asked you to build a website for him to send to possible clients. After some discussion you have an image of what he wants as main structure of the page. Examine the image to understand what HTML elements it contains. Then, build the structure based on this analysis using only **HTML.**
+Robert is a San Francisco based wedding photographer that has asked you to build a website for him to send to possible clients. After some discussion you have an image of what he wants as main structure of the page. **Examine the image to understand what HTML elements** it contains. Then, **build the structure** based on this analysis using only **HTML.**
 
 **If you get lost** at any point, refer to the [MDN documentation](https://developer.mozilla.org/en-US/) 
 
