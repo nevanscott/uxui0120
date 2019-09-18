@@ -1,6 +1,6 @@
 ---
 title: How to establish visual hierarchy using typography and the CRAP principles
-unit: 7
+unit: 2
 day: 17
 topics:
   - Typography
