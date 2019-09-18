@@ -2,7 +2,7 @@
 title: Metro Kiosk
 unit: 1
 assigned: 1
-due: 3
+due: 2
 topics:
   - User Research
   - Design Process
