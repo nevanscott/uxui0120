@@ -17,9 +17,9 @@ Find the materials for this exercise in [this Google Drive folder](https://drive
 2. After that, create a folder in your computer called _wedding practice_
 3. Drag and drop that folder to your code editor so it opens there
 4. Add a new file in the left panel and name it _index.html_ 
-5. Inside that file, create the main structure of any html file.
+5. Inside that file, create the main structure of any html file
 6. Inside `<head>` Give the website a title
-7. Write the content in the body
+7. Now go to `<body>` and recreate the website
 8. Be aware of the link in the last paragraph. Here's the url it should lead you to: <https://en.wikipedia.org/wiki/Mission_Dolores_Park>
 9. Add at least one comment in the code
 
