@@ -22,6 +22,8 @@ prep:
       https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/
     title: 'Designing Case Studies: Showcasing A Human-Centered Design Process'
 ---
+## Introduction
+
 The goal today is simply to get you started thinking about what goes into a report. In practice, designers typically only write lengthy prosaic reports as a deliverable to summarize findings from user research (often to handoff to other designers). We'll modify this approach a bit to produce reports about our work throughout the class, especially on solo projects. This will help you to document as you go, giving you plenty of content to help you put together your portfolio once class is over. It will also serve as the record of your work that you'll review with one of the TAs in a 1-on-1.
 
 ## Keep in mind
@@ -81,8 +83,6 @@ In order to not overload the report, some elements might be added in the appendi
 * [Triplog for Airbnb China](http://airbnbtriplog.com)
 * [Creating a Build Mode for InVision’s Mobile App — Case Study](https://medium.com/nyc-design/creating-a-build-mode-for-the-invision-mobile-app-f241aa66e4af)
 * [TV Guide Android app](http://abdussalam.pk/project/tv-guide-app)
-
-
 
 ## Further Reading
 
