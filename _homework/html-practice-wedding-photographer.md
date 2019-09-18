@@ -20,9 +20,10 @@ Find the materials for this exercise in [this Google Drive folder](https://drive
 5. Inside that file, create the main structure of any html file
 6. Inside `<head>` Give the website a title
 7. Now go to `<body>` and recreate the website
-8. The first image is going to be a link, so wrap the `<img>` in a `<a>` element. We don't have a url to go to yet so leave href empty for now
-9. Be aware of the link in the last paragraph. Here's the url it should lead you to: <https://en.wikipedia.org/wiki/Mission_Dolores_Park>
-10. Add at least one comment in the code
+8. To add the images download them from Google Drive and locate them in the same folder as the html file. Then, refer to them inside the <img> element this way `src="./flowers-wedding.jpeg"`
+9. The first image is going to be a link, so wrap the `<img>` in a `<a>` element. We don't have a url to go to yet so leave href empty for now
+10. Be aware of the link in the last paragraph. Here's the url it should lead you to: <https://en.wikipedia.org/wiki/Mission_Dolores_Park>
+11. Add at least one comment in the code
 
 ### Remember
 
