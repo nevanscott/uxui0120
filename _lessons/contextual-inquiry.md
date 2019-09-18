@@ -11,6 +11,14 @@ topics:
 description: >
   The best way to gather information about users' behaviors is to actually
   observe them doing things in their natural context.
+objectives:
+  - Understand the pros and cons of contextual inquiry
+  - Learn how and when to conduct a contextual interview
+  - Understand the benefits of observational research
+  - Understand what a User Journey Map is and its use
+  - Learn how to create a User Journey Map
+  - Understand the importance of taking into account the business objectives
+  - Understand the objective of the 5 whys and how to apply it
 resources:
   - 'Methods for research: Contextual Inquiry'
   - Participatory Design
@@ -26,30 +34,16 @@ prep:
     link: 'https://www.wickedproblems.com/4_methods_for_research.php'
     title: Contextual Inquiry
 ---
+## Topics
 
-Topics
-------
-
-- Contextual Inquiry
-- Observational Research
-- User Journeys
-- Lean Canvas
-- 5 whys
+* Contextual Inquiry
+* Observational Research
+* User Journeys
+* Lean Canvas
+* 5 whys
 
 
-Learning Objectives
--------------------
 
-- Understand the pros and cons of contextual inquiry
-- Learn how and when to conduct a contextual interview
-- Understand the benefits of observational research
-- Understand what a User Journey Map is and its use
-- Learn how to create a User Journey Map
-- Understand the importance of taking into account the business objectives
-- Understand the objective of the 5 whys and how to apply it
+## Ironhack Learning Platform
 
-
-Ironhack Learning Platform
------------
-
-- [User Journeys](http://learn.ironhack.com/#/learning_unit/7021)
+* [User Journeys](http://learn.ironhack.com/#/learning_unit/7021)
