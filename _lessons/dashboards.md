@@ -1,6 +1,6 @@
 ---
 title: How to approach the design of dashboards
-unit: 7
+unit: 3
 day: 32
 topics: []
 description: >
