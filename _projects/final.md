@@ -4,13 +4,13 @@ unit: 5
 assigned: 35
 due: 45
 ---
-
+Upload your work in the [Final Project Google Drive folder](https://drive.google.com/drive/folders/1-7R-buKfhdpvib2KNYFiw9qhsmPqhjUj)
 
 Ironhack's Final Project
 --------------
 You and your team will have **two weeks** to build a digital product - either an App or a responsive website - based on a briefing from a real company. During this process you'll apply your own vision, research, findings and the UX/UI process you’ve learned throughout the program.
 
-This project being in groups will mimic a real life scenario. Take this opportunity to apply everything you've learned about teamwork and to have in mind all the feedback we've given to each other. Communication and organization are key to success!
+This project being in groups will mimic a real life scenario. Take this opportunity to apply everything you've learned about teamwork and to have in mind all the feedback you've received during the course. Communication and organization are key to success!
 
 Also, think about your portfolio and the Hiring Fair coming soon! Your final project is the one that you will spend the most time in and where you can apply everything you've learned, so make sure you tackle the processes that you're more interested in.
 
