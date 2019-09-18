@@ -13,15 +13,15 @@ During this exercise **you may need to refer to MDN's documentation**. Their [CS
 
 ## Steps
 
-1. **In order to style our HTML, we need to create a CSS file**. Open the wedding practice folder in your code editor and in the left panel create a new file with the name main.css
-2. **We need to tell our HTML file where to look for the styles that we want to be applied**. To do that we have to link the CSS file in the `<head>` of the HTML. There, use this line: `<link rel="stylesheet" href="./main.css">`. The ./  used in href means that the file is inside the same folder.
-   **From now on, to see if the changes are applying**, save both the HTML and CSS files after making the change and refresh your browser.
-3. Now that we have the two files linked we can start making changes! Let's try changing the background color. Select the HTML in the CSS and inside the brackets write `background-color: aliceblue;`. 
-   ![Line of CSS code to change background color](/assets/images/screen-shot.png "CSS change background color")
-   **Don't forget to finish every declaration with ";"**.
-4. We've decided to use the font **Roboto** throughout the body of our website. Since the font is hosted in google we need to connect our file to the font. This is also made in the head of the HTML. Go to [Google Fonts](https://fonts.google.com/), look for Roboto and press the + button. Below you'll see that a tab has appeared that says "1 Family Selected". Click there and copy the code with the tag `<link>` to the head of your HTML.
-5. Now let's make the magic happens. After properly linking the font in the HTML, go to your CSS file and specify that the text inside body should use the [font family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family) Roboto, and if it fails that it should use sans-serif.
-6. We want the main heading of the website to stand out more. Let's make the font size 50px
+1. **Create a CSS** file and name it main.css
+2. Go to the head of your HTML file and link it with your new CSS file
+3. Now we can start making changes! Let's try changing the background color. Select the HTML in the CSS and inside the brackets write `background-color: aliceblue;`.
+
+    **Don't forget to finish every declaration with ";"**.
+
+4. We're going to use the font **Roboto** throughout the body of our website. Go to [Google Fonts](https://fonts.google.com/), look for Roboto and copy the code with the tag `<link>` to the head of your HTML.
+5. Go to your CSS file and specify that the text inside body should use the [font family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family) Roboto, and if it fails that it should use sans-serif.
+6. To make it stand out more, let's make the font size of the `<h1>` 50px
 7. The two big paragraphs should have a bigger font, but **we don't want to make this changes apply to every p**, so let's give the first paragraph text the class paragraph-1 and the second one the class paragraph-2, and [selecting multiple elements](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics#Selecting_multiple_elements) apply a font size of 20px
-8. Next we can make the link to the John McLaren Park Wikipedia page use a green color that reminds us of nature, but we only want that for this specific link, so give it an `id="nature-link"` and using CSS make it have the color forestgreen.
-9. Lastly we want every list item inside the unordered list in the footer to have squares instead of circles as bullet points. Select every li inside the ul inside the footer in the same selector and use `list-style: square`.
+8. Next let's make the link to the John McLaren Park Wikipedia page use a green color that reminds us of nature, but we only want that for this specific link, so give it an `id="nature-link"` and using CSS make it have the color forestgreen.
+9. Lastly we want every list item inside the unordered list in the footer to have squares instead of circles as bullet points. Select every li inside the ul inside the footer **using the same selector** and use `list-style: square`.
