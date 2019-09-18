@@ -15,10 +15,8 @@ During this exercise **you may need to refer to MDN's documentation**. Their [CS
 
 1. **Create a CSS** file and name it main.css
 2. Go to the head of your HTML file and link it with your new CSS file
-3. Now we can start making changes! Let's try changing the background color. Select the HTML in the CSS and inside the brackets write `background-color: aliceblue;`.
-
-    **Don't forget to finish every declaration with ";"**.
-
+3. Now we can start making changes! Let's try changing the background color. Select the HTML in the CSS and inside the brackets write `background-color: aliceblue;`. Don't forget to finish every declaration with ";".\
+   From now on, **to see if the changes are applying**, save both the HTML and CSS files after making the change and refresh your browser.
 4. We're going to use the font **Roboto** throughout the body of our website. Go to [Google Fonts](https://fonts.google.com/), look for Roboto and copy the code with the tag `<link>` to the head of your HTML.
 5. Go to your CSS file and specify that the text inside body should use the [font family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family) Roboto, and if it fails that it should use sans-serif.
 6. To make it stand out more, let's make the font size of the `<h1>` 50px
