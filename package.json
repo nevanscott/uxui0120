@@ -1,0 +1,20 @@
+{
+  "name": "uxui1019",
+  "version": "1.0.0",
+  "description": "Course website for UX/UI Barcelona 10/19",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevanscott/uxui1019.git"
+  },
+  "author": "Nevan Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nevanscott/uxui1019/issues"
+  },
+  "homepage": "https://github.com/nevanscott/uxui1019#readme"
+}
