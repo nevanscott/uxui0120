@@ -9,7 +9,6 @@ nav:
   - HOME
   - search
   - topics
-  - resources
 start_date: October 21, 2019
 days: 45
 repo:
@@ -25,6 +24,7 @@ secondary_nav:
   - projects
   - homework
   - outcomes
+  - resources
 
 meta_nav:
   - about
