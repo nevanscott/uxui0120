@@ -1,0 +1,25 @@
+{% if post.due -%}
+{%- assign due = site.pages | where:"category","days" | where:"day",post.due | first -%}
+<p class="due">due {{ post.due | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</p>
+{%- endif %}
+{{ post.description | markdownify }}
+{% if post.objectives -%}
+<h2>Learning Objectives</h2>
+<ul>
+  {% for objective in post.objectives -%}
+    <li>{{ objective | smartify }}</li>
+  {%- endfor %}
+</ul>
+{%- endif %}
+{% if post.resources -%}
+<h2>Resources</h2>
+<ul>
+  {% for resource in post.resources %}
+    {%- assign post = site.resources | where: "title" , resource | first -%}
+    <li>
+      {% include migrate/resource.html %}
+    </li>
+  {%- endfor %}
+</ul>
+{%- endif %}
+{{ post.content }}

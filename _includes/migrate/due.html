@@ -1,0 +1,15 @@
+{%- assign lessons = site.lessons | where_exp: "item" , "item.prep.size > 0" | where: "day" , day -%}
+{%- assign homework = site.homework | where: "due" , day -%}
+{%- assign projects = site.projects | where: "due" , day -%}
+{%- assign due = homework | concat: lessons | concat: projects -%}
+{%- for lesson in lessons -%}
+  {%- for post in lesson.prep -%}
+    {% include migrate/prep.html %}
+  {%- endfor -%}
+{%- endfor -%}
+{%- for post in homework -%}
+  {% include migrate/homework.html %}
+{%- endfor -%}
+{%- for post in projects -%}
+  {% include migrate/project.html %}
+{%- endfor -%}

@@ -1,0 +1,4 @@
+{%- assign lessons = site.lessons | where: "day" , day | sort:'name' -%}
+{%- for post in lessons -%}
+  {% include migrate/lesson.html %}
+{%- endfor -%}
