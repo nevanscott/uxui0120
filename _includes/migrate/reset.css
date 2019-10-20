@@ -63,6 +63,8 @@ input,
 button,
 textarea,
 select {
+  background: inherit;
+  color: inherit;
   font: inherit;
 }
 

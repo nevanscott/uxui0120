@@ -1,0 +1,22 @@
+body { font-family: system-ui; line-height: 1.4; }
+a { color: dodgerblue; }
+details { margin: 1.4rem; }
+details > * + * { margin-top: 0.7rem; }
+summary { background: #CCC; padding: 0.7rem; }
+form > * + * { margin-top: 0.7rem; }
+input { display: block; width: 100%; }
+textarea { display: block; width: 100%; min-height: 10rem; }
+.highlight { border: 1px solid; overflow: scroll; padding: 0.7rem; }
+
+@media (prefers-color-scheme: dark) {
+  body { background: #111; color: white; }
+  summary { background: #333; }
+  input,
+  button,
+  textarea,
+  select {
+    background: #222;
+    border: solid 1px #555;
+    padding: 0.35rem;
+  }
+}
