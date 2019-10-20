@@ -1,0 +1,26 @@
+---
+layout: migrate/default
+title: Resources
+---
+{%- capture markup -%}
+  {% include migrate/resources.html %}
+{%- endcapture %}
+<details open>
+  <summary>Resources</summary>
+  <form>
+    <label>
+      Title
+      <input type="text" value="[SELF_GUIDED]Resources">
+    </label>
+    <label>
+      Body
+      <textarea>
+        {% include migrate/resources.html %}
+      </textarea>
+    </label>
+  </form>
+  <details open>
+    <summary>Preview</summary>
+    {{ markup }}
+  </details>
+</details>

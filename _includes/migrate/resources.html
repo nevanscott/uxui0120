@@ -1,0 +1,13 @@
+{% for topic in site.topics %}
+{% assign resources = site.resources | where_exp:"item","item.topics contains topic.title" %}
+{% if resources.size > 0 %}
+<h2>{{ topic.title }}</h2>
+<ul>
+  {% for post in resources -%}
+  <li>
+    {% include migrate/resource.html %}
+  </li>
+  {%- endfor %}
+</ul>
+{% endif %}
+{% endfor %}

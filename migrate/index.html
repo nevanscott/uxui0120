@@ -1,0 +1,34 @@
+---
+layout: migrate/default
+title: Lessons
+---
+{% for day in (1..site.data.course.days) %}
+  <details open>
+    <summary>{{ day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</summary>
+    {%- assign lessons = site.lessons | where: "day" , day | sort:'name' -%}
+    {%- for lesson in lessons -%}
+      {%- capture markup -%}
+        {% include migrate/lesson.html %}
+      {%- endcapture %}
+      <details open>
+        <summary><strong>LESSON</strong>: {{ lesson.title | smartify }}</summary>
+        <form>
+          <label>
+            Title
+            <input type="text" value="[LESSON]{{ lesson.title | smartify }}">
+          </label>
+          <label>
+            Body
+            <textarea>
+              {% include migrate/lesson.html %}
+            </textarea>
+          </label>
+        </form>
+        <details>
+          <summary>Preview</summary>
+          {{ markup }}
+        </details>
+      </details>
+    {%- endfor -%}
+  </details>
+{% endfor %}

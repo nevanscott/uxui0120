@@ -1,0 +1,19 @@
+{%- if post.link %}
+  <a href="{{ post.link | default:post.url }}">
+    {{- post.title | smartify -}}
+    {%- if post.subtitle -%}
+      <span class="subtitle">: {{ post.subtitle }}</span>
+    {%- endif -%}
+  </a>
+{% endif -%}
+{%- if post.due %}
+  <time>due&nbsp;{{ post.due | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</time>
+{%- elsif post.day %}
+  <time>{{ post.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</time>
+{% endif -%}
+{%- if post.author %}
+  <cite class="byline">by <span class="author">{{ post.author }}</span></cite>
+{% endif -%}
+{%- if post.source %}
+  <span class="source">from <span class="source-title">{{ post.source }}</span></span>
+{% endif -%}
