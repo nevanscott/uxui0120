@@ -7,6 +7,12 @@ topics:
   - Staged Disclosure
   - Customization
   - Personalization
+objectives:
+  - Define *progressive disclosure*
+  - Identify uses of progressive disclosure in an interface
+  - Differentiate progressive disclosure from *staged disclosure*
+  - Describe 2 main reasons why to use enhancements
+  - Differentiate *customization* and *personalization* of a product
 resources:
   - Progressive Disclosure
   - The Role of Enhancement in Web Design
@@ -25,18 +31,6 @@ prep:
     link: 'https://www.nngroup.com/articles/customization-personalization/'
     title: Customization vs. Personalization in the User Experience
 ---
-
-Learning Objectives
--------------------
-
-- Define *progressive disclosure*
-- Identify uses of progressive disclosure in an interface
-- Differentiate progressive disclosure from *staged disclosure*
-- Define an interactive *enhancement*
-- Describe 2 main reasons why to use enhancements
-- Differentiate *customization* and *personalization* of a product
-
-
 Further Reading
 ---------------
 
