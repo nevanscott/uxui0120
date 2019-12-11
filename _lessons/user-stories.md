@@ -1,7 +1,7 @@
 ---
 title: How to write User Stories
 unit: 3
-day: 37
+day: 38
 topics:
   - Agile
   - Prioritization
