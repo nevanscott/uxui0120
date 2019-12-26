@@ -8,6 +8,9 @@ collections:
   lessons:
     output: true
     permalink: /:collection/:title/
+  decks:
+    output: true
+    permalink: /:collection/:title/
   homework:
     output: true
     permalink: /:collection/:title/
@@ -32,6 +35,12 @@ defaults:
       type: "lessons"
     values:
       layout: "page"
+  -
+    scope:
+      path: ""
+      type: "decks"
+    values:
+      layout: "deck"
   -
     scope:
       path: ""

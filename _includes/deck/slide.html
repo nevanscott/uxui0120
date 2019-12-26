@@ -1,0 +1,31 @@
+{%- if slide.activity %}
+<section class="activity cover">
+  <p>Activity</p>
+  <h2>{{ slide.title }}</h2>
+  {% include deck/footer.html %}
+</section>
+{% endif -%}
+<section
+  {%- if slide.activity and slide.class %} class="activity {{ slide.class }}"
+  {%- elsif slide.class %} class="{{ slide.class }}"
+  {%- elsif slide.activity %} class="activity"{% endif -%}
+>
+  <header>
+    <div>
+      {{ section.title }}
+    </div>
+  </header>
+  {{ slide.title | smartify | prepend: '<h2>' | append: '</h2>' }}
+  {{ slide.body | markdownify }}
+  {% if slide.activity %}
+    <ol class="timed">
+    {% for step in slide.activity %}
+      <li>
+        <strong>{{ step.duration }} min</strong>
+        {{ step.direction | markdownify }}
+      </li>
+    {% endfor %}
+    </ol>
+  {% endif %}
+  {% include deck/footer.html %}
+</section>

@@ -1,0 +1,9 @@
+<footer>
+  <div>
+    <strong>{{ page.title }}</strong>
+    <time>{{ page.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</time>
+  </div>
+  <div>
+    <cite>{{ site.data.course.teacher.name }}</cite>
+  </div>
+</footer>

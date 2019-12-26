@@ -1,0 +1,19 @@
+---
+layout: page
+title: Slide Decks
+nav_title: Decks
+permalink: /decks/
+---
+
+{% assign decks = site.decks | sort: 'day' %}
+<ul>
+	{% for post in decks %}
+		<li>
+			<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | smartify }}</a>
+			{% if post.day %}
+				<small>{{ post.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
+			{% endif %}
+      {{ post.description | markdownify }}
+		</li>
+	{% endfor %}
+</ul>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/deck.css">
+  </head>
+  <body>
+    <article>
+      <section class="front cover">
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</p>
+        <footer>
+          <div>
+            <strong>{{ site.data.course.abbreviation }} {{ site.data.course.city }}</strong>
+            <time>{{ site.data.course.term }}</time>
+          </div>
+          <div>
+            <cite>{{ site.data.course.teacher.name }}</cite>
+          </div>
+        </footer>
+      </section>
+      <section>
+        <h2>Agenda</h2>
+        <ol>
+          {% for section in page.deck %}
+            <li>{{ section.title | mardownify }}</li>
+          {% endfor %}
+        </ol>
+        {% include deck/footer.html %}
+      </section>
+      <section>
+        <h2>Learning Objectives</h2>
+        <ul>
+          {% for item in page.objectives -%}
+            <li>{{ item | mardownify }}</li>
+          {%- endfor %}
+        </ul>
+        {% include deck/footer.html %}
+      </section>
+      {% for section in page.deck %}
+        <section class="section cover">
+          <h2>{{ section.title | mardownify }}</h2>
+          {% include deck/footer.html %}
+        </section>
+        {% for slide in section.slides %}
+          {% include deck/slide.html %}
+        {% endfor %}
+      {% endfor %}
+    </article>
+  </body>
+</html>

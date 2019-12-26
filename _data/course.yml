@@ -1,6 +1,7 @@
 title: User Experience and User Interface Design
 abbreviation: UX/UI
 iteration: 01/20
+term: Winter 2020
 city: Barcelona
 school:
   name: Ironhack
@@ -20,6 +21,7 @@ teacher:
 
 secondary_nav:
   - syllabus
+  - decks
   - lessons
   - projects
   - homework
