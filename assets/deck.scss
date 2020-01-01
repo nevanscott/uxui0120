@@ -7,7 +7,7 @@
   --font: "Faune", system-ui, -apple-system, sans-serif;
   --lh: var(--s1);
   --lh-display: 1.2;
-  font-size: calc(0.9rem + 1vw);
+  font-size: calc(0.9rem + 1.2vmin);
 
   --s-4: calc(var(--s0) / var(--ratio) / var(--ratio) / var(--ratio) / var(--ratio));
   --s-3: calc(var(--s0) / var(--ratio) / var(--ratio) / var(--ratio));
@@ -49,18 +49,16 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   line-height: var(--lh-display);
+  font-weight: bold;
 }
 h1 {
   font-size: var(--s3);
-  font-weight: 900;
 }
 h2 {
   font-size: var(--s2);
-  font-weight: 700;
 }
 h3 {
   font-size: var(--s1);
-  font-weight: 700;
 }
 h4 {
   font-size: var(--s0);
@@ -80,6 +78,12 @@ dl > * + dt {
 li + li {
   margin-block-start: var(--s-2);
 }
+li p {
+  margin: 0;
+}
+li p + p {
+  margin-block-start: var(--s-2);
+}
 
 
 
@@ -94,18 +98,41 @@ section {
   background: white;
   border: solid var(--s-3) var(--royal);
   min-height: 100vh;
-  padding: var(--s3) var(--s2);
-  position: relative;
+  padding: var(--s-1);
+  display: grid;
+  align-items: center;
+  align-content: stretch;
+  justify-content: stretch;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr auto;
+  grid-template-areas: "header" "main" "footer";
   scroll-snap-align: start;
 }
 section + section {
   margin-block-start: var(--s-2);
 }
-section > * {
+section > header {
+  grid-area: header;
+}
+section > .main {
+  grid-area: main;
+}
+section > footer {
+  grid-area: footer;
+}
+
+
+
+
+section .main {
   margin: 0 auto;
   max-width: 30rem;
+  width: 100%;
 }
-section > * + * {
+section .main > * {
+  margin-block-start: 0;
+}
+section .main > * + * {
   margin-block-start: var(--s1);
 }
 
@@ -113,28 +140,33 @@ section > * + * {
 
 
 section > header, section > footer {
-  position: absolute;
-  left: var(--s-1);
-  right: var(--s-1);
-  max-width: none;
   display: flex;
   justify-content: space-between;
   font-size: var(--s-1);
 }
 section > header {
-  top: var(--s-2);
   font-weight: bold;
 }
 section > footer {
-  bottom: var(--s-2);
-  border-top: solid 1px;
   padding-top: var(--s-4);
+  position: relative;
+}
+section > footer::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  border-top: solid 2px;
+  opacity: 0.2;
 }
 section > :matches(header, footer) cite {
   font-style: normal;
 }
 section > :matches(header, footer) > * {
   display: flex;
+  white-space: nowrap;
 }
 section > :matches(header, footer) > * > * + * {
   margin-inline-start: var(--s-2);
@@ -146,11 +178,15 @@ section > :matches(header, footer) > * > * + * {
 
 .cover {
   border: none;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+}
+.cover .main {
   text-align: center;
+}
+.cover .main > * {
+  margin: 0;
+}
+.cover .main > * + * {
+  margin-block-start: var(--s-3);
 }
 .front.cover {
   background: radial-gradient(mediumblue, midnightblue);
@@ -174,11 +210,7 @@ section > :matches(header, footer) > * > * + * {
 
 
 
-.rhetoric {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+.rhetoric .main {
   text-align: center;
 }
 

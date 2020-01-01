@@ -9,8 +9,10 @@
   <body>
     <article>
       <section class="front cover">
-        <h1>{{ page.title }}</h1>
-        <p>{{ page.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</p>
+        <div class="main">
+          <h1>{{ page.title }}</h1>
+          <p>{{ page.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</p>
+        </div>
         <footer>
           <div>
             <strong>{{ site.data.course.abbreviation }} {{ site.data.course.city }}</strong>
@@ -22,26 +24,32 @@
         </footer>
       </section>
       <section>
-        <h2>Agenda</h2>
-        <ol>
-          {% for section in page.deck %}
-            <li>{{ section.title | mardownify }}</li>
-          {% endfor %}
-        </ol>
+        <div class="main">
+          <h2>Agenda</h2>
+          <ol>
+            {% for section in page.deck %}
+              <li>{{ section.title | mardownify }}</li>
+            {% endfor %}
+          </ol>
+        </div>
         {% include deck/footer.html %}
       </section>
       <section>
-        <h2>Learning Objectives</h2>
-        <ul>
-          {% for item in page.objectives -%}
-            <li>{{ item | mardownify }}</li>
-          {%- endfor %}
-        </ul>
+        <div class="main">
+          <h2>Learning Objectives</h2>
+          <ul>
+            {% for item in page.objectives -%}
+              <li>{{ item | markdownify | smartify }}</li>
+            {%- endfor %}
+          </ul>
+        </div>
         {% include deck/footer.html %}
       </section>
       {% for section in page.deck %}
         <section class="section cover">
-          <h2>{{ section.title | mardownify }}</h2>
+          <div class="main">
+            <h2>{{ section.title | mardownify }}</h2>
+          </div>
           {% include deck/footer.html %}
         </section>
         {% for slide in section.slides %}

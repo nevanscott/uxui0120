@@ -1,7 +1,9 @@
 {%- if slide.activity %}
 <section class="activity cover">
-  <p>Activity</p>
-  <h2>{{ slide.title }}</h2>
+  <div class="main">
+    <p>Activity</p>
+    <h2>{{ slide.title }}</h2>
+  </div>
   {% include deck/footer.html %}
 </section>
 {% endif -%}
@@ -15,17 +17,19 @@
       {{ section.title }}
     </div>
   </header>
-  {{ slide.title | smartify | prepend: '<h2>' | append: '</h2>' }}
-  {{ slide.body | markdownify }}
-  {% if slide.activity %}
-    <ol class="timed">
-    {% for step in slide.activity %}
-      <li>
-        <strong>{{ step.duration }} min</strong>
-        {{ step.direction | markdownify }}
-      </li>
-    {% endfor %}
-    </ol>
-  {% endif %}
+  <div class="main">
+    {{ slide.title | smartify | prepend: '<h2>' | append: '</h2>' }}
+    {{ slide.body | markdownify }}
+    {% if slide.activity %}
+      <ol class="timed">
+      {% for step in slide.activity %}
+        <li>
+          <strong>{{ step.duration }} min</strong>
+          {{ step.direction | markdownify }}
+        </li>
+      {% endfor %}
+      </ol>
+    {% endif %}
+  </div>
   {% include deck/footer.html %}
 </section>
