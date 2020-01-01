@@ -16,7 +16,7 @@
       display: block;
       font-family: var(--font-sans);
       font-size: var(--font-size-600);
-      font-weight: 700;
+      font-weight: bold;
       line-height: 1;
       padding: var(--space-400) var(--space-500);
       text-decoration: none;
@@ -35,7 +35,7 @@
         font-family: var(--font-body);
         font-size: var(--font-size-500);
         font-style: normal;
-        font-weight: 600;
+        font-weight: normal;
         padding: var(--space-400) var(--space-500);
       }
     }
