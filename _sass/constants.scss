@@ -24,7 +24,7 @@
   --color-nav-link-background--hover: var(--slate);
   --color-nav-link-background--active: var(--slate);
   --color-surface-muted: var(--pale);
-  --color-surface-loud: var(--royal);
+  --color-surface-loud: var(--plum);
   --color-stroke: var(--royal);
   --color-stroke-muted: var(--slate);
   --color-stroke--hover: var(--plum);
@@ -34,12 +34,12 @@
   --color-indicator: var(--royal);
   --color-decoration: var(--plum);
 
-  --type-ratio: 1.2;
+  --type-ratio: 1.15;
   --font-size-100: calc(var(--font-size-200) / var(--type-ratio));
   --font-size-200: calc(var(--font-size-300) / var(--type-ratio));
   --font-size-300: calc(var(--font-size-400) / var(--type-ratio));
   --font-size-400: calc(var(--font-size-500) / var(--type-ratio));
-  --font-size-500: 16px;
+  --font-size-500: 18px;
   --font-size-600: calc(var(--font-size-500) * var(--type-ratio));
   --font-size-700: calc(var(--font-size-600) * var(--type-ratio));
   --font-size-800: calc(var(--font-size-700) * var(--type-ratio));
