@@ -190,20 +190,14 @@ section > :matches(header, footer) > * > * + * {
   margin-block-start: var(--s-3);
 }
 .front.cover {
-  background: radial-gradient(mediumblue, midnightblue);
-  background: linear-gradient(to bottom right, mediumblue, midnightblue);
   background: var(--plum);
   color: white;
 }
 .section.cover {
-  background: radial-gradient(dodgerblue, mediumblue);
-  background: linear-gradient(to bottom right, dodgerblue, mediumblue);
   background: var(--royal);
   color: white;
 }
 .activity.cover {
-  background: radial-gradient(tomato, firebrick);
-  background: linear-gradient(to bottom right, tomato, firebrick);
   background: tomato;
   color: white;
 }
