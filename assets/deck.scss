@@ -181,6 +181,7 @@ section > :matches(header, footer) > * > * + * {
 }
 .cover .main {
   text-align: center;
+  max-width: none;
 }
 .cover .main > * {
   margin: 0;
