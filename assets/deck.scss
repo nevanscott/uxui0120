@@ -92,7 +92,7 @@ li p + p {
 article {
   height: 100vh;
   overflow-y: scroll;
-  scroll-snap-type: block proximity;
+  scroll-snap-type: block mandatory;
 }
 section {
   background: white;
