@@ -18,7 +18,7 @@
     </div>
   </header>
   <div class="main">
-    {{ slide.title | smartify | prepend: '<h2>' | append: '</h2>' }}
+    {{ slide.title | markdownify | prepend: '<h2>' | append: '</h2>' }}
     {{ slide.body | markdownify }}
     {% if slide.activity %}
       <ol class="timed">
