@@ -2,6 +2,4 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
-
-gem 'curso', github: 'nevanscott/curso', branch: 'master'
+gem "jekyll", "~> 3"

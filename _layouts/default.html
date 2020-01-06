@@ -1,0 +1,18 @@
+---
+---
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+{%- assign url_parts = page.url | split:"/" -%}
+{%- assign section_slug = url_parts[1] -%}
+<body class="{{ section_slug }}">
+
+{% include header.html %}
+
+<main>
+{{ content }}
+</main>
+
+{% include scripts.html %}
+</body>
+</html>

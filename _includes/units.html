@@ -1,0 +1,8 @@
+{% assign units = site.units | sort:'order' %}
+{% for unit in units %}
+  <h4>
+    <small>Unit {{ unit.order }}</small>
+    {{ unit.title }}
+  </h4>
+  {{ unit.description | markdownify }}
+{% endfor %}

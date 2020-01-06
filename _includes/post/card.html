@@ -1,0 +1,35 @@
+<article class="card">
+  <a href="{{ post.link | default:post.url }}">
+    {% if include.label or post.format -%}
+      <div class="label">{{ include.label | default:post.format }}</div>
+    {%- endif %}
+    <header>
+      <h3>
+        <span class="title">
+          {{- post.title | smartify -}}
+          {%- if post.subtitle -%}
+            <span class="subtitle">: {{ post.subtitle }}</span>
+          {%- endif -%}
+        </span>
+      </h3>
+    </header>
+    {% if post.author or post.source or post.link -%}
+    <div class="meta">
+      {% if post.author -%}
+        <cite class="byline">by <span class="author">{{ post.author }}</span></cite>
+      {%- endif %}
+      {% if post.source -%}
+        <span class="source">from <span class="source-title">{{ post.source }}</span></span>
+      {%- endif %}
+      {% if post.link -%}
+        <span class="source-url">{{ post.link | remove:"http://" | remove:"https://" | remove:"www." | split:"/" | first }}</span>
+      {%- endif %}
+    </div>
+    {%- endif %}
+    {% if post.description -%}
+      <div class="description">
+        {{ post.description | markdownify }}
+      </div>
+    {%- endif %}
+  </a>
+</article>

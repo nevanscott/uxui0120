@@ -1,0 +1,8 @@
+{%- assign lessons = site.lessons | where: "day" , day -%}
+{% if lessons.size > 0 -%}
+  <h2>In Class</h2>
+{%- endif %}
+{%- for post in lessons -%}
+  {%- assign label = post.format | default:"Lesson" -%}
+  {% include post/card.html label=label %}
+{%- endfor -%}

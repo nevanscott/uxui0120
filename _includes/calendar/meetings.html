@@ -1,0 +1,9 @@
+{%- assign singles = site.meetings | where: "day" , day -%}
+{%- assign repeats = site.meetings | where_exp: "item" , "item.days contains day" -%}
+{%- assign meetings = singles | concat: repeats -%}
+{% if meetings.size > 0 -%}
+  <h2 class="label">Meetings</h2>
+{%- endif %}
+{%- for post in meetings -%}
+  {% include post/card.html %}
+{%- endfor -%}

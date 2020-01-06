@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<article>
+	<h1>
+		{% if page.format %}
+			<small class="overtitle">{{ page.format }}</small>
+		{% endif %}
+		{{ page.title | markdownify | strip_html | strip }}
+		{% if page.due %}
+			<small>due&nbsp;{{ page.due | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
+		{% endif %}
+		{% if page.day %}
+			<small>{{ page.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
+		{% endif %}
+	</h1>
+	{% if page.topics %}
+	<ul class="tags">
+		{% assign topics = page.topics | sort %}
+		{% for topic in topics %}
+			{% assign post = site.topics | where: "title", topic | first %}
+			{% if post %}
+				<li><a href="{{ post.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+			{% else %}
+				<li>{{ topic }}</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+	{% endif %}
+	{{ page.description | markdownify }}
+	{% if page.objectives %}
+		<h2>Learning Objectives</h2>
+		<ul>
+		  {% for objective in page.objectives %}
+		    <li>{{ objective | smartify }}</li>
+		  {% endfor %}
+		</ul>
+	{% endif %}
+	{{ content }}
+</article>
+
+{% if layout.sidebar == 'homework' %}
+	{% assign sidebar_posts = site.homework | sort:'due' %}
+{% elsif layout.sidebar == 'lessons' %}
+	{% assign sidebar_posts = site.lessons | sort:'day' %}
+{% elsif layout.sidebar == 'projects' %}
+	{% assign sidebar_posts = site.projects | sort:'due' %}
+{% endif %}
+
+<aside id="nav">
+	{% include posts/by_unit.html posts=sidebar_posts %}
+</aside>

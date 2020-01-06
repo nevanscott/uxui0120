@@ -1,0 +1,37 @@
+{%- assign day = include.day -%}
+{%- assign day_page = site.pages | where:"category","days" | where:"day",day | first -%}
+{%- assign date_xml = day | class_date: site.data.course.start_date | date_to_xmlschema -%}
+{%- capture dow -%}{{ date_xml | date:"%A" }}{%- endcapture -%}
+{%- capture dom -%}{{ date_xml | date:"%-d" }}{%- endcapture -%}
+<div
+  data-date="{{ date_xml }}"
+  class="calendar-date {{ date_xml | date:"%B" | downcase }}"
+>
+  <div class="date {{ dow | downcase }} day-{{ dom }}">
+    <a href="{{ day_page.url }}">
+      {{- "" -}}
+      <span class="weekday">{{ dow }}</span>
+      <span class="day">{{ dom }}</span>
+      <span class="month">{{ date_xml | date:"%B" }}</span>
+      {{- "" -}}
+    </a>
+  </div>
+  <div class="calendar-block">
+    {% include calendar/due.html %}
+  </div>
+  <div class="calendar-block">
+    {% include calendar/agenda.html %}
+  </div>
+  <div class="calendar-block">
+    {% include calendar/projects.html %}
+  </div>
+  <div class="calendar-block">
+    {% include calendar/meetings.html %}
+  </div>
+  <div class="calendar-block">
+    {% include calendar/outcomes.html %}
+  </div>
+  <div class="calendar-block">
+    {% include calendar/assignments.html %}
+  </div>
+</div>

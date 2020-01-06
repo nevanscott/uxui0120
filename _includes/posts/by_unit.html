@@ -1,0 +1,26 @@
+{% assign groups = include.posts | group_by:'unit' | sort:'name' %}
+{% for group in groups %}
+  {% assign unit = site.units | where:'order',group.name | first %}
+  <h4>
+    <small>Unit {{ unit.order }}</small>
+    {{ unit.title }}
+  </h4>
+  <ul>
+		{% for post in group.items %}
+			{% if post.url == page.url %}
+				{% assign c = "current" %}
+			{% else %}
+				{% assign c = "" %}
+			{% endif %}
+			<li class="{{ c }}">
+				<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | markdownify | strip_html | strip }}</a>
+				{% if post.due %}
+					<small>due&nbsp;{{ post.due | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
+				{% endif %}
+				{% if post.day %}
+					<small>{{ post.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
+				{% endif %}
+			</li>
+		{% endfor %}
+	</ul>
+{% endfor %}

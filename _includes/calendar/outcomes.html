@@ -1,0 +1,10 @@
+{%- assign singles = site.outcomes | where: "day" , day -%}
+{%- assign repeats = site.outcomes | where_exp: "item" , "item.days contains day" -%}
+{%- assign outcomes = singles | concat: repeats -%}
+{% if outcomes.size > 0 -%}
+  <h2 class="label">Career Services</h2>
+{%- endif %}
+{%- for post in outcomes -%}
+  {%- assign label = post.format | default:"Career Services" -%}
+  {% include post/card.html label=label %}
+{%- endfor -%}

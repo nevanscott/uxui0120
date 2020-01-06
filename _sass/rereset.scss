@@ -1,0 +1,19 @@
+* , :after, :before {
+    box-sizing: border-box;
+    font-family: inherit;
+    color: inherit;
+    overflow-wrap: break-word;
+    margin: 0;
+    padding: 0;
+    border: 0 solid var(--color-dark)
+}
+
+footer, header, main, nav {
+    display: block
+}
+
+@media (prefers-reduced-motion:no-preference) {
+    :root {
+        scroll-behavior: smooth
+    }
+}

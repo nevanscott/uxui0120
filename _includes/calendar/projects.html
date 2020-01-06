@@ -1,0 +1,17 @@
+<h2 class="label">Workshop</h2>
+{%- for post in site.projects -%}
+  {%- assign post_date_xml = post.assigned | class_date: site.data.course.start_date | date_to_string | date_to_xmlschema -%}
+  {%- if post.due -%}
+    {%- assign due_date_xml = post.due | class_date: site.data.course.start_date | date_to_string | date_to_xmlschema -%}
+  {%- else -%}
+    {%- assign due_date_xml = post_date_xml -%}
+  {%- endif -%}
+  {%- if post_date_xml <= date_xml and date_xml < due_date_xml -%}
+    {%- assign label = post.format | default:"Project" -%}
+    {% include post/card.html label=label %}
+  {%- endif -%}
+  {%- if date_xml == due_date_xml -%}
+    {%- assign label = post.format | default:"Project Due" -%}
+    {% include post/card.html label=label %}
+  {%- endif -%}
+{%- endfor -%}
