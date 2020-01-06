@@ -20,6 +20,12 @@ deck:
         class: rhetoric
         title: How it works
       -
+        class: rhetoric
+        title: Making decisions
+      -
+        class: rhetoric
+        title: Making *better* design decisions
+      -
         title: What kind of design work are we talking about?
         body: |
           * Interaction design
