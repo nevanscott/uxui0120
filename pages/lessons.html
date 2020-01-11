@@ -9,22 +9,11 @@ icon: lightbulb
 {% assign groups = site.lessons | sort:'day' | group_by:'unit' | sort:'name' %}
 {% for group in groups %}
   {% assign unit = site.units | where:'order',group.name | first %}
-  <h4>
+  <h2>
     <small>Unit {{ unit.order }}</small>
     {{ unit.title }}
-  </h4>
-  <ul>
-		{% for post in group.items %}
-			<li>
-				<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | smartify }}</a>
-				{% if post.due %}
-					<small>due&nbsp;{{ post.due | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
-				{% endif %}
-				{% if post.day %}
-					<small>{{ post.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
-				{% endif %}
-        {{ post.description | markdownify }}
-			</li>
-		{% endfor %}
-	</ul>
+  </h2>
+	{% for post in group.items %}
+    {% include post/preview.html strong=true %}
+	{% endfor %}
 {% endfor %}

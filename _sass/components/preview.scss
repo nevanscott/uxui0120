@@ -5,12 +5,15 @@
     margin-top: var(--space-500);
   }
   > * + * {
-    margin-top: var(--space-300);
+    margin-top: var(--space-400);
+  }
+  > * + .tags {
+    margin-top: var(--space-400);
   }
   a {
     border: none;
     > * + * {
-      margin-top: var(--space-300);
+      margin-top: var(--space-400);
     }
     &[href^="http"] {
       &::after {

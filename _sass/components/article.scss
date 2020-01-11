@@ -26,6 +26,9 @@ main > article {
       var(--space-700)
       ;
     padding: var(--space-700);
+    .main > * + * {
+      margin-top: var(--space-400);
+    }
     .description {
       font-family: var(--font-heading);
       font-size: var(--font-size-600);

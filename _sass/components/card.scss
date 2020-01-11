@@ -22,6 +22,9 @@
     font-family: var(--font-interface);
     font-size: var(--font-size-400);
     padding: var(--space-400);
+    > * + * {
+      margin-top: var(--space-300);
+    }
     &:hover {
       box-shadow:
         var(--space-200)
@@ -71,7 +74,6 @@
     .meta, .description {
       color: var(--color-text-muted);
       font-size: var(--font-size-300);
-      margin-top: var(--space-300);
     }
   }
 }
