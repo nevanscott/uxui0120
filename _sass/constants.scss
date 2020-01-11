@@ -1,14 +1,16 @@
 :root {
-  --font-serif: "Source Serif Pro", Georgia, serif;
-  --font-sans: "Faune", system-ui, -apple-system, sans-serif;
+  --font-source-serif: "Source Serif Pro", Georgia, serif;
+  --font-faune: "Faune", system-ui, -apple-system, sans-serif;
+  --font-inter: "Inter", system-ui, sans-serif;
+  --font-public: "Public Sans", system-ui, sans-serif;
 
-  --font-body: var(--font-sans);
-  --font-heading: var(--font-sans);
-  --font-display: var(--font-sans);
-  --font-interface: var(--font-sans);
-  --font-caption: var(--font-sans);
-  --font-icon: "Inter", system-ui, sans-serif;
-  --font-label: var(--font-sans);
+  --font-body: var(--font-faune);
+  --font-heading: var(--font-source-serif);
+  --font-display: var(--font-source-serif);
+  --font-interface: var(--font-faune);
+  --font-caption: var(--font-faune);
+  --font-icon: var(--font-inter);
+  --font-label: var(--font-faune);
 
   --transparent: transparent;
   --white: #FFFFFF;
