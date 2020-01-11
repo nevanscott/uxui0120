@@ -31,17 +31,4 @@
     </div>
     {{ post.description | markdownify }}
   </a>
-  {% if post.topics %}
-    <ul class="tags">
-      {% assign topics = post.topics | sort %}
-      {% for topic in topics %}
-        {% assign topic_post = site.topics | where: "title", topic | first %}
-        {% if topic_post %}
-          <li><a href="{{ topic_post.url }}">{{ topic_post.title }}</a></li>
-        {% else %}
-          <li>{{ topic }}</li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  {% endif %}
 </article>
