@@ -10,8 +10,6 @@ body.styleguide main {
         --color-text: var(--black);
         background-color: var(--color-page);
         color: var(--color-text);
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 80%);
-        -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 80%);
       }
       h2 {
         color: var(--white);
