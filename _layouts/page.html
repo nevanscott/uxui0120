@@ -16,7 +16,7 @@ layout: default
 		<h2>Resources</h2>
 	  {% for resource in page.resources %}
 	    {% assign post = site.resources | where: "title" , resource | first %}
-			{% include post/preview.html strong=true %}
+			{% include post/card.html %}
 	  {% endfor %}
 	{% endif %}
 	{{ content }}

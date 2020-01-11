@@ -1,4 +1,6 @@
 <footer class="page-footer">
+  {% include nav/site.html class="secondary" items=site.data.course.secondary_nav %}
+  {% include nav/site.html class="secondary" items=site.data.course.meta_nav %}
   <p>
     <a href="{{ site.data.course.repo.url }}">{{ site.data.course.repo.host }} repo</a>
     &middot;

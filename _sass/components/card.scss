@@ -1,77 +1,10 @@
 .card {
-  & + & {
-    margin-top: var(--space-400);
+  .label {
+    text-transform: uppercase;
   }
-  a {
-    background-color: var(--color-surface-muted);
-    border: none;
-    box-shadow:
-      var(--space-200)
-      var(--space-200)
-      0
-      0
-      var(--color-page)
-      ,
-      var(--space-300)
-      var(--space-300)
-      0
-      0
-      var(--color-stroke)
-      ;
-    display: block;
-    font-family: var(--font-interface);
-    font-size: var(--font-size-400);
-    padding: var(--space-400);
-    &:hover {
-      box-shadow:
-        var(--space-200)
-        var(--space-200)
-        0
-        0
-        var(--color-page)
-        ,
-        var(--space-300)
-        var(--space-300)
-        0
-        0
-        var(--color-stroke--hover)
-        ;
-    }
+  a[href^="http"] {
     &::after {
       display: none;
-    }
-    &[href^="http"] {
-      &::before {
-        content: "↗";
-        color: var(--color-indicator);
-        line-height: 1;
-        float: right;
-        margin-left: var(--space-400);
-        margin-bottom: var(--space-400);
-        font-family: var(--font-icon);
-        font-size: var(--font-size-500);
-        font-weight: 700;
-        transform: translateX(2px);
-      }
-    }
-    .label {
-      color: var(--color-text-label);
-      font-family: var(--font-label);
-      font-size: var(--font-size-300);
-      font-weight: 700;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-    }
-    h3 {
-      font-family: inherit;
-      font-size: inherit;
-      font-weight: 600;
-      line-height: 1.2;
-    }
-    .meta, .description {
-      color: var(--color-text-muted);
-      font-size: var(--font-size-300);
-      margin-top: var(--space-300);
     }
   }
 }

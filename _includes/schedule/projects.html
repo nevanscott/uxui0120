@@ -7,6 +7,6 @@
     {%- assign due_date_xml = post_date_xml -%}
   {%- endif -%}
   {%- if post_date_xml <= date_xml and date_xml <= due_date_xml -%}
-    {% include post/preview.html strong=true %}
+    {% include post/card.html %}
   {%- endif -%}
 {%- endfor -%}

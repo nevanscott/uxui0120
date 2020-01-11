@@ -1,45 +1,11 @@
 .tags {
-  list-style: none;
-  font-family: var(--font-interface);
-  font-size: var(--font-size-500);
-  font-weight: 400;
-  margin: 0;
-}
-
-.tags li {
-  display: inline;
-  white-space: nowrap;
-  margin-right: var(--space-300);
-  :last-child {
-    margin-right: 0;
-  }
-  a {
-    border: none;
-    &:hover {
-      border-bottom: solid 2px var(--color-stroke--hover);
-    }
-  }
-  &::before {
-    display: inline;
-    content: "# ";
-    color: var(--color-decoration);
-    font-weight: 600;
-    width: auto;
-    height: auto;
-    background: none;
-    position: static;
-  }
-}
-
-.hashtag {
-  &::before {
-    color: var(--color-decoration);
-    content: "# ";
-    @media screen and (min-width: 55em) {
-      display: block;
-      float: left;
-      margin-left: -0.75em;
-      content: "#";
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  > * {
+    margin-inline-end: var(--s0);
+    &:last-child {
+      margin-inline-end: 0;
     }
   }
 }

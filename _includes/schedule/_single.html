@@ -1,13 +1,18 @@
-{%- assign day_page = site.pages | where:"category","days" | where:"day",day | first -%}
-<div class="sidebar-layout">
-  <div class="not-sidebar">
-    {% include schedule/agenda.html %}
-    {% include schedule/projects.html %}
-    {% include schedule/meetings.html %}
-    {% include schedule/outcomes.html %}
-  </div>
-  <div class="sidebar">
-    {% include schedule/due.html %}
-    {% include schedule/assignments.html %}
-  </div>
-</div>
+<section>
+  {% include schedule/agenda.html %}
+</section>
+<section>
+  {% include schedule/projects.html %}
+</section>
+<section>
+  {% include schedule/meetings.html %}
+</section>
+<section>
+  {% include schedule/outcomes.html %}
+</section>
+<section>
+  {% include schedule/due.html %}
+</section>
+<section>
+  {% include schedule/assignments.html %}
+</section>
