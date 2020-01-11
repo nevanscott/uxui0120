@@ -1,4 +1,5 @@
 <header class="page-header">
+
   <div class="info">
     <h1>
       <a href="{{ site.baseurl }}/">
@@ -10,97 +11,11 @@
       </a>
     </h1>
 	</div>
-  <nav class="primary">
-    {% for item in site.data.course.nav -%}
 
-      {%- assign item_url = item | prepend:"/" | append:"/" | replace:"HOME/","" -%}
-      {%- assign url_parts = page.url | split:"/" -%}
-      {%- assign section_slug = url_parts[1] -%}
+  {% include nav/site.html class="primary" items=site.data.course.nav %}
 
-      {%- if item_url == page.url -%}
-        {%- assign c = "current" -%}
-      {%- elsif item == section_slug -%}
-        {%- assign c = "current" -%}
-      {%- elsif item_url == "/" -%}
-        {%- if page.calendar_day.size > 0 -%}
-          {%- assign c = "current" -%}
-        {%- elsif page.week.size > 0 -%}
-          {%- assign c = "current" -%}
-        {%- else -%}
-          {%- assign c = "" -%}
-        {%- endif -%}
-      {%- else -%}
-        {%- assign c = "" -%}
-      {%- endif -%}
+  {% include nav/site.html class="secondary" items=site.data.course.secondary_nav %}
 
-      {%- assign p = site.pages | where:"url",item_url | first -%}
-      {%- if p.size > 0 -%}
-        <a class="{{ c }}" href="{{ site.baseurl }}{{ p.url }}">
-          {%- if p.nav_title -%}
-            {{ p.nav_title }}
-          {%- else -%}
-            {{ p.title }}
-          {%- endif -%}
-        </a>
-      {%- endif -%}
+  {% include nav/site.html class="secondary" items=site.data.course.meta_nav %}
 
-    {%- endfor %}
-  </nav>
-  <nav class="secondary">
-    {% for item in site.data.course.secondary_nav -%}
-
-      {%- assign item_url = item | prepend:"/" | append:"/" | replace:"HOME/","" -%}
-      {%- assign url_parts = page.url | split:"/" -%}
-      {%- assign section_slug = url_parts[1] -%}
-
-      {%- if item_url == page.url -%}
-        {%- assign c = "current" -%}
-      {%- elsif item == section_slug -%}
-        {%- assign c = "current" -%}
-      {%- else -%}
-        {%- assign c = "" -%}
-      {%- endif -%}
-
-      {%- assign p = site.pages | where:"url",item_url | first -%}
-      {%- if p.size > 0 -%}
-        <a class="{{ c }}" href="{{ site.baseurl }}{{ p.url }}">
-          {%- if p.nav_title -%}
-            {{ p.nav_title }}
-          {%- else -%}
-            {{ p.title }}
-          {%- endif -%}
-        </a>
-      {%- endif -%}
-
-    {%- endfor %}
-  </nav>
-
-  <nav class="secondary">
-    {% for item in site.data.course.meta_nav -%}
-
-      {%- assign item_url = item | prepend:"/" | append:"/" | replace:"HOME/","" -%}
-      {%- assign url_parts = page.url | split:"/" -%}
-      {%- assign section_slug = url_parts[1] -%}
-
-      {%- if item_url == page.url -%}
-        {%- assign c = "current" -%}
-      {%- elsif item == section_slug -%}
-        {%- assign c = "current" -%}
-      {%- else -%}
-        {%- assign c = "" -%}
-      {%- endif -%}
-
-      {%- assign p = site.pages | where:"url",item_url | first -%}
-      {%- if p.size > 0 -%}
-        <a class="{{ c }}" href="{{ site.baseurl }}{{ p.url }}">
-          {%- if p.nav_title -%}
-            {{ p.nav_title }}
-          {%- else -%}
-            {{ p.title }}
-          {%- endif -%}
-        </a>
-      {%- endif -%}
-
-    {%- endfor %}
-  </nav>
 </header>

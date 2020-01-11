@@ -3,6 +3,7 @@ title: Styleguide
 permalink: /styleguide/
 description: |
   Patterns and styles used on this website.
+icon: palette
 ---
 
 Tags

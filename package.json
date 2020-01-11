@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nevanscott/uxui1019/issues"
   },
-  "homepage": "https://github.com/nevanscott/uxui1019#readme"
+  "homepage": "https://github.com/nevanscott/uxui1019#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0"
+  }
 }

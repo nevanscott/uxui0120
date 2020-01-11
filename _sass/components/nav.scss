@@ -12,9 +12,14 @@
   }
   nav {
     a {
-      color: inherit;
+      svg {
+        fill: currentColor;
+        height: var(--font-size-500);
+        width: var(--font-size-500);
+        margin-right: var(--space-500);
+      }
+      color: var(--color-nav-link);
       display: block;
-      font-family: var(--font-sans);
       font-size: var(--font-size-600);
       font-weight: bold;
       line-height: 1;
@@ -22,21 +27,17 @@
       text-decoration: none;
       &:hover {
         background-color: var(--color-nav-link-background--hover);
-        color: white;
+        color: var(--color-nav-link--hover);
       }
       &.current {
         background-color: var(--color-nav-link-background--active);
-        color: white;
+        color: var(--color-nav-link--active);
       }
     }
     &.secondary {
       margin-top: var(--space-600);
       a {
-        font-family: var(--font-body);
-        font-size: var(--font-size-500);
-        font-style: normal;
         font-weight: normal;
-        padding: var(--space-400) var(--space-500);
       }
     }
   }

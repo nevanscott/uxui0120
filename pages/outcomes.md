@@ -2,6 +2,7 @@
 layout: page
 title: Outcomes
 permalink: /outcomes/
+icon: user-graduate
 ---
 
 Here you have the links where you can find all the resources that Gemma from Outcomes will refer to:
