@@ -1,5 +1,5 @@
 ---
-title: How to conduct user Interviews
+title: User Interviews
 unit: 1
 day: 3
 topics:

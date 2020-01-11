@@ -1,5 +1,5 @@
 ---
-title: How to establish visual hierarchy using typography and the CRAP principles
+title: Visual Design
 unit: 2
 day: 17
 topics:

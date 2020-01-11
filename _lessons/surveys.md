@@ -1,5 +1,5 @@
 ---
-title: How to create goal driven surveys
+title: Surveys
 unit: 1
 day: 5
 topics:

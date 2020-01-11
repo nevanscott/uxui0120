@@ -6,4 +6,3 @@ description: >
   We'll discuss as a class some strategies for setting expectations and
   effective communication with clients.
 ---
-

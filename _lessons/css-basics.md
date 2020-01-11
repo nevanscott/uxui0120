@@ -1,5 +1,5 @@
 ---
-title: How to style web content using CSS
+title: CSS Basics
 unit: 4
 day: 13
 topics:

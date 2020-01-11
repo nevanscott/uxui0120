@@ -1,5 +1,5 @@
 ---
-title: How to write User Stories
+title: User Stories
 unit: 3
 day: 38
 topics:

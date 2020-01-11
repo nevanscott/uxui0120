@@ -1,5 +1,5 @@
 ---
-title: How to create User Personas based on research
+title: Personas
 unit: 1
 day: 6
 topics:

@@ -1,5 +1,5 @@
 ---
-title: How to evaluate designs using heuristics
+title: Evaluative Research
 unit: 2
 day: 11
 topics:
@@ -10,4 +10,3 @@ objectives:
   - understand the different heuristics
   - learn how to analyze a platform base on heuristics
 ---
-

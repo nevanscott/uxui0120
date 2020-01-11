@@ -1,5 +1,5 @@
 ---
-title: How to create animations on the web using CSS
+title: CSS Animations
 unit: 4
 day: 28
 topics:

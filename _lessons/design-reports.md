@@ -1,5 +1,5 @@
 ---
-title: How to structure a Design Report
+title: Design Reports
 unit: 1
 day: 9
 topics:

@@ -1,5 +1,5 @@
 ---
-title: How to incorporate the Human Interface Guidelines to your design
+title: Human Interface Guidelines
 unit: 2
 day: 18
 topics:

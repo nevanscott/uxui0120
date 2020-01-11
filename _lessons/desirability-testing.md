@@ -1,5 +1,5 @@
 ---
-title: How to test the desirability of a design
+title: Desirability Testing
 unit: 2
 day: 20
 topics:

@@ -1,5 +1,5 @@
 ---
-title: How to select controls for your interface design
+title: Interface Controls
 unit: 3
 day: 32
 topics:
@@ -7,4 +7,3 @@ topics:
 resources:
   - User Interface Elements
 ---
-

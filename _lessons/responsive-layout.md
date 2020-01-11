@@ -1,5 +1,5 @@
 ---
-title: Responsive Layout exercise with a responsive Web App
+title: Responsive Layout
 unit: 3
 day: 16
 topics:

@@ -1,5 +1,5 @@
 ---
-title: How to use Inspiration and Aspiration to help you grow as a designer
+title: Inspiration and Aspiration
 unit: 2
 day: 20
 topics:

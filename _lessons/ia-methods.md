@@ -1,7 +1,5 @@
 ---
-title: >-
-  How to assess the way users execute tasks and how to understand the context
-  behind it
+title: IA Methods
 unit: 3
 day: 31
 topics:

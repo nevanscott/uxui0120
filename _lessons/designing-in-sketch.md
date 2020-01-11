@@ -1,5 +1,5 @@
 ---
-title: How to start designing interfaces on Sketch
+title: Designing in Sketch
 unit: 1
 day: 5
 topics:

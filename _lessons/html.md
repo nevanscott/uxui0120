@@ -1,5 +1,5 @@
 ---
-title: How to read and create HTML files following good practices
+title: HTML Basics
 unit: 4
 day: 9
 topics:

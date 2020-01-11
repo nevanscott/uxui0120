@@ -1,5 +1,5 @@
 ---
-title: How to approach the design Process
+title: Design Process
 unit: 1
 day: 1
 topics:

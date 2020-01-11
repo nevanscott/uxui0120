@@ -1,5 +1,5 @@
 ---
-title: How to design interfaces that are adaptable to the user needs
+title: Adaptive Interfaces
 unit: 3
 day: 26
 topics:

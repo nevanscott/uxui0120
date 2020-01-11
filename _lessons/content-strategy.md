@@ -1,7 +1,5 @@
 ---
-title: >-
-  How to assess and visualize the Information Architecture of a website or
-  application
+title: Content Strategy
 unit: 3
 day: 25
 topics:

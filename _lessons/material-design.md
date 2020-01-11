@@ -1,5 +1,5 @@
 ---
-title: How to incorporate the Material Design system to your design
+title: Material Design
 unit: 2
 day: 18
 topics:

@@ -1,5 +1,5 @@
 ---
-title: How to turn research findings into insights
+title: Research Synthesis
 unit: 1
 day: 6
 topics:
@@ -17,4 +17,3 @@ objectives:
     develop a problem statement that includes information about the user, their
     pain points, and insights from the research
 ---
-

@@ -1,5 +1,5 @@
 ---
-title: How to conduct observational research
+title: Observational Research
 unit: 3
 day: 24
 topics:

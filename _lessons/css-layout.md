@@ -1,5 +1,5 @@
 ---
-title: How to create a responsive layout using Grid
+title: Layouts with CSS
 unit: 4
 day: 16
 topics:

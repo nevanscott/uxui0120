@@ -1,5 +1,5 @@
 ---
-title: How to test that your design is usable
+title: Usability Testing
 unit: 1
 day: 2
 topics:
