@@ -29,12 +29,16 @@
       h3::before {
         content: '→';
         color: var(--color-indicator);
-        float: left;
-        margin-left: calc(-1 * var(--space-600));
+        float: right;
         font-family: var(--font-icon);
         font-size: var(--font-size-700);
         font-weight: 800;
-        transform: translateY(-2px);
+        margin-left: var(--space-300);
+        @media screen and (min-width: 60em) {
+          float: left;
+          margin-left: calc(-1 * var(--space-600));
+          transform: translateY(-2px);
+        }
       }
       &[href^="http"] {
         h3::before {
