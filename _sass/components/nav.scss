@@ -1,14 +1,35 @@
 .page-header {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background-color: var(--royal);
+  display: grid;
+  grid-template-columns: 1fr min-content;
+  align-items: stretch;
+  h1 {
+    display: flex;
+    align-items: center;
+    a {
+      display: flex;
+      align-items: center;
+      padding: var(--space-500) var(--space-500);
+    }
+    svg {
+      display: block;
+      height: var(--space-600);
+      width: auto;
+    }
+  }
   a {
     border: none;
   }
   .info {
-    text-align: center;
-    margin-right: var(--space-300);
     a {
       display: block;
-      padding: var(--space-700) var(--space-600) var(--space-600);
     }
+  }
+  > nav {
+    display: contents;
   }
   nav {
     a {
@@ -35,10 +56,77 @@
       }
     }
     &.secondary {
-      margin-top: var(--space-600);
       a {
         font-weight: normal;
       }
     }
+  }
+}
+
+#menu-button, #menu-close {
+  background-color: var(--color-menu-button-background);
+  color: var(--color-menu-button);
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: bold;
+  padding: var(--space-400) var(--space-500);
+}
+#menu {
+  animation: slidein-left .3s ease;
+  display: none;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 10;
+  background-color: var(--color-canvas);
+  width: 15rem;
+  [aria-expanded="true"] + & {
+    display: block;
+  }
+}
+
+#menu-button[aria-expanded="true"]::after {
+  content: '';
+  display: block;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9;
+  background: var(--slate);
+  opacity: 0.9;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  transition: opacity .3s ease, -webkit-backdrop-filter .3s ease, backdrop-filter .3s ease;
+}
+
+@media screen and (min-width: 60em) {
+  .page-header {
+    .info {
+      text-align: center;
+      margin-right: var(--space-300);
+      a {
+        padding: var(--space-700) var(--space-600) var(--space-600);
+      }
+    }
+  }
+  #menu-button {
+    display: none;
+  }
+  #menu {
+    display: block;
+    position: static;
+  }
+}
+
+@keyframes slidein-left {
+  0% {
+    transform:translateX(15rem);
+  }
+
+  to {
+    transform:translateX(0);
   }
 }

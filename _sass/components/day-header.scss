@@ -1,0 +1,58 @@
+.day-header {
+  position: sticky;
+  top: var(--space-700);
+  background-color: var(--color-surface-muted);
+  border-top: solid 1px var(--color-stroke-muted);
+  border-bottom: solid 1px var(--color-stroke-muted);
+  display: grid;
+  grid-template-columns: var(--space-700) 1fr var(--space-700);
+  grid-template-areas: "prev header next";
+  margin:
+    calc(-1 * var(--space-400))
+    calc(-1 * var(--space-500))
+    var(--space-600)
+    ;
+  .date {
+    font-weight: 500;
+  }
+  > header {
+    grid-area: header;
+    text-align: center;
+    padding: var(--space-400) 0;
+    > .section {
+      @extend .vh;
+    }
+    > * + * {
+      margin-top: var(--space-300);
+    }
+  }
+  > .nextprev {
+    display: contents;
+    > a {
+      border: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: var(--font-size-700);
+      font-weight: 800;
+      &::before {
+        font-family: var(--font-icon);
+      }
+      time {
+        @extend .vh;
+      }
+    }
+    > .prev {
+      grid-area: prev;
+      &::before {
+        content: "←";
+      }
+    }
+    > .next {
+      grid-area: next;
+      &::before {
+        content: '→';
+      }
+    }
+  }
+}
