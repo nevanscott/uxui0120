@@ -3,7 +3,7 @@
   <div class="info">
     <h1>
       <a href="{{ site.baseurl }}/">
-        <svg width="143" height="65" xmlns="http://www.w3.org/2000/svg"><g fill="#FFF" stroke="#000" stroke-width="3" fill-rule="evenodd"><path d="M140.6 5.7v49.8h-14.4V5.7h14.4zm-35.3 50.64c-13.423 0-18.9-5.57-18.9-17.22V5.7h14.4v33.12c0 3.555.914 4.68 4.5 4.68s4.5-1.125 4.5-4.68V5.7h14.4v33.42c0 11.65-5.477 17.22-18.9 17.22zM21.1 56.34c-13.423 0-18.9-5.57-18.9-17.22V5.7h14.4v33.12c0 3.555.914 4.68 4.5 4.68s4.5-1.125 4.5-4.68V5.7H40v33.42c0 11.65-5.477 17.22-18.9 17.22zm28.148-27.083L37.694 5.7h16.622L59 17.434 63.684 5.7h16.628L68.694 29.257 80.195 55.5H64.281L59 42.172 53.72 55.5H37.81l11.438-26.243z"/><path d="M96.202 2.1L81.683 62.7H67.798L82.317 2.1h13.885z"/></g></svg>
+        {% include logo.html %}
         <span class="vh">
           {{ site.data.course.abbreviation }}
           <small>{{ site.data.course.iteration }}</small>
@@ -12,10 +12,33 @@
     </h1>
 	</div>
 
-  {% include nav/site.html class="primary" items=site.data.course.nav %}
-
-  {% include nav/site.html class="secondary" items=site.data.course.secondary_nav %}
-
-  {% include nav/site.html class="secondary" items=site.data.course.meta_nav %}
+  <nav>
+    <button id="menu-button" aria-expanded="false">Menu</button>
+    <div id="menu">
+      <button id="menu-close" aria-expanded="false">Close</button>
+      {% include nav/site.html class="primary" items=site.data.course.nav %}
+      {% include nav/site.html class="secondary" items=site.data.course.secondary_nav %}
+      {% include nav/site.html class="secondary" items=site.data.course.meta_nav %}
+    </div>
+  </nav>
 
 </header>
+
+<script type="text/javascript">
+  (function () {
+    var button = document.getElementById('menu-button');
+    var close = document.getElementById('menu-close');
+    if (button) {
+      button.addEventListener('click', function() {
+        var expanded = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', !expanded);
+        close.setAttribute('aria-expanded', !expanded);
+      });
+      close.addEventListener('click', function() {
+        var expanded = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', !expanded);
+        button.setAttribute('aria-expanded', !expanded);
+      });
+    }
+  }());
+</script>

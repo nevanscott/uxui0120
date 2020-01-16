@@ -5,49 +5,43 @@
 {%- assign date_xml = day | class_date: site.data.course.start_date | date_to_xmlschema -%}
 {%- capture dow -%}{{ date_xml | date:"%A" }}{%- endcapture -%}
 {%- capture dom -%}{{ date_xml | date:"%-d" }}{%- endcapture -%}
+{%- assign next_day = day | plus:1 -%}
+{%- assign previous_day = day | minus:1 -%}
+{%- assign next = site.pages | where:"category","days" | where:"day",next_day | first -%}
+{%- assign previous = site.pages | where:"category","days" | where:"day",previous_day | first -%}
 <article>
-  <header>
-    <div class="main">
-      <p class="label">
+  <div class="day-header">
+    <header>
+      <div class="section">
         <a href="{{ week_page.url }}">Week {{ week }}</a>
-      </p>
-    	<h1>
-    		{{ date | date: "%A" }}
-        <small>{{ date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
-    	</h1>
-    </div>
-    <aside>
-      {%- assign next_day = day | plus:1 -%}
-      {%- assign previous_day = day | minus:1 -%}
-      {%- assign next = site.pages | where:"category","days" | where:"day",next_day | first -%}
-      {%- assign previous = site.pages | where:"category","days" | where:"day",previous_day | first -%}
-      {% if previous -%}
-        <article class="preview--compact">
-          <a class="back" href="{{ previous.url }}">
-            <div class="label">Previous</div>
-            <header>
-              <h3>
-                <span class="title">{{ previous.date | date: "%A" }}</span>
-              </h3>
-              <time>{{ previous.date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</time>
-            </header>
-          </a>
-        </article>
-      {%- endif %}
+      </div>
+      <h1>
+        <time>
+          <span class="weekday">{{ date | date: "%A" }}</span>
+          <small class="date">{{ date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
+        </time>
+      </h1>
+    </header>
+    {% if previous or next -%}
+    <nav class="nextprev">
       {% if next -%}
-        <article class="preview--compact">
-          <a class="next" href="{{ next.url }}">
-            <div class="label">Next</div>
-            <header>
-              <h3>
-                <span class="title">{{ next.date | date: "%A" }}</span>
-              </h3>
-              <time>{{ next.date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</time>
-            </header>
-          </a>
-        </article>
+      <a class="next" href="{{ next.url }}">
+        <time>
+          <span class="weekday">{{ next.date | date: "%A" }}</span>
+          <small class="date">{{ next.date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
+        </time>
+      </a>
       {%- endif %}
-    </aside>
-  </header>
+      {% if previous -%}
+      <a class="prev" href="{{ previous.url }}">
+        <time>
+          <span class="weekday">{{ previous.date | date: "%A" }}</span>
+          <small class="date">{{ previous.date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</small>
+        </time>
+      </a>
+      {%- endif %}
+    </nav>
+    {%- endif %}
+  </div>
   {% include schedule/_single.html %}
 </article>
