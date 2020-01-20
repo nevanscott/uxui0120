@@ -15,7 +15,13 @@ main > article {
       var(--space-600)
       ;
     padding: var(--space-500);
+    > * + * {
+      margin-top: var(--space-500);
+    }
     .main > * + * {
+      margin-top: var(--space-400);
+    }
+    aside > * + * {
       margin-top: var(--space-400);
     }
     .description {
@@ -25,16 +31,16 @@ main > article {
     }
   }
   > * + * {
-    margin-top: var(--space-300);
-  }
-  > * + h2 {
-    margin-top: var(--space-500);
-  }
-  > * + h3 {
     margin-top: var(--space-400);
   }
+  > * + h2 {
+    margin-top: var(--space-600);
+  }
+  > * + h3 {
+    margin-top: var(--space-500);
+  }
   > dl > * + * {
-    margin-top: var(--space-200);
+    margin-top: var(--space-300);
   }
   > dl > * + dt {
     margin-top: var(--space-400);
