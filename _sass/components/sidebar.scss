@@ -1,4 +1,7 @@
 .sidebar-layout {
+  > * + * {
+    margin-top: var(--space-600);
+  }
   > * > * + * {
     margin-top: var(--space-300);
   }
@@ -12,6 +15,9 @@
     display: grid;
     grid-template-columns: 2fr 1fr;
     grid-gap: var(--space-700);
+    > * + * {
+      margin-top: 0;
+    }
     > * > * + * {
       margin-top: var(--space-500);
     }

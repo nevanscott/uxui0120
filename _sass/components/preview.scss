@@ -11,48 +11,66 @@
     margin-top: var(--space-400);
   }
   a {
+    background-color: var(--color-surface-muted);
     border: none;
+    box-shadow:
+      var(--space-200)
+      var(--space-200)
+      0
+      0
+      var(--color-page)
+      ,
+      var(--space-300)
+      var(--space-300)
+      0
+      0
+      var(--color-stroke)
+      ;
+    display: block;
+    padding: var(--space-400);
+
     > * + * {
       margin-top: var(--space-400);
     }
+
     &[href^="http"] {
       &::after {
         display: none;
       }
     }
+
     &:hover {
       h3 .title {
         border-bottom: solid 2px var(--color-stroke--hover);
       }
     }
+
     &.strong, &.next, &.back {
-      h3::before {
+      &::before {
         content: '→';
         color: var(--color-indicator);
         float: right;
         font-family: var(--font-icon);
         font-size: var(--font-size-700);
         font-weight: 800;
+        line-height: 1;
         margin-left: var(--space-300);
-        @media screen and (min-width: 60em) {
-          float: left;
-          margin-left: calc(-1 * var(--space-600));
-          transform: translateY(-2px);
-        }
       }
       &[href^="http"] {
-        h3::before {
+        &::before {
           content: "↗";
-          transform: translateY(2px);
+          // transform: translateY(2px);
         }
       }
     }
+
     &.back {
       h3::before {
         content: "←";
       }
     }
   }
+
   .label {
     color: var(--color-text-label);
     font-family: var(--font-label);
@@ -61,45 +79,56 @@
     letter-spacing: 0.05em;
     text-transform: uppercase;
   }
+
   .label + * {
     margin-top: 0;
   }
+
   h3 {
     line-height: 1.35;
   }
+
   header {
     color: var(--color-text);
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
+
     * + * {
       margin-left: var(--space-400);
     }
+
     time {
       font-family: var(--font-caption);
       font-weight: 600;
       color: var(--color-text-muted);
     }
   }
+
   .byline {
     color: var(--color-text);
     font-style: normal;
     font-weight: 500;
   }
+
   .author {
     font-weight: 700;
   }
+
   * + .source-url {
     margin-left: var(--space-300);
   }
+
   .source {
     color: var(--color-text);
     font-style: italic;
     font-weight: 500;
   }
+
   .source-title {
     font-style: normal;
   }
+
   .source-url {
     color: var(--color-text-muted);
     font-weight: 500;
