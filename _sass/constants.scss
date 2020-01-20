@@ -20,14 +20,14 @@
   --royal: #007FFF;
   --plum: hsl( 230, 95%, 45%);
 
-  --color-canvas: var(--pale);
+  --color-canvas: var(--royal);
   --color-page: var(--white);
-  --color-nav-link: var(--black);
+  --color-nav-link: var(--white);
   --color-nav-link--hover: var(--white);
   --color-nav-link--active: var(--white);
   --color-nav-link-background: var(--transparent);
-  --color-nav-link-background--hover: var(--slate);
-  --color-nav-link-background--active: var(--slate);
+  --color-nav-link-background--hover: var(--plum);
+  --color-nav-link-background--active: var(--plum);
   --color-surface-muted: var(--pale);
   --color-surface-loud: var(--plum);
   --color-stroke: var(--royal);

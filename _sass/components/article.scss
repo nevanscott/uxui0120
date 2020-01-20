@@ -6,15 +6,15 @@ main > article {
     margin-right: auto;
   }
   > header {
-    --color-stroke: var(--white);
-    --color-stroke-muted: var(--white);
-    --color-stroke--hover: var(--white);
-    --color-text: var(--white);
-    --color-text-muted: var(--white);
-    --color-text-label: var(--white);
-    --color-indicator: var(--white);
-    --color-decoration: var(--white);
-    background: var(--color-surface-loud);
+    // --color-stroke: var(--white);
+    // --color-stroke-muted: var(--white);
+    // --color-stroke--hover: var(--white);
+    // --color-text: var(--white);
+    // --color-text-muted: var(--white);
+    // --color-text-label: var(--white);
+    // --color-indicator: var(--white);
+    // --color-decoration: var(--white);
+    background: var(--color-surface-muted);
     color: var(--color-text);
     display: grid;
     grid-template-columns: 2fr 1fr;
