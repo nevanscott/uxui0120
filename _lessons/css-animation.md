@@ -31,9 +31,3 @@ Examples
 - [Box Transformation](https://codepen.io/raphamontenegro/pen/ZqQZpz)
 - [Burger menu](https://codepen.io/matchboxhero/pen/XexMRo)
 - [Advanced Transitions](https://www.creativebloq.com/inspiration/css-animation-examples)
-
-
-Ironhack Student Platform
----------
-
-- [Basic Animations - Transitions & Keyframes](http://learn.ironhack.com/#/learning_unit/7138)

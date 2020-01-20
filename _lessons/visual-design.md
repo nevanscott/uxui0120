@@ -54,12 +54,3 @@ Tools
 
 - [Google Fonts](https://fonts.google.com)
 - [SkyFonts](https://skyfonts.com) to sync web fonts from Google Fonts
-
-
-Ironhack Learning Platform
----------------------------
-
-- [Analyzing aesthetics](http://learn.ironhack.com/#/learning_unit/7069)
-- [Moodboard](http://learn.ironhack.com/#/learning_unit/7086)
-- [Typography](http://learn.ironhack.com/#/learning_unit/7090)
-- [Advanced Sketch](http://learn.ironhack.com/#/learning_unit/7076)

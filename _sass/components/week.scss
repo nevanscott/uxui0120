@@ -1,7 +1,7 @@
 .week {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: repeat(7, auto);
+  grid-template-rows: repeat(6, auto);
   grid-auto-flow: column;
   grid-gap: var(--space-600) var(--space-500);
   margin-left: calc(-1 * (var(--space-600) + var(--space-500)));

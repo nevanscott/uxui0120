@@ -23,14 +23,6 @@ prep:
     title: Five Factors for Successful Persona Projects
 ---
 
-Ironhack Learning Platform
--------------------
-
-- [User persona](http://learn.ironhack.com/#/learning_unit/7018)
-- [Empathy map](http://learn.ironhack.com/#/learning_unit/7018)
-- [Storyboard](http://learn.ironhack.com/#/learning_unit/7021)
-- [User journey](http://learn.ironhack.com/#/learning_unit/7021)
-
 
 Further Reading
 ---------------

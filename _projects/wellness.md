@@ -3,6 +3,7 @@ title: Wellness App
 unit: 1
 assigned: 5
 due: 8
+description: Propose a new mobile app designed to support wellness. Based on user research, identify an opportunity for an app to improve people's day-to-day lives.
 topics:
   - Prototyping
   - Double Diamond
@@ -35,11 +36,11 @@ topics:
 
 ## The Brief
 
-You will be proposing a new mobile app designed to support wellness. Based on user research, you'll identify an opportunity for an app to improve people's day-to-day lives. Get inspiration by choosing one area of wellness as listed [HERE](https://www.mindbodygreen.com/0-6795/Are-You-Balanced-Here-are-the-7-Kinds-of-Wellness-You-Need.html).
+You will be proposing a new mobile app designed to support wellness. Based on user research, you'll identify an opportunity for an app to improve people's day-to-day lives. Get inspiration by choosing one area of wellness as listed [HERE](https://www.alive.com/health/seven-dimensions-of-wellness/).
 
 ## Suggestions
 
-* Use findings from surveys and interviews to identify pain points in people's lives to help determine a direction for your product. You should be trying to solve _real_ people's _real_ problems. **Don't start with a concept!**
+* Use findings from surveys and interviews to identify pain points in people's lives to help determine a direction for your product. You should be trying to solve *real* people's *real* problems. **Don't start with a concept!**
 * Interview people from outside of campus. Use your network to talk to people you don't really know.
 * Don't forget to test and iterate! This will help you develop a prototype that has the kinks worked out of it.
 * Test on paper before going digital.

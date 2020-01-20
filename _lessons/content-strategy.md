@@ -32,14 +32,6 @@ Learning Objectives
 - Learn how to represent content in a way that all functional requirements would be understood
 
 
-Ironhack Learning Platform
-----------
-
-- [Intro to information architecture](http://learn.ironhack.com/#/learning_unit/7033)
-- [Site map](http://learn.ironhack.com/#/learning_unit/7037)
-- [Atomic design](http://learn.ironhack.com/#/learning_unit/7068)
-
-
 Further reading:
 ----------------
 

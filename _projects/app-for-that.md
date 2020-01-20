@@ -3,6 +3,7 @@ title: There's an app for that!
 unit: 1
 assigned: 3
 due: 4
+description: Design a single-function "utility" app based on open-ended generative research.
 topics:
   - Prototyping
   - Double Diamond
@@ -40,7 +41,7 @@ Your team will be designing a single-function "utility" app. Choose from one of 
 
 ## Suggestions
 
-* Don't jump straight to a solution! Explore the problem space in a few user interviews first, paying special attention to _contexts of use_.
+* Don't jump straight to a solution! Explore the problem space in a few user interviews first, paying special attention to *contexts of use*.
 * Don't be afraid to go where your research leads you. You might be surprised!
 * Keep your design ruthlessly focused on a single basic piece of functionality.
 
@@ -64,9 +65,9 @@ For this prototype, you'll stick to sketches on paper, but also take photos of y
 
 ## Uploads
 
-* [Final Presentation](https://drive.google.com/drive/u/2/folders/1Q3XcbEXj5FgwF-DXTEio8idWLRCdnM-T)
+* [Final Presentation](https://drive.google.com/drive/folders/1IyXG_4HD_rM4rhsqXzsRqQf7qsT27129)
 
 ## Give feedback to your peers!
 
-* [Presentation feedback](https://drive.google.com/drive/folders/1T7uDqff1TGHQk2C8pqNoDYnIxmJgPneW)
-* [Group retrospective](https://drive.google.com/drive/folders/1Mo73u58lBn6HPBQxwVxn9a9Waxke0FFO)
+* [Presentation feedback](https://drive.google.com/drive/folders/1on3UCtgqS7Z1CKKtxkBlpaxdz_yy1zeA)
+* [Group retrospective](https://drive.google.com/drive/folders/1tlxw6iBfKunzOItsR_Bc-OT1Fw7oEL4t)

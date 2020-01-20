@@ -20,11 +20,9 @@ teacher:
 
 secondary_nav:
   - syllabus
-  - decks
   - lessons
   - projects
   - homework
-  - outcomes
   - resources
 
 meta_nav:

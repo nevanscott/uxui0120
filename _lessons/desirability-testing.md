@@ -20,8 +20,3 @@ prep:
       First Impressions Matter: How Designers Can Support Automatic Cognitive
       Processing
 ---
-
-Ironhack Learning Platform
---------------------------
-
-- [Desirability testing](http://learn.ironhack.com/#/learning_unit/7098)

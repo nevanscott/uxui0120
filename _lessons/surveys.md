@@ -28,9 +28,3 @@ Tools
 - [Typeform](https://www.typeform.com)
 - [Optimal Workshop Questions](https://www.optimalworkshop.com/questions)
 - [Survey Monkey](https://www.surveymonkey.com)
-
-
-Ironhack Learning Platform
---------------------------
-
-- [Designing surveys](http://learn.ironhack.com/#/learning_unit/7012)

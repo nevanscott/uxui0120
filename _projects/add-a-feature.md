@@ -3,6 +3,7 @@ title: Add a Feature
 unit: 2
 assigned: 11
 due: 15
+description: Research and design a new feature for an existing product.
 topics:
   - Native App
   - User Interface

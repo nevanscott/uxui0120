@@ -3,6 +3,7 @@ title: Responsive Editorial
 unit: 3
 assigned: 25
 due: 29
+description: Redesign an editorial website, for a magazine or newspaper of your choosing.
 topics:
   - Content Audit
   - Responsive
@@ -36,7 +37,7 @@ In this project you’ll be putting more information architecture, content strat
 
 ## Suggested road map
 
-**Thursday** 
+**Thursday**
 
 * Project plan
 * Content audit
@@ -52,7 +53,7 @@ In this project you’ll be putting more information architecture, content strat
 * First visual design mockups of at least three screens, with three options each, at mobile and desktop sizes (18 artboards)
 * Group Crits
 
-**Tuesday** 
+**Tuesday**
 
 * HTML structure and content for at least one page
 * Final design mockups of three pages at mobile and desktop sizes

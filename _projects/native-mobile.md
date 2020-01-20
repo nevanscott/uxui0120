@@ -3,6 +3,7 @@ title: Native Mobile app
 unit: 2
 assigned: 17
 due: 23
+description: Design a new app to be launched on both Android and iOS.
 topics:
   - Native App
   - User Interface

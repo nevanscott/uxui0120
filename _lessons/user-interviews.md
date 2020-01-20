@@ -30,12 +30,3 @@ Further Reading
 ---------------
 
 - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/) by Christian Rohrer
-
-
-Ironhack Learning Platform
----------------------------
-
-- [User interviews](http://learn.ironhack.com/#/learning_unit/7015)
-- [Creating an interview guide](http://learn.ironhack.com/#/learning_unit/7015)
-- [Affinity diagram](http://learn.ironhack.com/#/learning_unit/7016)
-- [Feature prioritization](http://learn.ironhack.com/#/learning_unit/7054)

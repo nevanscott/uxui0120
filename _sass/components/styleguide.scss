@@ -1,6 +1,5 @@
 body.styleguide main {
-  background-color: var(--color-surface-loud);
-  color: var(--white);
+  background-color: var(--color-surface-muted);
   > article {
     > {
       * {
@@ -10,9 +9,6 @@ body.styleguide main {
         --color-text: var(--black);
         background-color: var(--color-page);
         color: var(--color-text);
-      }
-      h2 {
-        color: var(--white);
       }
     }
   }
