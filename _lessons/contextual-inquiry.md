@@ -41,9 +41,3 @@ prep:
 * User Journeys
 * Lean Canvas
 * 5 whys
-
-
-
-## Ironhack Learning Platform
-
-* [User Journeys](http://learn.ironhack.com/#/learning_unit/7021)

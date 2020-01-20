@@ -88,7 +88,3 @@ In order to not overload the report, some elements might be added in the appendi
 
 * [How To Write an “About Me” Page That Gets You Hired](https://99u.adobe.com/articles/51669/how-to-write-about-me-section) by Nicole Fenton
 * [Words as Material](https://www.nicolefenton.com/words-as-material/) by Nicole Fenton
-
-## Ironhack Learning Platform
-
-* [Presenting your work](http://learn.ironhack.com/#/learning_unit/7080)

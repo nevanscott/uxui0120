@@ -36,10 +36,3 @@ Resources
 
 - [Principles of Responsive Design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
 - [Media Query Snippets](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
-
-Ironhack Student Platform
--------------------------
-
-- [Flexbox - The basics](http://learn.ironhack.com/#/learning_unit/7135)
-- [Grid - The basics](http://learn.ironhack.com/#/learning_unit/7136)
-- [Cheatsheet - Flexbox](http://learn.ironhack.com/#/learning_unit/7138)

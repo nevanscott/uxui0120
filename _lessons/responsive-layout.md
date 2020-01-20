@@ -16,8 +16,3 @@ prep:
       https://www.smashingmagazine.com/2015/04/using-sketch-for-responsive-web-design-case-study/
     title: Using Sketch For Responsive Web Design
 ---
-
-Ironhack Learning Platform
--------------
-- [Responsive Design](http://learn.ironhack.com/#/learning_unit/7087)
-- [Grids](http://learn.ironhack.com/#/learning_unit/7071)

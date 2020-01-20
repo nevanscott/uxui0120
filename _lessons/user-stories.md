@@ -29,10 +29,3 @@ Further Reading
 ---------------
 
 - [Accounting for UX Work with User Stories in Agile Projects](https://www.nngroup.com/articles/ux-user-stories/) by Page Laubheimer and Hoa Loranger
-
-
-Ironhack Learning Platform
---------------------------
-
-- [User stories](http://learn.ironhack.com/#/learning_unit/7083)
-- [Jobs-to-be-Done](http://learn.ironhack.com/#/learning_unit/7067)
