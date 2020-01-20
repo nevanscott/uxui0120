@@ -3,6 +3,7 @@ title: Metro Kiosk
 unit: 1
 assigned: 1
 due: 2
+description: Visit to metro stations nearby to observe how users purchase tickets in context, then take your findings to make suggestions for how to improve the interface of the ticket machines.
 topics:
   - User Research
   - Design Process

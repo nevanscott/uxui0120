@@ -3,6 +3,7 @@ title: There's an app for that!
 unit: 1
 assigned: 3
 due: 4
+description: Design a single-function "utility" app based on open-ended generative research.
 topics:
   - Prototyping
   - Double Diamond

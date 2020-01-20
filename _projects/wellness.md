@@ -3,6 +3,7 @@ title: Wellness App
 unit: 1
 assigned: 5
 due: 8
+description: Propose a new mobile app designed to support wellness. Based on user research, identify an opportunity for an app to improve people's day-to-day lives.
 topics:
   - Prototyping
   - Double Diamond
