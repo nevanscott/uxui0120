@@ -2,8 +2,8 @@
 title: HTML practice - Wedding Photographer
 unit: 4
 format: Practice
-assigned: 9
-due: 10
+assigned: 45
+due: 45
 ---
 Robert is a San Francisco based wedding photographer that has asked you to build a website for him to send to possible clients. After some discussion you have [an image](https://drive.google.com/open?id=1kuTbMWOnBie0Y9Pv35lDMifK_cpnbB4x) of what he wants as main structure of the page. **Examine the image to understand what HTML elements** it contains. Then, **build the structure** based on this analysis using only **HTML.**
 
@@ -14,9 +14,9 @@ Find the materials for this exercise in [this Google Drive folder](https://drive
 ## Steps
 
 1. Draw in a piece of paper a low fidelity version of the website and annotate the HTML elements that it contains
-2. After that, create a folder in your computer called _wedding practice_
+2. After that, create a folder in your computer called *wedding practice*
 3. Drag and drop that folder to your code editor so it opens there
-4. Add a new file in the left panel and name it _index.html_ 
+4. Add a new file in the left panel and name it *index.html* 
 5. Inside that file, create the main structure of any html file
 6. Inside `<head>` Give the website a title
 7. Now go to `<body>` and recreate the website
