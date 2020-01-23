@@ -1,5 +1,5 @@
 ---
-title: 'Tags '
+title: Tags + News
 unit: 4
 format: Sketch coding exercise
 assigned: 9
