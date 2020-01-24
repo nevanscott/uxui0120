@@ -3,7 +3,6 @@ title: Responsive Editorial
 unit: 3
 assigned: 25
 due: 29
-description: Redesign an editorial website, for a magazine or newspaper of your choosing.
 topics:
   - Content Audit
   - Responsive
@@ -77,9 +76,9 @@ Your presentation should answer the following questions:
 
 ## Uploads
 
-* [Final presentation](https://drive.google.com/drive/folders/1-GL6n8POFAtktCeiuSqvvXl-Mvm7zhtN)
+* [Final presentation](https://drive.google.com/drive/folders/17FpGaJx_YLLI0tt1PKkij1MSVmO0SikL)
 
-## Give feedback to your peers!
+## [](https://drive.google.com/drive/folders/17FpGaJx_YLLI0tt1PKkij1MSVmO0SikL)Give feedback to your peers!
 
-* [Presentation feedback](https://drive.google.com/drive/folders/1i1xLyYM5udcRFM1kbynvBJbdRawAWAJ8)
-* [Group retrospective](https://drive.google.com/drive/folders/1Mo73u58lBn6HPBQxwVxn9a9Waxke0FFO)
+* [Presentation feedback](https://drive.google.com/drive/folders/1viyBPTYrUPtWqRuzGGM9EZ16pSK53PO1)
+* [Group retrospective](https://drive.google.com/drive/folders/1tlxw6iBfKunzOItsR_Bc-OT1Fw7oEL4t)
