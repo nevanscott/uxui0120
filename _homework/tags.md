@@ -1,7 +1,7 @@
 ---
 title: Tags + News
 unit: 4
-format: Sketch coding exercise
+format: Coding practice
 assigned: 9
 due: 10
 ---
