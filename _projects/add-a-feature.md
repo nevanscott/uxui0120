@@ -64,39 +64,45 @@ Your will have 6 minutes to summarize your work. We should get a strong sense of
 
 ## Suggested Roadmap
 
-### Day 1
+### Friday
 
-* Heuristics & CRAP
+* Make a project plan
 * Define user research methods (surveys, interviews...) and execute
 
-### Day 2
+### Weekend
 
+* Continue research
+* Benchmarking
+
+### Monday
+
+* Heuristics & CRAP
 * Define problem and user
 * Define new user flow with added feature
 * Paper prototype
 * Test & iterate
 
-### Day 3
+### Tuesday
 
 * Sketch mid-fi
 * Test & iterate
 
-### Weekend
+### Wednesday
 
 * Test & iterate
 * Principle animations
 * Interactive prototype
 * Rehearse presentation
 
-### Day 4
+### Thursday
 
 * Sketch high-fi
 * Test & iterate
-
-### Day 5
-
 * Prepare presentation and rehearse
-* Presentation in the afternoon
+
+### Friday
+
+* Presentation in the morning
 
 ## Design Thinking
 
