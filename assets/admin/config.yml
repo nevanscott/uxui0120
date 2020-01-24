@@ -221,6 +221,35 @@ collections:
         valueField: "title"
         displayFields: ["title"]
         multiple: false
+  - name: "meeting"
+    label: "Meetings"
+    folder: "_meetings"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Format"
+        name: "format"
+        required: false
+        widget: "string"
+      - label: "Day"
+        name: "day"
+        widget: "number"
+        valueType: "int"
+        min: 1
+        max: 45
+      - label: "Days"
+        name: "days"
+        widget: "list"
+        field:
+          label: "Day"
+          name: "day"
+          widget: "number"
+          valueType: "int"
+          min: 1
+          max: 45
   - name: "unit"
     label: "Unit"
     folder: "_units"
