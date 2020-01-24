@@ -9,7 +9,10 @@ backend:
 media_folder: "assets/images"
 
 collections:
-  {% for collection_hash in site.data.collections -%}
-    {%- assign collection = collection_hash[1] -%}
-    - {{ collection | jsonify }}
-  {% endfor %}
+  - {{ site.data.collections.homework | jsonify }}
+  - {{ site.data.collections.lessons | jsonify }}
+  - {{ site.data.collections.meetings | jsonify }}
+  - {{ site.data.collections.projects | jsonify }}
+  - {{ site.data.collections.resources | jsonify }}
+  - {{ site.data.collections.topics | jsonify }}
+  - {{ site.data.collections.units | jsonify }}
