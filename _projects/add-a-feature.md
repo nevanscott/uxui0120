@@ -1,9 +1,8 @@
 ---
 title: Add a Feature
 unit: 2
-assigned: 11
+assigned: 10
 due: 15
-description: Research and design a new feature for an existing product.
 topics:
   - Native App
   - User Interface
@@ -15,7 +14,7 @@ topics:
 ## Setup
 
 * Group Project
-* 5 class days (plus the weekend!)
+* 6 class days (plus the weekend!)
 
 ## Materials
 
@@ -51,7 +50,7 @@ As a new designer joining a team, you’ll often have to rapidly come up to spee
 ## Timeline
 
 * Submit Project Plan <small>by {{ page.assigned | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 5pm</small>
-* End-Of-Project Presentations will start <small>{{ page.assigned | plus:4 | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 4:00pm</small>
+* End-Of-Project Presentations will start <small>{{ page.due | class_date: site.data.course.start_date | date: "%a.&nbsp;%-d&nbsp;%b." }} @ 9:30am</small>
 
 ## End-of-Project Presentation <small>(6 minutes)</small>
 
