@@ -1,7 +1,7 @@
 ---
-title: Group crits
-format: Group crit
-day: 14
+title: Add a Feature project
+format: Group Crit
+day: 13
 ---
 
 We'll gather in groups for a crit session. The objective of this session is to open ourselves to feedback from another point of view and to practice our own skills giving feedback.
