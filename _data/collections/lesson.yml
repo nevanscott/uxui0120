@@ -1,0 +1,76 @@
+name: "lesson"
+label: "Lesson"
+folder: "_lessons"
+create: true
+slug: "{{slug}}"
+fields:
+  - label: "Title"
+    name: "title"
+    widget: "string"
+  - label: "Unit"
+    name: "unit"
+    widget: "relation"
+    collection: "unit"
+    searchFields: ["title", "description"]
+    valueField: "order"
+    displayFields: ["order", "title"]
+  - label: "Day"
+    name: "day"
+    widget: "number"
+    valueType: "int"
+    min: 1
+    max: 45
+  - label: "Topics"
+    name: "topics"
+    required: false
+    widget: "relation"
+    collection: "topic"
+    searchFields: ["title", "description"]
+    valueField: "title"
+    displayFields: ["title"]
+    multiple: true
+  - label: "Description"
+    name: "description"
+    required: false
+    widget: "markdown"
+    hint: "A brief description of the lesson, will show up in the preview on the calendar"
+  - label: "Learning Objectives"
+    name: "objectives"
+    required: false
+    widget: "list"
+    field:
+      label: "Objective"
+      name: "objective"
+      widget: "string"
+  - label: "Body"
+    name: "body"
+    required: false
+    widget: "markdown"
+  - label: "Resources"
+    name: "resources"
+    required: false
+    widget: "relation"
+    collection: "resource"
+    searchFields: ["title", "author", "source", "link"]
+    valueField: "title"
+    displayFields: ["title"]
+    multiple: true
+  - label: "Prep Homework"
+    hint: "These links will be assigned the day before the lesson."
+    name: "prep"
+    required: false
+    widget: "list"
+    fields:
+      - label: Format
+        name: format
+        widget: string
+      - label: Title
+        name: title
+        widget: string
+      - label: URL
+        name: link
+        widget: string
+      - label: Author
+        name: author
+        widget: string
+        required: false
