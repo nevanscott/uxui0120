@@ -2,10 +2,7 @@
   font-family: var(--font-interface);
   font-size: var(--font-size-500);
   & + & {
-    margin-top: var(--space-500);
-    @media screen and (min-width: 60em) {
-      margin-top: 0;
-    }
+    margin-top: 0;
   }
   > * + * {
     margin-top: var(--space-400);
@@ -14,32 +11,11 @@
     margin-top: var(--space-400);
   }
   a {
-    background-color: var(--color-surface-muted);
-    border: none;
-    box-shadow:
-      var(--space-200)
-      var(--space-200)
-      0
-      0
-      var(--color-page)
-      ,
-      var(--space-300)
-      var(--space-300)
-      0
-      0
-      var(--color-stroke)
-      ;
+    border-top: solid 1px #DDD;
+    border-bottom: solid 1px #DDD;
     display: block;
-    padding: var(--space-400);
-
-    @media screen and (min-width: 60em) {
-      background-color: transparent;
-      border-top: solid 1px #DDD;
-      border-bottom: solid 1px #DDD;
-      box-shadow: none;
-      margin-bottom: -1px;
-      padding: var(--space-400) 0;
-    }
+    margin-bottom: -1px;
+    padding: var(--space-400) 0;
 
     > * + * {
       margin-top: var(--space-400);
