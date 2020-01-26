@@ -12,6 +12,17 @@
     calc(-1 * var(--space-500))
     var(--space-600)
     ;
+  @media screen and (min-width: 60em) {
+    border: none;
+    grid-template-columns: min-content 1fr min-content;
+    margin:
+      calc(-1 * var(--space-600))
+      calc(-1 * var(--space-700))
+      var(--space-700)
+      ;
+    padding: var(--space-600) var(--space-600);
+    position: static;
+  }
   .date {
     font-weight: 500;
   }
@@ -35,6 +46,9 @@
       justify-content: center;
       font-size: var(--font-size-700);
       font-weight: 800;
+      @media screen and (min-width: 60em) {
+        padding: var(--space-500) var(--space-600);
+      }
       &::before {
         font-family: var(--font-icon);
       }

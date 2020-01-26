@@ -48,21 +48,12 @@ main > article {
 }
 
 @media screen and (min-width: 60em) {
-  padding: var(--space-600) var(--space-700) var(--space-800);
   main > article {
+    padding: var(--space-600) var(--space-700) var(--space-800);
     > header {
       display: grid;
       grid-template-columns: 2fr 1fr;
       grid-gap: var(--space-700);
-      --color-stroke: var(--white);
-      --color-stroke-muted: var(--white);
-      --color-stroke--hover: var(--white);
-      --color-text: var(--white);
-      --color-text-muted: var(--white);
-      --color-text-label: var(--white);
-      --color-indicator: var(--white);
-      --color-decoration: var(--white);
-      background: var(--color-surface-loud);
       margin:
         calc(-1 * var(--space-600))
         calc(-1 * var(--space-700))

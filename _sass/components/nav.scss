@@ -63,7 +63,7 @@
   }
 }
 
-#menu-button, #menu-close {
+#menu-button {
   background-color: var(--color-menu-button-background);
   color: var(--color-menu-button);
   font-family: inherit;
@@ -71,18 +71,31 @@
   font-weight: bold;
   padding: var(--space-400) var(--space-500);
 }
+#menu-close {
+  align-self: flex-end;
+  background-color: transparent;
+  color: var(--color-menu-button);
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: bold;
+  padding: var(--space-500) var(--space-500);
+}
 #menu {
   animation: slidein-left .3s ease;
   display: none;
+  flex-direction: column;
   position: fixed;
   top: 0;
   bottom: 0;
   right: 0;
   z-index: 10;
-  background-color: var(--color-canvas);
+  background-color: var(--royal);
   width: 15rem;
+  > * + * {
+    margin-top: var(--space-600);
+  }
   [aria-expanded="true"] + & {
-    display: block;
+    display: flex;
   }
 }
 
@@ -104,19 +117,28 @@
 
 @media screen and (min-width: 60em) {
   .page-header {
+    display: flex;
+    flex-direction: column;
     .info {
       text-align: center;
-      margin-right: var(--space-300);
+      h1 {
+        display: block;
+      }
       a {
         padding: var(--space-700) var(--space-600) var(--space-600);
+        svg {
+          height: var(--space-700);
+          margin: auto;
+        }
       }
     }
   }
-  #menu-button {
+  #menu-button, #menu-close {
     display: none;
   }
   #menu {
-    display: block;
+    animation: none;
+    display: flex;
     position: static;
   }
 }
