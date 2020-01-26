@@ -19,13 +19,16 @@
       calc(-1 * var(--space-700))
       var(--space-700)
       ;
-    padding: var(--space-500) var(--space-600);
+    padding: var(--space-600) var(--space-600);
     position: static;
   }
   > header {
     grid-area: header;
     text-align: center;
-    padding: var(--space-400) 0;
+    padding: var(--space-500) 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     > * + * {
       margin-top: var(--space-300);
     }
