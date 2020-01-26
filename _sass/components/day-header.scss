@@ -14,7 +14,6 @@
     ;
   @media screen and (min-width: 60em) {
     border: none;
-    grid-template-columns: min-content 1fr min-content;
     margin:
       calc(-1 * var(--space-600))
       calc(-1 * var(--space-700))
