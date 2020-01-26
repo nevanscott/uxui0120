@@ -6,12 +6,21 @@ main {
 
 @media screen and (min-width: 60em) {
 	body {
+		background-color: var(--royal);
 		display: grid;
 		grid-template-columns: auto 1fr;
 		min-height: 100vh;
 	}
 
 	main {
-		box-shadow: 0 0 var(--space-700) rgba(0,0,0,0.15);
+		box-shadow:
+			calc(-1 * var(--space-400))
+			var(--space-400)
+			0
+			0
+			var(--color-page-shadow)
+			;
+		margin: var(--space-500) var(--space-500) 0 0;
+		z-index: 3;
 	}
 }

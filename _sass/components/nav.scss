@@ -125,7 +125,8 @@
         display: block;
       }
       a {
-        padding: var(--space-700) var(--space-600) var(--space-600);
+        margin-right: var(--space-400);
+        padding: var(--space-700) var(--space-600);
         svg {
           height: var(--space-700);
           margin: auto;
@@ -140,6 +141,13 @@
     animation: none;
     display: flex;
     position: static;
+    width: auto;
+    > * + * {
+      margin-top: 0;
+    }
+    > nav + nav {
+      margin-top: var(--space-600);
+    }
   }
 }
 
