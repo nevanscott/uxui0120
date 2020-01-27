@@ -1,32 +1,27 @@
 main > article {
-  padding: var(--space-600) var(--space-700) var(--space-800);
-  > *:not(header, .sidebar-layout, .week) {
+  padding: var(--space-400) var(--space-500) var(--space-600);
+  > *:not(header, div), .highlight {
     max-width: 40rem;
     margin-left: auto;
     margin-right: auto;
   }
   > header {
-    // --color-stroke: var(--white);
-    // --color-stroke-muted: var(--white);
-    // --color-stroke--hover: var(--white);
-    // --color-text: var(--white);
-    // --color-text-muted: var(--white);
-    // --color-text-label: var(--white);
-    // --color-indicator: var(--white);
-    // --color-decoration: var(--white);
     background: var(--color-surface-muted);
     color: var(--color-text);
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    grid-gap: var(--space-700);
     align-items: end;
     margin:
-      calc(-1 * var(--space-600))
-      calc(-1 * var(--space-700))
-      var(--space-700)
+      calc(-1 * var(--space-400))
+      calc(-1 * var(--space-500))
+      var(--space-600)
       ;
-    padding: var(--space-700);
+    padding: var(--space-500);
+    > * + * {
+      margin-top: var(--space-500);
+    }
     .main > * + * {
+      margin-top: var(--space-400);
+    }
+    aside > * + * {
       margin-top: var(--space-400);
     }
     .description {
@@ -36,18 +31,50 @@ main > article {
     }
   }
   > * + * {
-    margin-top: var(--space-500);
-  }
-  > * + h2 {
-    margin-top: var(--space-700);
-  }
-  > * + h3 {
-    margin-top: var(--space-600);
-  }
-  > dl > * + * {
     margin-top: var(--space-400);
   }
-  > dl > * + dt {
+  > * + h2 {
     margin-top: var(--space-600);
+  }
+  > * + h3 {
+    margin-top: var(--space-500);
+  }
+  > dl > * + * {
+    margin-top: var(--space-300);
+  }
+  > dl > * + dt {
+    margin-top: var(--space-400);
+  }
+}
+
+@media screen and (min-width: 60em) {
+  main > article {
+    padding: var(--space-600) var(--space-700) var(--space-800);
+    > header {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      grid-gap: var(--space-700);
+      margin:
+        calc(-1 * var(--space-600))
+        calc(-1 * var(--space-700))
+        var(--space-700)
+        ;
+      padding: var(--space-700);
+    }
+    > * + * {
+      margin-top: var(--space-500);
+    }
+    > * + h2 {
+      margin-top: var(--space-700);
+    }
+    > * + h3 {
+      margin-top: var(--space-600);
+    }
+    > dl > * + * {
+      margin-top: var(--space-400);
+    }
+    > dl > * + dt {
+      margin-top: var(--space-600);
+    }
   }
 }

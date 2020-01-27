@@ -1,0 +1,15 @@
+name: "unit"
+label: "Unit"
+folder: "_units"
+create: true
+slug: "{{slug}}"
+fields:
+  - label: "Title"
+    name: "title"
+    widget: "string"
+  - label: "Order"
+    name: "order"
+    widget: "number"
+  - label: "Description"
+    name: "description"
+    widget: "markdown"

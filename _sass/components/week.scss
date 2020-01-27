@@ -4,8 +4,15 @@
   grid-template-rows: repeat(6, auto);
   grid-auto-flow: column;
   grid-gap: var(--space-600) var(--space-500);
-  margin-left: calc(-1 * (var(--space-600) + var(--space-500)));
-  margin-right: calc(-1 * (var(--space-600) + var(--space-500)));
+  margin-left: calc(-1 * var(--space-500));
+  margin-right: calc(-1 * var(--space-500));
+  padding-left: var(--space-500);
+  padding-right: var(--space-500);
+  overflow-x: scroll;
+  @media screen and (min-width: 60em) {
+    margin-left: calc(-1 * var(--space-700));
+    margin-right: calc(-1 * var(--space-700));
+  }
   .calendar-date {
     display: contents;
   }

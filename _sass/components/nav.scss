@@ -1,14 +1,35 @@
 .page-header {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background-color: var(--royal);
+  display: grid;
+  grid-template-columns: 1fr min-content;
+  align-items: stretch;
+  h1 {
+    display: flex;
+    align-items: center;
+    a {
+      display: flex;
+      align-items: center;
+      padding: var(--space-500) var(--space-500);
+    }
+    svg {
+      display: block;
+      height: var(--space-600);
+      width: auto;
+    }
+  }
   a {
     border: none;
   }
   .info {
-    text-align: center;
-    margin-right: var(--space-300);
     a {
       display: block;
-      padding: var(--space-700) var(--space-600) var(--space-600);
     }
+  }
+  > nav {
+    display: contents;
   }
   nav {
     a {
@@ -35,10 +56,107 @@
       }
     }
     &.secondary {
-      margin-top: var(--space-600);
       a {
         font-weight: normal;
       }
     }
+  }
+}
+
+#menu-button {
+  background-color: var(--color-menu-button-background);
+  color: var(--color-menu-button);
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: bold;
+  padding: var(--space-400) var(--space-500);
+}
+#menu-close {
+  align-self: flex-end;
+  background-color: transparent;
+  color: var(--color-menu-button);
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: bold;
+  padding: var(--space-500) var(--space-500);
+}
+#menu {
+  animation: slidein-left .3s ease;
+  display: none;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 10;
+  background-color: var(--royal);
+  width: 15rem;
+  > * + * {
+    margin-top: var(--space-600);
+  }
+  [aria-expanded="true"] + & {
+    display: flex;
+  }
+}
+
+#menu-button[aria-expanded="true"]::after {
+  content: '';
+  display: block;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9;
+  background: var(--slate);
+  opacity: 0.9;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  transition: opacity .3s ease, -webkit-backdrop-filter .3s ease, backdrop-filter .3s ease;
+}
+
+@media screen and (min-width: 60em) {
+  .page-header {
+    display: flex;
+    flex-direction: column;
+    .info {
+      text-align: center;
+      h1 {
+        display: block;
+      }
+      a {
+        margin-right: var(--space-400);
+        padding: var(--space-700) var(--space-600) calc(var(--space-600) + var(--space-500));
+        svg {
+          height: var(--space-700);
+          margin: auto;
+        }
+      }
+    }
+  }
+  #menu-button, #menu-close {
+    display: none;
+  }
+  #menu {
+    animation: none;
+    display: flex;
+    position: static;
+    width: auto;
+    > * + * {
+      margin-top: 0;
+    }
+    > nav + nav {
+      margin-top: var(--space-600);
+    }
+  }
+}
+
+@keyframes slidein-left {
+  0% {
+    transform:translateX(15rem);
+  }
+
+  to {
+    transform:translateX(0);
   }
 }

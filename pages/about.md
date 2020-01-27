@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 description: |
-  This is the course website of the UX/UI bootcamp at Ironhack in Barcelona, April–May 2019. [Nevan Scott](http://nevanscott.com/) teaches this 9-week bootcamp at [Ironhack Barcelona](http://www.ironhack.com/en/locations/barcelona).
+  This is the course website of the UX/UI bootcamp at Ironhack in Barcelona, January–March 2020. [Nevan Scott](http://nevanscott.com/) teaches this 9-week bootcamp at [Ironhack Barcelona](http://www.ironhack.com/en/locations/barcelona).
 icon: info-circle
 ---
 

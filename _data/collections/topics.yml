@@ -1,0 +1,22 @@
+name: "topic"
+label: "Topic"
+folder: "_topics"
+create: true
+slug: "{{slug}}"
+fields:
+  - label: "Title"
+    name: "title"
+    widget: "string"
+  - label: "Description"
+    name: "description"
+    required: false
+    widget: "markdown"
+  - label: "See"
+    name: "see"
+    required: false
+    widget: "relation"
+    collection: "topic"
+    searchFields: ["title", "description"]
+    valueField: "title"
+    displayFields: ["title"]
+    multiple: false

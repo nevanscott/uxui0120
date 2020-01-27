@@ -1,0 +1,37 @@
+name: resource
+label: Resource
+folder: _resources
+create: true
+slug: "{{slug}}"
+fields:
+  - label: Title
+    name: title
+    widget: string
+  - label: URL
+    name: link
+    widget: string
+  - label: Topics
+    name: topics
+    required: false
+    widget: relation
+    collection: topic
+    searchFields: ["title", "description"]
+    valueField: title
+    displayFields: ["title"]
+    multiple: true
+  - label: Subtitle
+    name: subtitle
+    required: false
+    widget: string
+  - label: Author
+    name: author
+    required: false
+    widget: string
+  - label: Source
+    name: source
+    required: false
+    widget: string
+  - label: Body
+    name: body
+    required: false
+    widget: markdown

@@ -1,0 +1,41 @@
+name: "project"
+label: "Project"
+folder: "_projects"
+create: true
+slug: "{{slug}}"
+fields:
+  - label: "Title"
+    name: "title"
+    widget: "string"
+  - label: "Unit"
+    name: "unit"
+    widget: "relation"
+    collection: "unit"
+    searchFields: ["title", "description"]
+    valueField: "order"
+    displayFields: ["order", "title"]
+  - label: "Assigned"
+    name: "assigned"
+    widget: "number"
+    valueType: "int"
+    min: 1
+    max: 45
+  - label: "Due"
+    name: "due"
+    widget: "number"
+    valueType: "int"
+    min: 1
+    max: 45
+  - label: "Topics"
+    name: "topics"
+    required: false
+    widget: "relation"
+    collection: "topic"
+    searchFields: ["title", "description"]
+    valueField: "title"
+    displayFields: ["title"]
+    multiple: true
+  - label: "Body"
+    name: "body"
+    required: false
+    widget: "markdown"
