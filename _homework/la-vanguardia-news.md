@@ -13,7 +13,7 @@ As always, time-box yourself for 30 minutes, and do as much as you can. [Here's]
 
 ![](/assets/images/2020-01-24T130204Z_181917991_RC2DME9M6URQ_RTRMADP_3_CHINA-HEALTH-THAILAND_20200124140527-kUtC-U473099366546IiH-992x558@LaVanguardia-Web.jpg)
 
-**Hint**: use [Fig](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure) and [Figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure).
+**Hint**: use [Figure](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure) and [Figcaption](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure).
 
 ## Website copy
 
