@@ -7,10 +7,10 @@
 {%- endif %}
 {%- for lesson in lessons -%}
   {%- for post in lesson.prep -%}
-    {% include post/card.html compact=true %}
+    {% include post/preview.html strong=include.strong compact=include.compact %}
   {%- endfor -%}
 {%- endfor -%}
 {%- for post in homework -%}
   {%- assign label = post.format | default:"Homework" -%}
-  {% include post/card.html label=label compact=true %}
+  {% include post/preview.html label=label strong=include.strong compact=include.compact %}
 {%- endfor -%}

@@ -4,18 +4,17 @@
 {%- assign due = homework | concat: lessons | concat: projects -%}
 {% if due.size > 0 -%}
   <h2>Due Today</h2>
-{%- else -%}
 {%- endif %}
+{% for post in projects -%}
+  {%- assign label = "Project Due" -%}
+  {% include post/preview.html label=label shout=true strong=include.strong compact=include.compact %}
+{%- endfor -%}
 {%- for lesson in lessons -%}
   {%- for post in lesson.prep -%}
-    {% include post/card.html compact=true %}
+    {% include post/preview.html strong=include.strong compact=include.compact %}
   {%- endfor -%}
 {%- endfor -%}
 {%- for post in homework -%}
   {%- assign label = post.format | default:"Homework" -%}
-  {% include post/card.html label=label compact=true %}
-{%- endfor -%}
-{%- for post in projects -%}
-  {%- assign label = "Project Due" -%}
-  {% include post/card.html label=label compact=true %}
-{%- endfor -%}
+  {% include post/preview.html label=label strong=include.strong compact=include.compact %}
+{%- endfor %}

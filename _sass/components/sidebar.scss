@@ -1,4 +1,4 @@
-.sidebar-layout {
+.sidebar-layout, .two-sidebar-layout {
   > * + * {
     margin-top: var(--space-600);
   }
@@ -11,10 +11,9 @@
   > * > * + h3 {
     margin-top: var(--space-400);
   }
-  @media screen and (min-width: 60em) {
+  @media screen and (min-width: 40em) {
     display: grid;
-    grid-template-columns: 2fr 1fr;
-    grid-gap: var(--space-700);
+    grid-gap: var(--space-600);
     > * + * {
       margin-top: 0;
     }
@@ -22,10 +21,44 @@
       margin-top: var(--space-500);
     }
     > * > * + h2 {
-      margin-top: var(--space-700);
+      margin-top: var(--space-600);
     }
     > * > * + h3 {
       margin-top: var(--space-600);
     }
+  }
+  @media screen and (min-width: 75em) {
+    grid-gap: var(--space-700);
+  }
+}
+
+.sidebar-layout {
+  @media screen and (min-width: 40em) {
+    grid-template-columns: 2fr 1fr;
+  }
+}
+
+.two-sidebar-layout {
+  @media screen and (min-width: 40em) {
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: min-content 1fr;
+    grid-template-areas:
+      "content sidebar1"
+      "content sidebar2"
+      ;
+    .not-sidebar {
+      grid-area: content;
+    }
+    .sidebar-1 {
+      grid-area: sidebar1;
+    }
+    .sidebar-2 {
+      grid-area: sidebar2;
+    }
+  }
+  @media screen and (min-width: 75em) {
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: "sidebar1 content sidebar2";
   }
 }

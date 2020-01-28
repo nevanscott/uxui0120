@@ -3,5 +3,5 @@
   <h2>In Class</h2>
 {%- endif %}
 {%- for post in lessons -%}
-  {% include post/preview.html strong=true %}
+  {% include post/preview.html strong=true label="Lesson" strong=include.strong compact=include.compact %}
 {%- endfor -%}

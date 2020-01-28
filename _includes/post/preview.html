@@ -1,4 +1,7 @@
-<article class="preview{% if include.compact %}--compact{% endif %}">
+<article class="preview
+  {%- if include.compact %} preview--compact{%- endif -%}
+  {%- if include.shout %} preview--shout{%- endif -%}
+">
   <a{% if include.strong %} class="strong"{% endif %} href="{{ post.link | default:post.url }}">
     {% if include.label or post.format -%}
       <div class="label">{{ include.label | default:post.format }}</div>
@@ -12,11 +15,13 @@
           {%- endif -%}
         </span>
       </h3>
-      {% if post.due %}
-        <time>due&nbsp;{{ post.due | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</time>
-      {% elsif post.day %}
-        <time>{{ post.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</time>
-      {% endif %}
+      {% unless include.compact -%}
+        {%- if post.due -%}
+          <time>due&nbsp;{{ post.due | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</time>
+        {%- elsif post.day -%}
+          <time>{{ post.day | class_date: site.data.course.start_date | date: "%B&nbsp;%-d,&nbsp;%Y" }}</time>
+        {%- endif -%}
+      {%- endunless %}
     </header>
     <div class="meta">
       {% if post.author -%}
@@ -29,6 +34,8 @@
         <span class="source-url">{{ post.link | remove:"http://" | remove:"https://" | remove:"www." | split:"/" | first }}</span>
       {%- endif %}
     </div>
-    {{ post.description | markdownify }}
+    {% unless include.compact -%}
+      {{ post.description | markdownify }}
+    {%- endunless %}
   </a>
 </article>

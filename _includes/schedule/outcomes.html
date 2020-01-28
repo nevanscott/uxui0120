@@ -5,5 +5,5 @@
   <h2 class="label">Career Services</h2>
 {%- endif %}
 {%- for post in outcomes -%}
-  {% include post/preview.html %}
+  {% include post/preview.html strong=include.strong compact=include.compact %}
 {%- endfor -%}

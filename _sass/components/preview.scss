@@ -15,7 +15,9 @@
     border-bottom: solid 1px #DDD;
     display: block;
     margin-bottom: -1px;
-    padding: var(--space-400) 0;
+    margin-left: calc(-1 * var(--space-300));
+    margin-right: calc(-1 * var(--space-300));
+    padding: var(--space-400) var(--space-300);
 
     > * + * {
       margin-top: var(--space-400);
@@ -28,12 +30,13 @@
     }
 
     &:hover {
+      background-color: #F9F9F9;
       h3 .title {
         border-bottom: solid 2px var(--color-stroke--hover);
       }
     }
 
-    &.strong, &.next, &.back {
+    &.strong, &.next, &.back, &[href^="http"] {
       &::before {
         content: '→';
         color: var(--color-indicator);
@@ -44,17 +47,17 @@
         line-height: 1;
         margin-left: var(--space-300);
       }
-      &[href^="http"] {
-        &::before {
-          content: "↗";
-          // transform: translateY(2px);
-        }
-      }
     }
 
     &.back {
       h3::before {
         content: "←";
+      }
+    }
+
+    &[href^="http"] {
+      &::before {
+        content: "↗";
       }
     }
   }
@@ -124,11 +127,17 @@
 }
 
 .preview--compact {
-  h3 {
-    font-size: var(--font-size-600);
+  .label {
+    font-size: var(--font-size-300);
   }
-  & + & {
-    margin-top: var(--space-500);
+  h3 {
+    font-size: inherit;
+    font-weight: 600;
+    line-height: 1.2;
+  }
+  .meta, .description {
+    color: var(--color-text-muted);
+    font-size: var(--font-size-300);
   }
   > * + * {
     margin-top: var(--space-100);
@@ -137,11 +146,35 @@
     > * + * {
       margin-top: var(--space-100);
     }
+    &.strong, &.next, &.back, &[href^="http"] {
+      &::before {
+        font-size: var(--font-size-600);
+      }
+    }
   }
   * + .source-url {
     margin-left: 0;
   }
   .source-url {
     display: block;
+  }
+}
+
+.preview--shout {
+  a {
+    --color-text: var(--white);
+    --color-text-muted: var(--white);
+    --color-text-label: var(--white);
+    --color-indicator: var(--white);
+    --color-decoration: var(--white);
+    --color-stroke--hover: var(--white);
+    background-color: var(--royal);
+    border-color: var(--royal);
+    padding-left: var(--space-400);
+    padding-right: var(--space-400);
+    &:hover {
+      background-color: var(--plum);
+      border-color: var(--plum);
+    }
   }
 }
