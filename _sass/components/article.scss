@@ -24,6 +24,16 @@ main > article {
     aside > * + * {
       margin-top: var(--space-400);
     }
+    .format, .day {
+      color: var(--color-text-muted);
+      display: block;
+      font-size: var(--font-size-400);
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+    .format + & {
+      margin-top: var(--space-200);
+    }
     .description {
       font-family: var(--font-heading);
       font-size: var(--font-size-600);
