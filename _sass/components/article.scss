@@ -1,6 +1,6 @@
 main > article {
   padding: var(--space-400) var(--space-500) var(--space-600);
-  > *:not(header, div), .highlight {
+  > :not(header):not(div), > .highlight {
     max-width: 40rem;
     margin-left: auto;
     margin-right: auto;
