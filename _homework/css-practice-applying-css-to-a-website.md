@@ -2,8 +2,8 @@
 title: CSS Practice - Applying CSS to a website
 unit: 4
 format: Practice
-assigned: 13
-due: 14
+assigned: 45
+due: 45
 ---
 Our friend Robert is happy with the HTML we showed him, but he has asked us now to style it a little bit. Locate the files we worked with in the HTML exercise.
 
