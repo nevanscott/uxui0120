@@ -1,7 +1,7 @@
 ---
 title: Visual Design
 unit: 2
-day: 17
+day: 16
 topics:
   - Typography
   - Composition
@@ -26,31 +26,22 @@ prep:
     link: 'https://ia.net/topics/learning-to-see'
     title: Learning to See
 ---
-
 <!-- <img class="illo aside" src="/assets/images/crap.png" alt="Illustration of CRAP design principles: contrast, repetition, alignment, and proximity" /> -->
 
+## Starter Files
 
-Starter Files
--------------
+* Type and Composition <small>(<a download href="{{ site.baseurl }}/files/Type and Composition.sketch">Download</a>)</small>
 
-- Type and Composition <small>(<a download href="{{ site.baseurl }}/files/Type and Composition.sketch">Download</a>)</small>
+## Resources
 
+* [A CRAP way to improve usability](https://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html) by David Travis
+* Explore typographic layouts at [Typewolf](https://www.typewolf.com)
 
-Resources
----------
+## Further Reading
 
-- [A CRAP way to improve usability](https://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html) by David Travis
-- Explore typographic layouts at [Typewolf](https://www.typewolf.com)
+* [Learning to See](https://ia.net/topics/learning-to-see) by Oliver Reichenstein
 
+## Tools
 
-Further Reading
----------------
-
-- [Learning to See](https://ia.net/topics/learning-to-see) by Oliver Reichenstein
-
-
-Tools
------
-
-- [Google Fonts](https://fonts.google.com)
-- [SkyFonts](https://skyfonts.com) to sync web fonts from Google Fonts
+* [Google Fonts](https://fonts.google.com)
+* [SkyFonts](https://skyfonts.com) to sync web fonts from Google Fonts
