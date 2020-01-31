@@ -1,7 +1,7 @@
 ---
 title: Responsive Layout
 unit: 3
-day: 16
+day: 45
 topics:
   - HTML
   - CSS
@@ -16,3 +16,4 @@ prep:
       https://www.smashingmagazine.com/2015/04/using-sketch-for-responsive-web-design-case-study/
     title: Using Sketch For Responsive Web Design
 ---
+
