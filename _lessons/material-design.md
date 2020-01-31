@@ -1,7 +1,7 @@
 ---
 title: Material Design
 unit: 2
-day: 18
+day: 17
 topics:
   - Design Systems
   - Native App

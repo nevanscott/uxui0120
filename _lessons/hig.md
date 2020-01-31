@@ -1,7 +1,7 @@
 ---
 title: Human Interface Guidelines
 unit: 2
-day: 18
+day: 17
 topics:
   - Native App
   - Navigation

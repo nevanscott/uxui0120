@@ -2,8 +2,8 @@
 title: Restaurant Menu Redesign
 unit: 2
 format: Practice
-assigned: 17
-due: 20
+assigned: 50
+due: 60
 ---
 
 To start practicing your typography and composition chops, we're going to take a break from designing for the screen and turn our attention to print.

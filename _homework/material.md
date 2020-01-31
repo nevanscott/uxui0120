@@ -2,8 +2,8 @@
 title: Material Design
 unit: 2
 format: Reading
-assigned: 17
-due: 18
+assigned: 16
+due: 17
 ---
 
 Brief
