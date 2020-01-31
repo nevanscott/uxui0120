@@ -125,5 +125,5 @@ Remember that design challenges are tackled by alternating divergent and converg
 
 ## Give feedback to your peers!
 
-* [Presentation feedback](https://drive.google.com/drive/folders/1sg4LpehV9RWbZ5aI2ldmVB1w12kX8QGu)
+* [Presentation feedback](https://drive.google.com/drive/folders/1m6kDjOU4LHkJxZ5ja7V3D5i6XRJ74hBA)
 * [Group retrospective](https://drive.google.com/drive/folders/1tlxw6iBfKunzOItsR_Bc-OT1Fw7oEL4t)
