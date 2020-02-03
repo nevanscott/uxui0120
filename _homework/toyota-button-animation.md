@@ -11,6 +11,8 @@ You are professionals at creating buttons now. Right! ;) Ok today we will practi
 
 ![](/assets/images/Screen Shot 2020-02-03 at 4.58.56 PM.png)
 
-[Translate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate) 
 
-[Transition](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
+
+\* Hint 
+
+:[transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
