@@ -1,7 +1,7 @@
 ---
 title: Inspiration and Aspiration
 unit: 2
-day: 20
+day: 18
 topics:
   - User Interface
   - Inspiration
