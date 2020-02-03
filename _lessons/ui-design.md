@@ -1,7 +1,7 @@
 ---
 title: Color Systems
 unit: 2
-day: 20
+day: 18
 topics:
   - Color
   - User Interface
