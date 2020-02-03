@@ -13,6 +13,6 @@ You are professionals at creating buttons now. Right! ;) Ok today we will practi
 
 \* Hint 
 
-[:transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+[Transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 
 [Transition ](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
