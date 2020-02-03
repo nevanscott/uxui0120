@@ -14,3 +14,9 @@ Today we will practice creating [responsive menus](https://drive.google.com/driv
 Menu example when at mobile size:
 
 ![](/assets/images/Screen Shot 2020-02-03 at 3.22.47 PM.png)
+
+Hint:
+
+[Display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+
+[Flex-Direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction)
