@@ -7,6 +7,8 @@ topics:
 description: >
   We'll try out a couple of card sorting techniques to help us more objectively
   gauge the desirability and aesthetic appeal of our designs.
+resources:
+  - First Impressions Matter
 prep:
   - format: Video
     link: 'https://www.nngroup.com/videos/5-second-usability-test/'
@@ -14,10 +16,5 @@ prep:
   - format: Reading
     link: 'https://www.nngroup.com/articles/testing-visual-design/'
     title: How to test visual design
-  - format: Reading
-    link: 'https://www.nngroup.com/articles/first-impressions-human-automaticity/'
-    title: >-
-      First Impressions Matter: How Designers Can Support Automatic Cognitive
-      Processing
 ---
 
