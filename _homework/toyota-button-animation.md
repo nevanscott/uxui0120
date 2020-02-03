@@ -1,7 +1,7 @@
 ---
-title: Toyota-Button Animation
+title: Toyota-Animation on buttons
 unit: 4
-format: Daily HTML/ CSS Pranctice
+format: Daily HTML/ CSS Practice
 assigned: 16
 due: 17
 ---
