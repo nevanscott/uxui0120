@@ -1,7 +1,7 @@
 ---
 title: Desirability Testing
 unit: 2
-day: 20
+day: 19
 topics:
   - Testing
 description: >
@@ -20,3 +20,4 @@ prep:
       First Impressions Matter: How Designers Can Support Automatic Cognitive
       Processing
 ---
+
