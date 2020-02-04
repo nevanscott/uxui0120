@@ -17,6 +17,8 @@ Menu example when at mobile size:
 
 Hint:
 
+[Inline Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)
+
 [Display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 
 [Flex-Direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction)
