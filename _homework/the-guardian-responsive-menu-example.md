@@ -5,7 +5,7 @@ format: 'Daily HTML/ CSS Practice '
 assigned: 17
 due: 18
 ---
-Today we will practice creating [responsive menus](https://drive.google.com/drive/folders/1WR3vxO9BU1glbIhwoMsH_D2GHIABVtgt). 
+Today we will practice creating [responsive menus](https://drive.google.com/drive/folders/1WR3vxO9BU1glbIhwoMsH_D2GHIABVtgt). [Using block an inline layout. ](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/Block_and_Inline_Layout_in_Normal_Flow)
 
 • Menu example when expanded:
 
