@@ -2,8 +2,8 @@
 title: Cactus Store
 unit: 7
 format: Daily Sketch Practice
-assigned: 16
-due: 17
+assigned: 17
+due: 18
 ---
 Good evening guys!
 
