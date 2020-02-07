@@ -16,4 +16,3 @@ prep:
       https://www.smashingmagazine.com/2015/04/using-sketch-for-responsive-web-design-case-study/
     title: Using Sketch For Responsive Web Design
 ---
-
