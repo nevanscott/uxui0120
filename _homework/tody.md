@@ -1,5 +1,5 @@
 ---
-title: Tody
+title: Tody- CRAP and Variations
 unit: 7
 format: Daily Sketch Practice
 assigned: 20
