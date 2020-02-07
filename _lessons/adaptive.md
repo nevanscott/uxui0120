@@ -1,7 +1,6 @@
 ---
 title: Adaptive Interfaces
 unit: 3
-day: 26
 topics:
   - Progressive Disclosure
   - Staged Disclosure

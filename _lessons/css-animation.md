@@ -1,7 +1,6 @@
 ---
 title: CSS Animations
 unit: 4
-day: 28
 topics:
   - CSS Animation
   - CSS
