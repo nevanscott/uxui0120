@@ -1,7 +1,7 @@
 ---
 title: Web App Design
 unit: 3
-day: 32
+day: 28
 topics: []
 description: >
   We'll look at some examples of dashboards and discuss some best practices for

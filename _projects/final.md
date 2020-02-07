@@ -1,7 +1,7 @@
 ---
 title: Final Project
 unit: 5
-assigned: 35
+assigned: 34
 due: 45
 description: Design a digital product based on a briefing from a real company.
 ---

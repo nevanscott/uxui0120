@@ -24,7 +24,7 @@ A good example of a SaaS is [Gusto](https://gusto.com/)
 ## Setup
 
 * Individual
-* 2 weeks <small>(1 week of prep, 1 dedicated week)</small>
+* 2 weeks
 
 ## Materials
 
