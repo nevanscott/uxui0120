@@ -1,7 +1,7 @@
 ---
 title: Observational Research
 unit: 3
-day: 24
+day: 26
 topics:
   - User Research
   - User Journey

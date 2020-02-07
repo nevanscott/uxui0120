@@ -1,7 +1,7 @@
 ---
 title: Group crits
 format: Group crit
-day: 26
+day: 24
 ---
 
 We will meet for a group crit session that will last around 45 minutes. The objective of this session is to open ourselves to feedback from another point of view and to practice our own skills giving feedback.

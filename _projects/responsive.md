@@ -36,33 +36,33 @@ In this project you’ll be putting more information architecture, content strat
 
 ## Suggested road map
 
-**Thursday**
-
-* Project plan
-* Content audit
-* Navigation structure, based on card sorting
-
-**Friday**
-
-* Style tile (at least three options)
-* Layout sketches of article page, section page, and homepage
-
 **Monday**
 
-* First visual design mockups of at least three screens, with three options each, at mobile and desktop sizes (18 artboards)
-* Group Crits
+* Project plan
 
 **Tuesday**
 
+* Content audit
+* Navigation structure, based on card sorting
+* Style tile (at least three options)
+
+**Wednesday**
+
+* Layout sketches of article page, section page, and homepage
+* First visual design mockups of at least three screens, with three options each, at mobile and desktop sizes (18 artboards)
+
+**Thursday**
+
+* Group Crits
 * HTML structure and content for at least one page
 * Final design mockups of three pages at mobile and desktop sizes
 
-**Wednesday morning**
+**Friday morning**
 
 * CSS for your HTML page, responsive
 * Rehearsals
 
-**Wednesday afternoon** (downstairs, invite other classes)
+**Friday afternoon**
 
 * Presentations (6 minutes)
 

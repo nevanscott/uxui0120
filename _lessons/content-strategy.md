@@ -1,7 +1,7 @@
 ---
 title: Content Strategy
 unit: 3
-day: 25
+day: 22
 topics:
   - Information Architecture
   - Content
