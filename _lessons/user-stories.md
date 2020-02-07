@@ -1,7 +1,7 @@
 ---
 title: User Stories
 unit: 3
-day: 38
+day: 37
 topics:
   - Agile
   - Prioritization
