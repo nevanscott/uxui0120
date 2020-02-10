@@ -2,8 +2,8 @@
 title: Android Games
 unit: 7
 format: Daily Sketch Practice
-assigned: 20
-due: 21
+assigned: 21
+due: 22
 ---
 Get your iOS <> Android translator ready! 
 
