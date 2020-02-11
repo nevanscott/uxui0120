@@ -2,8 +2,8 @@
 title: Daily Sketch Practice
 unit: 7
 format: 'Define Your Concept '
-assigned: 17
-due: 18
+assigned: 22
+due: 23
 ---
 Today we are going to continue to develop components associated with concept. 
 
