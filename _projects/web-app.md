@@ -33,7 +33,7 @@ A good example of a SaaS is [Gusto](https://gusto.com/)
 
 ## Project Scope
 
-You will be designing a **new** solution. If the company is already using a product, then it is a competitor, and you should design a superior software. *Don’t try to change the existing product.*
+You will be designing a **new** product. If a company you research is already using a product, then that product is a competitor, and you should design something superior. *Don’t try to change the existing product.*
 
 Because you are launching this product, you need to ensure that this is a service that would be useful to *multiple companies*.
 
@@ -43,11 +43,11 @@ Because you are launching this product, you need to ensure that this is a servic
 * Roadmap for next 3-6 months <small>(additional features beyond the MVP that will be rolled out in the future)</small>
 * Landing page that explains what your product is <small>(responsive)</small>
 * Presentation of research and final proposal
-* Report as [Medium](https://medium.com/) article
+* Research and design report as a PDF
 
 ## Research
 
-You are required to find people inside companies to talk to. You should focus on tech-forward companies that have grown to a number where they are starting to need some HR-related system (probably at least 8-10 people). This is why it is critical to start now so that you have time to plan and visit offices in the first week. Research can be done remotely over video conference if you are connected to companies elsewhere.
+You are required to find people *inside* companies to talk to. You should focus on tech-forward companies that have grown to a number where they are starting to need some onboarding-related tools (probably at least 8-10 people). This is why it is critical to start now so that you have time to plan and visit offices in the first week of the project. Research can be done remotely over video conference if you are connected to companies elsewhere.
 
 ## As you research
 
@@ -62,28 +62,28 @@ Considerations as you investigate how companies currently accomplish onboarding:
 * Expand your research to at least 2-3 companies to try to find as much variety of information and needs as you can.
 * Find someone who works in HR to get their perspective, as well as managers and employees (preferably low-level).
 * Look to LinkedIn, Slack, or leverage your existing networks to find potential contacts and interviewees.
-* Run usability tests with real users in co-working spaces (e.g. WeWork, Spaces).
+* Run usability tests with real users—try scheduling these in advance.
 * Early in the process try to visit companies and shadow employees to observe their current process, behaviors and pain points.
 
 ## Roadmap
 
 ### Weekend
 
-* Start networking and schedule interviews and site visits
+* Start networking to schedule interviews and site visits
 
 ### Monday
 
 * Interviews and observation
 * Competitive Analysis
-* Gather information
+* Desk research
 
 ### Tuesday
 
 * Continue interviews and observation
+* Affinity Diagram *Use post-its on a wall!*
 
 ### Wednesday
 
-* Affinity Diagram
 * User Persona
 * Problem Statement
 * User Stories / Task Analysis / Scenarios / Use cases
@@ -125,12 +125,13 @@ Considerations as you investigate how companies currently accomplish onboarding:
 
 ### Thursday
 
+* Print your reports
 * Be fabulous in front of the jury!
 
 
 ## Presentation (6 minutes)
 
-You will present in front of a jury panel composed of 2 UX/UI Designers. Think of this as an opportunity to get an outside opinion from someone who is actively and currently working in the field. Working in a high pressure situation in a safe environment is going to be great practice for you ahead of job interviews.
+You will present in front of a jury panel composed of 2 UX/UI designers. Think of this as an opportunity to get an outside opinion from someone who is actively and currently working in the field. Working in a high pressure situation in a safe environment is going to be great practice for you ahead of job interviews.
 
 Your presentation should answer the following questions:
 
