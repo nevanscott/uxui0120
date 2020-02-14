@@ -1,5 +1,5 @@
 ---
-title: Web! App!
+title: Onboarding Web App
 unit: 3
 assigned: 25
 due: 34
@@ -12,9 +12,9 @@ topics:
   - User Story
   - Information Architecture
 ---
-You are working for a new startup that is looking to launch a software as a service (SaaS) desktop web app for companies to use internally. You will be researching the market and meeting with employees to determine the needs of the business and then developing an MVP based upon your findings.
+You are working for a new startup that is looking to launch a software as a service (SaaS) desktop web app for companies to use internally for their onboarding process. You will be researching the market and meeting with employees to determine the needs of the business and then developing an MVP based upon your findings.
 
-Thus far, we have been designing for customers as the end user, but now you have to consider multiple kinds of users:
+So far, we have been designing for customers as the end user, but now you have to consider multiple kinds of users:
 
 * Businesses that make the purchasing decisions, so you will need to convince them that this is a valuable service
 * Employees at the company who will actually be using the service
@@ -33,60 +33,55 @@ A good example of a SaaS is [Gusto](https://gusto.com/)
 
 ## Project Scope
 
-You will be designing a new solution. If the company is already using a product, then it is a competitor, and you should design a superior software. Don’t try to change the existing product.
+You will be designing a **new** solution. If the company is already using a product, then it is a competitor, and you should design a superior software. *Don’t try to change the existing product.*
 
-Because you are launching this product, you need to ensure that this is a service that would be useful to multiple companies.
+Because you are launching this product, you need to ensure that this is a service that would be useful to *multiple companies*.
 
 ## Deliverables
 
 * Prototype of the MVP for a desktop <small>(high-fidelity)</small>
 * Roadmap for next 3-6 months <small>(additional features beyond the MVP that will be rolled out in the future)</small>
-* Landing page that explains what your product is <small>(optional)</small>
+* Landing page that explains what your product is <small>(responsive)</small>
 * Presentation of research and final proposal
 * Report as [Medium](https://medium.com/) article
 
 ## Research
 
-You are required to find people inside companies to talk to. You should focus on startup companies in the tech industry that have grown to a number where they are starting to need some HR-related system (at least 8-10 people). This is why it is critical to start ahead so that you have time to plan and visit offices prior to the dedicated project week. Research can be done through Skype if you are connected to companies elsewhere.
+You are required to find people inside companies to talk to. You should focus on tech-forward companies that have grown to a number where they are starting to need some HR-related system (probably at least 8-10 people). This is why it is critical to start now so that you have time to plan and visit offices in the first week. Research can be done remotely over video conference if you are connected to companies elsewhere.
 
-## Suggested categories <small>Pick only one</small>
+## As you research
 
-* Vacation / Time-off Management
-* Performance Reviews
-* Time Tracking
-* Benefits Management
-* Hiring Process
-* Filing Complaints Internally
-* Onboarding Process
-* Professional Development
+Considerations as you investigate how companies currently accomplish onboarding:
 
-Considerations to assist in determining where to focus:
-
-* **Is this area functional?** Is the system already in place and working well? If it is, rule out and move on.
-* **Is this area dysfunctional?** The system is in place but lots of complaints, not well executed, working poorly. How can we make this better and compete in the space? It is a good area to explore.
-* **Is this area ad-hoc (thrown together) or non-existent?** Not yet a complete system or process, nothing concrete in place. There is a lot of room for innovation and ideation and it is a good area to explore.
+* **Are aspects already functional?** Is there a system already in place and working well? If it is, what can you learn from how that system works to design our product?
+* **Are any aspects dysfunctional?** A system may be in place but there are lots of complaints, it's not well executed, or may be working poorly. How can we make this better and compete in the space?
+* **Are any areas ad-hoc (thrown together) or non-existent?** Not yet a complete system or process, nothing concrete in place. There is a lot of room for innovation and ideation and these are great areas to explore further since the bar for improvement may be lower.
 
 ## Suggestions
 
-* Find someone you want to talk to and in your initial conversation investigate the above and narrow down the pain points to determine in which area to focus on. This is generative research.
-* Expand your research to other companies based on the area you have decided to focus on.
-* Find someone who works in HR to get their perspective, as well as employees (preferably low-level).
-* Look to LinkedIn, Slack or leverage your existing networks to find potential contacts and interviewees.
-* Run usability tests with real users in coworking spaces (e.g. WeWork, Spaces).
-* Early in the week try to visit companies and shadow employees to observe their current process, behaviors and pain points.
+* Expand your research to at least 2-3 companies to try to find as much variety of information and needs as you can.
+* Find someone who works in HR to get their perspective, as well as managers and employees (preferably low-level).
+* Look to LinkedIn, Slack, or leverage your existing networks to find potential contacts and interviewees.
+* Run usability tests with real users in co-working spaces (e.g. WeWork, Spaces).
+* Early in the process try to visit companies and shadow employees to observe their current process, behaviors and pain points.
 
 ## Roadmap
 
-### Prep
+### Weekend
 
-* Preliminary research
-* Network and schedule interviews and site visits
+* Start networking and schedule interviews and site visits
+
+### Monday
+
 * Interviews and observation
-* Choose the category to focus on
-* Competitive Analysis Analysis
+* Competitive Analysis
 * Gather information
 
-### Thursday + Friday + Weekend
+### Tuesday
+
+* Continue interviews and observation
+
+### Wednesday
 
 * Affinity Diagram
 * User Persona
@@ -94,6 +89,14 @@ Considerations to assist in determining where to focus:
 * User Stories / Task Analysis / Scenarios / Use cases
 * Design Studio / Ideation
 * Feature prioritization (MoSCoW)
+
+### Thursday
+
+* Responsive Editorial Project presentations downstairs
+
+### Friday: Hackathon
+
+* Plan on having no availability this day to work on the project
 
 ### Monday
 
@@ -116,9 +119,14 @@ Considerations to assist in determining where to focus:
 
 ### Wednesday
 
+* Prepare research and design report
 * Build presentation
 * Practice presentation
+
+### Thursday
+
 * Be fabulous in front of the jury!
+
 
 ## Presentation (6 minutes)
 
