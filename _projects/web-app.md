@@ -3,7 +3,6 @@ title: Onboarding Web App
 unit: 3
 assigned: 25
 due: 34
-description: Design a new desktop web app for companies to use internally.
 topics:
   - Writing
   - Prioritization
@@ -54,8 +53,8 @@ You are required to find people *inside* companies to talk to. You should focus 
 Considerations as you investigate how companies currently accomplish onboarding:
 
 * **Are aspects already functional?** Is there a system already in place and working well? If it is, what can you learn from how that system works to design our product?
-* **Are any aspects dysfunctional?** A system may be in place but there are lots of complaints, it's not well executed, or may be working poorly. How can we make this better and compete in the space?
-* **Are any areas ad-hoc (thrown together) or non-existent?** Not yet a complete system or process, nothing concrete in place. There is a lot of room for innovation and ideation and these are great areas to explore further since the bar for improvement may be lower.
+* **Are any aspects dysfunctional?** A system may be in place but there are lots of complaints, it's may not be well executed, or may be working poorly. How can we make this better and compete in the space?
+* **Are any areas ad-hoc (thrown together) or non-existent?** Maybe there is not yet a complete system or process or nothing concrete is in place. There is a lot of room for innovation and ideation and these are great areas to explore further since the bar for improvement may be lower.
 
 ## Suggestions
 
@@ -69,7 +68,7 @@ Considerations as you investigate how companies currently accomplish onboarding:
 
 ### Weekend
 
-* Start networking to schedule interviews and site visits
+* Start networking to schedule interviews and site visits at companies. 
 
 ### Monday
 
@@ -80,7 +79,7 @@ Considerations as you investigate how companies currently accomplish onboarding:
 ### Tuesday
 
 * Continue interviews and observation
-* Affinity Diagram *Use post-its on a wall!*
+* Affinity Diagram. *Use post-its on a wall!*
 
 ### Wednesday
 
@@ -92,11 +91,11 @@ Considerations as you investigate how companies currently accomplish onboarding:
 
 ### Thursday
 
-* Responsive Editorial Project presentations downstairs
+* Responsive Editorial Project presentations will be downstairs.
 
 ### Friday: Hackathon
 
-* Plan on having no availability this day to work on the project
+* Plan on having no availability this day to work on the project.
 
 ### Monday
 
@@ -119,19 +118,18 @@ Considerations as you investigate how companies currently accomplish onboarding:
 
 ### Wednesday
 
-* Prepare research and design report
-* Build presentation
-* Practice presentation
+* Prepare your research and design report.
+* Build your presentation.
+* Practice your presentation.
 
 ### Thursday
 
-* Print your reports
+* Print your reports.
 * Be fabulous in front of the jury!
-
 
 ## Presentation (6 minutes)
 
-You will present in front of a jury panel composed of 2 UX/UI designers. Think of this as an opportunity to get an outside opinion from someone who is actively and currently working in the field. Working in a high pressure situation in a safe environment is going to be great practice for you ahead of job interviews.
+You will present in front of a jury panel composed of 2 UX/UI designers. Think of this as an opportunity to get an outside opinion from someone who is actively and currently working in the field. Working in a high pressure situation in a safe environment is going to be great practice for you ahead of your job interviews.
 
 Your presentation should answer the following questions:
 
@@ -145,8 +143,8 @@ Your presentation should answer the following questions:
 
 ## Bonus
 
-* Add some animation to your redesign
-* Make the layout responsive
+* Add some animation to your redesign.
+* Make the layout responsive.
 
 ## Uploads
 
