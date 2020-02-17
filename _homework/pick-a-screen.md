@@ -2,8 +2,8 @@
 title: Pick a Screen
 unit: 7
 format: Daily Sketch Practice
-assigned: 25
-due: 26
+assigned: 26
+due: 27
 ---
 During this past 6 weeks, we have learned... a LOT! 
 
