@@ -1,5 +1,5 @@
 ---
-title: Pick a screen
+title: Pick a Screen
 unit: 7
 format: Daily Sketch Practice
 assigned: 25
