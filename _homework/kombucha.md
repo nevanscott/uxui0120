@@ -3,7 +3,7 @@ title: Kombucha
 unit: 4
 format: 'Daily Coding Practice '
 assigned: 27
-due: 28
+due: 29
 ---
 Majority of websites today have a logo horizontal navigation and a grid of images. Today we are going to focus on this for the HW.  🤓
 
