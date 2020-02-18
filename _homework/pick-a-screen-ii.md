@@ -2,8 +2,8 @@
 title: Pick a Screen II
 unit: 7
 format: Daily Sketch Practice
-assigned: 31
-due: 32
+assigned: 27
+due: 28
 ---
 Continuing with the Pick a Screen Contest… Pick a Screen, again!  
 
