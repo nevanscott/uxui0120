@@ -2,7 +2,7 @@
 title: Pick a Screen III and Pick as Screen!
 unit: 7
 format: Daily Sketch Practice
-assigned: 23
+assigned: 25
 due: 24
 ---
 Continuing with the Pick a Screen Contest… Pick a Screen, again! 
