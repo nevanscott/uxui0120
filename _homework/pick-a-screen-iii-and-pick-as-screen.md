@@ -1,5 +1,5 @@
 ---
-title: Pick a Screen III and Pick as Screen!
+title: Pick a Screen III and Pick a Screen!
 unit: 7
 format: Daily Sketch Practice
 assigned: 28
