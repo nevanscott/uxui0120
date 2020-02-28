@@ -1,5 +1,5 @@
 ---
-title: Pick a Screen V and Pick a Screen
+title: Pick a Screen Finale
 unit: 7
 format: Daily Sketch Practice
 assigned: 35
