@@ -91,6 +91,7 @@ li p + p {
 
 article {
   height: 100vh;
+  height: calc(var(--vh, 1vh) * 100);
   overflow-y: scroll;
   scroll-snap-type: block mandatory;
 }
@@ -98,6 +99,7 @@ section {
   background: white;
   border: solid var(--s-3) var(--royal);
   min-height: 100vh;
+  min-height: calc(var(--vh, 1vh) * 100);
   padding: var(--s-1);
   display: grid;
   align-items: center;
